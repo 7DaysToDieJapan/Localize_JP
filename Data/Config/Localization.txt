@@ -483,175 +483,175 @@ woodLogSpike1,blocks,Traps,,ウッドログスパイク,,Wood Log Spike
 woodLogSpike1Desc,blocks,Traps,,ウッドログスパイク（wood log spike）は、ウッドスパイクほどではないですがダメージを与えます。ウッドスパイクより頑丈です。素材があれば、さらに頑丈にアップグレード出来ます。右クリックで設置します。,,"Wood log spike traps can damage, cripple, even kill enemies and last longer than spike traps. Place them using the secondary action. (Upgradable)"
 alcoholPoisoning,buffs,Buff,,アルコール中毒,,Inebriated
 alcoholPoisoningDesc,buffs,Buff,,アルコール中毒になりました。あなたが中毒から抜け出すには長い期間が必要です。,,You have alcohol poisoning. There may be a duration but you can't figure it out.
-alcoholPoisoningTooltip,buffs,Buff,,alcohol Poisoning,,You have alcohol poisoning.
+alcoholPoisoningTooltip,buffs,Buff,,アルコール中毒,,You have alcohol poisoning.
 beerBuzz,buffs,Buff,,ビール最高,,Beer Buzz
 beerBuzzDesc,buffs,Buff,,キンキンに冷えてやがる！\n犯罪的だ・・・・うますぎる・・・・！\n本当にやりかねない・・・ビール一本のために・・強盗だって・・・,,A nice buzz. There may be a duration but you don't care.
-beerBuzzTooltip,buffs,Buff,,beer Buzz,,A nice buzz.
+beerBuzzTooltip,buffs,Buff,,キンキンに冷えてやがる！\n犯罪的だ・・・・うますぎる・・・・！,,A nice buzz.
 bleedingOut,buffs,Buff,,出血,,Bleeding Out
 bleedingOutDesc,buffs,Buff,,出血が止まらない。放置してしまうと最悪死んでしまうだろう。\n痛み止めではなく、包帯、救急包帯、応急手当キットを使って止血した方がいい。,,"You are bleeding out and will die soon. Use a bandage, first aid bandage or first aid kit to stop the bleeding."
-bleedingOutTooltip,buffs,Buff,,bleeding Out,,You are bleeding out. Use a bandage to stop the bleeding.
+bleedingOutTooltip,buffs,Buff,,出血が止まらない。止血が必要です。,,You are bleeding out. Use a bandage to stop the bleeding.
 brokenLeg,buffs,Buff,,骨折,,Broken Leg
 brokenLegDesc,buffs,Buff,,足を骨折しました。添え木をクラフトして使用しなければ、足を引きずったまま、ちょっとした段差を上るのもままならないだろう。ゾンビからも逃げられない。,,Your broken leg is slowing you down. You should craft and apply a splint.
-brokenLegTooltip,buffs,Buff,,broken Leg,,Your leg is broken. A splint could speed up healing.
+brokenLegTooltip,buffs,Buff,,足を骨折しました。添え木（splint）で治療しましょう。,,Your leg is broken. A splint could speed up healing.
 burning,buffs,Buff,,火事,,Burning
 burningDesc,buffs,Buff,,あなたに火が燃え移りました。水に入って消してください。もしくは手元に飲み物があれば使ってください。,,You are on fire. Get into the water to douse it.
 burningSmall,buffs,Buff,,小さい火事,,Burning
 burningSmallDesc,buffs,Buff,,あなたに火が燃え移りました。水に入って消してください。もしくは手元に飲み物があれば使ってください。,,You are on fire. Get into the water to douse it.
-burningSmallTooltip,buffs,Buff,,burning Small,,You are on fire. Get into the water to douse it.
-burningTooltip,buffs,Buff,,burning,,You are on fire. Get into the water to douse it.
-caffeineBuzz,buffs,Buff,,カフェイン,,Caffeine Buzz
+burningSmallTooltip,buffs,Buff,,あなたに火が燃え移りました。消すには水が必要です。,,You are on fire. Get into the water to douse it.
+burningTooltip,buffs,Buff,,あなたに火が燃え移りました。消すには水が必要です。,,You are on fire. Get into the water to douse it.
+caffeineBuzz,buffs,Buff,,カフェイン効果,,Caffeine Buzz
 caffeineBuzzDesc,buffs,Buff,,カフェインは君に翼をさずける。体温上昇力も高めます。効果時間は飲めば飲むほど延びていきます。,,"Caffeine gives you energy, keeping your stamina higher and core body temperature warmer for a limited time."
-caffeineBuzzTooltip,buffs,Buff,,caffeine Buzz,,A nice rush of energy and you feel warmer.
+caffeineBuzzTooltip,buffs,Buff,,カフェインは君に翼をさずける。体温上昇力も高めます。効果時間は飲めば飲むほど延びていきます。,,A nice rush of energy and you feel warmer.
 cannotBreathe,buffs,Buff,,息止め,,Cannot Breathe
 cannotBreatheDesc,buffs,Buff,,あなたはここで呼吸することができません。,,You cannot breathe here.
-cannotBreatheTooltip,buffs,Buff,,cannot Breathe,,
+cannotBreatheTooltip,buffs,Buff,,あなたはここで呼吸することができません。,,
 arrowCriticalBleedout,buffs,Buff,,膝に矢を受けてしまってな,,Bleeding
-arrowCriticalBleedoutDesc,buffs,Buff,,矢のクリティカルヒット,,You are bleeding profusely. Use a bandage to stop the bleeding.
-arrowCriticalBleedoutTooltip,buffs,Buff,,arrow Critical Bleedout,,You are bleeding profusely. Use a bandage to stop the bleeding.
+arrowCriticalBleedoutDesc,buffs,Buff,,矢のクリティカルヒットを受けた,,You are bleeding profusely. Use a bandage to stop the bleeding.
+arrowCriticalBleedoutTooltip,buffs,Buff,,矢のクリティカルヒットを受けた,,You are bleeding profusely. Use a bandage to stop the bleeding.
 criticalBlunt,buffs,Buff,,会心の一撃,,Blunt Trauma
 criticalBluntDesc,buffs,Buff,,痛恨の一撃を食らった！,,You have blunt force trauma.
-criticalBluntTooltip,buffs,Buff,,critical Blunt,,You have blunt force trauma.
+criticalBluntTooltip,buffs,Buff,,痛恨の一撃！,,You have blunt force trauma.
 cured,buffs,Buff,,感染治療・予防,,Cured
 curedDesc,buffs,Buff,,あなたは感染に免疫を持っています。\n感染していた状態も完全に回復しています。,,You are immune to further infection.
-curedTooltip,buffs,Buff,,cured,,You are immune to further infection.
+curedTooltip,buffs,Buff,,あなたは感染に免疫を持っています。感染していた状態も完全に回復しています。,,You are immune to further infection.
 drowning,buffs,Buff,,溺れる,,Drowning
 drowningDesc,buffs,Buff,,あなたは溺死しかけています。\n早く空気のある場所に出てください。,,You are drowning.
-drowningTooltip,buffs,Buff,,drowning,,You are drowning.
+drowningTooltip,buffs,Buff,,あなたは溺死しかけています。早く空気のある場所に出てください。,,You are drowning.
 drunk,buffs,Buff,,酔っぱらい,,Drunk
 drunkDesc,buffs,Buff,,酔っ払っています。酔いが冷めるまでずっと酔っ払い続けます。,,You are drunk.
-drunkTooltip,buffs,Buff,,drunk,,You are drunk. There may be a duration but you can't figure it out.
+drunkTooltip,buffs,Buff,,酔っ払っています。酔いが冷めるまでずっと酔っ払い続けます。,,You are drunk. There may be a duration but you can't figure it out.
 dysentery,buffs,Buff,,赤痢 1,,Dysentery 1
 dysentery2,buffs,Buff,,赤痢 2,,Dysentery 2
 dysentery2Desc,buffs,Buff,,赤痢ステージ2になりました。あなたは吐き気と出血性の下痢を発症しています。病気を治療するには抗ウイルス薬が必要です。,,You feel nauseated and have bloody diarrhea. Use antibiotics to cure the sickness.
-dysentery2Tooltip,buffs,Buff,,dysentery2,,You feel nauseated and have bloody diarrhea. Use antibiotics to cure the sickness.
+dysentery2Tooltip,buffs,Buff,,赤痢 2,,You feel nauseated and have bloody diarrhea. Use antibiotics to cure the sickness.
 dysenteryDesc,buffs,Buff,,赤痢ステージ1を発症しました。アキノキリンソウで作るお茶を飲めば治るでしょう。,,You feel sick to your stomach and have diarrhea. Goldenrod tea may help.
-dysenteryTooltip,buffs,Buff,,dysentery,,You feel sick to your stomach and have diarrhea. Goldenrod tea may help.
+dysenteryTooltip,buffs,Buff,,赤痢 1,,You feel sick to your stomach and have diarrhea. Goldenrod tea may help.
 firstAid,buffs,Buff,,応急処置による回復,,First Aid
 firstAidDesc,buffs,Buff,,あなたは救急用包帯を使用して、現在回復中です。,,You applied a first aid bandage and are now healing.
 firstAidLarge,buffs,Buff,,救急処置による回復,,First Aid
 firstAidLargeDesc,buffs,Buff,,あなたは救急キットを使用して、現在回復中です。,,You applied first aid and are now healing.
-firstAidLargeTooltip,buffs,Buff,,first Aid Large,,You applied first aid and are now healing.
-firstAidTooltip,buffs,Buff,,first Aid,,You applied first aid and are now healing.
+firstAidLargeTooltip,buffs,Buff,,ヘルス回復（大）,,You applied first aid and are now healing.
+firstAidTooltip,buffs,Buff,,ヘルス回復（小）,,You applied first aid and are now healing.
 foodPoisoning,buffs,Buff,,食中毒,,Food Poisoning
-foodPoisoningDesc,buffs,Buff,,食中毒になりました。しばらく走ることができなくなるでしょう。,,You feel sick to your stomach.
-foodPoisoningTooltip,buffs,Buff,,food Poisoning,,You feel sick to your stomach.
+foodPoisoningDesc,buffs,Buff,,食中毒になりました。しばらくまともに動けないでしょう。,,You feel sick to your stomach.
+foodPoisoningTooltip,buffs,Buff,,食中毒になりました。しばらくまともに動けないでしょう。,,You feel sick to your stomach.
 freezing,buffs,Buff,,凍えている,,Freezing
 freezingDesc,buffs,Buff,,凍てつく寒さで凍えています。衣服を着用するか、ここから退避するか、キャンプファイアで火を起こして温まってください。\n凍えていると多くのカロリーを消費します。,,"You are freezing. Find clothing, take shelter or build a campfire. When you're freezing you will burn more calories."
-freezingTooltip,buffs,Buff,,freezing,,"You are freezing. Find clothing, take shelter or build a campfire."
+freezingTooltip,buffs,Buff,,凍てつく寒さで凍えています。,,"You are freezing. Find clothing, take shelter or build a campfire."
 freshAir,buffs,Buff,,新鮮な空気,,Fresh Air
 freshAirDesc,buffs,Buff,,空気が吸えるって素晴らしい。,,
-freshAirTooltip,buffs,Buff,,freshAir,,
+freshAirTooltip,buffs,Buff,,新鮮な空気,,
 fullBuff,buffs,Buff,,回復中,,Healing
 fullBuffDesc,buffs,Buff,,十分な満腹度でゆっくり傷が回復しています。,,You have enough consumed food to slowly heal.
-fullBuffTooltip,buffs,Buff,,full Buff,,You have enough consumed food to slowly heal.
+fullBuffTooltip,buffs,Buff,,十分な満腹度でゆっくり傷が回復しています。,,You have enough consumed food to slowly heal.
 hangover,buffs,Buff,,二日酔い,,Hangover
 hangoverDesc,buffs,Buff,,二日酔い発症中です。どうしてあそこでアルコールを飲むのを辞めなかったのだろうと後悔しています。,,You have a hangover. Now you know for how long and you wish you didn't.
-hangoverTooltip,buffs,Buff,,hangover,,You have a hangover.
+hangoverTooltip,buffs,Buff,,二日酔い発症中です。どうしてあそこでアルコールを飲むのを辞めなかったのだろうと後悔しています。,,You have a hangover.
 heat1,buffs,Buff,,熱中症1,,Heat Stroke 1
 heat1Desc,buffs,Buff,,熱中症ステージ1を発症しました。活動をやめ休むか、陰がある所に避難してください。この状態は喉の渇きを早めます。,,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter. With a heat stroke you will dehydrate faster."
-heat1Tooltip,buffs,Buff,,heat1,,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter."
+heat1Tooltip,buffs,Buff,,熱中症1,,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter."
 heat2,buffs,Buff,,熱中症2,,Heat Stroke 2
 heat2Desc,buffs,Buff,,熱中症ステージ2を発症しました。活動をやめ休むか、陰がある所に避難してください。さもないと死にます。この状態は喉の渇きを早めます。,,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you'll die. With a heat stroke you will dehydrate faster."
-heat2Tooltip,buffs,Buff,,heat2,,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you will die."
+heat2Tooltip,buffs,Buff,,熱中症2,,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you will die."
 hungry,buffs,Buff,,空腹,,Hungry
-hungry2,buffs,Buff,,飢え,,Starving
+hungry2,buffs,Buff,,餓死寸前,,Starving
 hungry2Desc,buffs,Buff,,あなたは飢え死にしかかっています。この際、腐った肉でも口にしたい気分です。\n健康値が大きく下がっていきます。,,You are starving.
-hungry2Tooltip,buffs,Buff,,hungry2,,You are starving.
-hungryDesc,buffs,Buff,,お腹が減っています。健康値が下がります。,,You are hungry.
-hungryTooltip,buffs,Buff,,hungry,,You are hungry.
+hungry2Tooltip,buffs,Buff,,あなたは飢え死にしかかっています。この際、腐った肉でも口にしたい気分です。,,You are starving.
+hungryDesc,buffs,Buff,,お腹が減っています。徐々に健康値が下がります。,,You are hungry.
+hungryTooltip,buffs,Buff,,お腹が減っています。徐々に健康値が下がります。,,You are hungry.
 hypo1,buffs,Buff,,低体温症 1,,Hypothermia 1
 hypo1Desc,buffs,Buff,,低体温症ステージ1を発症しました。もっと温かい衣服を着るか、室内に避難するか、キャンプファイアで暖をとってください。,,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire. With hypothermia you will burn more calories."
-hypo1Tooltip,buffs,Buff,,hypo1,,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire."
+hypo1Tooltip,buffs,Buff,,低体温症 1,,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire."
 hypo2,buffs,Buff,,低体温症 2,,Hypothermia 2
 hypo2Desc,buffs,Buff,,低体温症ステージ2を発症しました。もっともっと温かい衣服を着るか、室内に避難するか、キャンプファイアで暖をとってください。死に近づいています。,,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon. With hypothermia you will burn more calories."
-hypo2Tooltip,buffs,Buff,,hypo2,,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon."
+hypo2Tooltip,buffs,Buff,,低体温症 2,,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon."
 hypo3,buffs,Buff,,低体温症 3,,Hypothermia 3
 hypo3Desc,buffs,Buff,,低体温症ステージ3を発症しました。もっともっともっと温かい衣服を着るか、室内に避難するか、キャンプファイアで暖をとってください。じきに死にます。,,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die. With hypothermia you will burn more calories."
-hypo3Tooltip,buffs,Buff,,hypo3,,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die."
+hypo3Tooltip,buffs,Buff,,低体温症 3,,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die."
 infection,buffs,Buff,,感染症,,Infection
 infection1,buffs,Buff,,感染 1,,Infection 1
 infection1Desc,buffs,Buff,,感染ステージ1が発症しました。感染症を治すには抗ウイルス薬を飲むかハチミツで治ります。\n体がだるく、かゆみがあります。,,You are infected. Use antibiotics to heal the infection.
-infection1Tooltip,buffs,Buff,,infection1,,You are infected. Use antibiotics to heal the infection.
+infection1Tooltip,buffs,Buff,,感染 1,,You are infected. Use antibiotics to heal the infection.
 infection2,buffs,Buff,,感染 2,,Infection 2
 infection2Desc,buffs,Buff,,感染ステージ2に進行しました。早く抗ウイルス薬を見つけ、飲みましょう。\n全身に耐えようのないかゆみがあります。,,Your infection is progressing. Use antibiotics to heal the infection.
-infection2Tooltip,buffs,Buff,,infection2,,Your infection is progressing. Use antibiotics to heal the infection.
+infection2Tooltip,buffs,Buff,,感染 2,,Your infection is progressing. Use antibiotics to heal the infection.
 infection3,buffs,Buff,,感染 3,,Infection 3
 infection3Desc,buffs,Buff,,感染ステージ3に進行しました。死にそうです。早く抗ウイルス薬を見つけ、飲みましょう。\n体をかきむしるほどのかゆみがあります。,,You are dying from infection. Use antibiotics to heal the infection.
-infection3Tooltip,buffs,Buff,,infection3,,You are dying from infection. Use antibiotics to heal the infection.
+infection3Tooltip,buffs,Buff,,感染 3,,You are dying from infection. Use antibiotics to heal the infection.
 infection4,buffs,Buff,,感染 4,,Infection 4
 infection4Desc,buffs,Buff,,感染が致死段階に達しました。かゆい・・・うま・・・,,Your infection has reached its lethal phase.
-infection4Tooltip,buffs,Buff,,infection4,,Your infection has reached its lethal phase.
+infection4Tooltip,buffs,Buff,,感染 4,,Your infection has reached its lethal phase.
 infectionDesc,buffs,Buff,,感染してしまいました。抗ウイルス薬、抗ウイルスハーブ、またはハチミツを服用してください。体がだるく、かゆみがあります。,,"You are infected. Use antibiotics, honey or herbal antibiotics to heal the infection. If left untreated you will get weaker and eventually die."
-infectionTooltip,buffs,Buff,,infection,,"You are infected. Use antibiotics, honey or herbal antibiotics to heal the infection."
+infectionTooltip,buffs,Buff,,感染した,,"You are infected. Use antibiotics, honey or herbal antibiotics to heal the infection."
 InstantSickDrunk,buffs,Buff,,即泥酔,,
 internalBleeding,buffs,Buff,,内出血,,Internal Bleeding
 internalBleedingDesc,buffs,Buff,,内出血を起こしています。緊急処置室ではやく手術してください。,,You are bleeding internally. Better hope you find an emergency room in time.
-internalBleedingTooltip,buffs,Buff,,internal Bleeding,,You are bleeding internally. Better hope you find an emergency room in time.
+internalBleedingTooltip,buffs,Buff,,内出血を起こしています。,,You are bleeding internally. Better hope you find an emergency room in time.
 overheated,buffs,Buff,,熱中症気味,,Overheated
 overheatedDesc,buffs,Buff,,暑さにバテてしまっています。影に入って休みましょう。喉が早く乾いてしまいます。,,"You're overheating. Rest, find water or shelter. When hot you will dehydrate faster."
-overheatedTooltip,buffs,Buff,,overheated,,"You're overheating. Rest, find water or shelter."
+overheatedTooltip,buffs,Buff,,熱中症気味,,"You're overheating. Rest, find water or shelter."
 painKillers,buffs,Buff,,痛み止め服用,,Pain Killers
-painKillersDesc,buffs,Buff,,痛み止めを飲みました。,,You took painkillers.
-painKillersTooltip,buffs,Buff,,painKillers,,You took painkillers.
+painKillersDesc,buffs,Buff,,痛み止めを飲みました。わずかにヘルスを回復します。,,You took painkillers.
+painKillersTooltip,buffs,Buff,,痛み止め服用,,You took painkillers.
 redTeaCooling,buffs,Buff,,冷却,,Cool Drink
 redTeaCoolingDesc,buffs,Buff,,キンキンに冷えてやがるっ・・・！,,You feel cooler.
-redTeaCoolingTooltip,buffs,Buff,,red Tea Cooling,,You feel cooler.
+redTeaCoolingTooltip,buffs,Buff,,キンキンに冷えてやがるっ・・・！\nあ・・・ありがてえっ・・・・・！,,You feel cooler.
 shotgunWound,buffs,Buff,,銃創,,Winded
 shotgunWoundDesc,buffs,Buff,,風穴があいちゃってる！,,That knocked the wind right out of you!
-shotgunWoundTooltip,buffs,Buff,,shotgun Wound,,Oof! That knocked the wind right out of you!
+shotgunWoundTooltip,buffs,Buff,,銃創,,Oof! That knocked the wind right out of you!
 sickDrunk,buffs,Buff,,泥酔状態,,Sick Drunk
 sickDrunkDesc,buffs,Buff,,あなたは酔っぱらいを越えて泥酔状態です。酒が抜けるまでまともに動けないでしょう。,,You are extremely drunk. There may be a duration but you can't figure it out.
-sickDrunkTooltip,buffs,Buff,,sick Drunk,,You are extremely drunk.
+sickDrunkTooltip,buffs,Buff,,泥酔状態,,You are extremely drunk.
 sleeping,buffs,Buff,,休息,,Resting
 sleepingAwesome,buffs,Buff,,十分な休息,,Resting
 sleepingAwesomeDesc,buffs,Buff,,十分な休息により、体力とスタミナが徐々に回復するボーナスを得ます。,,You are resting. Health and stamina recover faster when resting.
-sleepingAwesomeTooltip,buffs,Buff,,sleeping Awesome,,You are resting. Health and stamina recover faster when resting.
+sleepingAwesomeTooltip,buffs,Buff,,十分な休息により、体力とスタミナが徐々に回復するボーナスを得ます。,,You are resting. Health and stamina recover faster when resting.
 sleepingDesc,buffs,Buff,,休息により、体力とスタミナが回復していきます。,,You are resting. Health and stamina recover faster when resting.
-sleepingTooltip,buffs,Buff,,sleeping,,You are resting. Health and stamina recover faster when resting.
+sleepingTooltip,buffs,Buff,,休息により、体力とスタミナが回復していきます。,,You are resting. Health and stamina recover faster when resting.
 smell,buffs,Buff,,ニオイを発します。,,Emitting Smell
 smellDesc,buffs,Buff,,あなたはゾンビを惹きつけるニオイをもつ何かを持っています。別の場所に移し替えたほうが賢明かもしれません。,,You are carrying something that smells and attracts zombies. Store it in a container.
 smellTooltip,buffs,Buff,,smell,,You are carrying something that smells and attracts zombies. Store it in a container.
 smelly,buffs,Buff,,臭い,,Smelly
 smellyDesc,buffs,Buff,,お前臭い,,You stink.
 smellyTooltip,buffs,Buff,,smelly,,You stink.
-splintedLeg,buffs,Buff,,骨折治療中,,Splinted Leg
-splintedLegDesc,buffs,Buff,,骨折した足は現在治療中です。飛び降りるときはいつも以上に気をつけてください。\n回復するまで骨折しやすくなっています。,,Your leg is splinted. Give it time to heal. Avoid jumping from heights as splints do not protect against reinjuring your leg.
-splintedLegTooltip,buffs,Buff,,splinted Leg,,Your leg is splinted. Give it time to heal.
+splintedLeg,buffs,Buff,,足治療中,,Splinted Leg
+splintedLegDesc,buffs,Buff,,足は現在治療中です。飛び降りるときはいつも以上に気をつけてください。\n回復するまで骨折しやすくなっています。,,Your leg is splinted. Give it time to heal. Avoid jumping from heights as splints do not protect against reinjuring your leg.
+splintedLegTooltip,buffs,Buff,,足治療中,,Your leg is splinted. Give it time to heal.
 sprainedLeg,buffs,Buff,,捻挫,,Sprained Leg
-sprainedLegDesc,buffs,Buff,,足を捻挫しました。Splintで治療してください。,,Your leg is sprained and slowing you down. You should craft and apply a splint to heal it.
-sprainedLegTooltip,buffs,Buff,,sprained Leg,,Your leg is sprained. You need a splint to heal it faster.
+sprainedLegDesc,buffs,Buff,,足を捻挫しました。添え木（Splint）で治療してください。,,Your leg is sprained and slowing you down. You should craft and apply a splint to heal it.
+sprainedLegTooltip,buffs,Buff,,足を捻挫しました。添え木（Splint）で治療してください。,,Your leg is sprained. You need a splint to heal it faster.
 steroids,buffs,Buff,,ステロイド服用中,,Steroids
 steroidsDesc,buffs,Buff,,感染の免疫を持っています。ゾンビに噛まれても感染しません。,,Reduces swelling and suppresses the symptoms of infection.
-steroidsTooltip,buffs,Buff,,steroids,,Reduces swelling and suppresses the symptoms of infection.
+steroidsTooltip,buffs,Buff,,ステロイド服用中,,Reduces swelling and suppresses the symptoms of infection.
 stewWarming,buffs,Buff,,暖かくて美味しい食事,,A nice hot stew
 stewWarmingDesc,buffs,Buff,,寒い夜に暖かいものを食べる幸せ。ポカポカします。,,Just the thing to warm you up on a cold winter's nights.
-stewWarmingTooltip,buffs,Buff,,stew Warming,,"Your heart, soul, and the rest of you already feel warmer."
-stunned,buffs,Buff,,硬直,,Stunned
+stewWarmingTooltip,buffs,Buff,,寒い夜に暖かいものを食べる幸せ。ポカポカします。,,"Your heart, soul, and the rest of you already feel warmer."
+stunned,buffs,Buff,,麻痺,,Stunned
 stunnedDesc,buffs,Buff,,身体の自由が効きません。次の一撃に備えてください。,,You are stunned
-stunnedTooltip,buffs,Buff,,stunned,,You are stunned
+stunnedTooltip,buffs,Buff,,麻痺,,You are stunned
 thirsty,buffs,Buff,,喉の渇き,,Thirsty
 thirsty2,buffs,Buff,,脱水症,,Dehydrated
-thirsty2Desc,buffs,Buff,,脱水症を発症しました。この際、ナニカが入った水でもいいから飲んで喉を潤してください。,,You are very thirsty and should drink plenty of fluids.
-thirsty2Tooltip,buffs,Buff,,thirsty2,,You are very thirsty and should drink plenty of fluids.
+thirsty2Desc,buffs,Buff,,喉の渇き以上の脱水症を発症しました。この際、ナニカが入った水でもいいから飲んで喉を潤してください。,,You are very thirsty and should drink plenty of fluids.
+thirsty2Tooltip,buffs,Buff,,喉の渇き以上の脱水症を発症しました。,,You are very thirsty and should drink plenty of fluids.
 thirstyDesc,buffs,Buff,,のどが渇いています。喉を潤してください。,,You are thirsty. Drink fluids.
-thirstyTooltip,buffs,Buff,,thirsty,,You are thirsty. Drink fluids.
+thirstyTooltip,buffs,Buff,,のどが渇いています。,,You are thirsty. Drink fluids.
 warmByFire,buffs,Buff,,火のぬくもり,,Warmed By A Fire
 warmByFireDesc,buffs,Buff,,火のぬくもりがあなたを温めています。,,You feel warm by the fire.
-warmByFireTooltip,buffs,Buff,,warm By Fire,,You feel warm by the fire.
+warmByFireTooltip,buffs,Buff,,火のぬくもりがあなたを温めています。,,You feel warm by the fire.
 wellness,buffs,Buff,,健康,,Gain Wellness
 wellnessDesc,buffs,Buff,,より健康的になりました。,,You are gaining health.
 wellnessSmallGain,buffs,Buff,,健康値上昇,,Wellness Improved
 wellnessSmallGainDesc,buffs,Buff,,より健康的になりました。,,Your wellness has improved.
-wellnessSmallGainTooltip,buffs,Buff,,wellness Small Gain,,Your wellness has improved.
+wellnessSmallGainTooltip,buffs,Buff,,健康値が少し上がります。,,Your wellness has improved.
 wellnessTooltip,buffs,Buff,,wellness,,You are gaining health.
 wet,buffs,Buff,,びしょ濡れ,,Wetness
 wetDesc,buffs,Buff,,衣服が濡れています。風が吹くと体感温度が下がります。,,You are wet which will make you colder. This may or may not be a good thing.
-wetTooltip,buffs,Buff,,wet,,You are wet.
+wetTooltip,buffs,Buff,,びしょ濡れ,,You are wet.
 yuccaJuiceCooling,buffs,Buff,,ひんやり,,Cool Drink
 yuccaJuiceCoolingDesc,buffs,Buff,,涼しさが染みこんできやがる・・・身体に・・・・,,You feel cooler.
-yuccaJuiceCoolingTooltip,buffs,Buff,,yucca Juice Cooling,,You feel cooler.
-wellnessDecreased,buffs,Tooltip,,Wellness ({0}): Maximum health and stamina cap decreased to {1},,Wellness ({0}): Maximum health and stamina cap decreased to {1}
-wellnessIncreased,buffs,Tooltip,,Wellness (+{0}): Maximum health and stamina cap increased to {1},,Wellness (+{0}): Maximum health and stamina cap increased to {1}
+yuccaJuiceCoolingTooltip,buffs,Buff,,涼しさが染みこんできやがる・・・身体に・・・・,,You feel cooler.
+wellnessDecreased,buffs,Tooltip,,健康値 ({0}): \n健康値が {1} に下がりました。,,Wellness ({0}): Maximum health and stamina cap decreased to {1}
+wellnessIncreased,buffs,Tooltip,,健康値 (+{0}): \n健康地が {1} に上がりました。,,Wellness (+{0}): Maximum health and stamina cap increased to {1}
 animalBear,entityclasses,Entity,,クマ,,Bear
 animalChicken,entityclasses,Entity,,ニワトリ,,Chicken
 animalPig,entityclasses,Entity,,ブタ,,Pig
@@ -676,7 +676,7 @@ zombieScreamer,entityclasses,Entity,,貞子,,Screamer Zombie
 zombieSteve,entityclasses,Entity,,社畜,,Reanimated Corpse 
 zombieSteveCrawler,entityclasses,Entity,,這いずりゾンビ,,Crawler
 zombieYo,entityclasses,Entity,,脳なし,,Rotting Carcass 
-playersBackpack,entityclasses,Entity Info,,{0}'s backpack,,{0}'s backpack
+playersBackpack,entityclasses,Entity Info,,{0} のﾊﾞｯｸﾊﾟｯｸ,,{0}'s backpack
 wood,item,item,,木材,,Wood
 woodDesc,item,item,,木材（wood）。素晴らしいツールも素晴らしい建築もこれから作られます。,,A piece of wood. Great for building tools and constructing wood frames for building.
 qc_AnimalGroupDesc,items,Animal Challenge Note,,旅の途中で見つけた奇妙なメモ。 the Slick Willie クランのサインがされています。,,A strange note I discovered in my travels. It's from the Slick Willie Clan.
@@ -690,43 +690,43 @@ qc_thatlldopig,items,Animal Challenge Note,,ブタもおだてりゃ Challenge,,
 10mmBulletDesc,items,Item,,サブマシンガン用の弾薬。\n作成するにはSkillPointを貯めて、Perkを購入する必要があります。,,A 10mm round used as firearm ammunition. Can be crafted once you've purchased the perk.
 10mmBulletSchematicDesc,items,Item,,サブマシンガン用の弾薬作成レシピ,,Learn to craft this ammunition type if you meet the skill requirement or improve your base skill if you do not.
 762mmBullet,items,Item,,7.62mm弾薬,,7.62mm Round
-762mmBulletDesc,items,Item,,AK-47（アサルトライフル）用の弾薬。\nこのPerkを購入すれば、レシピが開放されます。,,A 7.62mm round used as firearm ammunition. Can be crafted once you've purchased the perk.
+762mmBulletDesc,items,Item,,ライフル用の弾薬。\nこのPerkを購入すれば、レシピが開放されます。,,A 7.62mm round used as firearm ammunition. Can be crafted once you've purchased the perk.
 9mmBullet,items,Item,,9mm弾薬,,9mm Round
 9mmBulletDesc,items,Item,,ピストル用の弾薬。\n作成するにはSkillPointを貯めて、Perkを購入する必要があります。,,A 9mm round used as firearm ammunition. Can be crafted once you've purchased the perk.
 9mmBulletSchematicDesc,items,Item,,ピストル用の弾薬作成レシピ,,Learn to craft this ammunition type if you meet the skill requirement or improve your base skill if you do not.
 airFilter,items,Item,,空気清浄フィルター,,Car Air Filter
 airFilterDesc,items,Item,,古い自動車の空気清浄フィルター\nスクラップにするか、強力な地雷の材料になります。,,An old car air filter. Scrap it or use it for a casing to make a makeshift landmine.
 aloeCream,items,Item,,アロエクリーム,,Aloe Cream
-aloeCreamDesc,items,Item,,アロエクリームは、回復効果を持つ救急用包帯の材料になります。,,Aloe cream can be used to craft first aid bandages.
+aloeCreamDesc,items,Item,,アロエクリーム(Aloe Cream)は、回復効果を持つ救急用包帯の材料になります。,,Aloe cream can be used to craft first aid bandages.
 animalFat,items,Item,,脂肪の塊,,Animal Fat
-animalFatDesc,items,Item,,脂肪の塊は、キャンプファイアで精製油脂にして、ロウソクなどの材料になります。\nレシピ解放していれば火炎矢の材料になります。,,"Animal fat can be cooked down to tallow at a campfire. This is used for making candles, torches and flaming arrows."
+animalFatDesc,items,Item,,脂肪の塊(animal fat)は、キャンプファイアで精製油脂にして、ロウソクなどの材料になります。\nレシピ解放していれば火炎矢の材料になります。,,"Animal fat can be cooked down to tallow at a campfire. This is used for making candles, torches and flaming arrows."
 animalHide,items,Item,,獣の皮,,Animal Hide
-animalHideDesc,items,Item,,獣の皮は衣服を作成したり、Forgeに必要なbellowsの材料になります。レシピを解放すればLeatherの材料になります。,,"Use animal hide to make clothing, bellows for the forge and leather once you've read the leather book."
+animalHideDesc,items,Item,,獣の皮(animal hide)は衣服を作成したり、フォージ(Forge)に必要なふいご(bellows)の材料になります。レシピを解放すればLeatherをクラフト出来ます。,,"Use animal hide to make clothing, bellows for the forge and leather once you've read the leather book."
 antibiotics,items,Item,,抗ウイルス薬,,Antibiotics
-antibioticsDesc,items,Item,,抗ウイルス薬は、感染症と赤痢を治療することができる万能薬です。\nキャンプファイアにビーカーを設置していれば作成出来ます。,,Antibiotics can cure infections and dysentery. Can be crafted in a beaker at a campfire.
+antibioticsDesc,items,Item,,抗ウイルス薬(antibiotics)は、感染症と赤痢を治療することができる万能薬です。\nキャンプファイアにビーカーを設置していれば作成出来ます。,,Antibiotics can cure infections and dysentery. Can be crafted in a beaker at a campfire.
 anvil,items,Item,,金床,,Anvil
-anvilDesc,items,Item,,基本的なフォージのレシピを開放します。,,A tool used in the forge to unlock recipes.
+anvilDesc,items,Item,,金床(anvil)。基本的なフォージのレシピを開放します。,,A tool used in the forge to unlock recipes.
 arrow,items,Item,,矢,,Arrow
 arrowDesc,items,Item,,弓を装備した状態でリロードを行うと装備します。,,Ammunition for a bow. Hold reload to use alternate ammo.
 militaryFiber,items,Item,,防弾防刃繊維,,Military Fiber
 militaryFiberDesc,items,Item,,軍用規格クリア品。\n軍の装備修理に必要です。,,Military grade synthetic fibers are used to repair military armor. (ballistic armor to be accurate)
 bandage,items,Item,,包帯,,Bandage
-bandageDesc,items,Item,,シンプルな包帯（bandage）です。\n出血状態を回復出来ます。,,A simple bandage. Use it to stop bleeding.
+bandageDesc,items,Item,,シンプルな包帯（bandage）です。\n出血状態を治療出来ます。,,A simple bandage. Use it to stop bleeding.
 beaker,items,Item,,ビーカー,,Beaker
 beakerDesc,items,Item,,ビーカー（beaker）。キャンプファイアにセットすれば、抗ウイルス薬やその他重要なレシピが増えます。,,A cooking utensil used in the campfire to unlock recipes.
 bellows,items,Item,,ふいご,,Bellows
-bellowsDesc,items,Item,,ふいご（bellows）。高温が必要なフォージのクラフトに欠かせないアイテムです。,,"Bellows made with wood, animal hide and pipes are needed to make a forge."
+bellowsDesc,items,Item,,ふいご（bellows）。高温が必要なフォージ(Forge)のクラフトに欠かせないアイテムです。,,"Bellows made with wood, animal hide and pipes are needed to make a forge."
 bioFuel,items,Item,,バイオ燃料,,Biofuel
-bioFuelDesc,items,Item,,バイオ燃料（bio fuel）。gas canの材料になります。,,Biofuel is made at the campfire and can be used to make gasoline.
+bioFuelDesc,items,Item,,バイオ燃料（bio fuel）。ガソリン(gas can)のクラフト素材です。,,Biofuel is made at the campfire and can be used to make gasoline.
 blueberries,items,Item,,ブルーベリー,,Blueberries
 blueberriesDesc,items,Item,,ブルーベリー（blueberry）はそのまま生でも食べられますし、ブルーベリーパイの材料にもなります。\n種にして土に植えれば増やせます。,,"Blueberries can be eaten, used to make pies or turned into blueberry seeds."
 blueberrySeed,items,Item,,ブルーベリーの種,,Blueberry Seeds
-blueberrySeedDesc,items,Item,,土に植えればBlueberryが育ちます。,,Plant blueberry seeds in fertile dirt to grow blueberry plants.
+blueberrySeedDesc,items,Item,,土に植えればブルーベリー（Blueberry）が育ちます。,,Plant blueberry seeds in fertile dirt to grow blueberry plants.
 blueSpruceSeed,items,Item,,白樹の種,,Blue Spruce Seed
 boneShiv,items,Item,,骨ナイフ,,Bone Shiv
-boneShivDesc,items,Item,,骨から作ったナイフ（boneShiv）。武器としては頼りないですが、死体から皮や肉を剥ぐのに適しています。,,This primitive makeshift weapon is also useful for gutting animals.
+boneShivDesc,items,Item,,骨から作ったナイフ（bone Shiv）。武器としては頼りないですが、死体から皮や肉を剥ぐのに適しています。,,This primitive makeshift weapon is also useful for gutting animals.
 book,items,Item,,本,,Book
-bookDesc,items,Item,,このウェイストランドで役立つことは書かれていません。紙にするぐらいしか活用法がありません。,,An old book will get you paper.
+bookDesc,items,Item,,このウェイストランドで役立つことは書かれていません。紙（paper）にするぐらいしか活用法がありません。,,An old book will get you paper.
 bowl,items,Item,,粘土の器,,Clay Bowl
 bowlDesc,items,Item,,何かの役に立つかもしれない器（bowl）,,Maybe it's useful for something.
 brokenGlass,items,Item,,割れたガラスの破片,,Broken Glass
@@ -758,11 +758,11 @@ chrysanthemumDesc,items,Item,,この赤い花（chysanthemum）は、紅ハー�
 clayLump,items,Item,,粘土の塊,,Lump of Clay
 clayLumpDesc,items,Item,,粘土の塊（clay lump）。粘土は製錬の鍵となる資源です。地図上の茶色のエリアや水場の底を掘ると手に入れられます。,,"Clay a key resource for forging can be seen as brown spots on the map, found along bodies of water & dug from the earth. "
 cloth,items,Item,,布,,Cloth Fragment
-clothDesc,items,Item,,布（cloth）は、衣服や包帯になります。cottonや布製品のスクラップで作成出来ます。,,"Cloth is a staple for survival used for clothing, bandages and more."
+clothDesc,items,Item,,布（cloth）は、衣服や包帯、添え木の素材になります。cottonや布製品のスクラップで作成出来ます。,,"Cloth is a staple for survival used for clothing, bandages and more."
 coal,items,Item,,石炭の塊,,Lump of Coal
-coalDesc,items,Item,,素晴らしい燃料になる他、gun powder（火薬）の材料になるだけでなく、torchの材料になります。,,A great fuel source. Can also be used to make torches as well as being a core ingredient for gunpowder.
+coalDesc,items,Item,,石炭（coal）は素晴らしい燃料になる他、gun powder（火薬）の材料になるだけでなく、松明（torch）の材料になります。,,A great fuel source. Can also be used to make torches as well as being a core ingredient for gunpowder.
 cobblestones,items,Item,,玉石,,Cobblestone Rocks
-cobblestonesDesc,items,Item,,玉石（cobblestone）の岩は玉石フレームに建築ツールで詰め込めば、驚くほど丈夫な玉石ブロックになります。,,Cobblestone rocks can be used to build surprisingly sturdy cobblestone structures.
+cobblestonesDesc,items,Item,,玉石（cobblestone）の岩は玉石フレームに建築ツールで詰め込めば、丈夫な玉石ブロックになります。,,Cobblestone rocks can be used to build surprisingly sturdy cobblestone structures.
 concreteMix,items,Item,,コンクリートミックス,,Concrete Mix
 concreteMixDesc,items,Item,,コンクリートミックス（concrete MIX）鉄筋フレームを鉄筋コンクリートにする材料になります。作成にはperkを購入してください。,,Can be used as a resource to make rebar frames into solid concrete walls once you've bought the concrete perk.
 cookingGrill,items,Item,,クッキンググリル網,,Cooking Grill
@@ -877,18 +877,18 @@ flamingArrowDesc,items,Item ,,燃え盛る矢（flaming arrow）。大きな殺�
 glue,items,Item ,,接着剤,,Glue
 glueDesc,items,Item ,,接着剤（glue）。ダクトテープをクラフト素材です。,,Glue is useful for making your own duct tape.
 headlight,items,Item ,,ヘッドライト,,Headlight
-headlightDesc,items,Item ,,ヘッドライト（head light）。乗り物、スポットライトのクラフト素材です。,,A headlight is useful for creating a vehicle and lighting.
+headlightDesc,items,Item ,,ヘッドライト（head light）。乗り物、スポットライト等のクラフト素材です。,,A headlight is useful for creating a vehicle and lighting.
 herbalAntibiotics,items,Item ,,抗ウィルスハーブ,,Herbal Antibiotics
 herbalAntibioticsDesc,items,Item ,,抗ウイルスハーブ（HERBAL antibiotics）。感染ステージ1、赤痢ステージ1，2を完全に治療してくれる神秘のハーブ薬です。\n所持・服用に何らお咎めはありません。,,Herbal antibiotics can cure stage 1 infections and stage 1 and 2 dysentery. Can be crafted in a cooking pot at a campfire.
 ironArrow,items,Item ,,鉄の矢,,Iron Arrow
 ironArrowDesc,items,Item ,,石の矢より殺傷力のある鉄の矢（iron arrow）です。\nリロードの長押しで装備を切り替えることが出来ます。,,An iron arrow does more damage than the basic stone arrow. Hold reload to use alternate ammo.
 ironArrowHead,items,Item ,,鉄の矢じり,,Iron Arrowhead
-ironArrowHeadDesc,items,Item ,,鉄の矢の素材です。,,An iron arrowhead used to craft iron-tipped arrows.
+ironArrowHeadDesc,items,Item ,,鉄の矢（iron Arrow）の素材です。,,An iron arrowhead used to craft iron-tipped arrows.
 minibike,items,Item ,,ミニバイク,,Minibike
 minibikeChassis,items,Item ,,ミニバイクシャシー,,Minibike Chassis
 minibikeHandlebars,items,Item ,,ミニバイクハンドル,,Minibike Handlebars
 minibikeSeat,items,Item ,,ミニバイクシート,,Minibike Seat
-minibikeWheels,items,Item ,,ミニバイクホイール,,Minibike Wheels
+minibikeWheels,items,Item ,,ミニバイクタイヤ,,Minibike Wheels
 padlock,items,Item ,,南京錠,,Padlock
 padlockDesc,items,Item ,,乗り物が窃盗されるのを防いでくれます。,,A padlock can be used to protect vehicles from theft.
 scrapCable,items,Item ,,スクラップケーブル,,Scrap Cable
@@ -956,7 +956,7 @@ leatherJacketSchematicDesc,items,Item Book,,この設計図を読めば、なめ
 leatherPantsSchematic,items,Item Book,,設計図：なめし革のズボン,,Leather Leg Armor Schematic
 leatherPantsSchematicDesc,items,Item Book,,この設計図を読めば、なめし革のズボン（Leather pants）のクラフトが出来るようになります。,,Learn how to craft leather leg armor by reading this schematic.
 macDyverBook,items,Item Book,,クラフト野郎マクダイバー クラフト全集,,MacDyvers Book
-macDyverBookDesc,items,Item Book,,どんな問題もクラフトで解決する漢、マクダイバーの活躍を知れば、クズ鉄から優秀な防具が作れるようになります。,,Learn MacDyver's secret to making scrap metal armor and more by reading this gem by the king of made-up stuff.
+macDyverBookDesc,items,Item Book,,どんな問題もクラフトで解決する漢、マクダイバーの活躍を知れば、ガラクタから優秀な防具が作る考えが浮かびます。,,Learn MacDyver's secret to making scrap metal armor and more by reading this gem by the king of made-up stuff.
 minibikesForDumbshits,items,Item Book,,女子高生でもわかるミニバイクの作り方,,Minibikes For Dumbshits
 minibikesForDumbshitsDesc,items,Item Book,,たとえ女子高生でもこの説明書を読めば、タフでマッドな（ミニ）バイク（minibike）を作ることが出来ます。\n必要な素材が揃うまでは口でバイク音を奏でましょう。ぶぉん！ぶぉん！らいど・おん！,,Even total dumbshits can build a minibike if they follow the steps in this simple guide...Varoom...varoom!
 pistolBook,items,Item Book,,ピストル教則本,,Pistol Book
@@ -1078,7 +1078,7 @@ scrapBoots,items,Item Clothes,,ガラクタブーツ,,Scrap Boots
 scrapChestArmor,items,Item Clothes,,ガラクタボディアーマー,,Scrap Chest Armor
 scrapGloves,items,Item Clothes,,ガラクタグローブ,,Scrap Gloves
 scrapHelmet,items,Item Clothes,,ガラクタヘルメット,,Scrap Helmet
-scrapIronClothesGroupDesc,items,Item Clothes,,マクダイバーのクラフト技術を学べばクズ鉄（scrap Iron）も高い防御力をもった防具になります。保温力はなく、寒いくらいなので体温管理には気をつけてください。,,Scrap iron clothing provides good protection against concussive and puncture damage but will not keep you warm.
+scrapIronClothesGroupDesc,items,Item Clothes,,マクダイバーのクラフト技術を学べばガラクタのクズ鉄（scrap Iron）も高い防御力をもった防具になります。保温力はなく、寒いくらいなので体温管理には気をつけてください。,,Scrap iron clothing provides good protection against concussive and puncture damage but will not keep you warm.
 scrapLegArmor,items,Item Clothes,,ガラクタレッグアーマー,,Scrap Leg Armor
 shades,items,Item Clothes,,サングラス,,Shades
 shadesDesc,items,Item Clothes,,サングラス（shades）でCOOLにキメろ。炎天下でも気温が上がるのを少しだけ防ぎます。,,Sunglasses make you look cool and also cool you down in hot weather. 
@@ -1143,7 +1143,7 @@ canMurkyWater,items,Item Food,,濁った水入り缶,,Can of Murky Water
 canMurkyWaterDesc,items,Item Food,,濁った水(can murky Water)が入っています。そのままでは飲むと赤痢の恐れがあります。キャンプファイアで煮沸すれば、安全に飲めるようになるでしょう。,,Not so appealing but it will have to do. Can be boiled at camfire to purify it.
 canPasta,items,Item Food,,パスタの缶詰,,Can of Pasta
 canPastaDesc,items,Item Food,,本場イタリアンパスタの味を再現し、缶に封じ込めました。,,Now that's Italian! Che figata!
-canPears,items,Item Food,,Can of Pears,,Can of Pears
+canPears,items,Item Food,,洋なしの缶詰,,Can of Pears
 canPearsDesc,items,Item Food,,旬の洋ナシをそのまま缶詰にしました。\nその洋ナシ体型の維持に最適です。,,Maintain that perfect pear shape by eating canned pears.
 canPeas,items,Item Food,,サヤエンドウの缶詰,,Can of Peas
 canPeasDesc,items,Item Food,,皿いっぱいのエンドウ豆！圧倒的な量！君の目にはエンドウ豆しか見えない。もはや君はエンドウ豆なのだ。,,You and your can of peas will be like two peas in a pod and you'll get your daily vegetables.
@@ -1203,9 +1203,9 @@ commonShotgunPartsGroupDesc,items,Item Gun,,ショットガン用パーツ。組
 crossbow,items,Item Gun,,クロスボウ,,Crossbow
 crossbowBolt,items,Item Gun,,クロスボウボルト,,Crossbow Bolt
 crossbowBoltDesc,items,Item Gun,,クロスボウ用のボルト。他のボルトと入れ替えるには、リロードキーを長押ししてください。,,Ammo for the crossbow. Hold reload to use alternate ammo.
-crossbowDesc,items,Item Gun,,クロスボウは木の弓より大きいダメージを対象に与えます。出血によるダメージも期待できます。,,A crossbow does more damage than a wooden bow. Good for hunting and not making noise. Hold reload to use alternate ammo.
+crossbowDesc,items,Item Gun,,クロスボウ（croosbow）は木の弓より大きいダメージを対象に与えます。出血によるダメージも期待できます。,,A crossbow does more damage than a wooden bow. Good for hunting and not making noise. Hold reload to use alternate ammo.
 dynamite,items,Item Gun,,単発ダイナマイト,,Stick of Dynamite
-dynamiteDesc,items,Item Gun,,投げると数秒後に爆発します。右クリック長押しで着火し、放すとその方向に投げます。,,A stick of dynamite can be lit with the secondary action & thrown with the primary action. The throwing part is very important.
+dynamiteDesc,items,Item Gun,,ダイナマイト（dynamite）。投げると数秒後に爆発します。右クリック長押しで着火し、放すとその方向に投げます。,,A stick of dynamite can be lit with the secondary action & thrown with the primary action. The throwing part is very important.
 explodingCrossbowBolt,items,Item Gun,,爆裂クロスボウボルト,,Exploding Crossbow Bolt
 explodingCrossbowBoltDesc,items,Item Gun,,ただでさえ強力な鋼のクロスボウボルトに爆弾を取り付けてみた！次のホードが待ちきれない！,,Rifle grenades gone medieval. Ages 6 and up.
 flashlight02,items,Item Gun,,懐中電灯,,Flashlight
@@ -1264,8 +1264,8 @@ partsPumpShotgun_parts,items,Item Gun,,ショットガンパーツ,,Shotgun Part
 partsPumpShotgun_receiver,items,Item Gun,,ショットガンレシーバー,,Shotgun Receiver
 partsPumpShotgun_stock,items,Item Gun,,ショットガンストック,,Shotgun Stock
 partsPumpShotgun_stockShort,items,Item Gun,,ショットガンショートストック,,Shotgun Short Stock
-partsPumpShotgunGroupDesc,items,Item Gun,,ショットガンの部品。\n組立てるには、設計図を読む必要があります。,,A part of the long-barrel shotgun. Assemble with other parts to create a complete shotgun once you've read the shotgun schematic.
-partsPumpShotgunShortGroupDesc,items,Item Gun,,ソードオフショットガンの部品。\n組立てるには、設計図を読む必要があります。,,A part of the sawed-off shotgun. Assemble with other parts to create a complete shotgun once you've read the schematic.
+partsPumpShotgunGroupDesc,items,Item Gun,,ショットガン（Pump Shotgun）の部品。\n組立てるには、設計図を読む必要があります。,,A part of the long-barrel shotgun. Assemble with other parts to create a complete shotgun once you've read the shotgun schematic.
+partsPumpShotgunShortGroupDesc,items,Item Gun,,ソードオフショットガン（Sawed off Pump Shotgun）の部品。\n組立てるには、設計図を読む必要があります。,,A part of the sawed-off shotgun. Assemble with other parts to create a complete shotgun once you've read the schematic.
 partsRocketLauncher_barrel,items,Item Gun,,ロケットランチャーバレル,,Rocket Launcher Barrel
 partsRocketLauncher_parts,items,Item Gun,,ロケットランチャーパーツ,,Rocket Launcher Parts
 partsRocketLauncher_receiver,items,Item Gun,,ロケットランチャーレシーバー,,Rocket Launcher Receiver
@@ -1294,7 +1294,7 @@ bloodDrawKitDesc,items,Item Medical,,採血キット（blood draw kit）。あ�
 firstAidKit,items,Item Medical,,救急キット,,First Aid Kit
 firstAidKitDesc,items,Item Medical,,救急キット（first Aid kit）は出血状態を治療し、体力を大きく回復します。,,A first aid kit can stop bleeding and restore a lot of health.
 splint,items,Item Medical,,添え木,,Splint
-splintDesc,items,Item Medical,,添え木（spling）。捻挫・骨折状態を治療します。完全な治癒までには時間がかかります。完全に治療されるまでは高い所から落ちないほうが良いです。,,Use splints to mend sprained or broken limbs. Splints do not protect against further injury.
+splintDesc,items,Item Medical,,添え木（splint）。捻挫・骨折状態を治療します。完全な治癒までには時間がかかります。完全に治療されるまでは高い所から落ちないほうが良いです。,,Use splints to mend sprained or broken limbs. Splints do not protect against further injury.
 vitamins,items,Item Medicine,,ビタミン剤,,Vitamins
 vitaminsDesc,items,Item Medicine,,ビタミン剤（vitamins）はあなたの健康値をわずかに上げ、赤痢ステージ１を治療します。,,Vitamins improve your wellness and can cure early stages of dysentery.
 clubBarbed,items,Item Melee,,有刺鉄線棍棒,,Barbed Club
@@ -1466,25 +1466,25 @@ splatterGun,progression,Perk,,ｽﾌﾟﾗｯﾀｰｶﾞﾝ,,Splatter Gun
 splatterGunDesc,progression,Perk,,ショットガンによる部位破壊・首チョンパの確率を上げるperkです。\n世界を塗り潰せ！,,Advanced interior decoration. Increase your shotgun's chance to blow off heads and limbs with every rank.
 theOutlaw,progression,Perk,,ｱｳﾄﾛｰ,,The Outlaw
 theOutlawDesc,progression,Perk,,この無法の大地で自分らしく生きて死ね。\nピストルのダメージが向上するperk。,,You broke the laws of logic. Your pistol does more damage with every rank.
-blockCantPlaced,UI,HUD,,Not possible to place here.,,Not possible to place here.
-diedGameMessage,UI,HUD,,[A0]{0} died,,[A0]{0} died
-joinGameMessage,UI,HUD,,[A0]{0} joined the game,,[A0]{0} joined the game
-killedGameMessage,UI,HUD,,[A0]{0} eliminated {1},,[A0]{0} eliminated {1}
-leaveGameMessage,UI,HUD,,[A0]{0} left the game,,[A0]{0} left the game
+blockCantPlaced,UI,HUD,,ここには置けません。,,Not possible to place here.
+diedGameMessage,UI,HUD,,[A0]{0} 死す。,,[A0]{0} died
+joinGameMessage,UI,HUD,,[A0]{0} がログインしました。,,[A0]{0} joined the game
+killedGameMessage,UI,HUD,,[A0]{0} は {1} を排除しました。,,[A0]{0} eliminated {1}
+leaveGameMessage,UI,HUD,,[A0]{0} がログアウトしました。,,[A0]{0} left the game
 noSecureDoorAccess,UI,HUD,,No Access,,No Access
-pickupCrops,UI,HUD,,Press <{{0}}> to pick up {0} {1},,Press <{{0}}> to pick up {0} {1}
-pickupPrompt,UI,HUD,,Press <{{0}}> to pick up {0},,Press <{{0}}> to pick up {0}
-sleepingBagOwnership,UI,HUD,,{0} is owned by {1},,{0} is owned by {1}
+pickupCrops,UI,HUD,,{0} {1}\n <{{0}}>押しで拾う,,Press <{{0}}> to pick up {0} {1}
+pickupPrompt,UI,HUD,, {0}\n <{{0}}> 押しで取る,,Press <{{0}}> to pick up {0}
+sleepingBagOwnership,UI,HUD,,{0} は {1} が所有者です。,,{0} is owned by {1}
 sleepingBagPlayerUnknown,UI,HUD,,an unknown player,,an unknown player
-sneakDamageBonus,UI,HUD,,- Sneak Damage Bonus (2x) -,,- Sneak Damage Bonus (2x) -
-stealthHunted,UI,HUD,,Hunted,,Hunted
-stealthSensed,UI,HUD,,Sensed,,Sensed
-stealthUndetected,UI,HUD,,Undetected\nStand by,,Undetected
-stunnedDamageBonus,UI,HUD,,- Stunned Damage Bonus ({0}x) -,,- Stunned Damage Bonus ({0}x) -
-useCampfire,UI,HUD,,Press <{0}> to use,,Press <{0}> to use
-useForge,UI,HUD,,Press <{0}> to use,,Press <{0}> to use
-useSecureDoor,UI,HUD,,Press <{0}> to open,,Press <{0}> to open
-useWorkstation,UI,HUD,,Press <{0}> to use,,Press <{0}> to use
+sneakDamageBonus,UI,HUD,,- ｽﾆｰｷﾝｸﾞﾀﾞﾒｰｼﾞﾎﾞｰﾅｽ (2x) -,,- Sneak Damage Bonus (2x) -
+stealthHunted,UI,HUD,,戦闘中\n狙われています。,,Hunted
+stealthSensed,UI,HUD,,ｽﾃﾝﾊﾞｰｲ\n辺りを捜索されています。,,Sensed
+stealthUndetected,UI,HUD,,ｽﾃﾝﾊﾞｰｲ\n見つかっていません,,Undetected
+stunnedDamageBonus,UI,HUD,,- 麻痺追撃ﾎﾞｰﾅｽ ({0}x) -,,- Stunned Damage Bonus ({0}x) -
+useCampfire,UI,HUD,,ｷｬﾝﾌﾟﾌｧｲｱ\n<{0}>押しで使用,,Press <{0}> to use
+useForge,UI,HUD,,ﾌｫｰｼﾞ\n<{0}>押しで使用,,Press <{0}> to use
+useSecureDoor,UI,HUD,,<{0}> 開ける,,Press <{0}> to open
+useWorkstation,UI,HUD,,ﾜｰｸﾍﾞﾝﾁ\n<{0}>押しで使用,,Press <{0}> to use
 lblContextActionAssemble,UI,Item Context Menu,,組立,,Assemble
 lblContextActionAttach,UI,Item Context Menu,,取付,,Attach
 lblContextActionBurn,UI,Item Context Menu,,燃焼,,Burn
@@ -1531,7 +1531,7 @@ lblAttributeBatteryMaxLoadInVolts,UI,Item Info,,最大積載 (Volts),,Max Load (
 lblAttributeBlockDamage,UI,Item Info,,対物ﾀﾞﾒｰｼﾞ,,Block Damage
 lblAttributeBluntProtection,UI,Item Info,,物理防御力,,Blunt Defense
 lblAttributeBulletProtection,UI,Item Info,,銃撃回避,,Bullet Defense
-lblAttributeConcussiveProtection,UI,Item Info,,脳震盪,,Concussive
+lblAttributeConcussiveProtection,UI,Item Info,,頭保護,,Concussive
 lblAttributeDamageText,UI,Item Info,,ダメージ,,damage
 lblAttributeDegradationMax,UI,Item Info,,最高品質,,Max Degradation
 lblAttributeDegradationMin,UI,Item Info,,最低品質,,Min Degradation
@@ -1592,7 +1592,7 @@ lblEntDmg,UI,Item Info,,与ﾀﾞﾒｰｼﾞ,,Entity Damage
 lblExpertise,UI,Item Info,,専門知識,,Expertise
 lblForgeMat,UI,Item Info,,材質,,Forge Material
 lblForgeWeight,UI,Item Info,,ﾌｫｰｼﾞ重量,,Forge Weight
-lblFullness,UI,Item Info,,満腹,,Fullness
+lblFullness,UI,Item Info,,満腹度,,Fullness
 lblGassiness,UI,Item Info,,オナラ,,Gassiness
 lblGearSlot,UI,Item Info,,ギアスロット,,Gear Slot
 lblGroup,UI,Item Info,,ｸﾞﾙｰﾌﾟ,,Group(s)
@@ -1694,11 +1694,11 @@ forgeMetalNeeded,UI,Menu,,Mold Capacity:,,Mold Capacity:
 forgeMoldCapacity,UI,Menu,,Capacity: {0},,Capacity: {0}
 forgeMoldTime,UI,Menu,,Time: {0}:{1},,Time: {0}:{1}
 forgeOutputWeight,UI,Menu,,{0},,{0}
-friendInviteAccepted,UI,Menu,,Accepted friend request from {0}.,,Accepted friend request from {0}.
-friendInviteAccepted2,UI,Menu,,{0} accepted your friend request.,,{0} accepted your friend request.
-friendInviteDeclined,UI,Menu,,Declined friend invite from {0}.,,Declined friend invite from {0}.
-friendInviteDeclined2,UI,Menu,,{0} declined your friend request.,,{0} declined your friend request.
-friendInviteReceived,UI,Menu,,Friend invite received from {0}.,,Friend invite received from {0}.
+friendInviteAccepted,UI,Menu,,{0}からのフレンド申請を承認しました。,,Accepted friend request from {0}.
+friendInviteAccepted2,UI,Menu,,{0}があなたのフレンド申請を承認しました。,,{0} accepted your friend request.
+friendInviteDeclined,UI,Menu,,{0}からのフレンド申請を断りました。,,Declined friend invite from {0}.
+friendInviteDeclined2,UI,Menu,,{0}があなたのフレンド申請を断りました。,,{0} declined your friend request.
+friendInviteReceived,UI,Menu,,{0}からフレンド申請がありました。,,Friend invite received from {0}.
 friendRemoved,UI,Menu,,{0} was removed from your friends list.,,{0} was removed from your friends list.
 friendRemoved2,UI,Menu,,{0} removed you from their friends list.,,{0} removed you from their friends list.
 friendSentInvite,UI,Menu,,Friend invite sent to {0}.,,Friend invite sent to {0}.
@@ -1953,9 +1953,9 @@ scrapRepair,UI,Menu,,Scrap and Repair,,Scrap and Repair
 searchResults,UI,Menu,,Search Results,,Search Results
 searchText,UI,Menu,,Search...,,Search...
 spnZombieHordeApproaching,UI,Menu,,NEW HORDE,,NEW HORDE
-tooltipLocked,UI,Menu,,<{0}> Use {1} (Locked),,<{0}> Use {1} (Locked)
-tooltipUnlocked,UI,Menu,,<{0}> Use {1} (Unlocked),,<{0}> Use {1} (Unlocked)
-useBlock,UI,Menu,,<{0}> Use {1},,<{0}> Use {1}
+tooltipLocked,UI,Menu,,{1} (ﾛｯｸ中)\n<{0}> 押しで使う,,<{0}> Use {1} (Locked)
+tooltipUnlocked,UI,Menu,,{1} (ｱﾝﾛｯｸ)\n<{0}> 押しで使う,,<{0}> Use {1} (Unlocked)
+useBlock,UI,Menu,,{1}\n<{0}> 押しで使う ,,<{0}> Use {1}
 uses,UI,Menu,,Uses,,Uses
 vacText,UI,Menu,,This is an EasyAntiCheat protected server. Cheating will not be tolerated and will result in an EAC kick/ban.,,This is an EasyAntiCheat protected server. Cheating will not be tolerated and will result in an EAC kick/ban.
 vacTitle,UI,Menu,,EasyAntiCheat Warning,,EasyAntiCheat Warning
@@ -2050,16 +2050,16 @@ lblShirt,UI,Tooltip,,シャツ,,Shirt
 lblSimpleClick,UI,Tooltip,,Simple Click,,Simple Click
 lblSkillReqPlayerLevel,UI,Tooltip,,Player Level {0},,Player Level {0}
 lblTotalItems,UI,Tooltip,,{0} TOTAL,,{0} TOTAL
-notHungry,UI,Tooltip,,You are not hungry.,,You are not hungry.
-notHurt,UI,Tooltip,,You are not hurt.,,You are not hurt.
-notThirsty,UI,Tooltip,,You are not thirsty.,,You are not thirsty.
+notHungry,UI,Tooltip,,満腹なので食べられません。,,You are not hungry.
+notHurt,UI,Tooltip,,傷は特にありません。,,You are not hurt.
+notThirsty,UI,Tooltip,,喉は渇いてません。,,You are not thirsty.
 questunavailable,UI,Tooltip,,You cannot accept this quest at this time.,,You cannot accept this quest at this time.
 tooltipInviteEveryone,UI,Tooltip,,Shared marker {0} to everyone.,,Shared marker {0} to everyone.
 tooltipInviteFriends,UI,Tooltip,,Shared marker {0} with allies.,,Shared marker {0} with allies.
 tooltipInviteMarker,UI,Tooltip,,Player {0} shared marker {1} with you.,,Player {0} shared marker {1} with you.
-ttCampfireCannotCook,UI,Tooltip,,You cannot cook this item.,,You cannot cook this item.
-ttCampfireFuelRequired,UI,Tooltip,,A fuel source is required to cook.,,A fuel source is required to cook.
-ttCampfireIngredientsRequired,UI,Tooltip,,Ingredients are required to cook an item.,,Ingredients are required to cook an item.
+ttCampfireCannotCook,UI,Tooltip,,この料理を作ることは出来ません。,,You cannot cook this item.
+ttCampfireFuelRequired,UI,Tooltip,,調理には燃料が必要です。,,A fuel source is required to cook.
+ttCampfireIngredientsRequired,UI,Tooltip,,調理素材が不足しています。,,Ingredients are required to cook an item.
 ttCampfireUtensilRequired,UI,Tooltip,,"A sharp stick, cooking pot, cooking grill, or beaker is required to cook an item.",,"A sharp stick, cooking pot, cooking grill, or beaker is required to cook an item."
 ttCharacterLevelBody,UI,Tooltip,,{0}/{1} XP\n,,{0}/{1} XP\n
 ttCharacterLevelHeader,UI,Tooltip,,Level Progress,,Level Progress
@@ -2130,39 +2130,39 @@ ttGFXSET_Vsync_b,UI,Tooltip,,Combats screen tearing by synchronizing the game to
 ttGFXSET_Vsync_h,UI,Tooltip,,Vertical Synchronization,,Vertical Synchronization
 ttGFXSET_WaterQuality_b,UI,Tooltip,,Layers and effects occurring on surface of water planes.\nPerformance Impact: Low\n,,Layers and effects occurring on surface of water planes.\nPerformance Impact: Low\n
 ttGFXSET_WaterQuality_h,UI,Tooltip,,Water Quality,,Water Quality
-ttInventoryFull,UI,Tooltip,,"Unable to craft '{0}', inventory is full!",,"Unable to craft '{0}', inventory is full!"
-ttItemNeedsRepair,UI,Tooltip,,This item is broken and needs to be repaired,,The item needs repairs or is missing parts
-ttLevelUp,UI,Tooltip,,Level Up! You are now level {0} and have {1} skill points to spend.,,Level Up! You are now level {0} and have {1} skill points to spend.
+ttInventoryFull,UI,Tooltip,,インベントリがいっぱいです。 '{0}' が作れません。,,"Unable to craft '{0}', inventory is full!"
+ttItemNeedsRepair,UI,Tooltip,,このアイテムは修理が必要です。,,The item needs repairs or is missing parts
+ttLevelUp,UI,Tooltip,,Level Up!  level {0} になりました！ {1} ｽｷﾙﾎﾟｲﾝﾄを得ました！.,,Level Up! You are now level {0} and have {1} skill points to spend.
 ttMapSelectSpawnPoint,UI,Tooltip,,If you select your home position you'll spawn there,,If you select your home position you'll spawn there
 ttMapUnSelectSpawnPoint,UI,Tooltip,,If you deselect your home position you'll spawn randomly around,,If you deselect your home position you'll spawn randomly around
-ttRecipeUnlocked,UI,Tooltip,,New Recipe Unlocked: '{0}',,New Recipe Unlocked: '{0}'
+ttRecipeUnlocked,UI,Tooltip,,レシピが開放されました: '{0}',,New Recipe Unlocked: '{0}'
 ttRepairToolsMissing,UI,Tooltip,,"Unable to repair this item, missing these tools:",,"Unable to repair this item, missing these tools:"
 ttRepairWeapon,UI,Tooltip,,Repair weapons using weapon repair kits on the crafting grid,,Repair weapons using weapon repair kits on the crafting grid
 ttScrapMetalBrass,UI,Tooltip,,Place brass items on the crafting grid to get scrap brass,,Place brass items on the crafting grid to get scrap brass
 ttScrapMetalIron,UI,Tooltip,,Place iron items on the crafting grid to get scrap iron,,Place iron items on the crafting grid to get scrap iron
 ttScrapMetalLead,UI,Tooltip,,Place lead items on the crafting grid to get scrap lead,,Place lead items on the crafting grid to get scrap lead
-ttSkillCannotPurchase,UI,Tooltip,,This skill's levels cannot be purchased.,,This skill's levels cannot be purchased.
-ttSkillLevelUp,UI,Tooltip,,Your skill in {0} is now level {1},,Your skill in {0} is now level {1}
-ttSkillMaxLevel,UI,Tooltip,,You are at max level for this skill.,,You are at max level for this skill.
-ttSkillPointsNotEnough,UI,Tooltip,,You do not have the required skill points for that.,,You do not have the required skill points for that.
-ttSkillRequirementsNotMet,UI,Tooltip,,The requirements for this skill have not been met.,,The requirements for this skill have not been met.
-ttSkillsRelated,UI,Tooltip,,Related skills not yet implemented.,,Related skills not yet implemented.
-wrnInventoryFull,UI,Tooltip,,No room in inventory. Crafting has been halted until space is cleared.,,No room in inventory. Crafting has been halted until space is cleared.
-wrnQueueFull,UI,Tooltip,,No room in queue!,,No room in queue!
-wrnWorkstationOutputFull,UI,Tooltip,,No room in workstation output. Crafting has been halted until space is cleared.,,No room in workstation output. Crafting has been halted until space is cleared.
-campfireActivate,UI,Use Prompt,,<{0}> to open campfire,,<{0}> to open campfire
-forgeActivate,UI,Use Prompt,,<{0}> to open forge,,<{0}> to open forge
-itemTooltipFocusedOne,UI,Use Prompt,,<{0}> Collect {1},,<{0}> Collect {1}
-itemTooltipFocusedSeveral,UI,Use Prompt,,<{0}> Collect {2} of {1},,<{0}> Collect {2} of {1}
-lootEntity,UI,Use Prompt,,<{0}> Search {1},,<{0}> Search {1}
-lootTooltipEmpty,UI,Use Prompt,,Empty {1},,Empty {1}
-lootTooltipNew,UI,Use Prompt,,<{0}> Search {1} (Untouched),,<{0}> Search {1} (Untouched)
-lootTooltipTouched,UI,Use Prompt,,<{0}> Search {1},,<{0}> Search {1}
+ttSkillCannotPurchase,UI,Tooltip,,このスキルを購入出来るステータスになっていません。,,This skill's levels cannot be purchased.
+ttSkillLevelUp,UI,Tooltip,,スキル： {0} がlevel {1} にレベルアップ！,,Your skill in {0} is now level {1}
+ttSkillMaxLevel,UI,Tooltip,,スキル値が最大値に達しています。,,You are at max level for this skill.
+ttSkillPointsNotEnough,UI,Tooltip,,ｽｷﾙﾎﾟｲﾝﾄが不足しています。,,You do not have the required skill points for that.
+ttSkillRequirementsNotMet,UI,Tooltip,,前提スキルがまだ足りません。,,The requirements for this skill have not been met.
+ttSkillsRelated,UI,Tooltip,,前提スキルを満たしていません。,,Related skills not yet implemented.
+wrnInventoryFull,UI,Tooltip,,インベントリがいっぱいなのでクラフトを中断しています。インベントリに空きを作ってください。,,No room in inventory. Crafting has been halted until space is cleared.
+wrnQueueFull,UI,Tooltip,,予約キューがいっぱいです！,,No room in queue!
+wrnWorkstationOutputFull,UI,Tooltip,,ワークベンチのアウトプットに空きが無いのでクラフトを中断しています。回収して空きを作ってください。,,No room in workstation output. Crafting has been halted until space is cleared.
+campfireActivate,UI,Use Prompt,,<{0}> ｷｬﾝﾌﾟﾌｧｲｱを開く,,<{0}> to open campfire
+forgeActivate,UI,Use Prompt,,<{0}> ﾌｫｰｼﾞを開く,,<{0}> to open forge
+itemTooltipFocusedOne,UI,Use Prompt,, {1}\n<{0}> 押しで拾う,,<{0}> Collect {1}
+itemTooltipFocusedSeveral,UI,Use Prompt,,{2} の {1}\n<{0}> 押しで拾う,,<{0}> Collect {2} of {1}
+lootEntity,UI,Use Prompt,,{1}\n<{0}> 押しで探す,,<{0}> Search {1}
+lootTooltipEmpty,UI,Use Prompt,,空っぽ\n {1},,Empty {1}
+lootTooltipNew,UI,Use Prompt,, {1} (手付かず)\n<{0}> 押しで探す,,<{0}> Search {1} (Untouched)
+lootTooltipTouched,UI,Use Prompt,, {1}\n<{0}> 押しで探す,,<{0}> Search {1}
 xuiAccept,UI,XUI,,開始,,ACCEPT
 xuiActiveEffects,UI,XUI,,発生中の効果,,ACTIVE EFFECTS
 xuiAllies,UI,XUI,,ﾌﾚﾝﾄﾞ,,ALLIES
 xuiAllSkills,UI,XUI,,全てのスキル,,ALL SKILLS
-xuiAssembleMustReadBook,UI,XUI,,You must read the correct book to assemble this item.,,You must read the correct book to assemble this item.
+xuiAssembleMustReadBook,UI,XUI,,組立てるには知識が必要です。,,You must read the correct book to assemble this item.
 xuiAttributes,UI,XUI,,効果,,ATTRIBUTES
 xuiBasics,UI,XUI,,基本,,BASICS
 xuiBuffStatCoreTemp,UI,XUI,,体温,,Core Temp
@@ -2188,7 +2188,7 @@ xuiClose,UI,XUI,,閉じる,,CLOSE
 xuiCost,UI,XUI,,消費,,COST
 xuiCraftQueueFull,UI,XUI,,クラフトキューがいっぱいです。,,No room in queue!
 xuiCreative,UI,XUI,,クリエイティブ,,CREATIVE
-xuiDay,UI,XUI,,日,,DAY
+xuiDay,UI,XUI,,DAY,,DAY
 xuiDayTime,UI,XUI,,日/時,,DAY/TIME
 xuiDeaths,UI,XUI,,死亡,,DEATHS
 xuiDecline,UI,XUI,,保留,,DECLINE
@@ -2197,7 +2197,7 @@ xuiDescriptionLabel,UI,XUI,,詳細説明,,DESCRIPTION
 xuiDescriptionNotAvailable,UI,XUI,,特筆事項無し。,,DESCRIPTION NOT AVAILABLE AT THIS TIME.
 xuiDurability,UI,XUI,,耐久値,,DURABILITY
 xuiElevation,UI,XUI,,高さ,,ELEVATION
-xuiEmptyInfoPanelText,UI,XUI,,マウス左ボタン：攻撃/設置前のアイテム回転\n右クリック：アイテム設置/飲むj/修理・強化/ミニバイクのフレームを地面に設置\nF：明かり系ON/OFF\nE：アクションを起こす/拾う,,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME"
+xuiEmptyInfoPanelText,UI,XUI,,マウス左ボタン：攻撃/設置前のアイテム回転\n右クリック：アイテム設置/飲む/修理・強化/ミニバイクのフレームを地面に設置\nF：明かり系ON/OFF\nE：アクションを起こす/拾う,,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME"
 xuiEmptyVehicleStorage,UI,XUI,,バスケットを加えてストレージを追加,,ADD BASKET TO ACCESS STORAGE.
 xuiEveryone,UI,XUI,,全員,,EVERYONE
 xuiExamine,UI,XUI,,調査,,EXAMINE
@@ -2207,12 +2207,12 @@ xuiFuel,UI,XUI,,燃料,,FUEL
 xuiGas,UI,XUI,,ｶﾞｿﾘﾝ,,GAS
 xuiInput,UI,XUI,,インプット,,INPUT
 xuiInventory,UI,XUI,,バッグの中身,,INVENTORY
-xuiInventoryFull,UI,XUI,,"No room in inventory, crafting has been halted until space is cleared.",,"No room in inventory, crafting has been halted until space is cleared."
-xuiInventoryFullDropping,UI,XUI,,Inventory is full. Dropping items on ground.,,Inventory is full. Dropping items on ground.
+xuiInventoryFull,UI,XUI,,インベントリがいっぱいなのでクラフトを中断しています。,,"No room in inventory, crafting has been halted until space is cleared."
+xuiInventoryFullDropping,UI,XUI,,インベントリがいっぱいです。捨てるなりして空きを作ってください。,,Inventory is full. Dropping items on ground.
 xuiItemsCrafted,UI,XUI,,クラフト数,,ITEMS CRAFTED
 xuiKilometers,UI,XUI,,Km離,,Kilometers
 xuiKM,UI,XUI,,KM,,KM
-xuiKMTravelled,UI,XUI,,KM 踏破,,KM TRAVELED
+xuiKMTravelled,UI,XUI,,踏破距離,,KM TRAVELED
 xuiLevel,UI,XUI,,ﾚﾍﾞﾙ,,LEVEL
 xuiLongestLife,UI,XUI,,生存期間,,LONGEST LIFE
 xuiLoot,UI,XUI,,探索,,LOOT
@@ -2255,7 +2255,7 @@ xuiStats,UI,XUI,,性能,,STATS
 xuiStatus,UI,XUI,,ｽﾃｰﾀｽ,,STATUS
 xuiSteamID,UI,XUI,,STEAM ID,,STEAM ID
 xuiTakeAllKey,UI,XUI,,'R',,'R'
-xuiTime,UI,XUI,,TIME,,TIME
+xuiTime,UI,XUI,,時刻,,TIME
 xuiTip,UI,XUI,,TIP,,TIP
 xuiTools,UI,XUI,,追加道具,,TOOLS
 xuiTrack,UI,XUI,,ﾄﾗｯｸ,,TRACK
@@ -2266,7 +2266,7 @@ xuiVehicleNoiseLoud,UI,XUI,,大,,LOUD
 xuiVehicleNoiseModerate,UI,XUI,,中,,MODERATE
 xuiVehicleNoiseSoft,UI,XUI,,小,,SOFT
 xuiVehicleSpeedFast,UI,XUI,,速,,FAST
-xuiVehicleSpeedNone,UI,XUI,,速,,NONE
+xuiVehicleSpeedNone,UI,XUI,,ﾎﾞｰﾅｽ無,,NONE
 xuiVehicleSpeedNormal,UI,XUI,,普,,NORMAL
 xuiVehicleSpeedSlow,UI,XUI,,遅,,SLOW
 xuiVoice,UI,XUI,,ﾎﾞｲﾁｬ,,VOICE
@@ -2375,8 +2375,8 @@ xuiSkillWellnessGain,UI,Menu,,健康値上昇,,Wellness Gain
 xuiSkillWellnessReduction,UI,Menu,,健康値減少,,Wellness Reduction
 xuiSkillHealthGain,UI,Menu,,体力回復,,Health Gain
 xuiSkillStaminaGain,UI,Menu,,スタミナ回復,,Stamina Gain
-xuiSkillHungerDegradation,UI,Menu,,飢え,,Hunger Degradation
-xuiSkillThirstDegradation,UI,Menu,,渇き,,Thirst Degradation
+xuiSkillHungerDegradation,UI,Menu,,飢え耐性,,Hunger Degradation
+xuiSkillThirstDegradation,UI,Menu,,渇き耐性,,Thirst Degradation
 xuiSkillHealthDegradation,UI,Menu,,傷,,Health Degradation
 xuiSkillStaminaDegradation,UI,Menu,,疲れ,,Stamina Degradation
 xuiSkillMaxSpeed,UI,Menu,,最大速度,,Max Speed
@@ -2410,7 +2410,7 @@ lblReloadArchetypeXML,UI,Tooltip,,Reload Archetype XML Data,,Reload Archetype XM
 lblFavorites,UI,Tooltip,,お気に入り,,Favorites
 lblKnown,UI,Item Info,,把握済み,,Known
 xuiInspect,UI,XUI,,詳細,,INSPECT
-isBusy,UI,Tooltip,,You are busy.,,You are busy.
+isBusy,UI,Tooltip,,作業中です。,,You are busy.
 leatherTanningPerk,progression,Perk,,なめし革,,Leather Tanning
 leatherTanningPerkDesc,progression,Perk,,獣皮からなめし革をクラフトする能力を得ます。,,Unlocks the abilities to tan animal hides and craft leather.
 xuiSmelting,UI,Menu,,溶解炉,,Smelting
@@ -2420,10 +2420,10 @@ lblCategoryWeapons,UI,Tooltip,,近接武器,,Weapons
 lblCategoryScavenging,UI,Tooltip,,スカベンジ,,Scavenging
 lblCategoryHealth,UI,Tooltip,,健康/フィットネス,,Health/Fitness
 lblCategoryCraftingMisc,UI,Tooltip,,クラフト/その他,,Crafting/Miscellaneous
-ttMissingCraftingResources,UI,Tooltip,,You don't have the necessary resources to craft this.,,You don't have the necessary resources to craft this.
-ttMissingCraftingTools,UI,Tooltip,,You don't have the required tools to craft this.,,You don't have the required tools to craft this.
-ttMissingCraftingFuel,UI,Tooltip,,You don't have the required fuel to craft this.,,You don't have the required fuel to craft this.
-ttMissingCraftingRecipe,UI,Tooltip,,You do not have the required recipe.,,You do not have the required recipe.
+ttMissingCraftingResources,UI,Tooltip,,クラフトするための必要素材が不足しています。,,You don't have the necessary resources to craft this.
+ttMissingCraftingTools,UI,Tooltip,,クラフトするには追加道具のセットが必要です。,,You don't have the required tools to craft this.
+ttMissingCraftingFuel,UI,Tooltip,,クラフトするには燃料が不足しています。,,You don't have the required fuel to craft this.
+ttMissingCraftingRecipe,UI,Tooltip,,レシピ解放が必要です。,,You do not have the required recipe.
 tshirtClothesGroupDesc,items,Item Clothes,,二の腕を隠したシャツです。布製で、装備すると少しだけ防御力と天候への耐性が上昇します。,,Show off your biceps while getting a little protection against the weather and other damage types with this cotton shirt.
 tshirtBlack,items,Item Clothes,,Tシャツ黒,,Black T-Shirt
 tshirtBlue,items,Item Clothes,,Tシャツ青,,Blue T-Shirt
@@ -2437,9 +2437,9 @@ sweatshirtBlue,items,Item Clothes,,スウェットシャツ青,,Blue Sweatshirt
 sweatshirtBrown,items,Item Clothes,,スウェットシャツ茶,,Brown Sweatshirt
 sweatshirtGreen,items,Item Clothes,,スウェットシャツ緑,,Green Sweatshirt
 sweatshirtRed,items,Item Clothes,,スウェットシャツ赤,,Red Sweatshirt
-radiation,buffs,Buff,,Deadly Radiation,,Deadly Radiation
-radiationDesc,buffs,Buff,,You have entered a Deadly Radiation zone!,,You have entered a Deadly Radiation zone!
-radiationTooltip,buffs,Buff,,You have entered a Deadly Radiation zone!,,You have entered a Deadly Radiation zone!
+radiation,buffs,Buff,,放射能汚染地域,,Deadly Radiation
+radiationDesc,buffs,Buff,,放射能汚染地域に入ってしまいました。致命的なダメージを受け続けます。,,You have entered a Deadly Radiation zone!
+radiationTooltip,buffs,Buff,,放射能汚染地域に入ってしまいました。致命的なダメージを受け続けます。,,You have entered a Deadly Radiation zone!
 xuiSent,UI,XUI,,SENT,,SENT
 xuiReceived,UI,XUI,,RECEIVED,,RECEIVED
 xuiNA,UI,XUI,,N/A,,N/A
