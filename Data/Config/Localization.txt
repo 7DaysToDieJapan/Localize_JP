@@ -14,10 +14,10 @@ plantedCorn3Harvest,blocks,Farming,EnChanged,Planted Corn 3 (Harvestable),Récol
 barbedFenceDesc,blocks,Trap,EnChanged,"Barbed wire fences made from wood and iron can slow down enemies, making them easier to deal with. Place them by using the secondary action.",,"Stacheldrahtzäune aus Holz und Eisen können Gegner verlangsamen, wodurch man einfacher mit ihnen fertig wird. Platziere sie mit der sekundären Aktion.",,
 barbedWireSheetDesc,blocks,Trap,EnChanged,"Barbed wire made from iron can slow down enemies, making them easier to deal with. Place it by using the secondary action.",,"Stacheldraht aus Eisen kann Gegner verlangsamen, wodurch man einfacher mit ihnen fertig wird. Platziere ihn mit der sekundären Aktion.",,
 rScrapIronPlateMineDesc,blocks,Trap,EnChanged,A primitive pressure plate mine made of iron and gunpowder. Good for hobbling or killing most enemies.,,"Eine primitive Druckplattenmine aus Eisen und Schießpulver. Gut, um die meisten Gegner zu verstümmeln oder töten.",,
-hungry2Desc,buffs,Buff,EnChanged,You are dying of starvation! Find something to eat!,Vous mourrez de faim.,Du bist am Verhungern! Finde etwas zu essen!,,Te estás muriendo de hambre.
+hungry2Desc,buffs,Buff,EnChanged,飢えで死にかけています。何か食べ物を見つけてください！,You are dying of starvation! Find something to eat!,Du bist am Verhungern! Finde etwas zu essen!,,Te estás muriendo de hambre.
 hungry2Tooltip,buffs,Buff,EnChanged,You are dying of starvation! Find something to eat!,Vous mourrez de faim.,Du bist am Verhungern! Finde etwas zu essen!,,Te estás muriendo de hambre.
-painkillersBuffDesc,buffs,Buff,EnChanged,鎮痛剤を服用しました。効果中は失神しなくなります。,You took painkillers. Stuns will affect you less now.,,,
-thirsty2Desc,buffs,Buff,EnChanged,You are dying of thirst! Find something to drink!,Vous avez très soif et devriez boire beaucoup.,Du verdurstest! Finde etwas zu trinken!,,Tienes mucha sed y deberías beber bastante líquidos.
+painkillersBuffDesc,buffs,Buff,EnChanged,鎮痛剤を服用しました。気絶しなくなります。,You took painkillers. Stuns will affect you less now.,,,
+thirsty2Desc,buffs,Buff,EnChanged,脱水症で死にかけています。何か飲み物を見つけてください！,You are dying of thirst! Find something to drink!,Du verdurstest! Finde etwas zu trinken!,,Tienes mucha sed y deberías beber bastante líquidos.
 thirsty2Tooltip,buffs,Buff,EnChanged,You are dying of thirst! Find something to drink!,Vous avez très soif et devriez boire beaucoup.,Du verdurstest! Finde etwas zu trinken!,,Tienes mucha sed y deberías beber bastante líquidos.
 blunderbussAmmoDesc,items,Ammo,EnChanged,Blunderbuss ammo can be made with paper and gun powder plus small rocks.,,"Munition für die Donnerbüchse kann mit Papier, Schießpulver und kleinen Steinen gefertigt werden.",,
 ironCrossbowBoltDesc,items,Ammo,EnChanged,An iron-tipped bolt for the crossbow. Hold reload to use alternate ammo.,,"Ein Eisenbolzen für Armbrüste. Nachladen gedrückt halten, um zwischen Munitionsarten zu wechseln.",,
@@ -944,14 +944,14 @@ arrowCriticalBleedoutDesc,buffs,Buff,KgNone,ひどい出血です。止血には
 arrowCriticalBleedoutTooltip,buffs,Buff,KgNone,You are bleeding profusely. Use a bandage to stop the bleeding.,Vous saignez abondamment. Utilisez un bandage pour arrêter l'hémorragie.,"Du blutest stark. Benutze einen Verband, um die Blutung zu stoppen.",,Estás sangrando bastante. Usa un vendaje para detener la hemorragia.
 beerBuzzDesc,buffs,Buff,KgNone,酔っていい気分だ。そのうち酔いから覚めるだろうが、あなたにとってはどうでもいい。,A nice buzz. There may be a duration but you don't care., mais vous vous en moquez.","Ein kleiner Rausch. Dies hält vielleicht eine gewisse Zeit an, aber das ist dir egal.",,"Una deliciosa Buzz. Puede que solo sea durante un rato, pero te da igual."
 beerBuzzTooltip,buffs,Buff,KgNone,A nice buzz.,Une sensation agréable.,Ein kleiner Rausch.,,Una deliciosa Buzz.
-bleedingOut,buffs,Buff,KgNone,Bleeding Out,Hémorragie,Verbluten,,Hemorragia
+bleedingOut,buffs,Buff,KgNone,流血,Bleeding Out,Verbluten,,Hemorragia
 bleedingOutDesc,buffs,Buff,KgNone,出血で死にかけています。止血には、包帯([00ff00]Bandage[-])か応急用包帯([00ff00]First Aid Bandage[-])、または救急箱([00ff00]First Aid Kit[-])を使います。,"You are bleeding out and will die soon. Use a bandage, first aid bandage or first aid kit to stop the bleeding.","Du verblutest und wirst bald sterben. Stoppe die kritische Blutung mit einem Verband, Erste-Hilfe-Verband oder Verbandskasten.",,"Te estás desangrando y morirás pronto. Evita desangrarte usando vendajes, vendajes de primeros auxilios o botiquines de primeros auxilios."
 bleedingOutTooltip,buffs,Buff,KgNone,You are bleeding out. Use a bandage to stop the bleeding.,Vous vous videz de votre sang. Utilisez un bandage pour arrêter l'hémorragie.,"Du verblutest. Benutze einen Verband, um die Blutung zu stoppen.",,Te estás desangrando. Usa un vendaje para detener la hemorragia.
-brokenLeg,buffs,Buff,KgNone,Broken Leg,Jambe cassée,Gebrochenes Bein,,Pierna fracturada
-brokenLegDesc,buffs,Buff,KgNone,Your broken leg is slowing you down. You should craft and apply a splint.,Votre jambe cassée vous ralentit. Vous devriez fabriquer une attelle et la poser.,Dein gebrochenes Bein macht dich langsamer. Du solltest eine Schiene fertigen und verwenden.,,Tu pierna fracturada te está ralentizando. Deberías fabricar y colocarte una tablilla.
+brokenLeg,buffs,Buff,KgNone,骨折,Broken Leg,Gebrochenes Bein,,Pierna fracturada
+brokenLegDesc,buffs,Buff,KgNone,足の骨折で減速しています。添え木([00ff00]Splint[-])を作って患部を固定すべきです。,Your broken leg is slowing you down. You should craft and apply a splint.,Dein gebrochenes Bein macht dich langsamer. Du solltest eine Schiene fertigen und verwenden.,,Tu pierna fracturada te está ralentizando. Deberías fabricar y colocarte una tablilla.
 brokenLegTooltip,buffs,Buff,KgNone,Your leg is broken. A splint could speed up healing.,Votre jambe est cassée. Une attelle pourrait accélérer la guérison.,Dein Bein ist gebrochen. Mit einer Schiene könnte es schneller heilen.,,Tu pierna está fracturada. Una tablilla puede hacer que se cure más pronto.
-burning,buffs,Buff,KgNone,Burning,En feu,Brennen,,En llamas
-burningDesc,buffs,Buff,KgNone,You are on fire. Get into the water to douse it.,Vous êtes en feu. Jetez-vous dans l'eau pour éteindre les flammes.,"Du stehst in Flammen. Geh schnell ins Wasser, um sie zu löschen.",,Estás ardiendo. Métete en el agua para apagarlo.
+burning,buffs,Buff,KgNone,炎上,Burning,Brennen,,En llamas
+burningDesc,buffs,Buff,KgNone,火が燃え移っています。水を浴びて消してください。,You are on fire. Get into the water to douse it.,"Du stehst in Flammen. Geh schnell ins Wasser, um sie zu löschen.",,Estás ardiendo. Métete en el agua para apagarlo.
 burningSmall,buffs,Buff,KgNone,Burning,En feu,Brennen,,En llamas
 burningSmallDesc,buffs,Buff,KgNone,You are on fire. Get into the water to douse it.,Vous êtes en feu. Jetez-vous dans l'eau pour éteindre les flammes.,"Du stehst in Flammen. Geh schnell ins Wasser, um sie zu löschen.",,Estás ardiendo. Métete en el agua para apagarlo.
 burningSmallTooltip,buffs,Buff,KgNone,You are on fire. Get into the water to douse it.,Vous êtes en feu. Jetez-vous dans l'eau pour éteindre les flammes.,"Du stehst in Flammen. Geh schnell ins Wasser, um sie zu löschen.",,Estás ardiendo. Métete en el agua para apagarlo.
@@ -959,19 +959,19 @@ burningTooltip,buffs,Buff,KgNone,You are on fire. Get into the water to douse it
 caffeineBuzz,buffs,Buff,KgNone,カフェイン,Caffeine Buzz,Koffeinschub,,Cafeína Buzz
 caffeineBuzzDesc,buffs,Buff,KgNone,カフェインはエネルギーを与えスタミナを高い水準で維持し、体を一定時間温めてくれます。,"Caffeine gives you energy, keeping your stamina higher and core body temperature warmer for a limited time.","Koffein verleiht dir Energie, hält deine Ausdauer auf einem hohen Niveau und wärmt dich für begrenzte Zeit.",,"La cafeína te da energía, aumenta tu resistencia y te ayuda a conservar el calor por un rato."
 caffeineBuzzTooltip,buffs,Buff,KgNone,A nice rush of energy and you feel warmer.,Un afflux d'énergie agréable qui vous réchauffe.,Ein schöner Energieschub und du fühlst dich gleich wärmer.,,Una buena dosis de energía y te entrarás en calor.
-cannotBreathe,buffs,Buff,KgNone,Cannot Breathe,Asphyxie,Atemnot,,No puedes respirar
-cannotBreatheDesc,buffs,Buff,KgNone,You cannot breathe here.,Vous n'arrivez pas à respirer.,Du kannst hier nicht atmen.,,No puedes respirar aquí.
+cannotBreathe,buffs,Buff,KgNone,,Cannot Breathe,Atemnot,,No puedes respirar
+cannotBreatheDesc,buffs,Buff,KgNone,呼吸ができません。,You cannot breathe here.,Du kannst hier nicht atmen.,,No puedes respirar aquí.
 cannotBreatheWrn,buffs,Buff,KgNone,Cannot Breathe,Asphyxie,Atemnot,,No puedes respirar
 cannotBreatheWrnDesc,buffs,Buff,KgNone,You are running out of air.,Vous ne pouvez plus respirer.,Dir geht die Luft aus.,,Te estás quedando sin aire.
 cannotBreatheWrnTooltip,buffs,Buff,KgNone,You are running out of air!,Vous ne pouvez plus respirer !,Dir geht die Luft aus!,,¡Casi no te queda aire!
 criticalBlunt,buffs,Buff,KgNone,鈍的外傷,Blunt Trauma,Stumpfes Trauma,,Traumatismo cerrado
 criticalBluntDesc,buffs,Buff,KgNone,鈍的外傷を負っています。,You have blunt force trauma.,Du hast eine stumpfe Gewalteinwirkung erlitten.,,Sufriste un fuerte traumatismo.
 criticalBluntTooltip,buffs,Buff,KgNone,You have blunt force trauma.,Vous souffrez d'une contusion.,Du hast eine stumpfe Gewalteinwirkung erlitten.,,Sufriste un fuerte traumatismo.
-cured,buffs,Buff,KgNone,治癒,Cured,Geheilt,,Curado
+cured,buffs,Buff,KgNone,免疫,Cured,Geheilt,,Curado
 curedDesc,buffs,Buff,KgNone,感染に対する免疫があります。,You are immune to further infection.,Du bist immun gegen eine weitere Infektion.,,Ahora eres inmune a otras infecciones.
 curedTooltip,buffs,Buff,KgNone,You are immune to further infection.,Vous ne subirez plus cette infection.,Du bist immun gegen eine weitere Infektion.,,Ahora eres inmune a otras infecciones.
-drowning,buffs,Buff,KgNone,Drowning,Noyade,Ertrinken,,Ahogándote
-drowningDesc,buffs,Buff,KgNone,You are drowning.,Vous vous noyez.,Du ertrinkst.,,Te estás ahogando.
+drowning,buffs,Buff,KgNone,溺水,Drowning,Ertrinken,,Ahogándote
+drowningDesc,buffs,Buff,KgNone,溺れています。,You are drowning.,Du ertrinkst.,,Te estás ahogando.
 drowningTooltip,buffs,Buff,KgNone,You are drowning.,Vous vous noyez.,Du ertrinkst.,,Te estás ahogando.
 drunk,buffs,Buff,KgNone,飲んだくれ,Drunk,Betrunken,,Borracho
 drunkDesc,buffs,Buff,KgNone,飲んだくれています。,You are drunk.,Du bist betrunken.,,Estás borracho.
@@ -991,34 +991,34 @@ firstAidTooltip,buffs,Buff,KgNone,You applied first aid and are now healing.,Vou
 foodPoisoning,buffs,Buff,KgNone,食中毒,Food Poisoning,Lebensmittelvergiftung,,Intoxicación alimenticia
 foodPoisoningDesc,buffs,Buff,KgNone,胃腸が不快感に襲われています。,You feel sick to your stomach.,Dir ist übel.,,Te duele la barriga.
 foodPoisoningTooltip,buffs,Buff,KgNone,You feel sick to your stomach.,Vous avez la nausée.,Dir ist übel.,,Te duele la barriga.
-freezing,buffs,Buff,KgNone,Freezing,Gel,Frieren,,Congelándote
-freezingDesc,buffs,Buff,KgNone,"You are freezing. Find clothing, take shelter or build a campfire. When you're freezing you will burn more calories.","Vous gelez. Trouvez des vêtements, abritez-vous ou construisez un feu de camp. Lorsque vous gelez, vous brûlez plus de calories.","Du frierst. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer. Wenn du frierst, verbrennst du mehr Kalorien.",,"Te estás congelando. Busca ropa, encuentra un refugio o enciende una fogata. Quemas más calorías cuando te estás congelando."
+freezing,buffs,Buff,KgNone,凍てつく,Freezing,Frieren,,Congelándote
+freezingDesc,buffs,Buff,KgNone,凍えています。衣服を見つけたり、隠れれる場所かキャンプファイア([00ff00]Campfire[-])を作って火を熾しましょう。凍えていると、より多くのスタミナを消費します。,"You are freezing. Find clothing, take shelter or build a campfire. When you're freezing you will burn more calories.","Du frierst. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer. Wenn du frierst, verbrennst du mehr Kalorien.",,"Te estás congelando. Busca ropa, encuentra un refugio o enciende una fogata. Quemas más calorías cuando te estás congelando."
 freezingTooltip,buffs,Buff,KgNone,"You are freezing. Find clothing, take shelter or build a campfire.","Vous gelez. Trouvez des vêtements, abritez-vous ou construisez un feu de camp.","Du frierst. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer.",,"Te estás congelando. Busca ropa, encuentra un refugio o enciende una fogata."
 freshAir,buffs,Buff,KgNone,Fresh Air,Air frais,Frische Luft,,Aire fresco
-fullBuff,buffs,Buff,KgNone,Healing,Guérison,Heilen,,Curándote
-fullBuffDesc,buffs,Buff,EnChanged,You are gaining health from the food you have eaten.,Vous avez consommé suffisamment de nourriture pour guérir petit à petit.,Die verzehrte Nahrung heilt Dich.,,Has consumido suficiente comida para curarte lentamente.
+fullBuff,buffs,Buff,KgNone,治癒,Healing,Heilen,,Curándote
+fullBuffDesc,buffs,Buff,EnChanged,十分な食事で、ゆっくりと傷が癒されています。,You are gaining health from the food you have eaten.,Die verzehrte Nahrung heilt Dich.,,Has consumido suficiente comida para curarte lentamente.
 fullBuffTooltip,buffs,Buff,EnChanged,You are gaining health from the food you have eaten.,Vous avez consommé suffisamment de nourriture pour guérir petit à petit.,Die verzehrte Nahrung heilt Dich.,,Has consumido suficiente comida para curarte lentamente.
 hangover,buffs,Buff,KgNone,二日酔い,Hangover,Kater,,Crudo
 hangoverDesc,buffs,Buff,KgNone,二日酔いです。今、あなたは飲みすぎたことを後悔しています。,You have a hangover. Now you know for how long and you wish you didn't.,"Du hast einen Kater. Jetzt weißt du, wie lange es anhält, aber dir wäre lieber, wenn du es nicht wüsstest.",,Tienes resaca. Ahora sabes cuánto te va a durar y desearías no haberlo hecho.
 hangoverTooltip,buffs,Buff,KgNone,You have a hangover.,Vous avez la gueule de bois.,Du hast einen Kater.,,Tienes resaca.
-heat1,buffs,Buff,KgNone,Heat Stroke 1,Coup de chaleur 1,Hitzschlag 1,,Insolación 1
-heat1Desc,buffs,Buff,KgNone,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter. With a heat stroke you will dehydrate faster.","Vous subissez un coup de chaleur de niveau 1. Vous devriez vous reposer, trouver de l'eau ou vous abriter. Lors d'un coup de chaleur, vous vous déshydratez plus rapidement.","Du erleidest einen Hitzschlag im 1. Stadium. Du solltest dich ausruhen, Wasser oder einen Unterschlupf finden. Durch einen Hitzschlag dehydrierst du schneller.",,Estás experimentando una insolación de nivel 1. Deberías descansar y buscar agua o un refugio. Te deshidratas más rápido cuando tienes una insolación.
+heat1,buffs,Buff,KgNone,熱中症ステージ1,Heat Stroke 1,Hitzschlag 1,,Insolación 1
+heat1Desc,buffs,Buff,KgNone,熱中症ステージ1になりました。休息したり、水か隠れれる場所を探すべきです。熱中症は、脱水をより速く促してしまいます。,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter. With a heat stroke you will dehydrate faster.","Du erleidest einen Hitzschlag im 1. Stadium. Du solltest dich ausruhen, Wasser oder einen Unterschlupf finden. Durch einen Hitzschlag dehydrierst du schneller.",,Estás experimentando una insolación de nivel 1. Deberías descansar y buscar agua o un refugio. Te deshidratas más rápido cuando tienes una insolación.
 heat1Tooltip,buffs,Buff,KgNone,"You're experiencing Heat Stroke Stage 1. You should rest, find water or shelter.","Vous subissez un coup de chaleur de niveau 1. Vous devriez vous reposer, trouver de l'eau ou vous abriter.","Du erleidest einen Hitzschlag im 1. Stadium. Du solltest dich ausruhen, Wasser oder einen Unterschlupf finden.",,Estás experimentando una insolación de nivel 1. Deberías descansar y buscar agua o un refugio.
-heat2,buffs,Buff,KgNone,Heat Stroke 2,Coup de chaleur 2,Hitzschlag 2,,Insolación 2
-heat2Desc,buffs,Buff,KgNone,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you'll die. With a heat stroke you will dehydrate faster.","Vous subissez un coup de chaleur de niveau 2. Vous devez vous reposer, trouver de l'eau ou vous abriter si vous ne voulez pas mourir. Lors d'un coup de chaleur, vous vous déshydratez plus rapidement.","Du erleidest einen Hitzschlag im 2. Stadium. Du musst dich ausruhen, Wasser oder einen Unterschlupf finden, oder du wirst sterben. Durch einen Hitzschlag dehydrierst du schneller.",,"Estás experimentando una insolación de nivel 2. Tienes que descansar y buscar agua o un refugio, o morirás. Te deshidratas más rápido cuando tienes una insolación."
+heat2,buffs,Buff,KgNone,熱中症ステージ2,Heat Stroke 2,Hitzschlag 2,,Insolación 2
+heat2Desc,buffs,Buff,KgNone,熱中症ステージ2になりました。休息する必要があり、水か隠れれる場所を探さないと死に近づきます。熱中症は、脱水をより速く促してしまいます。,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you'll die. With a heat stroke you will dehydrate faster.","Du erleidest einen Hitzschlag im 2. Stadium. Du musst dich ausruhen, Wasser oder einen Unterschlupf finden, oder du wirst sterben. Durch einen Hitzschlag dehydrierst du schneller.",,"Estás experimentando una insolación de nivel 2. Tienes que descansar y buscar agua o un refugio, o morirás. Te deshidratas más rápido cuando tienes una insolación."
 heat2Tooltip,buffs,Buff,KgNone,"You're experiencing Heat Stroke Stage 2. You must rest, find water or shelter or you will die.","Vous subissez un coup de chaleur de niveau 2. Vous devez vous reposer, trouver de l'eau ou vous abriter si vous ne voulez pas mourir.","Du erleidest einen Hitzschlag im 2. Stadium. Du musst dich ausruhen, Wasser oder einen Unterschlupf finden, oder du wirst sterben.",,"Estás experimentando una insolación de nivel 2. Tienes que descansar y buscar agua o un refugio, o morirás."
-hungry,buffs,Buff,KgNone,Hungry,Faim,Hungrig,,Hambriento
-hungry2,buffs,Buff,KgNone,Starving,Famine,Verhungern,,Famélico
-hungryDesc,buffs,Buff,KgNone,You are hungry.,Vous avez faim.,Du bist hungrig.,,Tienes hambre.
+hungry,buffs,Buff,KgNone,空腹,Hungry,Hungrig,,Hambriento
+hungry2,buffs,Buff,KgNone,飢え,Starving,Verhungern,,Famélico
+hungryDesc,buffs,Buff,KgNone,お腹が空いています。,You are hungry.,Du bist hungrig.,,Tienes hambre.
 hungryTooltip,buffs,Buff,KgNone,You are hungry.,Vous avez faim.,Du bist hungrig.,,Tienes hambre.
-hypo1,buffs,Buff,KgNone,Hypothermia 1,Hypothermie 1,Unterkühlung 1,,Hipotermia 1
-hypo1Desc,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire. With hypothermia you will burn more calories.","Vous souffrez d'hypothermie de niveau 1. Trouvez des vêtements, abritez-vous ou construisez un feu de camp. Vous brûlerez plus de calories en état d'hypothermie.","Du erleidest eine Unterkühlung im 1. Stadium. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 1. Busca ropa, encuentra un refugio o enciende una fogata. Quemas más calorías cuando tienes hipotermia."
+hypo1,buffs,Buff,KgNone,低体温症ステージ1,Hypothermia 1,Unterkühlung 1,,Hipotermia 1
+hypo1Desc,buffs,Buff,KgNone,低体温症ステージ1になりました。衣服を見つけたり、隠れれる場所かキャンプファイア([00ff00]Campfire[-])を作って火を熾しましょう。低体温症は、より多くのスタミナを消費します。,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire. With hypothermia you will burn more calories.","Du erleidest eine Unterkühlung im 1. Stadium. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 1. Busca ropa, encuentra un refugio o enciende una fogata. Quemas más calorías cuando tienes hipotermia."
 hypo1Tooltip,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 1. Find clothing, take shelter or build a campfire.","Vous souffrez d'hypothermie de niveau 1. Trouvez des vêtements, abritez-vous ou construisez un feu de camp.","Du erleidest eine Unterkühlung im 1. Stadium. Finde Kleidung, einen Unterschlupf oder mache ein Lagerfeuer.",,"Estás experimentando una hipotermia de nivel 1. Busca ropa, encuentra un refugio o enciende una fogata."
-hypo2,buffs,Buff,KgNone,Hypothermia 2,Hypothermie 2,Unterkühlung 2,,Hipotermia 2
-hypo2Desc,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon. With hypothermia you will burn more calories.","Vous souffrez d'hypothermie de niveau 2. Trouvez des vêtements, un abri ou un feu de camp si vous ne voulez pas mourir très vite. Vous brûlerez plus de calories en état d'hypothermie.","Du erleidest eine Unterkühlung im 2. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du wirst bald sterben. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 2. Busca ropa, encuentra un refugio o enciende una fogata, o morirás pronto. Quemas más calorías cuando tienes hipotermia."
+hypo2,buffs,Buff,KgNone,低体温症ステージ2,Hypothermia 2,Unterkühlung 2,,Hipotermia 2
+hypo2Desc,buffs,Buff,KgNone,低体温症ステージ2になりました。衣服を見つけたり、隠れれる場所かキャンプファイア([00ff00]Campfire[-])を作って火を熾こさないと死に近づきます。低体温症は、より多くのスタミナを消費します。,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon. With hypothermia you will burn more calories.","Du erleidest eine Unterkühlung im 2. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du wirst bald sterben. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 2. Busca ropa, encuentra un refugio o enciende una fogata, o morirás pronto. Quemas más calorías cuando tienes hipotermia."
 hypo2Tooltip,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 2. Find clothing, shelter or a campfire or you will die soon.","Vous souffrez d'hypothermie de niveau 2. Trouvez des vêtements, un abri ou un feu de camp si vous ne voulez pas mourir très vite.","Du erleidest eine Unterkühlung im 2. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du wirst bald sterben.",,"Estás experimentando una hipotermia de nivel 2. Busca ropa, encuentra un refugio o enciende una fogata, o morirás pronto."
-hypo3,buffs,Buff,KgNone,Hypothermia 3,Hypothermie 3,Unterkühlung 3,,Hipotermia 3
-hypo3Desc,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die. With hypothermia you will burn more calories.","Vous souffrez d'hypothermie de niveau 3. Trouvez des vêtements, un abri ou un feu de camp pour ne pas mourir. Vous brûlerez plus de calories en état d'hypothermie.","Du erleidest eine Unterkühlung im 3. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du stirbst. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 3. Busca ropa, encuentra un refugio o enciende una fogata, o morirás. Quemas más calorías cuando tienes hipotermia."
+hypo3,buffs,Buff,KgNone,低体温症ステージ3,Hypothermia 3,Unterkühlung 3,,Hipotermia 3
+hypo3Desc,buffs,Buff,KgNone,低体温症ステージ2になりました。衣服を見つけたり、隠れれる場所かキャンプファイア([00ff00]Campfire[-])を作って火を熾こさないとじきに死ぬでしょう。低体温症は、より多くのスタミナを消費します。,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die. With hypothermia you will burn more calories.","Du erleidest eine Unterkühlung im 3. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du stirbst. Durch Unterkühlung verbrennst du mehr Kalorien.",,"Estás experimentando una hipotermia de nivel 3. Busca ropa, encuentra un refugio o enciende una fogata, o morirás. Quemas más calorías cuando tienes hipotermia."
 hypo3Tooltip,buffs,Buff,KgNone,"You're experiencing Hypothermia Stage 3. Find clothing, shelter or a campfire or die.","Vous souffrez d'hypothermie de niveau 3. Trouvez des vêtements, un abri ou un feu de camp pour ne pas mourir.","Du erleidest eine Unterkühlung im 3. Stadium. Finde Kleidung, einen Unterschlupf oder ein Lagerfeuer, oder du stirbst.",,"Estás experimentando una hipotermia de nivel 3. Busca ropa, encuentra un refugio o enciende una fogata, o morirás."
 infection,buffs,Buff,KgNone,感染潜伏期,Infection,Infektion,,Infección
 infection1,buffs,Buff,KgNone,感染ステージ1,Infection 2,Infektion 2,,Infección 2
@@ -1035,66 +1035,66 @@ infection4Desc,buffs,Buff,KgNone,感染症は、致命的な段階に達して�
 infection4Tooltip,buffs,Buff,KgNone,Your infection has reached its lethal phase.,Votre infection a atteint un niveau mortel.,Deine Infektion hat ihr tödliches Stadium erreicht.,,La infección llegó a la fase letal.
 infectionDesc,buffs,Buff,KgNone,感染しています。感染症を治すには、抗生物質([00ff00]Antibiotics[-])、蜂蜜([00ff00]Honey[-])か植物由来の抗生物質([00ff00]Herbal Antibiotics[-])を服用します。治療しないまま放置すれば、体が弱り、いずれ死ぬことでしょう。,"You are infected. Use antibiotics, honey or herbal antibiotics to heal the infection. If left untreated you will get weaker and eventually die.","Du bist infiziert. Benutze Antibiotika, Honig oder natürliche Antibiotika, um die Infektion zu heilen. Wenn du sie nicht behandelst, wirst du schwächer werden und schließlich sterben.",,"Tienes una infección. Usa antibióticos, miel o antibióticos herbales para curar la infección. Si no se trata, te debilitarás cada vez más hasta morir."
 infectionTooltip,buffs,Buff,KgNone,"You are infected. Use antibiotics, honey or herbal antibiotics to heal the infection.","Vous avez une infection. Utilisez des antibiotiques, du miel ou des antibiotiques naturels pour soigner l'infection.","Du bist infiziert. Benutze Antibiotika, Honig oder natürliche Antibiotika, um die Infektion zu heilen.",,"Tienes una infección. Usa antibióticos, miel o antibióticos herbales para curar la infección."
-internalBleeding,buffs,Buff,KgNone,Internal Bleeding,Hémorragie interne,Innere Blutung,,Hemorragia interna
-internalBleedingDesc,buffs,Buff,KgNone,You are bleeding internally. Better hope you find an emergency room in time.,Vous souffrez d'une hémorragie interne. Priez pour trouver les urgences à temps.,Du hast innere Blutungen. Hoffentlich findest du rechtzeitig eine Notfallaufnahme.,,Tienes una hemorragia interna. Será mejor que vayas a urgencias cuanto antes.
+internalBleeding,buffs,Buff,KgNone,内出血,Internal Bleeding,Innere Blutung,,Hemorragia interna
+internalBleedingDesc,buffs,Buff,KgNone,内出血しています。時間内に救急処置できる場所が見つけられることを切実に願います。,You are bleeding internally. Better hope you find an emergency room in time.,Du hast innere Blutungen. Hoffentlich findest du rechtzeitig eine Notfallaufnahme.,,Tienes una hemorragia interna. Será mejor que vayas a urgencias cuanto antes.
 internalBleedingTooltip,buffs,Buff,KgNone,You are bleeding internally. Better hope you find an emergency room in time.,Vous souffrez d'une hémorragie interne. Priez pour trouver les urgences à temps.,Du hast innere Blutungen. Hoffentlich findest du rechtzeitig eine Notfallaufnahme.,,Tienes una hemorragia interna. Será mejor que vayas a urgencias cuanto antes.
-overheated,buffs,Buff,KgNone,Overheated,Hyperthermie,Überhitzt,,Sobrecalentado
-overheatedDesc,buffs,Buff,KgNone,"You're overheating. Rest, find water or shelter. When hot you will dehydrate faster.","Vous souffrez d'hyperthermie. Reposez-vous, trouvez de l'eau ou abritez-vous. Lorsque vous avez chaud, vous vous déshydratez plus rapidement.","Du bist überhitzt. Ruhe dich aus, finde Wasser oder einen Unterschlupf. Wenn dir heiß ist, dehydrierst du schneller.",,Te estás sobrecalentando. Descansa y busca agua o un refugio. Te deshidratas más rápido cuando estás caliente.
+overheated,buffs,Buff,KgNone,熱すぎ,Overheated,Überhitzt,,Sobrecalentado
+overheatedDesc,buffs,Buff,KgNone,熱すぎです。休息したり、水か隠れれる場所を探しましょう。熱さは脱水をより速く促してしまいます。,"You're overheating. Rest, find water or shelter. When hot you will dehydrate faster.","Du bist überhitzt. Ruhe dich aus, finde Wasser oder einen Unterschlupf. Wenn dir heiß ist, dehydrierst du schneller.",,Te estás sobrecalentando. Descansa y busca agua o un refugio. Te deshidratas más rápido cuando estás caliente.
 overheatedTooltip,buffs,Buff,KgNone,"You're overheating. Rest, find water or shelter.","Vous souffrez d'hyperthermie. Reposez-vous, trouvez de l'eau ou abritez-vous.","Du bist überhitzt. Ruhe dich aus, finde Wasser oder einen Unterschlupf.",,Te estás sobrecalentando. Descansa y busca agua o un refugio.
-radiation,buffs,Buff,KgNone,Deadly Radiation,Radiations mortelles,Tödliche Strahlung,,Radiación letal
-radiationDesc,buffs,Buff,KgNone,You have entered a Deadly Radiation zone!,Vous pénétrez dans une zone de radiations mortelles !,Du hast eine Zone mit tödlicher Strahlung betreten!,,¡Has entrado en una zona de Radiación letal!
+radiation,buffs,Buff,KgNone,被ばく,Deadly Radiation,Tödliche Strahlung,,Radiación letal
+radiationDesc,buffs,Buff,KgNone,放射能汚染地域に足を踏み入れました！,You have entered a Deadly Radiation zone!,Du hast eine Zone mit tödlicher Strahlung betreten!,,¡Has entrado en una zona de Radiación letal!
 radiationTooltip,buffs,Buff,KgNone,You have entered a Deadly Radiation zone!,Vous pénétrez dans une zone de radiations mortelles !,Du hast eine Zone mit tödlicher Strahlung betreten!,,¡Has entrado en una zona de Radiación letal!
 redTeaCooling,buffs,Buff,KgNone,クールドリンク,Cool Drink,Kühles Getränk,,Bebida fría
 redTeaCoolingDesc,buffs,Buff,KgNone,涼しく感じます。,You feel cooler.,Du fühlst dich kühler.,,Te sientes más fresco.
 redTeaCoolingTooltip,buffs,Buff,KgNone,You feel cooler.,Vous avez moins chaud.,Du fühlst dich kühler.,,Te sientes más fresco.
-shotgunWound,buffs,Buff,KgNone,Winded,Essoufflement,Harter Treffer,,Agitado
-shotgunWoundDesc,buffs,Buff,KgNone,That knocked the wind right out of you!,Ça vous a coupé le souffle !,Da bleibt dir aber die Luft weg!,,¡Eso te dejó sin aliento!
+shotgunWound,buffs,Buff,KgNone,風穴,Winded,Harter Treffer,,Agitado
+shotgunWoundDesc,buffs,Buff,KgNone,弾が当たり、体に風穴があいたようだ！,That knocked the wind right out of you!,Da bleibt dir aber die Luft weg!,,¡Eso te dejó sin aliento!
 shotgunWoundTooltip,buffs,Buff,KgNone,Oof! That knocked the wind right out of you!,Aïe ! Ça vous a coupé le souffle !,Uff! Da bleibt dir aber die Luft weg!,,¡Uuf! ¡Eso te dejó sin aliento!
 sickDrunk,buffs,Buff,KgNone,泥酔,Sick Drunk,Sternhagelvoll,,Muy borracho
 sickDrunkDesc,buffs,Buff,KgNone,かなり酔っぱらっています。いずれ酔いから覚めますが、あなたにはそれがいつなのか分かりません。,You are extremely drunk. There may be a duration but you can't figure it out.,"Du bist extrem betrunken. Dies hält vielleicht eine gewisse Zeit an, aber du kannst nicht rauskriegen, wie lange.",,"Estás extremadamente borracho. Puede que solo sea durante un rato, pero no sabes cuánto durará."
 sickDrunkTooltip,buffs,Buff,KgNone,You are extremely drunk.,Vous êtes extrêmement ivre.,Du bist extrem betrunken.,,Estás extremadamente borracho.
 sleeping,buffs,Buff,KgNone,Resting,Repos,Ausruhen,,Descansando
-sleepingAwesome,buffs,Buff,KgNone,Resting,Repos,Ausruhen,,Descansando
-sleepingAwesomeDesc,buffs,Buff,KgNone,You are resting. Health and stamina recover faster when resting.,"Vous vous reposez. Lors du repos, la santé et l'endurance remontent plus rapidement.","Du ruhst dich aus. Gesundheit und Ausdauer erholen sich schneller, wenn du dich ausruhst.",,Estás descansando. Recuperas salud y resistencia con mayor rapidez cuando estás descansando.
+sleepingAwesome,buffs,Buff,KgNone,休息,Resting,Ausruhen,,Descansando
+sleepingAwesomeDesc,buffs,Buff,KgNone,体を休めています。休息時には、体力とスタミナが速く回復します。,You are resting. Health and stamina recover faster when resting.,"Du ruhst dich aus. Gesundheit und Ausdauer erholen sich schneller, wenn du dich ausruhst.",,Estás descansando. Recuperas salud y resistencia con mayor rapidez cuando estás descansando.
 sleepingAwesomeTooltip,buffs,Buff,KgNone,You are resting. Health and stamina recover faster when resting.,"Vous vous reposez. Lors du repos, la santé et l'endurance remontent plus rapidement.","Du ruhst dich aus. Gesundheit und Ausdauer erholen sich schneller, wenn du dich ausruhst.",,Estás descansando. Recuperas salud y resistencia con mayor rapidez cuando estás descansando.
 sleepingDesc,buffs,Buff,KgNone,You are resting. Health and stamina recover faster when resting.,"Vous vous reposez. Lors du repos, la santé et l'endurance remontent plus rapidement.","Du ruhst dich aus. Gesundheit und Ausdauer erholen sich schneller, wenn du dich ausruhst.",,Estás descansando. Recuperas salud y resistencia con mayor rapidez cuando estás descansando.
 sleepingTooltip,buffs,Buff,KgNone,You are resting. Health and stamina recover faster when resting.,"Vous vous reposez. Lors du repos, la santé et l'endurance remontent plus rapidement.","Du ruhst dich aus. Gesundheit und Ausdauer erholen sich schneller, wenn du dich ausruhst.",,Estás descansando. Recuperas salud y resistencia con mayor rapidez cuando estás descansando.
-smell,buffs,Buff,KgNone,Emitting Smell,Odeur,Stinkende Last,,Emanando olor
-smellDesc,buffs,Buff,KgNone,You are carrying something that smells and attracts zombies. Store it in a container.,Vous portez quelque chose dont l'odeur attire les zombies. Placez-le dans un espace de stockage.,"Du trägst etwas bei dir, das stinkt und Zombies anzieht. Bewahre es in einem Behälter auf.",,Llevas algo que emana un olor y atrae a los zombis. Guárdalo en un recipiente.
+smell,buffs,Buff,KgNone,異臭,Emitting Smell,Stinkende Last,,Emanando olor
+smellDesc,buffs,Buff,KgNone,ゾンビを惹きつける臭いを持っています。容器に保管しましょう。,You are carrying something that smells and attracts zombies. Store it in a container.,"Du trägst etwas bei dir, das stinkt und Zombies anzieht. Bewahre es in einem Behälter auf.",,Llevas algo que emana un olor y atrae a los zombis. Guárdalo en un recipiente.
 smellTooltip,buffs,Buff,KgNone,You are carrying something that smells and attracts zombies. Store it in a container.,Vous portez quelque chose dont l'odeur attire les zombies. Placez-le dans un espace de stockage.,"Du trägst etwas bei dir, das stinkt und Zombies anzieht. Bewahre es in einem Behälter auf.",,Llevas algo que emana un olor y atrae a los zombis. Guárdalo en un recipiente.
 smelly,buffs,Buff,KgNone,臭い,Smelly,Stinker,,Apestoso
 smellyDesc,buffs,Buff,KgNone,臭いよ。,You stink.,Du stinkst.,,Apestas.
 smellyTooltip,buffs,Buff,KgNone,You stink.,Vous puez.,Du stinkst.,,Apestas.
-splintedLeg,buffs,Buff,KgNone,Splinted Leg,Jambe sous attelle,Geschientes Bein,,Pierna entablillada
-splintedLegDesc,buffs,Buff,KgNone,Your leg is splinted. Give it time to heal. Avoid jumping from heights as splints do not protect against reinjuring your leg.,Votre jambe porte une attelle. Laissez-lui le temps de guérir. Évitez de sauter de haut car les attelles ne vous protègent pas contre de nouvelles blessures à la jambe.,"Dein Bein ist geschient. Gib ihm Zeit zum Heilen. Vermeide es, von Höhen herabzuspringen, denn Schienen schützen dein Bein nicht vor einer neuen Verletzung.",,Tu pierna está entablillada. Dale tiempo para que se cure. Evita saltar desde sitios altos ya que usar una tablilla no quiere decir que no te puedas volver a lastimar la pierna.
+splintedLeg,buffs,Buff,KgNone,スプリント,Splinted Leg,Geschientes Bein,,Pierna entablillada
+splintedLegDesc,buffs,Buff,KgNone,足を添え木で固定しました。治るには時間がかかります。足を痛めなくなるわけではないので、高所から飛び降りるところは避けてください。,Your leg is splinted. Give it time to heal. Avoid jumping from heights as splints do not protect against reinjuring your leg.,"Dein Bein ist geschient. Gib ihm Zeit zum Heilen. Vermeide es, von Höhen herabzuspringen, denn Schienen schützen dein Bein nicht vor einer neuen Verletzung.",,Tu pierna está entablillada. Dale tiempo para que se cure. Evita saltar desde sitios altos ya que usar una tablilla no quiere decir que no te puedas volver a lastimar la pierna.
 splintedLegTooltip,buffs,Buff,KgNone,Your leg is splinted. Give it time to heal.,Votre jambe porte une attelle. Laissez-lui le temps de guérir.,Dein Bein ist geschient. Gib ihm Zeit zum Heilen.,,Tu pierna está entablillada. Dale tiempo para que se cure.
-sprainedLeg,buffs,Buff,KgNone,Sprained Leg,Entorse à la jambe,Verstauchtes Bein,,Esguince
-sprainedLegDesc,buffs,Buff,KgNone,Your leg is sprained and slowing you down. You should craft and apply a splint to heal it.,Vous souffrez d'une entorse à la jambe qui vous ralentit. Vous devriez fabriquer une attelle et la poser pour la soigner.,"Dein Bein ist verstaucht und macht dich langsamer. Du solltest eine Schiene fertigen und verwenden, damit es heilen kann.",,Tu esguince te está ralentizando. Deberías fabricar una tablilla y colocártela para que se cure.
+sprainedLeg,buffs,Buff,KgNone,捻挫,Sprained Leg,Verstauchtes Bein,,Esguince
+sprainedLegDesc,buffs,Buff,KgNone,足の捻挫で減速しています。添え木([00ff00]Splint[-])を作って患部を固定すべきです。,Your leg is sprained and slowing you down. You should craft and apply a splint to heal it.,"Dein Bein ist verstaucht und macht dich langsamer. Du solltest eine Schiene fertigen und verwenden, damit es heilen kann.",,Tu esguince te está ralentizando. Deberías fabricar una tablilla y colocártela para que se cure.
 sprainedLegTooltip,buffs,Buff,KgNone,Your leg is sprained. You need a splint to heal it faster.,Vous souffrez d'une entorse à la jambe. Il vous faut une attelle pour la soigner plus vite.,"Dein Bein ist verstaucht. Du brauchst eine Schiene, damit es schneller heilt.",,Tienes un esguince. Necesitas una tablilla para que se cure más rápido.
 steroids,buffs,Buff,KgNone,ステロイド,Steroids,Steroide,,Esteroides
 steroidsDesc,buffs,Buff,KgNone,腫れを抑え、感染の症状を鎮めます。,Reduces swelling and suppresses the symptoms of infection.,Verringert Schwellungen und unterdrückt die Symptome von Infektionen.,,Reducen la hinchazón y eliminan los síntomas de la infección.
 steroidsTooltip,buffs,Buff,KgNone,Reduces swelling and suppresses the symptoms of infection.,Réduit le gonflement et contient les symptômes de l'infection.,Verringert Schwellungen und unterdrückt die Symptome von Infektionen.,,Reducen la hinchazón y eliminan los síntomas de la infección.
-stewWarming,buffs,Buff,KgNone,美味しくて温まるシチュー,A nice hot stew,"Ein guter, warmer Eintopf",,Un rico estofado.
+stewWarming,buffs,Buff,KgNone,シチューでほっこり,A nice hot stew,"Ein guter, warmer Eintopf",,Un rico estofado.
 stewWarmingDesc,buffs,Buff,KgNone,寒い冬の夜を温まるには、うってつけです。,Just the thing to warm you up on a cold winter's nights.,"Genau das Richtige, um dich in einer kalten Winternacht aufzuwärmen.",,Perfecto para calentarte en las frías noches invernales.
 stewWarmingTooltip,buffs,Buff,KgNone,"Your heart, soul, and the rest of you already feel warmer.","Votre cœur, votre âme et votre corps sont déjà réchauffés.","Dein Herz, deine Seele und der Rest von dir fühlen sich bereits wärmer.",,"Sientes más calidez en el corazón, alma y cuerpo."
-stunned,buffs,Buff,KgNone,Stunned,Étourdissement,Gelähmt,,Aturdido
-stunnedDesc,buffs,Buff,KgNone,You are stunned,Vous subissez un étourdissement.,Du bist gelähmt.,,Estás aturdido.
+stunned,buffs,Buff,KgNone,気絶,Stunned,Gelähmt,,Aturdido
+stunnedDesc,buffs,Buff,KgNone,気絶しています。,You are stunned,Du bist gelähmt.,,Estás aturdido.
 stunnedTooltip,buffs,Buff,KgNone,You are stunned,Vous subissez un étourdissement.,Du bist gelähmt.,,Estás aturdido.
-thirsty,buffs,Buff,KgNone,Thirsty,Soif,Durstig,,Sediento
-thirsty2,buffs,Buff,KgNone,Dehydrated,Déshydratation,Dehydriert,,Deshidratado
-thirstyDesc,buffs,Buff,KgNone,You are thirsty. Drink fluids.,Vous avez soif. Buvez.,Du bist durstig. Trinke Flüssigkeit.,,Tienes sed. Bebe líquidos.
+thirsty,buffs,Buff,KgNone,渇き,Thirsty,Durstig,,Sediento
+thirsty2,buffs,Buff,KgNone,脱水症,Dehydrated,Dehydriert,,Deshidratado
+thirstyDesc,buffs,Buff,KgNone,喉が渇いています。水分をとりましょう。,You are thirsty. Drink fluids.,Du bist durstig. Trinke Flüssigkeit.,,Tienes sed. Bebe líquidos.
 thirstyTooltip,buffs,Buff,KgNone,You are thirsty. Drink fluids.,Vous avez soif. Buvez.,Du bist durstig. Trinke Flüssigkeit.,,Tienes sed. Bebe líquidos.
-warmByFire,buffs,Buff,KgNone,Warmed By A Fire,Chaleur du feu,Vom Feuer gewärmt,,El fuego te calienta
-warmByFireDesc,buffs,Buff,KgNone,You feel warm by the fire.,Le feu vous réchauffe.,Das Feuer wärmt dich.,,Estás calentito junto al fuego.
+warmByFire,buffs,Buff,KgNone,暖かい,Warmed By A Fire,Vom Feuer gewärmt,,El fuego te calienta
+warmByFireDesc,buffs,Buff,KgNone,火の近くにいるので暖かく感じます。,You feel warm by the fire.,Das Feuer wärmt dich.,,Estás calentito junto al fuego.
 warmByFireTooltip,buffs,Buff,KgNone,You feel warm by the fire.,Le feu vous réchauffe.,Das Feuer wärmt dich.,,Estás calentito junto al fuego.
-wellness,buffs,Buff,KgNone,Gain Wellness,Gain en bien-être,Erhalte Wohlbefinden,,Aumenta el bienestar
-wellnessDesc,buffs,Buff,KgNone,You are gaining health.,Votre santé s'améliore.,Du erhältst Gesundheit.,,Estás recobrando salud.
-wellnessSmallGain,buffs,Buff,KgNone,Wellness Improved,Bien-être augmenté,Wohlbefinden hat sich verbessert,,Bienestar mejorado
-wellnessSmallGainDesc,buffs,Buff,KgNone,Your wellness has improved.,Votre bien-être a augmenté.,Dein Wohlbefinden hat sich verbessert.,,Tu bienestar ha mejorado.
+wellness,buffs,Buff,KgNone,健康増進,Gain Wellness,Erhalte Wohlbefinden,,Aumenta el bienestar
+wellnessDesc,buffs,Buff,KgNone,より健康的になっています。,You are gaining health.,Du erhältst Gesundheit.,,Estás recobrando salud.
+wellnessSmallGain,buffs,Buff,KgNone,健康改善,Wellness Improved,Wohlbefinden hat sich verbessert,,Bienestar mejorado
+wellnessSmallGainDesc,buffs,Buff,KgNone,健康が改善されています。,Your wellness has improved.,Dein Wohlbefinden hat sich verbessert.,,Tu bienestar ha mejorado.
 wellnessSmallGainTooltip,buffs,Buff,KgNone,Your wellness has improved.,Votre bien-être a augmenté.,Dein Wohlbefinden hat sich verbessert.,,Tu bienestar ha mejorado.
 wellnessTooltip,buffs,Buff,KgNone,You are gaining health.,Votre santé s'améliore.,Du erhältst Gesundheit.,,Estás recobrando salud.
-wet,buffs,Buff,KgNone,Wetness,Humidité,Nässe,,Mojado
-wetDesc,buffs,Buff,KgNone,You are wet which will make you colder. This may or may not be a good thing.,"L'humidité va vous refroidir. Cela peut être une bonne chose, ou pas.","Du bist nass, wodurch dir kälter wird. Das kann eine gute Sache sein. Oder auch nicht.",,"Estás mojado, lo que te hace estar frío. Esto puede ser algo bueno, o todo lo contrario"
+wet,buffs,Buff,KgNone,,Wetness,Nässe,,Mojado
+wetDesc,buffs,Buff,KgNone,濡れているので体が冷えます。これは良いことかもしれないし、良くないことかもしれません。,You are wet which will make you colder. This may or may not be a good thing.,"Du bist nass, wodurch dir kälter wird. Das kann eine gute Sache sein. Oder auch nicht.",,"Estás mojado, lo que te hace estar frío. Esto puede ser algo bueno, o todo lo contrario"
 wetTooltip,buffs,Buff,KgNone,You are wet.,Vous êtes humide.,Du bist nass.,,Estás mojado.
 yuccaJuiceCooling,buffs,Buff,KgNone,クールドリンク,Cool Drink,Kühles Getränk,,Bebida fría
 yuccaJuiceCoolingDesc,buffs,Buff,KgNone,涼しく感じます。,You feel cooler.,Du fühlst dich kühler.,,Te sientes más fresco.
@@ -3713,13 +3713,13 @@ mineCookingPotDesc,blocks,Trap,New,Can you smell what this survivor is cooking? 
 steelLogSpike6,blocks,Trap,New,Steel Log Spike 6,,Stahlspitze 6,,
 chemistryStation,blocks,Workstation,New,Chemistry Station,,Chemietisch,,
 chemistryStationDesc,blocks,Workstation,New,With the proper equipment you can work far more efficiently than on a campfire.,,Mit der richtigen Ausrüstung kannst du effektiver arbeiten als mit einem Messbecher am Lagerfeuer.,,
-BDKWarning,buffs,Buff,New,Blood Loss,,,,
-BDKWarningDesc,buffs,Buff,New,You are feeling weak from the blood loss.,,,,
-blockBurnEffectDesc,buffs,Buff,New,This is hot! Do not just stand here!,,,,
-blockBurnEffectName,buffs,Buff,New,Hot!,,,,
+BDKWarning,buffs,Buff,New,失血,Blood Loss,,,
+BDKWarningDesc,buffs,Buff,New,失血で体が弱っているのを感じます。,You are feeling weak from the blood loss.,,,
+blockBurnEffectDesc,buffs,Buff,New,熱いです！ここにじっと立っていてはいけません！,This is hot! Do not just stand here!,,,
+blockBurnEffectName,buffs,Buff,New,熱い！,Hot!,,,
 blockBurnEffectTooltip,buffs,Buff,New,Hot! Hot! Hot! Do not just stand here!,,,,
-bluePillBuffDesc,buffs,Buff,New,You chose the blue pill. Inconveniences like hunger won't bother you any more. Use the Red Pill to debuff.,,,,
-bluePillBuffName,buffs,Buff,New,Blue Pill,,,,
+bluePillBuffDesc,buffs,Buff,New,青い薬を服用しました。もう飢えのような不便さを気にすることはありません。,You chose the blue pill. Inconveniences like hunger won't bother you any more. Use the Red Pill to debuff.,,,
+bluePillBuffName,buffs,Buff,New,青い薬,Blue Pill,,,
 bluePillBuffTooltip,buffs,Buff,New,Use the Red Pill to debuff.,,,,
 megaCrushBuffDesc,buffs,Buff,New,メガクラッシュで敵を叩き潰す！電解質がスタミナを与えてくれます！,Crush your enemies with Mega Crush! It's got electrolytes!,,,
 megaCrushBuffName,buffs,Buff,New,メガクラッシュ！,Mega Crush!,,,
@@ -3729,11 +3729,11 @@ painkillersBuffTooltip,buffs,Buff,New,You took painkillers.,Vous avez pris des a
 shockedBuffDesc,buffs,Buff,New,You are shocked.,,,,
 shockedBuffName,buffs,Buff,New,Shocked,,,,
 shockedBuffTooltip,buffs,Buff,New,You are shocked.,,,,
-snowberryPoisonDesc,buffs,Buff,New,Borderline edible means don't eat too much of this at once.,,,,
-snowberryPoisonName,buffs,Buff,New,Snowberry Poisoning,,,,
+snowberryPoisonDesc,buffs,Buff,New,中毒にならない食べ方は、一度に食べすぎないことです。,Borderline edible means don't eat too much of this at once.,,,
+snowberryPoisonName,buffs,Buff,New,スノーベリー中毒,Snowberry Poisoning,,,
 snowberryPoisonTooltip,buffs,Buff,New,You are not feeling well.,,,,
-snowberryWarmingDesc,buffs,Buff,New,Great for cold days but treat with caution.,,,,
-snowberryWarmingName,buffs,Buff,New,Cold Resistence,,,,
+snowberryWarmingDesc,buffs,Buff,New,寒い日は大丈夫ですが、食用には注意が必要です。,Great for cold days but treat with caution.,,,
+snowberryWarmingName,buffs,Buff,New,耐寒,Cold Resistence,,,
 snowberryWarmingTooltip,buffs,Buff,New,The cold has lost some sting.,,,,
 trapDamage1EffectDesc,buffs,Buff,New,You are taking damage from a trap. Move away!,,,,
 trapDamage1EffectName,buffs,Buff,New,罠,Trap Damage,,,
@@ -4905,6 +4905,6 @@ xuiExpires,UI,Menu,New,Expires,,,,
 inpActGuiLeftclick,UI,Controls Dialog,,UI primary click,,,,
 inpActGuiRightclick,UI,Controls Dialog,,UI secondary click,,,,
 ttBedrollGone,UI,Tooltip,New,Your bedroll is gone,,Dein Schlafsack ist verschwunden,,
-extinguishFireBuffName,buffs,Buff,New,Extinguish Fire,,Lösche Feuer,,
-extinguishFireBuffDesc,buffs,Buff,New,If you happen to be on fire then this will put out the fire and prevent another while the buff remains active.,,Solltest Du in Flammen stehen dann löscht dies das Feuer und verhindert ein neues solange der Effekt aktiv ist.,,
+extinguishFireBuffName,buffs,Buff,New,消火,Extinguish Fire,Lösche Feuer,,
+extinguishFireBuffDesc,buffs,Buff,New,もし火が燃え移ったのなら、もうすぐ火は消えるでしょう。火の中に入って燃え移ることも防いでくれます。,If you happen to be on fire then this will put out the fire and prevent another while the buff remains active.,Solltest Du in Flammen stehen dann löscht dies das Feuer und verhindert ein neues solange der Effekt aktiv ist.,,
 DroppedLootContainer,entityclasses,Entity Info,New,Dropped Loot,,,,
