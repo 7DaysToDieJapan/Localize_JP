@@ -904,7 +904,7 @@ snow,blocks,Terrain,KgNone,Snow,Neige,Schnee,,Nieve
 sod,blocks,Terrain,KgNone,Sod,Motte,Rasenstück,,Césped
 sodDesc,blocks,Terrain,KgNone,Mix plant fibers into the dirt to gain toughness. Allow some time to dry.,Mélangez des fibres végétales avec de la terre pour plus de solidité. Laissez sécher.,"Mische Pflanzenfasern in die Erde, um für mehr Härte zu sorgen. Braucht etwas Zeit zum Trocknen.",,Mezcla fibra vegetal con la tierra para obtener mayor dureza. Déjalo secar por un momento.
 stone,blocks,Terrain,KgNone,Stone,Pierre,Stein,nagh,Piedra
-stoneDesc,blocks,Terrain,KgNone,Like rocks. Only bigger.,"C'est comme des cailloux, mais plus gros.",Wie kleine Steine. Nur größer.,,"Como rocas, pero más grandes."
+stoneDesc,blocks,Terrain,KgNone,岩のようです。大きいだけです。,Like rocks. Only bigger.,Wie kleine Steine. Nur größer.,,"Como rocas, pero más grandes."
 waterSource8,blocks,Terrain,KgNone,Water Source8,Source d'eau 8,Wasserquelle 8,,Fuente de agua 8
 barbedFence,blocks,Trap,KgNone,Barbed Wire Fence,Clôture en barbelé,Stacheldrahtzaun,,Alambrada de púas
 barbedWireSheet,blocks,Trap,KgNone,Barbed Wire,Barbelé,Stacheldraht,,Cable con pinchos
