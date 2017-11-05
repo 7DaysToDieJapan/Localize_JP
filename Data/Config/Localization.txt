@@ -170,7 +170,7 @@ signShopToolStoreLargeWallLit,blocks,Sign,GrChanged,Sign Shop Tool Store Large W
 signShopToolStoreLit,blocks,Sign,GrChanged,Sign Shop Tool Store Lit,Panneau éclairé de magasin de jouets,"Werkzeugladenschild, erleuchtet",,Letrero de tienda Tienda de herramientas Encendido
 signShopToolStoreWall,blocks,Sign,GrChanged,Sign Shop Tool Store Wall,Panneau mural de magasin de jouets,"Werkzeugladenschild, Wand",,Letrero de tienda Tienda de herramientas Pared
 signShopToolStoreWallLit,blocks,Sign,GrChanged,Sign Shop Tool Store Wall Lit,Panneau mural éclairé de magasin de jouets,"Werkzeugladenschild, erleuchtet, Wand",,Letrero de tienda Tienda de herramientas Pared Encendido
-snowDesc,blocks,Terrain,GrChanged,Snow is another source of water. Melt it at a campfire if you have some empty cans or jars.,La neige peut être une source d'eau. Faites-la fondre au feu de camp si vous avez des conserves ou des bocaux vides.,"Schnee kann an einem Lagerfeuer geschmolzen werden, wenn du ein paar leere Dosen oder Gläser hast.",,La nieve es otra fuente de agua. Derrítela en una fogata si tienes latas o tarros vacíos.
+snowDesc,blocks,Terrain,GrChanged,雪はもう一つの水源です。 空の缶やビンがあればキャンプファイヤーで溶かしてください。,Snow is another source of water. Melt it at a campfire if you have some empty cans or jars.,"Schnee kann an einem Lagerfeuer geschmolzen werden, wenn du ein paar leere Dosen oder Gläser hast.",,La nieve es otra fuente de agua. Derrítela en una fogata si tienes latas o tarros vacíos.
 leatherDuster,items,Clothes,GrChanged,Leather Duster,Long manteau en cuir,Ledermantel,,Gabardina de cuero
 baconAndEggsDesc,items,Food,GrChanged,Bacon and eggs will really fill you up and boost your wellness. Cholesterol is the least of your worries now.,Le bacon et les œufs vous rempliront l'estomac et amélioreront votre bien-être. Le cholestérol est le cadet de vos soucis à présent.,Schinkenspeck mit Eiern wird dich richtig satt machen und dein Wohlbefinden erhöhen. Cholesterin ist jetzt dein kleinstes Problem.,,Los huevos con tocino te saciarán e incrementarán tu bienestar. El colesterol es el último de tus problemas en estos momentos.
 betterLeadThanDeadDesc,progression,Perk,GrChanged,This is my rifle. There are many like it but this one does more damage with every rank.,"Voici mon fusil. Il en existe beaucoup comme ça, mais celui-ci inflige de plus en plus de dégâts au fil des rangs.","Dies ist mein Gewehr. Es gibt viele wie dieses, aber dieses hier verursacht mit jedem Rang mehr Schaden.",,"Este es mi rifle. Hay muchos otros, pero este inflige más daño con cada nivel."
@@ -868,14 +868,14 @@ signShopToolStoreLarge,blocks,Sign,KgNone,Sign Shop Tool Store Large,Grand panne
 signSpillwayLake,blocks,Sign,KgNone,Sign Spillway Lake,Panneau Spillway Lake,Schild – Hochwasserentlastung,,Señal Lago vertedero
 air,blocks,Terrain,KgNone,Air,Air,Luft,,Aire
 asphalt,blocks,Terrain,KgNone,Asphalt,Asphalte,Asphalt,,Asfalto
-asphaltDesc,blocks,Terrain,KgNone,Asphalt is made in a cement mixer and is a common material for building or repairing roads.,L'asphalte se prépare dans une bétonnière et représente un matériau commun pour la construction ou la réparation des routes.,"Asphalt wird in einem Zementmischer hergestellt und dient gewöhnlich dazu, Straßen zu bauen oder zu reparieren.",,El asfalto se hace en un mezclador de cemento y es un material común para construir o reparar carreteras.
+asphaltDesc,blocks,Terrain,KgNone,アスファルトはセメントミキサーで製造され、道路の建設や修理のための共通の材料です。,Asphalt is made in a cement mixer and is a common material for building or repairing roads.,"Asphalt wird in einem Zementmischer hergestellt und dient gewöhnlich dazu, Straßen zu bauen oder zu reparieren.",,El asfalto se hace en un mezclador de cemento y es un material común para construir o reparar carreteras.
 burntForestGround,blocks,Terrain,KgNone,Burnt Forest Ground,Sol de forêt brûlée,Verbrannter Waldboden,,Superficie forestal quemada
-burntForestGroundDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain in the proper shade of soot.,Remplacez les morceaux de terrain manquants par de la suie.,Ersetze fehlende Terrainstücke in der richtigen Rußfarbe.,,Reemplaza las piezas de terreno que falten con el tono de hollín correspondiente.
+burntForestGroundDesc,blocks,Terrain,KgNone,不足している地形を、適切なススの色合いに置き換えます。,Replace missing pieces of terrain in the proper shade of soot.,Ersetze fehlende Terrainstücke in der richtigen Rußfarbe.,,Reemplaza las piezas de terreno que falten con el tono de hollín correspondiente.
 clay,blocks,Terrain,KgNone,Clay,Argile,Lehm,,Arcilla
 coalOre,blocks,Terrain,KgNone,Coal Ore,Minerai de charbon,Kohlenerz,,Mineral de carbón
 copperOre,blocks,Terrain,KgNone,Copper Ore,Minerai de cuivre,Kupfererz,,Mineral de cobre
 desertGround,blocks,Terrain,KgNone,Desert Ground,Terrain désert,Wüstenboden,,Suelo desierto
-desertGroundDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain in the proper shade of sand.,Remplacez les morceaux de terrain manquants par du sable de la bonne couleur.,Ersetze fehlende Terrainstücke in der richtigen Sandfarbe.,,Reemplaza las piezas de terreno que falten con el tono de arena correspondiente.
+desertGroundDesc,blocks,Terrain,KgNone,不足している地形を適切な砂地で置き換えます。,Replace missing pieces of terrain in the proper shade of sand.,Ersetze fehlende Terrainstücke in der richtigen Sandfarbe.,,Reemplaza las piezas de terreno que falten con el tono de arena correspondiente.
 destroyedStone,blocks,Terrain,KgNone,Destroyed Stone,Pierre détruite,Zerstörter Stein,,Piedra destruida
 dirt,blocks,Terrain,KgNone,Dirt,Terre,Erde,,Suciedad
 fertileDirt,blocks,Terrain,KgNone,Fertile Dirt,Terre fertile,Fruchtbare Erde,,Tierra fértil
@@ -883,26 +883,26 @@ fertileDirtDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain. Eventua
 fertileFarmland,blocks,Terrain,KgNone,Fertile Farmland,Terre cultivable,Fruchtbares Ackerland,,Tierra de cultivo fértil
 fertileGrass,blocks,Terrain,KgNone,Fertile Grass,Herbe fertile,Fruchtbares Gras,,Hierba fértil
 forestGround,blocks,Terrain,KgNone,Forest Ground,Sol de forêt,Waldboden,,Superficie forestal
-forestGroundDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain in the proper shade of green.,Remplacez les morceaux de terrain manquants par de la verdure.,Ersetze fehlende Terrainstücke mit dem richtigen Grünton.,,Reemplaza las piezas de terreno que falten con el tono de césped correspondiente.
+forestGroundDesc,blocks,Terrain,KgNone,不足している地形を適切な緑地で置き換えます。,Replace missing pieces of terrain in the proper shade of green.,Ersetze fehlende Terrainstücke mit dem richtigen Grünton.,,Reemplaza las piezas de terreno que falten con el tono de césped correspondiente.
 grass,blocks,Terrain,KgNone,Grassy Ground,Terrain herbeux,Grasboden,,Suelo de hierba
 grassDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain in the proper shade of green.,Remplacez les morceaux de terrain manquants par de la verdure.,Ersetze fehlende Terrainstücke mit dem richtigen Grünton.,,Reemplaza las piezas de terreno que falten con el tono de césped correspondiente.
 gravel,blocks,Terrain,KgNone,Gravel,Gravier,Kies,,Grava
-gravelDesc,blocks,Terrain,KgNone,This is gravel. Like rocks. Only smaller.,"Ceci est du gravier. C'est comme des cailloux, mais plus petit.",Das ist Kies. Wie Steine. Nur kleiner.,,"Esto es grava. Como rocas, pero más pequeñas."
+gravelDesc,blocks,Terrain,KgNone,これは砂利です。岩に似ています。小さいだけです。,This is gravel. Like rocks. Only smaller., mais plus petit.",Das ist Kies. Wie Steine. Nur kleiner.,,"Esto es grava. Como rocas, pero más pequeñas."
 hardSod,blocks,Terrain,KgNone,Hard Sod,Motte dure,Hartes Rasenstück,,Césped duro
 ice,blocks,Terrain,KgNone,Ice,Glace,Eis,,Hielo
 ironOre,blocks,Terrain,KgNone,Iron Ore,Minerai de fer,Eisenerz,,Mineral de hierro
 leadOre,blocks,Terrain,KgNone,Lead Ore,Minerai de plomb,Bleierz,,Mineral de plomo
 oilDeposit,blocks,Terrain,KgNone,Oil Deposit,Gisement de pétrole,Ölablagerung,,Depósito de aceite
 plainsGround,blocks,Terrain,KgNone,Plains Ground,Sol de plaine,Ebenenboden,,Llanuras
-plainsGroundDesc,blocks,Terrain,KgNone,Replace missing pieces of terrain in the proper shade of green.,Remplacez les morceaux de terrain manquants par de la verdure.,Ersetze fehlende Terrainstücke mit dem richtigen Grünton.,,Reemplaza las piezas de terreno que falten con el tono de césped correspondiente.
+plainsGroundDesc,blocks,Terrain,KgNone,不足している地形を適切な緑地で置き換えます。,Replace missing pieces of terrain in the proper shade of green.,Ersetze fehlende Terrainstücke mit dem richtigen Grünton.,,Reemplaza las piezas de terreno que falten con el tono de césped correspondiente.
 potassiumNitrate,blocks,Terrain,KgNone,Potassium Nitrate,Nitrate de potassium,Kaliumnitrat,,Nitrato de potasio
 radiated,blocks,Terrain,KgNone,Radiated Earth,Terre irradiée,Radioaktive Erde,,Tierra irradiada
 sand,blocks,Terrain,KgNone,Sand,Sable,Sand,,Arena
-sandDesc,blocks,Terrain,KgNone,Like rocks... Only much smaller.,Comme des cailloux... mais beaucoup plus petit.,Wie Steine … nur viel kleiner.,,Como rocas... Pero más pequeñas.
+sandDesc,blocks,Terrain,KgNone,岩に似ています...はるかに小さいだけです。,Like rocks... Only much smaller.,Wie Steine … nur viel kleiner.,,Como rocas... Pero más pequeñas.
 sandStone,blocks,Terrain,KgNone,Sandstone,Grès,Sandstein,,Arenisca
 snow,blocks,Terrain,KgNone,Snow,Neige,Schnee,,Nieve
 sod,blocks,Terrain,KgNone,Sod,Motte,Rasenstück,,Césped
-sodDesc,blocks,Terrain,KgNone,Mix plant fibers into the dirt to gain toughness. Allow some time to dry.,Mélangez des fibres végétales avec de la terre pour plus de solidité. Laissez sécher.,"Mische Pflanzenfasern in die Erde, um für mehr Härte zu sorgen. Braucht etwas Zeit zum Trocknen.",,Mezcla fibra vegetal con la tierra para obtener mayor dureza. Déjalo secar por un momento.
+sodDesc,blocks,Terrain,KgNone,植物繊維を泥に混ぜて強靭にしてください。乾燥に少し時間を置いてください。,Mix plant fibers into the dirt to gain toughness. Allow some time to dry.. Laissez sécher.,"Mische Pflanzenfasern in die Erde, um für mehr Härte zu sorgen. Braucht etwas Zeit zum Trocknen.",,Mezcla fibra vegetal con la tierra para obtener mayor dureza. Déjalo secar por un momento.
 stone,blocks,Terrain,KgNone,Stone,Pierre,Stein,nagh,Piedra
 stoneDesc,blocks,Terrain,KgNone,岩に似ています。ただ大きいだけです。,Like rocks. Only bigger.,Wie kleine Steine. Nur größer.,,"Como rocas, pero más grandes."
 waterSource8,blocks,Terrain,KgNone,Water Source8,Source d'eau 8,Wasserquelle 8,,Fuente de agua 8
@@ -3703,11 +3703,11 @@ signShopOpen,blocks,Sign,New,Shop Sign: Open,,Ladenschild: Geöffnet,,
 signShopTraderJoel1x3Wall,blocks,Sign,New,Trader Joel Sign 3x1m,,Händler Joel Schild 3x1m,,
 signShopTraderJoel2x5Wall,blocks,Sign,New,Trader Joel Sign 2x5m,,Händler Joel Schild 2x5m,,
 sleeperSit,blocks,SleeperSpawn,New,sleeper Sitting,,,,
-destroyedStoneDesc,blocks,Terrain,New,Destroyed stone can be crafted quickly to fill a hole but it is not very stable.,,,,
+destroyedStoneDesc,blocks,Terrain,New,破壊された石は穴を埋めるために素早く作成することができますが、あまり安定しません。,Destroyed stone can be crafted quickly to fill a hole but it is not very stable.,,,
 diamondOre,blocks,Terrain,New,Diamond Deposit,,Diamantenvorkommen,,
 goldOre,blocks,Terrain,New,Gold Ore,,Golderz,,
 silverOre,blocks,Terrain,New,Silver Ore,,Silbererz,,
-terrainBlockGroupDesc,blocks,Terrain,New,A terrain block from the creative menu.,,,,
+terrainBlockGroupDesc,blocks,Terrain,New,クリエイティブメニューからの地形ブロックです。,A terrain block from the creative menu.,,,
 mineCookingPot,blocks,Trap,New,Cooking Pot Mine,,,,
 mineCookingPotDesc,blocks,Trap,New,Can you smell what this survivor is cooking? It probably isn't healthy.,,,,
 steelLogSpike6,blocks,Trap,New,Steel Log Spike 6,,Stahlspitze 6,,
