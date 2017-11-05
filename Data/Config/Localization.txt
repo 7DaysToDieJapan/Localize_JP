@@ -68,8 +68,8 @@ rock09,blocks,Block,EnChanged GrChanged KgNone,Small Rock 09,Petite pierre,Klein
 rock10,blocks,Block,EnChanged GrChanged KgNone,Small Rock 10,Petite pierre,Kleiner Stein 10,,Piedra pequeña
 rock11,blocks,Block,EnChanged GrChanged KgNone,Small Rock 11,Petite pierre,Kleiner Stein 11,,Piedra pequeña
 rock12,blocks,Block,EnChanged GrChanged KgNone,Small Rock 12,Petite pierre,Kleiner Stein 12,,Piedra pequeña
-craftSkillArmor,progression,Skill,EnChanged KeyChanged,Armor Crafting,Forgeron d'armures,Rüstungsschmied,,Forjar armaduras
-craftSkillArmorDesc,progression,Skill,EnChanged KeyChanged,"Craft armor and clothes faster and at better quality while repairing them more efficiently. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.",,"Fertige Rüstungen und Kleidung schneller und von besserer Qualität und repariere sie zugleich effizienter. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,
+craftSkillArmor,progression,Skill,EnChanged KeyChanged,鎧の製造,Armor Crafting,Rüstungsschmied,,Forjar armaduras
+craftSkillArmorDesc,progression,Skill,EnChanged KeyChanged,鎧と衣服をより速く良品質で作れるようになるのと同時に、より効率的に修理ができるようになります。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、名人レベルまで上げましょう。,"Craft armor and clothes faster and at better quality while repairing them more efficiently. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Fertige Rüstungen und Kleidung schneller und von besserer Qualität und repariere sie zugleich effizienter. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,
 candleTable,blocks,Block,EnChanged KgNone,Candle Table (POI),Bougie,Kerze Freistehend (POI),,Vela
 candleWall,blocks,Block,EnChanged KgNone,Candle Wall (POI),Bougie,Kerze mit Wandhalterung (POI),,Vela
 candleTablePlayer,blocks,Block,New,Candle Table,Bougie,Kerze Freistehend,,Vela
@@ -185,7 +185,7 @@ brickDestroyedBlock03,blocks,Block,KeyChanged,Brick Destroyed Block 03,Bloc de b
 corrugatedMetalPole,blocks,Block,KeyChanged,Corrugated Metal Pole,Poteau en fer rouillé,Rostiger Eisenpfosten,,Poste de hierro oxidado
 corrugatedMetalStairs25,blocks,Block,KeyChanged,Corrugated Metal Stairs25,Escalier 25 en fer rouillé,Rostige Eisenstufen 25,,Escaleras de hierro oxidadas 25
 craftSkillGuns,progression,Skill,KeyChanged,銃の製造,Forgeron d'armes à feu,Feuerwaffenschmied,,Forjar pistolas
-craftSkillMiscellaneous,progression,Skill,KeyChanged,Misc Crafting,Fabrication diverse,Sonstiger Handwerksmeister,,Fabricación varia
+craftSkillMiscellaneous,progression,Skill,KeyChanged,多様な工芸,Misc Crafting,Sonstiger Handwerksmeister,,Fabricación varia
 craftSkillScience,progression,Skill,KeyChanged,科学,Science,Wissenschaft,,Por la ciencia
 craftSkillTools,progression,Skill,KeyChanged,ツールの鍛造,Tool Smithing,Werkzeugschmied,,Forja de herramientas
 craftSkillWeapons,progression,Skill,KeyChanged,武器の鍛造,Weapon Smithing,Waffenschmied,,Forja de armas
@@ -201,7 +201,7 @@ cntShippingCrateShamway,blocks,Container,KeyChanged EnChanged,Shamway Shipping C
 cntShippingCrateShotgunMessiah,blocks,Container,KeyChanged EnChanged,Shotgun Messiah Shipping Crate,Caisse de provisions Shotgun Messiah,Revolverheld-Frachtkiste,,Caja de suministros de escopeta Mesías
 cntShippingCrateWorkingStiffs,blocks,Container,KeyChanged EnChanged,Working Stiffs Shipping Crate,Caisse de provisions Working Stiffs,Working-Stiffs-Frachtkiste,,Caja de suministros de Working Stiffs
 craftSkillGunsDesc,progression,Skill,KeyChanged EnChanged,修理した時の品質低下を抑え、修理キット([00ff00]Repair Kit[-])１つ当たりの回復量が多くなります。弾薬の製造時間が減少します。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、名人レベルまで上げましょう。,"Decrease repair penalties and get more from repair kits. Reduce ammunition crafting time. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Senke die Reparaturabzüge und hole mehr aus deinen Reparaturkits heraus. Senke die benötigte Zeit, um Munition zu fertigen. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,Disminuye los castigos de reparación y otorga más kits de reparación. Reduce el tiempo de fabricación de munición. Mejora tu habilidad fabricando y reparando objetos de este grupo.
-craftSkillMiscellaneousDesc,progression,Skill,KeyChanged EnChanged,"Craft anything from the Misc Crafting group faster. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.",Fabriquez plus rapidement n'importe quel élément du groupe Fabrication diverse. Obtenez cette compétence en fabriquant et en réparant des objets de ce groupe.,"Fertige alles in der Kategorie „Sonstiges“ schneller.t und reparierst. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,Fabrica cualquier objeto del grupo Fabricación varia más rápido. Mejora tu habilidad fabricando y reparando objetos de este grupo.
+craftSkillMiscellaneousDesc,progression,Skill,KeyChanged EnChanged,多種多様ないろんな物を速く作れるようになります。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、名人レベルまで上げましょう。,"Craft anything from the Misc Crafting group faster. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Fertige alles in der Kategorie „Sonstiges“ schneller.t und reparierst. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,Fabrica cualquier objeto del grupo Fabricación varia más rápido. Mejora tu habilidad fabricando y reparando objetos de este grupo.
 craftSkillScienceDesc,progression,Skill,KeyChanged EnChanged,医薬品、化学薬品、機械部品とこれらの類する罠をより速く良品質で作れるようになります。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、名人レベルまで上げましょう。,"Craft medical, chemical, mechanical and trap items faster and at better quality if applicable. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Fertige medizinische, chemische und mechanische Gegenstände sowie Fallen schneller und von besserer Qualität, falls zutreffend. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,"Cuando aplique, fabrica objetos médicos, químicos, mecánicos y trampas más rápido y con mejor calidad. Mejora tu habilidad fabricando y reparando objetos de este grupo."
 craftSkillToolsDesc,progression,Skill,KeyChanged EnChanged,手持ちと電動ツールをより速く良品質で作れるようになります。修理した時の品質低下を抑え、修理キット([00ff00]Repair Kit[-])１つ当たりの回復量が多くなります。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、名人レベルまで上げましょう。,"Craft handheld and motorized tools faster and at better quality. Decrease repair penalties and get more from repair kits. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Fertige Handwerkzeuge und motorisierte Werkzeuge schneller und von besserer Qualität. Senke die Reparaturabzüge und hole mehr aus deinen Reparaturkits heraus. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,Fabrica herramientas de mano y motorizadas más rápido y de mejor calidad. Disminuye los castigos de reparación y otorga más kits de reparación. Mejora tu habilidad fabricando y reparando objetos de este grupo.
 craftSkillWeaponsDesc,progression,Skill,KeyChanged EnChanged,弓、クロスボウ、各種弾薬と手持ちの近接武器をより速く高品質で作れるようになります。修理した時の品質低下を抑え、修理キット([00ff00]Repair Kit[-])１つ当たりの回復量が多くなります。このパークのレベルを購入して、未熟な初心者、見習い、職人、熟練者、そして名人レベルまで上げましょう。,"Craft bows, crossbows, their ammo and handheld melee weapons faster and with higher quality. Lower repair penalties and get more from repair kits. Buy levels of this perk to increase your skill from Crude to Novice, Apprentice, Journeyman, Professional and Master level.","Fertige Bogen, Armbrüste, die jeweilige Munition und Nahkampfwaffen schneller und von besserer Qualität. Senke die Reparaturabzüge und hole mehr aus deinen Reparaturkits heraus. Kaufe die Fertigkeit um die Qualität von Krud auf Einfach, Lehrling, Geselle, Professionell und Meister zu verbessern.",,"Fabrica arcos, ballestas, su munición y armas cuerpo a cuerpo de mano más rápido y de mejor calidad. Reduce los castigos de reparación y otorga más kits de reparación. Mejora tu habilidad al fabricar y reparar objetos de este grupo."
@@ -3768,13 +3768,13 @@ compoundBowSchematic,items,Book,New,Compound Bow Schematic,,Bauplan – Compound
 compoundBowSchematicDesc,items,Book,New,Learn to craft a compound bow by reading this schematic.,,"In diesem Bauplan erfährst du, wie Compoundbögen gefertigt werden.",,
 nailgunSchematic,items,Book,New,Nailgun Schematic,,,,
 nailgunSchematicDesc,items,Book,New,Learn how to repair and assemble nailguns by reading this schematic.,,,,
-paintMagazineDecorations,items,Book,New,Painting: Decorations,,,,
-paintMagazineFaux,items,Book,New,Painting: Faux,,,,
+paintMagazineDecorations,items,Book,New,塗装: 装飾,Painting: Decorations,,,
+paintMagazineFaux,items,Book,New,塗装: 模写,Painting: Faux,,,
 paintMagazineGroupDesc,items,Book,New,Read this to unlock a new material group in the paint menu.,,Lies dies hier um eine neue Materialgruppe im Farbmenü freizuschalten.,,
-paintMagazineMasonry,items,Book,New,Painting: Masonry,,,,
-paintMagazineMetal,items,Book,New,Painting: Metal,,,,
-paintMagazineWallCoverings,items,Book,New,Painting: Wall Coverings,,,,
-paintMagazineWoodAndRoofing,items,Book,New,Painting: Wood and Roofing,,,,
+paintMagazineMasonry,items,Book,New,塗装: 石造,Painting: Masonry,,,
+paintMagazineMetal,items,Book,New,塗装: 金属,Painting: Metal,,,
+paintMagazineWallCoverings,items,Book,New,塗装: 壁紙,Painting: Wall Coverings,,,
+paintMagazineWoodAndRoofing,items,Book,New,塗装: 木製と屋根ふき材,Painting: Wood and Roofing,,,
 scrapBootsSchematic,items,Book,New,Scrap Boots Schematic,,,,
 scrapChestArmorSchematic,items,Book,New,Scrap Chest Armor Schematic,,,,
 scrapGlovesSchematic,items,Book,New,Scrap Gloves Schematic,,,,
@@ -4106,7 +4106,7 @@ ChemStationPerk,progression,Perk,New,Chemistry Station,,,,
 chemStationPerkDesc,progression,Perk,New,化学作業台([00ff00]Chemistry Station[-])のレシピを解除します。,Unlocks the chemistry station recipe.,,,
 lockpicking,progression,Perk,New,Lock Picking,,,,
 lockpickingDesc,progression,Perk,New,Open locks without alerting deceased home-owners.,,,,
-paintGroupDesc,progression,Perk,New,This skill cannot be purchased with skill points. Find and read magazines to unlock additional painting options.,,,,
+paintGroupDesc,progression,Perk,New,このスキルはスキルポイントで購入できません。雑誌を探して読むことで、追加の塗装が選べるようになります。,This skill cannot be purchased with skill points. Find and read magazines to unlock additional painting options.,,,
 secretStash,progression,Perk,New,Secret Stash,,,,
 secretStashDesc,progression,Perk,New,By increasing this perk traders will show you more and better items from their Secret Stash.,,,,
 badMechanic,progression,Skill,New,未熟な整備士,Bad Mechanic,Einseitiger Mechaniker,,
