@@ -329,7 +329,7 @@
 			<multiply skill_level="90,100" value="1.95,2.00"/>
 		</effect>
 	</action_skill>
-	<perk name="Workbench" icon="resource" description_key="workbenchSkillDesc" title_key="workbench" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="tools">
+	<perk name="Workbench" icon="resource" description_key="workbenchSkillDesc" title_key="workbenchSkill" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="tools">
 		<requirement skill_level="1" required_skill_name="Construction Tools" required_skill_level="15"/>
 		<requirement skill_level="1" required_skill_name="craftSkillTools" required_skill_level="2"/>
 		<recipe name="workbench" unlock_level="1"/>
@@ -349,7 +349,7 @@
 		<recipe name="forgedSteel" unlock_level="1"/>
 		<recipe name="spring" unlock_level="1"/>
 	</perk>
-	<perk name="ChemStationPerk" icon="resource" description_key="chemStationPerkDesc" title_key="chemistryStation" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="tools">
+	<perk name="ChemStationPerk" icon="resource" description_key="chemStationPerkDesc" title_key="ChemStationPerk" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="tools">
 		<requirement skill_level="1" required_skill_name="craftSkillScience" required_skill_level="7"/>
 		<requirement skill_level="1" required_skill_name="craftSkillTools" required_skill_level="3"/>
 		<recipe name="chemistryStation" unlock_level="1"/>
