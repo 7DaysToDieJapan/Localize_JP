@@ -1,6 +1,6 @@
 Key,Source,Context,Changes,English,French,German,Klingon,Spanish
 keystoneBlockDesc,blocks,Block,EnChanged,A land claim block can be placed to protect an area from other players in PVP. The green box shows the size of the area.,Bloc de revendication de terrain à placer pour fournir à la zone autour une protection supplémentaire contre les autres joueurs en JcJ.,Ein Gebietsschutzblock kann platziert werden um einen Bereich vor anderen Spielern im PvP zu schützen. Die grüne Box zeigt die Grösse des Bereichs an.,,Se puede colocar un bloque para reclamar un territorio y darle al área circundante una protección extra frente a otros jugadores en JcJ.
-scrapFrameGroupDesc,blocks,Block,EnChanged,Used for bases. Upgrade & repair with a construction tool & iron. Upgrade more with concrete mix & others.,,Wird für Basen verwendet. Kann mit Eisen und Bauwerkzeugen aufgewertet und repariert werden. Kann mit Betonmischung und geschmiedetem Stahl weiter aufgewertet werden.,,
+scrapFrameGroupDesc,blocks,Block,EnChanged,基礎に使用されます。鉄を伴ったアップグレードと修理を建設ツールで行います。コンクリートミックスなどでさらにアップグレードしてください。,Used for bases. Upgrade & repair with a construction tool & iron. Upgrade more with concrete mix & others.,Wird für Basen verwendet. Kann mit Eisen und Bauwerkzeugen aufgewertet und repariert werden. Kann mit Betonmischung und geschmiedetem Stahl weiter aufgewertet werden.,,
 scrapHatch_v1Desc,blocks,Block,EnChanged,Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action.,,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,
 spotlightNailedDownPOI,blocks,Block,EnChanged,Spotlight (POI),Projecteur fixe,Scheinwerfer (POI),,Foco clavado
 woodFrameGroupDesc,blocks,Block,EnChanged,基礎に使用されます。木材を伴ったアップグレードと修理を建設ツールで行います。鉄、コンクリートミックスなどでさらにアップグレードしてください。,"Used for bases. Upgrade & repair with wood & a construction tool. Upgrade more with iron, concrete mix & others.",Wird für Basen verwendet. Kann mit Holz und Bauwerkzeugen aufgewertet und repariert werden. Kann unter anderem mit Eisen und Betonmischung weiter aufgewertet werden.,,
@@ -554,7 +554,7 @@ scrapIronFrameCNRFull,blocks,Block,KgNone,Scrap Frame Full Corner,Angle complet 
 scrapIronFrameCNRInside,blocks,Block,KgNone,Scrap Frame Inside Corner,Angle intérieur avec structure en ferraille,Alteisenrahmen – Innenecke,,Esquina interior de estructura de chatarra
 scrapIronFrameRamp,blocks,Block,KgNone,Scrap Frame Ramp,Rampe avec structure en ferraille,Alteisenrahmen – Rampe,,Rampa de estructura de chatarra
 scrapIronFrameWedge,blocks,Block,KgNone,Scrap Frame Wedge,Pente avec structure en ferraille,Alteisenrahmen – Schräge,,Cuña de estructura de chatarra
-scrapIronGroupDesc,blocks,Block,KgNone,"While not as sturdy as solid concrete, metal constructions have high structural integrity, requiring fewer support pillars.","N'étant pas aussi solides et robustes que le béton, les constructions en métal sont idéales à la conception des structures et nécessitent moins de piliers.","Metallkonstruktionen sind nicht so stabil wie Massivbeton, doch sie verfügen über eine hohe Standsicherheit und benötigen weniger Stützpfeiler.",,"A pesar de no tener tanta robustez como el hormigón sólido, las construcciones de metal tienen una integridad estructural elevada, por lo que necesitan menos pilares de apoyo."
+scrapIronGroupDesc,blocks,Block,KgNone,“頑丈なコンクリートほど丈夫ではありませんが、金属構造物は高い構造的整合性を持ち、補助柱が少なく済みます”,"While not as sturdy as solid concrete, metal constructions have high structural integrity, requiring fewer support pillars.","Metallkonstruktionen sind nicht so stabil wie Massivbeton, doch sie verfügen über eine hohe Standsicherheit und benötigen weniger Stützpfeiler.",,"A pesar de no tener tanta robustez como el hormigón sólido, las construcciones de metal tienen una integridad estructural elevada, por lo que necesitan menos pilares de apoyo."
 scrapIronPillar100,blocks,Block,KgNone,Scrap Iron Pillar100,Pilier 100 en ferraille,Alteisensäule 100,,Pilar de chatarra de hierro 100
 scrapIronPlate,blocks,Block,KgNone,Scrap Iron Plate,Plaque en ferraille,Alteisenplatte,,Placa de chatarra de hierro
 scrapIronPole,blocks,Block,KgNone,Scrap Iron Pole,Poteau en ferraille,Alteisenpfosten,,Poste de chatarra de hierro
@@ -3431,7 +3431,7 @@ brickCTRpole,blocks,Block,New,brick Pole Centered,,,,
 brickGable,blocks,Block,New,brick Gable,,,,
 brickHalf,blocks,Block,New,brick 1/2 Block,,,,
 brickStairs25,blocks,Block,New,brick Stairs 25,,,,
-buildingBlockGroupDesc,blocks,Block,New,A building block from the creative menu.,,,,
+buildingBlockGroupDesc,blocks,Block,New,クリエイティブメニューからの建築ブロックです,A building block from the creative menu.,,,
 burningBarrelDesc,blocks,Block,New,The burning barrel is an essential prop in every post-apocalyptic setting.,,,,
 cobblestoneArrowSlitHalf,blocks,Block,New,Cobblestone Arrow Slit,,,,
 cobblestoneCNRFull,blocks,Block,New,Cobblestone Full Corner,,,,
@@ -3517,7 +3517,7 @@ morticianDrawer,blocks,Block,New,Mortician's Drawer (No Loot),,Leichenhallen-Sch
 mushroom3Harvest,blocks,Block,New,Mushrooms (Harvestable),,Pilze – Ernte,,
 plantsBlockGroupDesc,blocks,Block,New,A decorative plant block from the creative menu.,,,,
 rConcreteArrowSlitHalf,blocks,Block,New,Reinforced Concrete Arrow Slit,,,,
-rConcreteBlockGroupDesc,blocks,Block,New,Reinforced concrete provides a little explosion resistance and can be upgraded.,,,,
+rConcreteBlockGroupDesc,blocks,Block,New,鉄筋コンクリートは少し爆発耐性がありアップグレードができます。,Reinforced concrete provides a little explosion resistance and can be upgraded.,,,
 rConcreteCNRRound,blocks,Block,New,Reinforced Concrete Corner Round,,,,
 rConcreteCNRRoundTop,blocks,Block,New,Reinforced Concrete Corner Round Top,,,,
 rConcreteCTREighth,blocks,Block,New,rConcrete CTR Eighth,,,,
@@ -3579,7 +3579,7 @@ stainlessSteelSupport,blocks,Block,New,Stainless Steel Support,,,,
 stainlessSteelWedge,blocks,Block,New,Stainless Steel Wedge,,,,
 stainlessSteelWedgeTip,blocks,Block,New,Stainless Steel Wedge Tip,,,,
 steelArrowSlitHalf,blocks,Block,New,Steel Arrow Slit,,,,
-steelBlockGroupDesc,blocks,Block,New,Steel and stainless steel blocks are tough and have additional explosion resistance.,,,,
+steelBlockGroupDesc,blocks,Block,New,スチールとステンレススチールブロックは丈夫で、追加の爆発耐性があります。,Steel and stainless steel blocks are tough and have additional explosion resistance.,,,
 steelCNRRound,blocks,Block,New,Steel Corner Round,,,,
 steelCNRRoundTop,blocks,Block,New,Steel Corner Round Top,,,,
 steelCTRpole,blocks,Block,New,steel Pole Centered,,,,
@@ -4270,8 +4270,8 @@ xuiWPjournal,UI,Quests Window Paging in Game,New,Journal,,,,
 devOnlyGroupDesc,blocks,Block,New,Only use for development and testing.,,,,
 sleeperGroupDesc,blocks,SleeperSpawn,New,"Regular: 20-7% empty, XS 1-2, S 2-4, M 3-7, L 4-9, XL 5-11.  LootRoom: 0% empty, XS 1-2, S 3-4, M 5-7, L 6-9, XL 8-11.  Abandoned: 1, high decoy %",,,,
 spawnTraderDesc,blocks,Block,New,"Navezgane Traders: 1394,1324 / -1052,951 / 318,107 / -771,-1305 / 1002,-1308",,,,
-rebarFrameGroupDesc,blocks,Block,New,Place and upgrade with concrete mix and a construction tool using the secondary action. Upgrade more when dry.,"Sert à construire des bases. Se construit à l'aide de bois, de mélange à béton et d'un outil de construction, et ce grâce à l'action secondaire. Une fois sèche, elle s'améliore à l'aide d'acier forgé.",Kann mit Betonmischung und Bauwerkzeugen unter Verwendung der sekundären Aktion gebaut werden. Werte nach dem Trocknen mit geschmiedetem Stahl weiter auf.,,"Se usa como cimiento. Usa la acción secundaria para construir con madera, mezcla de hormigón y una herramienta de construcción. Mejóralo aún más con acero forjado una vez que esté seco."
-concreteGroupDesc,blocks,Block,New,A very flexible building material. Place and wait for the concrete to set. Can be upgraded to reinforced concrete.,"Offrant une bonne protection, le béton est un matériau de construction très souple qui vous permet de fabriquer de nombreuses formes. Peut être amélioré.",Ein sehr flexibles Baumaterial. Braucht Zeit zum Aushärten. Kann zu verstärktem Beton aufgewertet werden.,,"El hormigón ofrece una buena protección y es un material de construcción muy flexible, por lo que se puede moldear mientras se usa. Se puede mejorar."
+rebarFrameGroupDesc,blocks,Block,New,設置してコンクリートミックスと建設ツールで右クリックでアップグレードしてください。乾燥した時さらにアップグレードしてください。,Place and upgrade with concrete mix and a construction tool using the secondary action. Upgrade more when dry.,Kann mit Betonmischung und Bauwerkzeugen unter Verwendung der sekundären Aktion gebaut werden. Werte nach dem Trocknen mit geschmiedetem Stahl weiter auf.,,"Se usa como cimiento. Usa la acción secundaria para construir con madera, mezcla de hormigón y una herramienta de construcción. Mejóralo aún más con acero forjado una vez que esté seco."
+concreteGroupDesc,blocks,Block,New,非常に柔軟な建築材料です。設置後、コンクリートが乾くのを待ってください。鉄筋コンクリートにアップグレードできます。,"Offrant une bonne protection, le béton est un matériau de construction très souple qui vous permet de fabriquer de nombreuses formes. Peut être amélioré.",Ein sehr flexibles Baumaterial. Braucht Zeit zum Aushärten. Kann zu verstärktem Beton aufgewertet werden.,,"El hormigón ofrece una buena protección y es un material de construcción muy flexible, por lo que se puede moldear mientras se usa. Se puede mejorar."
 ttRepairBeforePickup,UI,Tooltip,New,You must repair this before picking it up.,,,,
 electricBasicsName,progression,Perk,New,電気基礎,Electricity Basics,,,
 electricBasicsDesc,progression,Perk,New,電気機器（ツールや照明、スピーカーなど）のレシピを解除します。,This perk will unlock recipes for electrical devices.,,,
