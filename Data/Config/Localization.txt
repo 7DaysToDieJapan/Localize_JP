@@ -935,7 +935,7 @@ cementMixer,blocks,Workstation,KgNone,Cement Mixer,Bétonnière,Zementmischer,,M
 cementMixerDesc,blocks,Workstation,KgNone,A cement mixer needs a solid foundation and will help you craft materials like concrete or asphalt.,Une bétonnière nécessite une base solide et vous aidera à fabriquer des matériaux comme le béton ou l'asphalte.,Ein Zementmischer benötigt ein stabiles Fundament und dient zur Fertigung von Beton oder Asphalt.,,Una mezcladora de cemento necesita una base sólida. Te ayudará a fabricar materiales como hormigón o asfalto.
 forge,blocks,Workstation,KgNone,Forge,Forge,Schmiede,,Fragua
 forgeDesc,blocks,Workstation,EnChanged,"Used to smelt metals into tools and weapons. Unlock more recipes by adding an anvil, crucible or tool and die set.","Sert à faire fondre des métaux pour en faire des outils ou des armes. Déverrouillez d'autres compositions en ajoutant une enclume, un pied à coulisse ou un lot de matrices et d'outils.","Dient zum Einschmelzen von Metallen für Werkzeuge und Waffen. Schalte mehr Rezepte frei, indem du einen Amboss, einen Messschieber oder eine Werkzeugkiste hinzufügst.",,"Se usa para fundir metales y convertirlos en herramientas y armas. Añade un yunque, calibradores o herramientas y un juego de ajuste para desbloquear más recetas."
-workbench,blocks,Workstation,KgNone,作業台,Workbench,Werkbank,,Mesa de trabajo
+workbench,blocks,Workstation,KgNone,Workbench,Établi,Werkbank,,Mesa de trabajo
 workbenchDesc,blocks,Workstation,EnChanged,A workbench lets you craft items just like you do in your backpack and improve items for up to 100 quality points above your crafting skill.,Un établi vous permet de fabriquer des objets comme vous le faites dans votre sac à dos.,Mit einer Werkbank kannst du genauso wie in deinem Rucksack Gegenstände fertigen.,,"Una mesa de trabajo te permite fabricar objetos, igual que en la mochila."
 alcoholPoisoning,buffs,Buff,KgNone,アルコール中毒,Inebriated,Berauscht,,Embriaguez
 alcoholPoisoningTooltip,buffs,Buff,KgNone,You have alcohol poisoning.,Vous êtes en état d'ébriété.,Du hast eine Alkoholvergiftung.,,Estás borracho.
@@ -3711,7 +3711,7 @@ terrainBlockGroupDesc,blocks,Terrain,New,クリエイティブメニューから
 mineCookingPot,blocks,Trap,New,Cooking Pot Mine,,,,
 mineCookingPotDesc,blocks,Trap,New,Can you smell what this survivor is cooking? It probably isn't healthy.,,,,
 steelLogSpike6,blocks,Trap,New,Steel Log Spike 6,,Stahlspitze 6,,
-chemistryStation,blocks,Workstation,New,化学作業台,Chemistry Station,Chemietisch,,
+chemistryStation,blocks,Workstation,New,Chemistry Station,Chemietisch,Chemietisch,,
 chemistryStationDesc,blocks,Workstation,New,With the proper equipment you can work far more efficiently than on a campfire.,,Mit der richtigen Ausrüstung kannst du effektiver arbeiten als mit einem Messbecher am Lagerfeuer.,,
 BDKWarning,buffs,Buff,New,失血,Blood Loss,,,
 BDKWarningDesc,buffs,Buff,New,失血で体が弱っているのを感じます。,You are feeling weak from the blood loss.,,,
@@ -4102,7 +4102,7 @@ barter,progression,Perk,New,物々交換,Barter,,,
 barterDesc,progression,Perk,New,このスキルを上げることで、購入時の商品原価を下げ、売却でより多くのトークン([00ff00]Duke's Casino Token[-])が得られます。,Reduce the cost of goods and sell them for more Dukes by improving this skill.,,,
 breakingAndEntering,progression,Perk,New,強行突破,Breaking And Entering,,,
 breakingAndEnteringDesc,progression,Perk,New,・・・ほとんどは、壊れてしまっているが。棍棒やスレッジハンマーでのドアや壁の破壊がしやすくなります。,...but mostly breaking. Get better at smashing doors or walls with clubs or a sledgehammer.,,,
-ChemStationPerk,progression,Perk,New,Chemistry Station,,,,
+ChemStationPerk,progression,Perk,New,化学作業台,Chemistry Station,,,
 chemStationPerkDesc,progression,Perk,New,化学作業台([00ff00]Chemistry Station[-])のレシピを解除します。,Unlocks the chemistry station recipe.,,,
 lockpicking,progression,Perk,New,Lock Picking,,,,
 lockpickingDesc,progression,Perk,New,Open locks without alerting deceased home-owners.,,,,
@@ -4908,3 +4908,4 @@ ttBedrollGone,UI,Tooltip,New,Your bedroll is gone,,Dein Schlafsack ist verschwun
 extinguishFireBuffName,buffs,Buff,New,消火,Extinguish Fire,Lösche Feuer,,
 extinguishFireBuffDesc,buffs,Buff,New,もし火が燃え移ったのなら、もうすぐ火は消えるでしょう。火の中に入って燃え移ることも防いでくれます。,If you happen to be on fire then this will put out the fire and prevent another while the buff remains active.,Solltest Du in Flammen stehen dann löscht dies das Feuer und verhindert ein neues solange der Effekt aktiv ist.,,
 DroppedLootContainer,entityclasses,Entity Info,New,Dropped Loot,,,,
+workbenchSkill,progression,Perk,New,作業台,,,,
