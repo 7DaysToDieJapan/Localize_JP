@@ -4283,7 +4283,7 @@ electricTrapsRangedName,progression,Perk,New,遠距離型トラップ,Ranged Tra
 electricTrapsRangedDesc,progression,Perk,New,電気機器（ダーツ、タレット）のレシピを解除します。,This perk will unlock recipes for electrical devices.,,,
 electricGeneratorName,progression,Perk,New,発電機,Generator Bank,,,
 electricGeneratorDesc,progression,Perk,New,電気機器（発電機）のレシピを解除します。,This perk will unlock recipes for electrical devices.,,,
-electricBatteryBankName,progression,Perk,New,バッテリー,Battery Bank,,,
+electricBatteryBankName,progression,Perk,New,バッテリー装置,Battery Bank,,,
 electricBatteryBankDesc,progression,Perk,New,電気機器（バッテリー）のレシピを解除します。このパークは購入できませんが、この世界のどこかで設計図を見つけることができます。,This perk will unlock recipes for electrical devices. This perk cannot be bought but a schematic can be found in the world.,,,
 electricSolarBankName,progression,Perk,New,Solar Power,,,,
 electricSolarBankDesc,progression,Perk,New,Trader Only,,,,
