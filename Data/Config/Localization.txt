@@ -230,7 +230,7 @@ brickCNRFull,blocks,Block,KgNone,Brick Full Corner,Angle complet en brique,Ziege
 brickCNRInside,blocks,Block,KgNone,Brick Inside Corner,Angle intérieur en brique,Ziegel – Innenecke,,Esquina interior de ladrillo
 brickCNRRamp,blocks,Block,KgNone,Brick Ramp Corner,Angle de rampe en brique,Ziegel – Rampenecke,,Esquina de rampa de ladrillo
 brickCNRRound,blocks,Block,KgNone,Brick Corner Round,Angle arrondi en brique,Ziegel – Abgerundete Ecke,,Esquina redonda de ladrillo
-brickGroupDesc,blocks,Block,KgNone,Brick walls offer decent protection and can be upgraded to concrete later.,Les murs en brique vous offrent une bonne protection et peuvent ensuite être améliorés en béton.,Ziegelmauern bieten ganz guten Schutz und können später zu Beton aufgewertet werden.,,Las paredes de ladrillo ofrecen una buena protección y se pueden mejorar a hormigón.
+brickGroupDesc,blocks,Block,KgNone,レンガの壁はちゃんとした保護を提供して後にコンクリートにアップグレードできます。,Brick walls offer decent protection and can be upgraded to concrete later.,Ziegelmauern bieten ganz guten Schutz und können später zu Beton aufgewertet werden.,,Las paredes de ladrillo ofrecen una buena protección y se pueden mejorar a hormigón.
 brickPlate,blocks,Block,KgNone,Brick Plate,Plaque en brique,Ziegel – Platte,,Placa de ladrillo
 brickRamp,blocks,Block,KgNone,Brick Ramp,Rampe en brique,Ziegelrampe,,Rampa de ladrillo
 bridgeAsphaltBlock,blocks,Block,KgNone,Bridge Asphalt Block,Bloc de pont en asphalte,Brücke – Asphaltblock,,Puente Bloque de asfalto
@@ -1402,7 +1402,7 @@ mapleSeed,items,Farming,KgNone,Maple Seed,Graine d'érable,Ahornsamen,,Semilla d
 mushrooms,items,Farming,KgNone,Mushrooms,Champignons,Pilze,,Setas
 mushroomsDesc,items,Farming,KgNone,Mushrooms can be safely eaten uncooked or used in several recipes at the campfire.,"Les champignons peuvent être consommés crus sans risque, ou utilisés dans plusieurs compositions sur le feu de camp.",Pilze können problemlos roh gegessen oder in verschiedenen Rezepten am Lagerfeuer verwendet werden.,,Las setas se pueden comer sin ningún riesgo o usarse en varias recetas en la fogata.
 pineSeed,items,Farming,KgNone,Pine Seed,Graine de pin,Kiefernsamen,,Semilla de pino
-plantedBlueberry1Desc,items,Farming,KgNone,Plant blueberry seeds in fertile dirt to grow blueberry plants.,Plantez les graines de myrtille dans une terre fertile pour faire pousser des plants de myrtilles.,"Pflanze Samen in fruchtbare Erde, um Heidelbeeren zu züchten.",,Planta semillas de mora en un terreno fértil para que crezcan plantas de mora.
+plantedBlueberry1Desc,items,Farming,KgNone,ブルーベリーの植物を植えるため、肥沃な土にブルーベリーの種を植えてください。,Plant blueberry seeds in fertile dirt to grow blueberry plants.,"Pflanze Samen in fruchtbare Erde, um Heidelbeeren zu züchten.",,Planta semillas de mora en un terreno fértil para que crezcan plantas de mora.
 plantedCorn1Desc,items,Farming,KgNone,Plant corn seeds in fertile dirt to grow corn and get corn fed.,Plantez les graines de maïs dans de la terre fertile pour faire pousser du maïs que vous pourrez manger.,"Pflanze Maissamen in fruchtbare Erde, um Mais zu züchten und zu essen.",,Siembra semillas de maíz en terreno fértil para cultivar maíz y alimentarte de maíz.
 plantedCotton1Desc,items,Farming,KgNone,Cotton seeds can be planted in dirt to grow cotton.,Plantez des graines de coton dans la terre pour faire pousser du coton.,"Baumwollsamen können in Erde gepflanzt werden, um Baumwolle zu züchten.",,Las semillas de algodón se pueden sembrar para cultivar algodón.
 plantedGoldenrod1Desc,items,Farming,KgNone,Plant these seeds in fertile dirt to grow goldenrod flowers which can be harvested to make tea.,Plantez ces graines dans de la terre fertile pour faire pousser des fleurs de gerbe d'or servant à faire du thé.,"Pflanze diese Samen in fruchtbare Erde, um Goldruten zu züchten, aus denen Tee gemacht werden kann.",,Siembra estas semillas en suelo fértil para que crezcan flores de vara de oro. Puedes cosecharlas para hacer té.
@@ -3515,7 +3515,7 @@ metalStairsBoardRailing,blocks,Block,New,Metal Stairs With Railing,,,,
 metalTrussingRamp,blocks,Block,New,Metal Trussing Ramp,,,,
 morticianDrawer,blocks,Block,New,Mortician's Drawer (No Loot),,Leichenhallen-Schranktür (Keine Beute),,
 mushroom3Harvest,blocks,Block,New,Mushrooms (Harvestable),,Pilze – Ernte,,
-plantsBlockGroupDesc,blocks,Block,New,A decorative plant block from the creative menu.,,,,
+plantsBlockGroupDesc,blocks,Block,New,クリエイティブメニューからの装飾的な植物ブロックです。,A decorative plant block from the creative menu.,,,
 rConcreteArrowSlitHalf,blocks,Block,New,Reinforced Concrete Arrow Slit,,,,
 rConcreteBlockGroupDesc,blocks,Block,New,鉄筋コンクリートは少し爆発耐性がありアップグレードができます。,Reinforced concrete provides a little explosion resistance and can be upgraded.,,,
 rConcreteCNRRound,blocks,Block,New,Reinforced Concrete Corner Round,,,,
