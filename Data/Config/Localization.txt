@@ -1925,11 +1925,11 @@ lblContextActionSplit,UI,Item Context Menu,KgNone,Split,Séparer,Teilen,,Dividir
 lblContextActionStore,UI,Item Context Menu,KgNone,Store,Ranger,Lagern,,Almacenar
 lblContextActionTake,UI,Item Context Menu,KgNone,Take,Prendre,Nehmen,,Recoger
 lblContextActionWear,UI,Item Context Menu,KgNone,Wear,Porter,Tragen,,Vestir
-lblContextCraftAmmoWeapons,UI,Item Context Menu,KgNone,Ammo/Weapons,Munitions/armes,Munition/Waffen,,Munición/armas
+lblContextCraftAmmoWeapons,UI,Item Context Menu,KgNone,弾薬/武器,Ammo/Weapons,Munition/Waffen,,Munición/armas
 lblContextCraftBasics,UI,Item Context Menu,KgNone,Basics,Bases,Grundlagen,,Básico
 lblContextCraftBrowse,UI,Item Context Menu,KgNone,Browse,Parcourir,Durchgehen,,Explorar
 lblContextCraftBuilding,UI,Item Context Menu,KgNone,Building,Construire,Gebäude,,Construcción
-lblContextCraftClothing,UI,Item Context Menu,KgNone,Clothing,Vêtements,Kleidung,,Ropa
+lblContextCraftClothing,UI,Item Context Menu,KgNone,衣服,Clothing,Kleidung,,Ropa
 lblContextCraftCount,UI,Item Context Menu,KgNone,Count,Compter,Zahl,,Recuento
 lblContextCraftFoodCooking,UI,Item Context Menu,KgNone,Food/Cooking,Nourriture/cuisine,Nahrung/Kochen,,Comida/Cocina
 lblContextCraftForgingMolds,UI,Item Context Menu,KgNone,Forging/Molds,Forge/moules,Schmieden/Gussformen,,Forja/moldes
@@ -1937,7 +1937,7 @@ lblContextCraftFurnitureDecor,UI,Item Context Menu,KgNone,Furniture/Decor,Meuble
 lblContextCraftMedicine,UI,Item Context Menu,KgNone,Medicine,Médecine,Medizin,,Medicina
 lblContextCraftMiscellaneous,UI,Item Context Menu,KgNone,Miscellaneous,Divers,Sonstiges,,Varios
 lblContextCraftResources,UI,Item Context Menu,KgNone,Resources,Ressources,Rohstoffe,,Recursos
-lblContextCraftToolsTraps,UI,Item Context Menu,KgNone,Tools/Traps,Outils/pièges,Werkzeuge/Fallen,,Herramientas/trampas
+lblContextCraftToolsTraps,UI,Item Context Menu,KgNone,ツール/罠,Tools/Traps,Werkzeuge/Fallen,,Herramientas/trampas
 lblContextHeaderCategories,UI,Item Context Menu,KgNone,Categories,Catégories,Kategorien,,Categorías
 lblContextHeaderItemDetails,UI,Item Context Menu,KgNone,Item Details,Description de l'objet,Gegenstand-Infos,,Detalles del objeto
 lblAttributeAccuracy,UI,Item Info,KgNone,Accuracy,Précision,Genauigkeit,,Precisión
@@ -2546,20 +2546,20 @@ lblAll,UI,Tooltip,KgNone,All,Tout,Alle,,Todo
 lblAllBlocks,UI,Tooltip,KgNone,All Blocks,Tous les blocs,Alle Blöcke,,Todos los bloques
 lblAllItems,UI,Tooltip,KgNone,All Items,Tous les objets,Alle Gegenstände,,Todos los objetos
 lblCategoryAll,UI,Tooltip,KgNone,All,Tout,Alle,,Todo
-lblCategoryAmmoWeapons,UI,Tooltip,KgNone,Ammo/Weapons,Munitions/armes,Munition/Waffen,,Munición/armas
-lblCategoryBasics,UI,Tooltip,KgNone,Basics,Bases,Grundlagen,,Básico
+lblCategoryAmmoWeapons,UI,Tooltip,KgNone,弾薬/武器,Ammo/Weapons,Munition/Waffen,,Munición/armas
+lblCategoryBasics,UI,Tooltip,KgNone,基本,Basics,Grundlagen,,Básico
 lblCategoryBooks,UI,Tooltip,KgNone,Books,Livres,Bücher,,Libros
-lblCategoryBuilding,UI,Tooltip,KgNone,Building,Construire,Gebäude,,Construcción
+lblCategoryBuilding,UI,Tooltip,KgNone,建築,Building,Gebäude,,Construcción
 lblCategoryChemicals,UI,Tooltip,KgNone,Chemicals,Produits chimiques,Chemikalien,,Químicos
-lblCategoryClothing,UI,Tooltip,KgNone,Clothing,Vêtements,Kleidung,,Ropa
+lblCategoryClothing,UI,Tooltip,KgNone,衣類,Clothing,Kleidung,,Ropa
 lblCategoryCraftingMisc,UI,Tooltip,KgNone,Crafting/Miscellaneous,Fabrication/Divers,Fertigung/Sonstiges,,Fabricación/Varios
-lblCategoryDecorMisc,UI,Tooltip,KgNone,Decor/Miscellaneous,Décorations/divers,Dekor/Verschiedenes,,Decoración/Varios
+lblCategoryDecorMisc,UI,Tooltip,KgNone,装飾/他,Decor/Miscellaneous,Dekor/Verschiedenes,,Decoración/Varios
 lblCategoryFirearms,UI,Tooltip,KgNone,Firearms,Armes à feu,Schusswaffen,,Armas de fuego
-lblCategoryFoodCooking,UI,Tooltip,KgNone,Food/Cooking,Nourriture/cuisine,Nahrung/Kochen,,Comida/Cocina
+lblCategoryFoodCooking,UI,Tooltip,KgNone,食料/調理,Food/Cooking,Nahrung/Kochen,,Comida/Cocina
 lblCategoryHealth,UI,Tooltip,KgNone,Health/Fitness,Santé/Forme physique,Gesundheit/Fitness,,Salud/Condición física
 lblCategoryMedicine,UI,Tooltip,KgNone,Medicine,Médecine,Medizin,,Medicina
-lblCategoryResources,UI,Tooltip,KgNone,Resources,Ressources,Rohstoffe,,Recursos
-lblCategoryToolsTraps,UI,Tooltip,KgNone,Tools/Traps,Outils/pièges,Werkzeuge/Fallen,,Herramientas/trampas
+lblCategoryResources,UI,Tooltip,KgNone,資材,Resources,Rohstoffe,,Recursos
+lblCategoryToolsTraps,UI,Tooltip,KgNone,ツール/罠,Tools/Traps,Werkzeuge/Fallen,,Herramientas/trampas
 lblCategoryWeapons,UI,Tooltip,KgNone,Weapons,Armes,Waffen,,Armas
 lblCenterOnPlayer,UI,Tooltip,KgNone,Center on Player,Centrer sur le joueur,Auf Spieler zentrieren,,Centrar en jugador
 lblCenterOnSleepingBag,UI,Tooltip,KgNone,Center on Sleeping Bag,Centrer sur le sac de couchage,Auf Schlafsack zentrieren,,Centrar en saco de dormir
@@ -2712,7 +2712,7 @@ xuiAllies,UI,XUI,KgNone,ALLIES,ALLIÉS,VERBÜNDETE,,ALIADOS
 xuiAllSkills,UI,XUI,KgNone,ALL SKILLS,TOUTES LES COMPÉTENCES,ALLE FERTIGKEITEN,,TODAS LAS HABILIDADES
 xuiAssembleMustReadBook,UI,XUI,EnChanged,You must read the correct book or buy a perk to assemble this item.,Vous devez lire le bon livre pour assembler cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand zusammensetzen zu können.",,Debes leer el libro adecuado para armar este objeto.
 xuiAttributes,UI,XUI,KgNone,ATTRIBUTES,ATTRIBUTS,ATTRIBUTE,,ATRIBUTOS
-xuiBasics,UI,XUI,KgNone,BASICS,BASES,GRUNDLEGENDE WERTE,,BÁSICO
+xuiBasics,UI,XUI,KgNone,基本,BASICS,GRUNDLEGENDE WERTE,,BÁSICO
 xuiBuffStatCoreTemp,UI,XUI,KgNone,Core Temp,Core Temp,Kerntemperatur,,Temperatura central
 xuiBuffStatDays,UI,XUI,KgNone,DAYS,JOURS,TAGE,,DÍAS
 xuiBuffStatDuration,UI,XUI,KgNone,Duration,Durée,Dauer,,Duración
@@ -2735,7 +2735,7 @@ xuiBuffStatWellness,UI,XUI,KgNone,Wellness,Bien-être,Wohlbefinden,,Bienestar
 xuiClose,UI,XUI,KgNone,CLOSE,FERMER,SCHLIESSEN,,CERRAR
 xuiCost,UI,XUI,KgNone,COST,COÛT,KOSTEN,,COSTO
 xuiCraftQueueFull,UI,XUI,KgNone,No room in queue!,Plus de place dans la file !,Warteschlange ist voll!,,¡No hay espacio en la cola!
-xuiCreative,UI,XUI,KgNone,CREATIVE,CRÉATION,KREATIV,,CREATIVO
+xuiCreative,UI,XUI,KgNone,クリエイティブ,CREATIVE,KREATIV,,CREATIVO
 xuiDay,UI,XUI,KgNone,日目,JOUR,TAG,,DÍA
 xuiDayTime,UI,XUI,KgNone,DAY/TIME,JOUR/HEURE,TAG/ZEIT,,DÍA/HORA
 xuiDeaths,UI,XUI,KgNone,DEATHS,MORTS,TODE,,MUERTES
@@ -2767,7 +2767,7 @@ xuiLevel,UI,XUI,KgNone,LEVEL,NIVEAU,LEVEL,,NIVEL
 xuiLongestLife,UI,XUI,KgNone,LONGEST LIFE,SURVIE LA PLUS LONGUE,LÄNGSTES LEBEN,,VIDA MÁS LARGA
 xuiLoot,UI,XUI,KgNone,LOOT,BUTIN,BEUTE,,BOTÍN
 xuiLooting,UI,XUI,KgNone,LOOTING,EN COURS D'ACQUISITION DE BUTIN,PLÜNDERN,,SAQUEANDO
-xuiMap,UI,XUI,KgNone,MAP,CARTE,KARTE,,MAPA
+xuiMap,UI,XUI,KgNone,地図,MAP,KARTE,,MAPA
 xuiMapDayTime,UI,XUI,KgNone,Day/Time,Jour/heure,Tag/Zeit,,Día/Hora
 xuiMapStats,UI,XUI,KgNone,MAP STATS,STATS DE LA CARTE,KARTENSTATISTIK,,ESTADÍSTICAS DEL MAPA
 xuiMinibike,UI,XUI,KgNone,MINIBIKE,MINI-MOTO,TASCHENMOTORRAD,,MINIMOTO
@@ -2780,11 +2780,11 @@ xuiObjectivesNotAvailable,UI,XUI,KgNone,OBJECTIVES NOT AVAILABLE AT THIS TIME.,L
 xuiOutput,UI,XUI,KgNone,OUTPUT,SORTIE,OUTPUT,,RESULTADO
 xuiPing,UI,XUI,KgNone,PING,PING,PING,,PING
 xuiPlayerKills,UI,XUI,KgNone,PLAYER KILLS,JOUEURS TUÉS,SPIELER-KILLS,,JUGADORES ASESINADOS
-xuiPlayers,UI,XUI,KgNone,PLAYERS,JOUEURS,SPIELER,,JUGADORES
+xuiPlayers,UI,XUI,KgNone,プレイヤー,PLAYERS,SPIELER,,JUGADORES
 xuiPlayerStats,UI,XUI,KgNone,PLAYER STATS,STATS DU JOUEUR,SPIELER-STATISTIK,,ESTADÍSTICAS DEL JUGADOR
 xuiPointsAvailable,UI,XUI,KgNone,Point(s) Available,Point(s) disponible(s),Verfügbare(r) Punkt(e),,Punto(s) disponible(s)
 xuiQuality,UI,XUI,KgNone,QUALITY,QUALITÉ,QUALITÄT,,CALIDAD
-xuiQuests,UI,XUI,KgNone,QUESTS,QUÊTES,QUESTS,,MISIONES
+xuiQuests,UI,XUI,KgNone,クエスト,QUESTS,QUESTS,,MISIONES
 xuiQuickWaypoint,UI,XUI,KgNone,QUICK WAYPOINT,CHEMINEMENT RAPIDE,SCHNELLER WEGPUNKT,,PUNTO DE REGRESO RÁPIDO
 xuiReceived,UI,XUI,KgNone,RECEIVED,REÇUS,ERHALTEN,,RECIBIDO
 xuiRefuel,UI,XUI,KgNone,REFUEL,RAVITAILLER,NACHTANKEN,,REPOSTAR
@@ -4210,7 +4210,7 @@ xuiVendingWithOwner,UI,Menu,New,Vending Machine - {0},,,,
 lblShowPassword,UI,Password Dialog,New,Show Password,,,,
 browserBloodMoonEnemyCount,UI,Server Browser,New,Blood Moon Count,,,,
 lblCategoryPainting,UI,Tooltip,New,Painting,,,,
-lblCategoryScience,UI,Tooltip,New,Science,,,,
+lblCategoryScience,UI,Tooltip,New,科学,Science,,,
 lblCategorySecretStash,UI,Tooltip,New,Secret Stash,,,,
 lblCategorySpecialItems,UI,Tooltip,New,Special Items,,,,
 lblSortContainer,UI,Tooltip,New,Sort Container,,,,
@@ -4240,14 +4240,14 @@ vkPromptSearchTerm,UI,Virtual Keyboard,New,Enter search term,,Suchbegriff eingeb
 vkPromptSignText,UI,Virtual Keyboard,New,Enter sign name,,Beschriftung für Schild eingeben,,
 vkPromptWaypointName,UI,Virtual Keyboard,New,Enter waypoint name,,Name für Wegpunkt eingeben,,
 xuiAmmo,UI,XUI,New,AMMO,,,,
-xuiCharacter,UI,XUI,New,CHARACTER,,,,
-xuiCombine,UI,XUI,New,COMBINE,,,,
-xuiCombineItemA,UI,XUI,New,ITEM A,,,,
-xuiCombineItemB,UI,XUI,New,ITEM B,,,,
-xuiCrafting,UI,XUI,New,CRAFTING,,,,
-xuiEndTime,UI,XUI,New,END TIME,,,,
+xuiCharacter,UI,XUI,New,キャラクター,CHARACTER,,,
+xuiCombine,UI,XUI,New,結合,COMBINE,,,
+xuiCombineItemA,UI,XUI,New,アイテムA,ITEM A,,,
+xuiCombineItemB,UI,XUI,New,アイテムB,ITEM B,,,
+xuiCrafting,UI,XUI,New,工作,CRAFTING,,,
+xuiEndTime,UI,XUI,New,終了時間,END TIME,,,
 xuiIngameDebugMenu,UI,XUI,New,Debug Tools,,,,
-xuiJournal,UI,XUI,New,JOURNAL,,,,
+xuiJournal,UI,XUI,New,記録,JOURNAL,,,
 xuiLevelTools,UI,XUI,New,Level Tools,,,,
 xuiMaterialGroup,UI,XUI,New,GROUP,,,,
 xuiMaterials,UI,XUI,New,MATERIALS,,,,
@@ -4259,11 +4259,11 @@ xuiPrefabList,UI,XUI,New,Prefab Tools,,,,
 xuiResult,UI,XUI,New,RESULT,,,,
 xuiSkillBartering,UI,XUI,New,Price Modifier,,,,
 xuiSkillCurrentLevel,UI,XUI,New,Current Level:,,,,
-xuiSkills,UI,XUI,New,SKILLS,,,,
+xuiSkills,UI,XUI,New,スキル,SKILLS,,,
 xuiSkillSecretStash,UI,XUI,New,Bonus Level,,,,
 xuiSkillSelectedLevel,UI,XUI,New,Selected Level:,,,,
 xuiSlots,UI,XUI,New,SLOTS,,,,
-xuiStartTime,UI,XUI,New,START TIME,,,,
+xuiStartTime,UI,XUI,New,開始時間,START TIME,,,
 xuiTrader,UI,XUI,New,TRADER,,,,
 xuiVending,UI,XUI,New,VENDING,,,,
 xuiWPjournal,UI,Quests Window Paging in Game,New,Journal,,,,
