@@ -1402,11 +1402,11 @@ mapleSeed,items,Farming,KgNone,Maple Seed,Graine d'érable,Ahornsamen,,Semilla d
 mushrooms,items,Farming,KgNone,Mushrooms,Champignons,Pilze,,Setas
 mushroomsDesc,items,Farming,KgNone,Mushrooms can be safely eaten uncooked or used in several recipes at the campfire.,"Les champignons peuvent être consommés crus sans risque, ou utilisés dans plusieurs compositions sur le feu de camp.",Pilze können problemlos roh gegessen oder in verschiedenen Rezepten am Lagerfeuer verwendet werden.,,Las setas se pueden comer sin ningún riesgo o usarse en varias recetas en la fogata.
 pineSeed,items,Farming,KgNone,Pine Seed,Graine de pin,Kiefernsamen,,Semilla de pino
-plantedBlueberry1Desc,items,Farming,KgNone,ブルーベリーを育てるため、肥沃な土にブルーベリーの種([00ff00]Blueberry Seed[-])を植えましょう。,Plant blueberry seeds in fertile dirt to grow blueberry plants.,"Pflanze Samen in fruchtbare Erde, um Heidelbeeren zu züchten.",,Planta semillas de mora en un terreno fértil para que crezcan plantas de mora.
-plantedCorn1Desc,items,Farming,KgNone,とうもろこしを育てて食べるために、肥沃な土にとうもろこしの種([00ff00]Corn Seed[-])を植えましょう。,Plant corn seeds in fertile dirt to grow corn and get corn fed.,"Pflanze Maissamen in fruchtbare Erde, um Mais zu züchten und zu essen.",,Siembra semillas de maíz en terreno fértil para cultivar maíz y alimentarte de maíz.
-plantedCotton1Desc,items,Farming,KgNone,Cotton seeds can be planted in dirt to grow cotton.,Plantez des graines de coton dans la terre pour faire pousser du coton.,"Baumwollsamen können in Erde gepflanzt werden, um Baumwolle zu züchten.",,Las semillas de algodón se pueden sembrar para cultivar algodón.
-plantedGoldenrod1Desc,items,Farming,KgNone,Plant these seeds in fertile dirt to grow goldenrod flowers which can be harvested to make tea.,Plantez ces graines dans de la terre fertile pour faire pousser des fleurs de gerbe d'or servant à faire du thé.,"Pflanze diese Samen in fruchtbare Erde, um Goldruten zu züchten, aus denen Tee gemacht werden kann.",,Siembra estas semillas en suelo fértil para que crezcan flores de vara de oro. Puedes cosecharlas para hacer té.
-plantedPotato1Desc,items,Farming,KgNone,Plant potato tubers - seeds in layman terms - in fertile dirt to grow potato plants.,"Plantez des tubercules (ou graines, pour les novices) de pomme de terre dans une terre fertile pour faire pousser des plants de pommes de terre.","Pflanze Kartoffelknollen – auch Saatkartoffeln genannt – in fruchtbare Erde, um Kartoffeln zu züchten.",,"Siembra tubérculos (o semillas de papa, como se dice por ahí), en un terreno fértil para cultivar papas."
+plantedBlueberry1Desc,items,Farming,KgNone,ブルーベリーを育てるため肥沃な土にブルーベリーの種([00ff00]Blueberry Seed[-])を植えましょう。,Plant blueberry seeds in fertile dirt to grow blueberry plants.,"Pflanze Samen in fruchtbare Erde, um Heidelbeeren zu züchten.",,Planta semillas de mora en un terreno fértil para que crezcan plantas de mora.
+plantedCorn1Desc,items,Farming,KgNone,とうもろこしを育てて食べるため肥沃な土にとうもろこしの種([00ff00]Corn Seed[-])を植えましょう。,Plant corn seeds in fertile dirt to grow corn and get corn fed.,"Pflanze Maissamen in fruchtbare Erde, um Mais zu züchten und zu essen.",,Siembra semillas de maíz en terreno fértil para cultivar maíz y alimentarte de maíz.
+plantedCotton1Desc,items,Farming,KgNone,綿花を育てるため土に綿花の種([00ff00]Cotton Seed[-])を植えましょう。,Cotton seeds can be planted in dirt to grow cotton.,"Baumwollsamen können in Erde gepflanzt werden, um Baumwolle zu züchten.",,Las semillas de algodón se pueden sembrar para cultivar algodón.
+plantedGoldenrod1Desc,items,Farming,KgNone,セイタカアワダチソウを育てて収穫しお茶をつくるため、これらの種([00ff00]Goldenrod Seed[-])を肥沃な土に植えましょう。,Plant these seeds in fertile dirt to grow goldenrod flowers which can be harvested to make tea.,"Pflanze diese Samen in fruchtbare Erde, um Goldruten zu züchten, aus denen Tee gemacht werden kann.",,Siembra estas semillas en suelo fértil para que crezcan flores de vara de oro. Puedes cosecharlas para hacer té.
+plantedPotato1Desc,items,Farming,KgNone,じゃが芋を育てるため肥沃な土にじゃが芋の塊茎、分かりやすく言えば種のこと([00ff00]Potato Seed[-])を植えましょう。,Plant potato tubers - seeds in layman terms - in fertile dirt to grow potato plants.,"Pflanze Kartoffelknollen – auch Saatkartoffeln genannt – in fruchtbare Erde, um Kartoffeln zu züchten.",,"Siembra tubérculos (o semillas de papa, como se dice por ahí), en un terreno fértil para cultivar papas."
 potato,items,Farming,KgNone,Potato,Pomme de terre,Kartoffel,,Papa
 potatoDesc,items,Farming,KgNone,"Potatoes can be eaten, crafted into seeds or used in several recipes at the campfire.","Les pommes de terre peuvent être mangées, transformées en graines ou utilisées pour plusieurs compositions au feu de camp.","Kartoffeln können gegessen, zu Saatkartoffeln verarbeitet oder für mehrere Rezepte am Lagerfeuer benutzt werden.",,"Las papas se pueden comer, convertir en semillas o usarse en varias recetas en la fogata."
 baconAndEggs,items,Food,KgNone,Bacon and Eggs,Bacon et œufs,Schinkenspeck mit Eiern,,Huevos con tocino
@@ -3853,13 +3853,13 @@ hopSeed,items,Farming,New,Hop Seed,,,,
 hopsFlower,items,Farming,New,Hops Flower,,,,
 hopsFlowerDesc,items,Farming,New,The hops flower is a critical ingredient for brewing beer.,,,,
 mushroomSeed,items,Farming,New,Mushroom Spores (Seed),,,,
-plantedAloe1Desc,items,Farming,New,Plant aloe vera seeds in fertile dirt to grow aloe vera plants.,,,,
+plantedAloe1Desc,items,Farming,New,アロエベラを育てるため肥沃な土にアロエベラの種([00ff00]Aloe Vera Seed[-])を植えましょう。,Plant aloe vera seeds in fertile dirt to grow aloe vera plants.,,,
 plantedChrysanthemum1,items,Farming,New,Chrysanthemum Seed,,,,
-plantedChrysanthemum1Desc,items,Farming,New,Plant chrysanthemum seeds in fertile dirt to grow chrysanthemum plants.,,,,
-plantedCoffee1Desc,items,Farming,New,Plant the seeds in fertile dirt to grow coffee plants.,,Pflanze die Samen in fruchtbare Erde um Kaffeepflanzen zu züchten.,,
+plantedChrysanthemum1Desc,items,Farming,New,アキノキリンソウを育てるため肥沃な土にアキノキリンソウの種([00ff00]Chrysanthemum Seed[-])を植えましょう。,Plant chrysanthemum seeds in fertile dirt to grow chrysanthemum plants.,,,
+plantedCoffee1Desc,items,Farming,New,コーヒーを育てるため肥沃な土に種([00ff00]Coffee Beans[-])を植えましょう。,Plant the seeds in fertile dirt to grow coffee plants.,Pflanze die Samen in fruchtbare Erde um Kaffeepflanzen zu züchten.,,
 plantedHop1Desc,items,Farming,New,Plant hop seeds in fertilized dirt to grow hop plants.,,,,
 plantedMushroom1Desc,items,Farming,New,Mushroom spores can be planted on ground with a bare minimum of fertility and will grow without light.,,,,
-plantedYucca1Desc,items,Farming,New,Plant yucca seeds in fertile dirt to grow yucca plants.,,,,
+plantedYucca1Desc,items,Farming,New,ユッカを育てるため肥沃な土にユッカの種([00ff00]Yucca Seed[-]を植えましょう。,Plant yucca seeds in fertile dirt to grow yucca plants.,,,
 snowberryPlant,items,Farming,New,Snowberry,,,,
 snowberryPlantDesc,items,Farming,New,Snowberries can easily be mistaken for blueberries but are only borderline edible.,,,,
 yuccaSeed,items,Farming,New,Yucca Seed,,,,
