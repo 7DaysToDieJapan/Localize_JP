@@ -2395,8 +2395,8 @@ xuiSkillArmorDefense,UI,Menu,KgNone,Armor Defense,Protection,Rüstungswert,,Defe
 xuiSkillBlockDamage,UI,Menu,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
 xuiSkillBreathHoldDuration,UI,Menu,KgNone,Breath Hold Duration,Durée d'apnée,Dauer des Atemanhaltens,,Aguantar la respiración
 xuiSkillCraftingOutputCount,UI,Menu,KgNone,Crafting Output Count,Quantité de fabrication,Fertigungsanzahl,,Contador de salida de fabricación
-xuiSkillCraftingQuality,UI,Menu,KgNone,Crafting Quality,Qualité de fabrication,Fertigungsqualität,,Calidad de fabricación
-xuiSkillCraftingTime,UI,Menu,KgNone,Crafting Time,Durée de fabrication,Fertigungszeit,,Tiempo de fabricación
+xuiSkillCraftingQuality,UI,Menu,KgNone,工作品質,Crafting Quality,Fertigungsqualität,,Calidad de fabricación
+xuiSkillCraftingTime,UI,Menu,KgNone,工作時間,Crafting Time,Fertigungszeit,,Tiempo de fabricación
 xuiSkillCrawl,UI,Menu,KgNone,Crawl,Ramper,Kriechen,,Gatear
 xuiSkillCrouchSpeed,UI,Menu,KgNone,Crouch Speed,Vitesse accroupi,Geschwindigkeit geduckt,,Velocidad al agacharse
 xuiSkillDismembermentBonus,UI,Menu,KgNone,Dismemberment Bonus,Bonus de démembrement,Verstümmelungs-Bonus,,Bono de desmembramiento
@@ -2420,7 +2420,7 @@ xuiSkillRangedFalloff,UI,Menu,KgNone,Ranged Falloff,Diminution de la portée,Eff
 xuiSkillReloadSpeed,UI,Menu,KgNone,Reload Speed,Vitesse de recharge,Nachladzeit,,Velocidad de recarga
 xuiSkillRepairAmount,UI,Menu,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
 xuiSkillRepairQualityLoss,UI,Menu,KgNone,Repair Quality Loss,Réparer le perte de qualité,Reparaturqualitätsverlust,,Calidad perdida en la reparación
-xuiSkillRepairTime,UI,Menu,KgNone,Repair Time,Durée de réparation,Reparaturzeit,,Tiempo de reparación
+xuiSkillRepairTime,UI,Menu,KgNone,修理時間,Repair Time,Reparaturzeit,,Tiempo de reparación
 xuiSkillRunSpeed,UI,Menu,KgNone,Run Speed,Vitesse de course,Laufgeschwindigkeit,,Velocidad al correr
 xuiSkillSmell,UI,Menu,KgNone,Smell,Odeur,Geruch,,Olor
 xuiSkillStaminaDegradation,UI,Menu,KgNone,Stamina Degradation,Dégradation liée à l'endurance,Ausdauer Verringerung,,Degradación por resistencia
@@ -2707,7 +2707,7 @@ lootTooltipNew,UI,Use Prompt,KgNone,<{0}> Search {1} (Untouched),<{0}> pour rech
 lootTooltipTouched,UI,Use Prompt,KgNone,<{0}> Search {1},<{0}> pour rechercher {1},<{0}> Durchsuche {1},,<{0}> Registrar {1}
 tooltipInteract,UI,Use Prompt,KgNone,Hold <{0}> to interact with {1},Maintenir <{0}> pour interagir avec {1},Zum Interagieren mit {1} <{0}> gedrückt halten,,Mantén pulsado <{0}> para interactuar con {1}
 xuiAccept,UI,XUI,KgNone,ACCEPT,ACCEPTER,AKZEPTIEREN,,ACEPTAR
-xuiActiveEffects,UI,XUI,KgNone,ACTIVE EFFECTS,EFFETS ACTIFS,AKTIVE EFFEKTE,,EFECTOS ACTIVOS
+xuiActiveEffects,UI,XUI,KgNone,発生中の効果,ACTIVE EFFECTS,AKTIVE EFFEKTE,,EFECTOS ACTIVOS
 xuiAllies,UI,XUI,KgNone,ALLIES,ALLIÉS,VERBÜNDETE,,ALIADOS
 xuiAllSkills,UI,XUI,KgNone,ALL SKILLS,TOUTES LES COMPÉTENCES,ALLE FERTIGKEITEN,,TODAS LAS HABILIDADES
 xuiAssembleMustReadBook,UI,XUI,EnChanged,You must read the correct book or buy a perk to assemble this item.,Vous devez lire le bon livre pour assembler cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand zusammensetzen zu können.",,Debes leer el libro adecuado para armar este objeto.
@@ -2731,14 +2731,14 @@ xuiBuffStatMovementSpeed,UI,XUI,KgNone,Movement Speed,Vitesse de déplacement,Be
 xuiBuffStatSickness,UI,XUI,KgNone,Sickness,Maladie,Krankheit,,Enfermedad
 xuiBuffStatStamina,UI,XUI,KgNone,Stamina,Endurance,Ausdauer,,Resistencia
 xuiBuffStatTimeLeft,UI,XUI,KgNone,Time Left,Temps restant,Verbleibende Zeit,,Tiempo restante
-xuiBuffStatWellness,UI,XUI,KgNone,Wellness,Bien-être,Wohlbefinden,,Bienestar
+xuiBuffStatWellness,UI,XUI,KgNone,健康,Wellness,Wohlbefinden,,Bienestar
 xuiClose,UI,XUI,KgNone,CLOSE,FERMER,SCHLIESSEN,,CERRAR
 xuiCost,UI,XUI,KgNone,コスト,COST,KOSTEN,,COSTO
 xuiCraftQueueFull,UI,XUI,KgNone,No room in queue!,Plus de place dans la file !,Warteschlange ist voll!,,¡No hay espacio en la cola!
 xuiCreative,UI,XUI,KgNone,クリエイティブ,CREATIVE,KREATIV,,CREATIVO
 xuiDay,UI,XUI,KgNone,日目,JOUR,TAG,,DÍA
-xuiDayTime,UI,XUI,KgNone,DAY/TIME,JOUR/HEURE,TAG/ZEIT,,DÍA/HORA
-xuiDeaths,UI,XUI,KgNone,DEATHS,MORTS,TODE,,MUERTES
+xuiDayTime,UI,XUI,KgNone,日目/時間,DAY/TIME,TAG/ZEIT,,DÍA/HORA
+xuiDeaths,UI,XUI,KgNone,死亡数,DEATHS,TODE,,MUERTES
 xuiDecline,UI,XUI,KgNone,DECLINE,DÉCLIN,ABLEHNEN,,RECHAZAR
 xuiDefense,UI,XUI,KgNone,DEFENSE,DÉFENSE,VERTEIDIGUNG,,DEFENSA
 xuiDescriptionLabel,UI,XUI,KgNone,DESCRIPTION,DESCRIPTION,BESCHREIBUNG,,DESCRIPCIÓN
@@ -2750,7 +2750,7 @@ xuiEmptyVehicleStorage,UI,XUI,KgNone,ADD BASKET TO ACCESS STORAGE.,AJOUTEZ UN PA
 xuiEveryone,UI,XUI,KgNone,EVERYONE,TOUT LE MONDE,JEDER,,TODOS
 xuiExamine,UI,XUI,KgNone,EXAMINE,EXAMINER,UNTERSUCHEN,,INVESTIGAR
 xuiFeelsLike,UI,XUI,KgNone,体感,FEELS LIKE,FÜHLT SICH AN WIE,,PARECE
-xuiFood,UI,XUI,KgNone,FOOD,NOURRITURE,NAHRUNG,,COMIDA
+xuiFood,UI,XUI,KgNone,食事,FOOD,NAHRUNG,,COMIDA
 xuiFuel,UI,XUI,KgNone,FUEL,CARBURANT,BRENNSTOFF,,COMBUSTIBLE
 xuiGas,UI,XUI,KgNone,GAS,ESSENCE,BENZIN,,GAS
 xuiInput,UI,XUI,KgNone,INPUT,ENTRÉE,INPUT,,ENTRADA
@@ -2759,12 +2759,12 @@ xuiInventory,UI,XUI,KgNone,インベントリ,INVENTORY,INVENTAR,,INVENTARIO
 xuiInventoryFull,UI,XUI,KgNone,"No room in inventory, crafting has been halted until space is cleared.",Plus de place dans l'inventaire. La fabrication a été mise en attente jusqu'à ce que vous fassiez de la place.,"Kein Platz im Inventar, das Fertigen wurde gestoppt, bis du Platz geschaffen hast.",,"No hay espacio en el inventario, no puedes fabricar hasta que no tengas espacio libre."
 xuiInventoryFullDropping,UI,XUI,KgNone,Inventory is full. Dropping items on ground.,L'inventaire est plein. Vous êtes en train de jeter des objets au sol.,Inventar ist voll. Gegenstände werden auf den Boden gelegt.,,El inventario está lleno. Soltando objetos al suelo.
 xuiInventoryFullForPickup,UI,XUI,KgNone,Inventory is full.,L'inventaire est plein.,Inventar ist voll.,,El inventario está lleno. 
-xuiItemsCrafted,UI,XUI,KgNone,ITEMS CRAFTED,OBJETS FABRIQUÉS,GEGENSTÄNDE GEFERTIGT,,OBJETOS FABRICADOS
+xuiItemsCrafted,UI,XUI,KgNone,工作数,ITEMS CRAFTED,GEGENSTÄNDE GEFERTIGT,,OBJETOS FABRICADOS
 xuiKilometers,UI,XUI,KgNone,Kilometers,Kilomètres,Kilometer,,Kilómetros
 xuiKM,UI,XUI,KgNone,KM,KM,KM,,KM
-xuiKMTravelled,UI,XUI,KgNone,KM TRAVELED,KM PARCOURUS,ZURÜCKGELEGTE KM,,KM VIAJADOS
+xuiKMTravelled,UI,XUI,KgNone,踏破距離,KM TRAVELED,ZURÜCKGELEGTE KM,,KM VIAJADOS
 xuiLevel,UI,XUI,KgNone,レベル,LEVEL,LEVEL,,NIVEL
-xuiLongestLife,UI,XUI,KgNone,LONGEST LIFE,SURVIE LA PLUS LONGUE,LÄNGSTES LEBEN,,VIDA MÁS LARGA
+xuiLongestLife,UI,XUI,KgNone,生存時間,LONGEST LIFE,LÄNGSTES LEBEN,,VIDA MÁS LARGA
 xuiLoot,UI,XUI,KgNone,LOOT,BUTIN,BEUTE,,BOTÍN
 xuiLooting,UI,XUI,KgNone,LOOTING,EN COURS D'ACQUISITION DE BUTIN,PLÜNDERN,,SAQUEANDO
 xuiMap,UI,XUI,KgNone,地図,MAP,KARTE,,MAPA
@@ -2779,9 +2779,9 @@ xuiObjectives,UI,XUI,KgNone,OBJECTIVES,OBJECTIFS,ZIELE,,OBJETIVOS
 xuiObjectivesNotAvailable,UI,XUI,KgNone,OBJECTIVES NOT AVAILABLE AT THIS TIME.,LES OBJECTIFS NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,ZIELE DERZEIT NICHT VERFÜGBAR.,,LOS OBJETIVOS NO ESTÁN DISPONIBLES EN ESTOS MOMENTOS.
 xuiOutput,UI,XUI,KgNone,OUTPUT,SORTIE,OUTPUT,,RESULTADO
 xuiPing,UI,XUI,KgNone,PING,PING,PING,,PING
-xuiPlayerKills,UI,XUI,KgNone,PLAYER KILLS,JOUEURS TUÉS,SPIELER-KILLS,,JUGADORES ASESINADOS
+xuiPlayerKills,UI,XUI,KgNone,プレイヤー殺害数,PLAYER KILLS,SPIELER-KILLS,,JUGADORES ASESINADOS
 xuiPlayers,UI,XUI,KgNone,プレイヤー,PLAYERS,SPIELER,,JUGADORES
-xuiPlayerStats,UI,XUI,KgNone,PLAYER STATS,STATS DU JOUEUR,SPIELER-STATISTIK,,ESTADÍSTICAS DEL JUGADOR
+xuiPlayerStats,UI,XUI,KgNone,プレイヤー情報,PLAYER STATS,SPIELER-STATISTIK,,ESTADÍSTICAS DEL JUGADOR
 xuiPointsAvailable,UI,XUI,KgNone,利用可能なポイント,Point(s) Available,Verfügbare(r) Punkt(e),,Punto(s) disponible(s)
 xuiQuality,UI,XUI,KgNone,QUALITY,QUALITÉ,QUALITÄT,,CALIDAD
 xuiQuests,UI,XUI,KgNone,クエスト,QUESTS,QUESTS,,MISIONES
@@ -2823,12 +2823,12 @@ xuiVehicleSpeedNone,UI,XUI,KgNone,NONE,AUCUN,KEINE,,NADA
 xuiVehicleSpeedNormal,UI,XUI,KgNone,NORMAL,NORMAL,NORMAL,,NORMAL
 xuiVehicleSpeedSlow,UI,XUI,KgNone,SLOW,LENT,LANGSAM,,LENTO
 xuiVoice,UI,XUI,KgNone,VOICE,VOIX,STIMME,,VOZ
-xuiWater,UI,XUI,KgNone,WATER,EAU,WASSER,,AGUA
+xuiWater,UI,XUI,KgNone,水分,WATER,WASSER,,AGUA
 xuiWaypoints,UI,XUI,KgNone,地点,WAYPOINTS,WEGPUNKTE,,PUNTOS DE REGRESO
-xuiWellness,UI,XUI,KgNone,WELLNESS,BIEN-ÊTRE,WOHLBEFINDEN,,BIENESTAR
+xuiWellness,UI,XUI,KgNone,健康,WELLNESS,WOHLBEFINDEN,,BIENESTAR
 xuiWind,UI,XUI,KgNone,風速,WIND,WIND,,VIENTO
 xuiWorkstationOutputFull,UI,XUI,KgNone,"No room in workstation output, crafting has been halted until space is cleared.",Plus de place à la sortie du poste de travail. La fabrication a été mise en attente jusqu'à ce que vous fassiez de la place.,"Kein Platz in der Ausgabe der Arbeitsstation, das Fertigen wurde gestoppt, bis du Platz geschaffen hast.",,"No hay espacios libres en la salida de la estación de trabajo, no puedes fabricar hasta que no tengas espacio libre."
-xuiZombieKills,UI,XUI,KgNone,ZOMBIE KILLS,ZOMBIES TUÉS,ZOMBIE-KILLS,,ZOMBIS ASESINADOS
+xuiZombieKills,UI,XUI,KgNone,ゾンビ抹殺数,ZOMBIE KILLS,ZOMBIE-KILLS,,ZOMBIS ASESINADOS
 aealAccountDoesNotExist,,Account Linking App Error,KgNone,An account with this email address does not exist.,Il n'existe aucun compte lié à cette adresse e-mail.,Für diese E-Mail-Adresse besteht kein Konto.,,No hay ninguna cuenta asociada con este correo electrónico.
 aealAccountExists,,Account Linking App Error,KgNone,This email address already exists.,Cette adresse e-mail existe déjà.,Diese E-Mail-Adresse existiert bereits.,,Este correo electrónico ya existe.
 aealAuthenticationFail,,Account Linking App Error,KgNone,Authentication for this account failed. Please check your password and try again.,Échec de l'authentification du compte. Veuillez vérifier votre mot de passe et réessayer.,Dieses Konto konnte nicht authentifiziert werden. Bitte überprüfe dein Passwort und versuche es erneut.,,La autenticación para esta cuenta ha fallado. Verifica tu contraseña e inténtalo de nuevo.
