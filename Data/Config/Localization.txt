@@ -1907,16 +1907,16 @@ lblContextActionBuy,UI,Item Context Menu,KgNone,購入,Buy,Kaufen,,Comprar
 lblContextActionCompare,UI,Item Context Menu,KgNone,Compare,Comparer,Vergleichen,,Comparar
 lblContextActionComplete,UI,Item Context Menu,KgNone,Complete,Terminer,Abschließen,,Completar
 lblContextActionCook,UI,Item Context Menu,KgNone,調理,Cook,Kochen,,Cocinar
-lblContextActionCraft,UI,Item Context Menu,KgNone,工作,Craft,Fertigen,,Fabricar
+lblContextActionCraft,UI,Item Context Menu,KgNone,作る,Craft,Fertigen,,Fabricar
 lblContextActionDrink,UI,Item Context Menu,KgNone,飲む,Drink,Trinken,,Beber
 lblContextActionDrop,UI,Item Context Menu,KgNone,落とす,Drop,Fallenlassen,,Soltar
 lblContextActionEat,UI,Item Context Menu,KgNone,食べる,Eat,Essen,,Comer
-lblContextActionEquip,UI,Item Context Menu,KgNone,Equip,Équiper,Ausrüsten,,Equipar
+lblContextActionEquip,UI,Item Context Menu,KgNone,装備,Equip,Ausrüsten,,Equipar
 lblContextActionExamine,UI,Item Context Menu,KgNone,Examine,Examiner,Untersuchen,,Investigar
 lblContextActionFavorite,UI,Item Context Menu,KgNone,お気に入り,Favorite,Favoriten,,Favoritos
 lblContextActionHeal,UI,Item Context Menu,KgNone,使う,Use,Benutzen,,Usar
 lblContextActionLoad,UI,Item Context Menu,KgNone,Load,Charger,Laden,,Cargar
-lblContextActionRead,UI,Item Context Menu,KgNone,Read,Lire,Lesen,,Leer
+lblContextActionRead,UI,Item Context Menu,KgNone,,Read,Lesen,,Leer
 lblContextActionRecipes,UI,Item Context Menu,KgNone,レシピ,Recipes,Rezepte,,Recetas
 lblContextActionRepair,UI,Item Context Menu,KgNone,修理,Repair,Reparieren,,Reparar
 lblContextActionScrap,UI,Item Context Menu,KgNone,分解,Scrap,Zerlegen,,Despedazar
@@ -2391,44 +2391,44 @@ useBlock,UI,Menu,KgNone,<{0}> Use {1},<{0}> utilisent {1},<{0}> {1} verwenden,,<
 uses,UI,Menu,KgNone,Uses,Utilise,Verwendungszwecke,,Usa
 vacText,UI,Menu,KgNone,This is an EasyAntiCheat protected server. Cheating will not be tolerated and will result in an EAC kick/ban.,"Ceci est un serveur protégé EasyAntiCheat. Il est interdit de tricher. Si vous trichez, vous subirez une exclusion ou un bannissement par EAC.",Dieser Server wird durch EasyAntiCheat geschützt. Cheaten wird nicht toleriert und führt zum Bann oder Hinauswurf durch EAC (EasyAntiCheat).,,"Este es un servidor protegido con EAC (antitrampa). No se permitirán las trampas, y si se hacen, el filtro EAC expulsará al infractor."
 vacTitle,UI,Menu,KgNone,EasyAntiCheat Warning,Avertissement EasyAntiCheat,EasyAntiCheat-Warnung,,Aviso antitrampas (EasyAntiCheat)
-xuiSkillArmorDefense,UI,Menu,KgNone,Armor Defense,Protection,Rüstungswert,,Defensa de la armadura
-xuiSkillBlockDamage,UI,Menu,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
-xuiSkillBreathHoldDuration,UI,Menu,KgNone,Breath Hold Duration,Durée d'apnée,Dauer des Atemanhaltens,,Aguantar la respiración
+xuiSkillArmorDefense,UI,Menu,KgNone,鎧防御,Armor Defense,Rüstungswert,,Defensa de la armadura
+xuiSkillBlockDamage,UI,Menu,KgNone,対物ダメージ,Block Damage,Blockschaden,,Daño en bloque
+xuiSkillBreathHoldDuration,UI,Menu,KgNone,無呼吸時間,Breath Hold Duration,Dauer des Atemanhaltens,,Aguantar la respiración
 xuiSkillCraftingOutputCount,UI,Menu,KgNone,Crafting Output Count,Quantité de fabrication,Fertigungsanzahl,,Contador de salida de fabricación
-xuiSkillCraftingQuality,UI,Menu,KgNone,工作品質,Crafting Quality,Fertigungsqualität,,Calidad de fabricación
-xuiSkillCraftingTime,UI,Menu,KgNone,工作時間,Crafting Time,Fertigungszeit,,Tiempo de fabricación
+xuiSkillCraftingQuality,UI,Menu,KgNone,作製品質,Crafting Quality,Fertigungsqualität,,Calidad de fabricación
+xuiSkillCraftingTime,UI,Menu,KgNone,作製時間,Crafting Time,Fertigungszeit,,Tiempo de fabricación
 xuiSkillCrawl,UI,Menu,KgNone,Crawl,Ramper,Kriechen,,Gatear
 xuiSkillCrouchSpeed,UI,Menu,KgNone,Crouch Speed,Vitesse accroupi,Geschwindigkeit geduckt,,Velocidad al agacharse
-xuiSkillDismembermentBonus,UI,Menu,KgNone,Dismemberment Bonus,Bonus de démembrement,Verstümmelungs-Bonus,,Bono de desmembramiento
-xuiSkillDismembermentChance,UI,Menu,KgNone,Dismemberment Chance,Chance de démembrement,Verstümmelungs-Chance,,Probabilidad de desmembramiento
-xuiSkillEntityDamage,UI,Menu,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
-xuiSkillHarvestCount,UI,Menu,KgNone,Harvest Count,Quantité de la récolte,Sammelzahl,,Recuento de la cosecha
+xuiSkillDismembermentBonus,UI,Menu,KgNone,部位破壊ボーナス,Dismemberment Bonus,Verstümmelungs-Bonus,,Bono de desmembramiento
+xuiSkillDismembermentChance,UI,Menu,KgNone,部位破壊確率,Dismemberment Chance,Verstümmelungs-Chance,,Probabilidad de desmembramiento
+xuiSkillEntityDamage,UI,Menu,KgNone,対生物ダメージ,Entity Damage,Wesen-Schaden,,Daño a entidades
+xuiSkillHarvestCount,UI,Menu,KgNone,収穫数,Harvest Count,Sammelzahl,,Recuento de la cosecha
 xuiSkillHealthDegradation,UI,Menu,KgNone,Health Degradation,Dégradation liée à la santé,Gesundheit Verringerung,,Degradación por salud
-xuiSkillHealthGain,UI,Menu,KgNone,Health Gain,Gain en santé,Gesundheitsgewinn,,Salud ganada
-xuiSkillHungerDegradation,UI,Menu,KgNone,Hunger Degradation,Dégradation liée à la faim,Hunger Verringerung,,Degradación por hambre
-xuiSkillLootQuality,UI,Menu,KgNone,Loot Quality,Qualité du butin,Beutequalität,,Calidad del botín
-xuiSkillLootTime,UI,Menu,KgNone,Loot Time,Durée du butin,Beute-Zeit,,Tiempo del botín
+xuiSkillHealthGain,UI,Menu,KgNone,体力回復量,Health Gain,Gesundheitsgewinn,,Salud ganada
+xuiSkillHungerDegradation,UI,Menu,KgNone,空腹進行度,Hunger Degradation,Hunger Verringerung,,Degradación por hambre
+xuiSkillLootQuality,UI,Menu,KgNone,戦利品質,Loot Quality,Beutequalität,,Calidad del botín
+xuiSkillLootTime,UI,Menu,KgNone,略奪時間,Loot Time,Beute-Zeit,,Tiempo del botín
 xuiSkillMaxHealth,UI,Menu,KgNone,Max Health,Santé max,Max. Gesundheit,,Salud máxima
 xuiSkillMaxHunger,UI,Menu,KgNone,Max Hunger,Faim max,Max. Hunger,,Hambre máxima
 xuiSkillMaxSpeed,UI,Menu,KgNone,Max Speed,Vitesse max,Max. Geschwindigkeit,,Velocidad máxima
 xuiSkillMaxStamina,UI,Menu,KgNone,Max Stamina,Endurance max,Max. Ausdauer,,Resistencia máxima
 xuiSkillMaxThirst,UI,Menu,KgNone,Max Thirst,Soif max,Max. Durst,,Sed máxima
-xuiSkillMaxWellness,UI,Menu,KgNone,Max Wellness,Bien-être max,Max. Wohlbefinden,,Bienestar máximo
-xuiSkillMinWellness,UI,Menu,KgNone,Min Wellness,Bien-être min.,Min. Wohlbefinden,,Bienestar mínimo
+xuiSkillMaxWellness,UI,Menu,KgNone,健康最大値,Max Wellness,Max. Wohlbefinden,,Bienestar máximo
+xuiSkillMinWellness,UI,Menu,KgNone,健康最小値,Min Wellness,Min. Wohlbefinden,,Bienestar mínimo
 xuiSkillNoise,UI,Menu,KgNone,Noise,Bruit,Lärm,,Ruido
 xuiSkillRangedFalloff,UI,Menu,KgNone,Ranged Falloff,Diminution de la portée,Effektive Reichweite,,Caída a distancia
 xuiSkillReloadSpeed,UI,Menu,KgNone,Reload Speed,Vitesse de recharge,Nachladzeit,,Velocidad de recarga
-xuiSkillRepairAmount,UI,Menu,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
-xuiSkillRepairQualityLoss,UI,Menu,KgNone,Repair Quality Loss,Réparer le perte de qualité,Reparaturqualitätsverlust,,Calidad perdida en la reparación
+xuiSkillRepairAmount,UI,Menu,KgNone,修理総量,Repair Amount,Reparaturwert,,Cantidad para reparar
+xuiSkillRepairQualityLoss,UI,Menu,KgNone,修理品質低下量,Repair Quality Loss,Reparaturqualitätsverlust,,Calidad perdida en la reparación
 xuiSkillRepairTime,UI,Menu,KgNone,修理時間,Repair Time,Reparaturzeit,,Tiempo de reparación
 xuiSkillRunSpeed,UI,Menu,KgNone,Run Speed,Vitesse de course,Laufgeschwindigkeit,,Velocidad al correr
 xuiSkillSmell,UI,Menu,KgNone,Smell,Odeur,Geruch,,Olor
-xuiSkillStaminaDegradation,UI,Menu,KgNone,Stamina Degradation,Dégradation liée à l'endurance,Ausdauer Verringerung,,Degradación por resistencia
-xuiSkillStaminaGain,UI,Menu,KgNone,Stamina Gain,Gain en endurance,Ausdauergewinn,,Resistencia ganada
-xuiSkillThirstDegradation,UI,Menu,KgNone,Thirst Degradation,Dégradation liée à la soif,Durst Verringerung,,Degradación por sed
-xuiSkillTreasureRadius,UI,Menu,KgNone,Treasure Radius,Rayon de trésor,Schatzradius,,Radio del tesoro
+xuiSkillStaminaDegradation,UI,Menu,KgNone,スタミナ減少量,Stamina Degradation,Ausdauer Verringerung,,Degradación por resistencia
+xuiSkillStaminaGain,UI,Menu,KgNone,スタミナ回復量,Stamina Gain,Ausdauergewinn,,Resistencia ganada
+xuiSkillThirstDegradation,UI,Menu,KgNone,渇き進行度,Thirst Degradation,Durst Verringerung,,Degradación por sed
+xuiSkillTreasureRadius,UI,Menu,KgNone,探索半径,Treasure Radius,Schatzradius,,Radio del tesoro
 xuiSkillWalkSpeed,UI,Menu,KgNone,Walk Speed,Vitesse de marche,Gehgeschwindigkeit,,Velocidad al andar
-xuiSkillWellnessGain,UI,Menu,KgNone,Wellness Gain,Gain en bien-être,Wohlbefinden Gewinn,,Bienestar ganado
+xuiSkillWellnessGain,UI,Menu,KgNone,健康値増加,Wellness Gain,Wohlbefinden Gewinn,,Bienestar ganado
 xuiSkillWellnessReduction,UI,Menu,KgNone,Wellness Reduction,Perte en bien-être,Wohlbefinden Verlust,,Reducción de bienestar
 xuiSmelting,UI,Menu,KgNone,Smelting,Fonte,Schmelzung,,Fundición
 armLength,UI,Menu UMA,KgNone,Arm Length,Longueur des bras,Armlänge,,Longitud de los brazos
@@ -2542,7 +2542,7 @@ browserWorldnameTooltip,UI,Server Browser,KgNone,World name,Nom du monde,Weltnam
 browserZombieRunModeTooltip,UI,Server Browser,KgNone,"Zombies\n(always run, always walk, run @ night & walk @ day)","Zombies\n(courent toujours, marchent toujours, courent la nuit et marchent le jour)","Zombies\n(laufen immer, gehen immer, laufen in der Nacht und gehen am Tag)",,"Zombis\n(siempre corren, siempre caminan, corren de noche y caminan de día)."
 alreadyKnown,UI,Tooltip,KgNone,All Recipes Already Known,Toutes les compositions connues,Alle Rezepte bereits bekannt,,Ya te sabes todas las recetas
 isBusy,UI,Tooltip,KgNone,You are busy.,Vous faites quelque chose.,Du bist beschäftigt.,,Estás ocupado.
-lblAll,UI,Tooltip,KgNone,All,Tout,Alle,,Todo
+lblAll,UI,Tooltip,KgNone,全部,All,Alle,,Todo
 lblAllBlocks,UI,Tooltip,KgNone,All Blocks,Tous les blocs,Alle Blöcke,,Todos los bloques
 lblAllItems,UI,Tooltip,KgNone,All Items,Tous les objets,Alle Gegenstände,,Todos los objetos
 lblCategoryAll,UI,Tooltip,KgNone,全部,All,Alle,,Todo
@@ -2552,7 +2552,7 @@ lblCategoryBooks,UI,Tooltip,KgNone,Books,Livres,Bücher,,Libros
 lblCategoryBuilding,UI,Tooltip,KgNone,建築,Building,Gebäude,,Construcción
 lblCategoryChemicals,UI,Tooltip,KgNone,Chemicals,Produits chimiques,Chemikalien,,Químicos
 lblCategoryClothing,UI,Tooltip,KgNone,衣類,Clothing,Kleidung,,Ropa
-lblCategoryCraftingMisc,UI,Tooltip,KgNone,Crafting/Miscellaneous,Fabrication/Divers,Fertigung/Sonstiges,,Fabricación/Varios
+lblCategoryCraftingMisc,UI,Tooltip,KgNone,工作/他,Crafting/Miscellaneous,Fertigung/Sonstiges,,Fabricación/Varios
 lblCategoryDecorMisc,UI,Tooltip,KgNone,装飾/他,Decor/Miscellaneous,Dekor/Verschiedenes,,Decoración/Varios
 lblCategoryFirearms,UI,Tooltip,KgNone,銃器,Firearms,Schusswaffen,,Armas de fuego
 lblCategoryFoodCooking,UI,Tooltip,KgNone,食料/調理,Food/Cooking,Nahrung/Kochen,,Comida/Cocina
@@ -2563,31 +2563,31 @@ lblCategoryToolsTraps,UI,Tooltip,KgNone,ツール/罠,Tools/Traps,Werkzeuge/Fall
 lblCategoryWeapons,UI,Tooltip,KgNone,武器,Weapons,Waffen,,Armas
 lblCenterOnPlayer,UI,Tooltip,KgNone,プレイヤーを中心,Center on Player,Auf Spieler zentrieren,,Centrar en jugador
 lblCenterOnSleepingBag,UI,Tooltip,KgNone,寝袋を中心,Center on Sleeping Bag,Auf Schlafsack zentrieren,,Centrar en saco de dormir
-lblChestArmor,UI,Tooltip,KgNone,Chest Armor,Plastron,Brustpanzer,,Coraza
+lblChestArmor,UI,Tooltip,KgNone,胸部鎧,Chest Armor,Brustpanzer,,Coraza
 lblCursorPosition,UI,Tooltip,KgNone,カーソルの位置,Cursor Position,Cursorposition,,Posición del cursor
 lblDevBlocks,UI,Tooltip,KgNone,Dev Blocks On,Blocs de développement activés,Entwicklerblöcke an,,Bloques desarr. activados
-lblEyewear,UI,Tooltip,KgNone,Eyewear,Lunettes,Brillen und Kontaktlinsen,,Gafas
-lblFace,UI,Tooltip,KgNone,Face,Visage,Gesicht,,Rostro
-lblFavorites,UI,Tooltip,KgNone,Favorites,Favoris,Favoriten,,Favoritos
-lblFootwear,UI,Tooltip,KgNone,Footwear,Chaussures,Schuhe,,Calzado
-lblGloves,UI,Tooltip,KgNone,Gloves,Gants,Handschuhe,,Guantes
-lblHeadgear,UI,Tooltip,KgNone,Headgear,Chapeaux,Kopfbedeckung,,Gorros
-lblLegArmor,UI,Tooltip,KgNone,Leg Armor,Jambières,Beinschienen,,Espinillera
-lblLevel,UI,Tooltip,KgNone,LEVEL: {0},NIVEAU : {0},LEVEL: {0},,NIVEL: {0}
-lblOvercoat,UI,Tooltip,KgNone,Overcoat,Pardessus,Mantel,,Abrigo
-lblPants,UI,Tooltip,KgNone,Pants,Pantalons,Hose,,Pantalones
+lblEyewear,UI,Tooltip,KgNone,眼,Eyewear,Brillen und Kontaktlinsen,,Gafas
+lblFace,UI,Tooltip,KgNone,顔,Face,Gesicht,,Rostro
+lblFavorites,UI,Tooltip,KgNone,お気に入り,Favorites,Favoriten,,Favoritos
+lblFootwear,UI,Tooltip,KgNone,足,Footwear,Schuhe,,Calzado
+lblGloves,UI,Tooltip,KgNone,手,Gloves,Handschuhe,,Guantes
+lblHeadgear,UI,Tooltip,KgNone,頭部,Headgear,Kopfbedeckung,,Gorros
+lblLegArmor,UI,Tooltip,KgNone,脚部,Leg Armor,Beinschienen,,Espinillera
+lblLevel,UI,Tooltip,KgNone,レベル: {0},LEVEL: {0},LEVEL: {0},,NIVEL: {0}
+lblOvercoat,UI,Tooltip,KgNone,防護服,Overcoat,Mantel,,Abrigo
+lblPants,UI,Tooltip,KgNone,ズボン,Pants,Hose,,Pantalones
 lblPartStackMissing,UI,Tooltip,KgNone,[Missing {0}],[Il vous manque : {0}],[{0} fehlt],,[Faltan: {0}]
 lblReloadArchetypeXML,UI,Tooltip,KgNone,Reload Archetype XML Data,Recharger les données Archétype XML,Archetyp XML Data neu laden,,Recargar datos Archetype XML
-lblRemoveQuest,UI,Tooltip,KgNone,Remove Quest,Supprimer la quête,Quest entfernen,,Eliminar misión
+lblRemoveQuest,UI,Tooltip,KgNone,クエストの削除,Remove Quest,Quest entfernen,,Eliminar misión
 lblRemoveQuickWaypoint,UI,Tooltip,KgNone,即席地点の削除,Remove Quick Waypoint,Schnellen Wegpunkt entfernen,,Quitar punto de regreso rápido
 lblRemoveWaypoint,UI,Tooltip,KgNone,地点削除,Remove Waypoint,Wegpunkt entfernen,,Quitar punto de regreso
-lblSaveWaypoint,UI,Tooltip,KgNone,保存地点,Save Waypoint,Wegpunkt speichern,,Guardar punto de regreso
-lblShareWaypoint,UI,Tooltip,KgNone,共有地点,Share Waypoint,Wegpunkt teilen,,Compartir punto de regreso
-lblShirt,UI,Tooltip,KgNone,Shirt,Chemises,Hemd,,Camisa
+lblSaveWaypoint,UI,Tooltip,KgNone,地点保存,Save Waypoint,Wegpunkt speichern,,Guardar punto de regreso
+lblShareWaypoint,UI,Tooltip,KgNone,地点共有,Share Waypoint,Wegpunkt teilen,,Compartir punto de regreso
+lblShirt,UI,Tooltip,KgNone,服,Shirt,Hemd,,Camisa
 lblShowOnMap,UI,Tooltip,KgNone,地図に表示,Show On Map,Auf Karte zeigen,,Mostrar en mapa
 lblSimpleClick,UI,Tooltip,KgNone,Simple Click,Simple clic,Einfacher Klick,,Clic simple
-lblSkillReqPlayerLevel,UI,Tooltip,KgNone,Player Level {0},Joueur niveau {0},Spielerlevel {0},,Nivel de jugador {0}
-lblToggleActive,UI,Tooltip,KgNone,Toggle Active,Interrupteur actif,Aktivieren,,Activar/desactivar
+lblSkillReqPlayerLevel,UI,Tooltip,KgNone,プレイヤーﾚﾍﾞﾙ {0},Player Level {0},Spielerlevel {0},,Nivel de jugador {0}
+lblToggleActive,UI,Tooltip,KgNone,表示切り替え,Toggle Active,Aktivieren,,Activar/desactivar
 lblToggleClothes,UI,Tooltip,KgNone,Toggle Clothes On/Off,Afficher les vêtements Activer/Désactiver,Kleider an/aus,,Activar/desactivar cambio de ropa
 lblTotalItems,UI,Tooltip,KgNone,{0} TOTAL,TOTAL DE {0},{0} GESAMT,,TOTAL: {0}
 lblTrackWaypoint,UI,Tooltip,KgNone,追跡地点,Track Waypoint,Wegpunkt verfolgen,,Establecer punto de regreso
@@ -2708,7 +2708,7 @@ lootTooltipTouched,UI,Use Prompt,KgNone,<{0}> Search {1},<{0}> pour rechercher {
 tooltipInteract,UI,Use Prompt,KgNone,Hold <{0}> to interact with {1},Maintenir <{0}> pour interagir avec {1},Zum Interagieren mit {1} <{0}> gedrückt halten,,Mantén pulsado <{0}> para interactuar con {1}
 xuiAccept,UI,XUI,KgNone,ACCEPT,ACCEPTER,AKZEPTIEREN,,ACEPTAR
 xuiActiveEffects,UI,XUI,KgNone,発生中の効果,ACTIVE EFFECTS,AKTIVE EFFEKTE,,EFECTOS ACTIVOS
-xuiAllies,UI,XUI,KgNone,ALLIES,ALLIÉS,VERBÜNDETE,,ALIADOS
+xuiAllies,UI,XUI,KgNone,同盟,ALLIES,VERBÜNDETE,,ALIADOS
 xuiAllSkills,UI,XUI,KgNone,ALL SKILLS,TOUTES LES COMPÉTENCES,ALLE FERTIGKEITEN,,TODAS LAS HABILIDADES
 xuiAssembleMustReadBook,UI,XUI,EnChanged,You must read the correct book or buy a perk to assemble this item.,Vous devez lire le bon livre pour assembler cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand zusammensetzen zu können.",,Debes leer el libro adecuado para armar este objeto.
 xuiAttributes,UI,XUI,KgNone,特性,ATTRIBUTES,ATTRIBUTE,,ATRIBUTOS
@@ -2745,7 +2745,7 @@ xuiDescriptionLabel,UI,XUI,KgNone,DESCRIPTION,DESCRIPTION,BESCHREIBUNG,,DESCRIPC
 xuiDescriptionNotAvailable,UI,XUI,KgNone,DESCRIPTION NOT AVAILABLE AT THIS TIME.,LA DESCRIPTION N'EST PAS DISPONIBLE À L'HEURE ACTUELLE.,ZURZEIT KEINE BESCHREIBUNG VERFÜGBAR.,,LA DESCRIPCIÓN NO ESTÁ DISPONIBLE EN ESTOS MOMENTOS.
 xuiDurability,UI,XUI,KgNone,DURABILITY,DURABILITÉ,HALTBARKEIT,,DURABILIDAD
 xuiElevation,UI,XUI,KgNone,標高,ELEVATION,ERHÖHUNG,,ELEVACIÓN
-xuiEmptyInfoPanelText,UI,XUI,KgNone,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","FAITES UN [CLIC GAUCHE] POUR INSPECTER UN OBJET, UNE COMPOSITION OU UN EFFET ACTIF\nMAINTENEZ UN [CLIC GAUCHE] ET FAITES GLISSER POUR PRENDRE UNE PILE\NFAITES UN [CLIC GAUCHE] POUR JETER OU ÉCHANGER UNE PILE\nMAINTENEZ UN [CLIC GAUCHE] ET FAITES GLISSER POUR PRENDRE LA MOITIÉ D'UNE PILE\nFAITES UN [CLIC DROIT] POUR LAISSER TOMBER UN OBJET À LA FOIS","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
+xuiEmptyInfoPanelText,UI,XUI,KgNone,[左クリック] 選択したアイテム、レシピの詳細や効果を表示\n[左クリック] 押したままドラッグで同じアイテムをまとめる\n[左クリック] インベントリ外に捨てるかインベントリ内のアイテムを移動[右クリック] 押したままドラッグで半分に分ける\n[右クリック] インベントリ外で1つずつ落とす,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
 xuiEmptyVehicleStorage,UI,XUI,KgNone,ADD BASKET TO ACCESS STORAGE.,AJOUTEZ UN PANIER POUR ACCÉDER AU RANGEMENT.,"FÜGE EINEN KORB HINZU, UM AUF DEN LAGERRAUM ZUZUGREIFEN.",,AÑADE UN CESTO PARA ALMACENAMIENTO.
 xuiEveryone,UI,XUI,KgNone,EVERYONE,TOUT LE MONDE,JEDER,,TODOS
 xuiExamine,UI,XUI,KgNone,EXAMINE,EXAMINER,UNTERSUCHEN,,INVESTIGAR
@@ -2754,7 +2754,7 @@ xuiFood,UI,XUI,KgNone,食事,FOOD,NAHRUNG,,COMIDA
 xuiFuel,UI,XUI,KgNone,FUEL,CARBURANT,BRENNSTOFF,,COMBUSTIBLE
 xuiGas,UI,XUI,KgNone,GAS,ESSENCE,BENZIN,,GAS
 xuiInput,UI,XUI,KgNone,INPUT,ENTRÉE,INPUT,,ENTRADA
-xuiInspect,UI,XUI,KgNone,調査,INSPECT,ANSEHEN,,INSPECCIONAR
+xuiInspect,UI,XUI,KgNone,詳細,INSPECT,ANSEHEN,,INSPECCIONAR
 xuiInventory,UI,XUI,KgNone,インベントリ,INVENTORY,INVENTAR,,INVENTARIO
 xuiInventoryFull,UI,XUI,KgNone,"No room in inventory, crafting has been halted until space is cleared.",Plus de place dans l'inventaire. La fabrication a été mise en attente jusqu'à ce que vous fassiez de la place.,"Kein Platz im Inventar, das Fertigen wurde gestoppt, bis du Platz geschaffen hast.",,"No hay espacio en el inventario, no puedes fabricar hasta que no tengas espacio libre."
 xuiInventoryFullDropping,UI,XUI,KgNone,Inventory is full. Dropping items on ground.,L'inventaire est plein. Vous êtes en train de jeter des objets au sol.,Inventar ist voll. Gegenstände werden auf den Boden gelegt.,,El inventario está lleno. Soltando objetos al suelo.
@@ -2768,14 +2768,14 @@ xuiLongestLife,UI,XUI,KgNone,生存時間,LONGEST LIFE,LÄNGSTES LEBEN,,VIDA MÁ
 xuiLoot,UI,XUI,KgNone,LOOT,BUTIN,BEUTE,,BOTÍN
 xuiLooting,UI,XUI,KgNone,LOOTING,EN COURS D'ACQUISITION DE BUTIN,PLÜNDERN,,SAQUEANDO
 xuiMap,UI,XUI,KgNone,地図,MAP,KARTE,,MAPA
-xuiMapDayTime,UI,XUI,KgNone,日目/時間,Day/Time,Tag/Zeit,,Día/Hora
+xuiMapDayTime,UI,XUI,KgNone,日/時,Day/Time,Tag/Zeit,,Día/Hora
 xuiMapStats,UI,XUI,KgNone,MAP STATS,STATS DE LA CARTE,KARTENSTATISTIK,,ESTADÍSTICAS DEL MAPA
 xuiMinibike,UI,XUI,KgNone,MINIBIKE,MINI-MOTO,TASCHENMOTORRAD,,MINIMOTO
 xuiMinibikeStorage,UI,XUI,KgNone,MINIBIKE STORAGE,RANGEMENT DE MINI-MOTO,LAGERRAUM FÜR TASCHENMOTORRAD,,ALMACENAMIENTO DE LA MINIMOTO
 xuiNA,UI,XUI,KgNone,N/A,S.O.,–,,N/D
-xuiNextLevelRequirements,UI,XUI,KgNone,REQUIREMENTS,CONDITIONS,VORAUSSETZUNGEN,,REQUISITOS
+xuiNextLevelRequirements,UI,XUI,KgNone,必須条件,REQUIREMENTS,VORAUSSETZUNGEN,,REQUISITOS
 xuiNoise,UI,XUI,KgNone,NOISE,BRUIT,GERÄUSCHE,,RUIDO
-xuiObjectives,UI,XUI,KgNone,OBJECTIVES,OBJECTIFS,ZIELE,,OBJETIVOS
+xuiObjectives,UI,XUI,KgNone,目的,OBJECTIVES,ZIELE,,OBJETIVOS
 xuiObjectivesNotAvailable,UI,XUI,KgNone,OBJECTIVES NOT AVAILABLE AT THIS TIME.,LES OBJECTIFS NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,ZIELE DERZEIT NICHT VERFÜGBAR.,,LOS OBJETIVOS NO ESTÁN DISPONIBLES EN ESTOS MOMENTOS.
 xuiOutput,UI,XUI,KgNone,OUTPUT,SORTIE,OUTPUT,,RESULTADO
 xuiPing,UI,XUI,KgNone,PING,PING,PING,,PING
@@ -2793,10 +2793,10 @@ xuiRepairMissingMats,UI,XUI,KgNone,You do not have the required materials to rep
 xuiRepairMustReadBook,UI,XUI,KgNone,You must read the correct book or buy a perk to repair this item.,Vous devez lire le bon livre pour réparer cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand reparieren zu können.",,Debes leer el libro adecuado para reparar este objeto.
 xuiRequired,UI,XUI,KgNone,REQUIRED,NÉCESSAIRE(S),ERFORDERLICH,,SE NECESITA
 xuiRequirements,UI,XUI,KgNone,必須条件,REQUIREMENTS,VORAUSSETZUNGEN,,REQUISITOS
-xuiRewards,UI,XUI,KgNone,REWARDS,RÉCOMPENSES,BELOHNUNGEN,,RECOMPENSAS
+xuiRewards,UI,XUI,KgNone,報酬,REWARDS,BELOHNUNGEN,,RECOMPENSAS
 xuiRewardsNotAvailable,UI,XUI,KgNone,REWARDS NOT AVAILABLE AT THIS TIME.,LES RÉCOMPENSES NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,BELOHNUNGEN DERZEIT NICHT VERFÜGBAR.,,LAS RECOMPENSAS NO ESTÁ DISPONIBLES EN ESTOS MOMENTOS.
 xuiSaveWaypoint,UI,XUI,KgNone,保存地点,SAVE WAYPOINT,WEGPUNKT SPEICHERN,,GUARDAR PUNTO DE REGRESO
-xuiScore,UI,XUI,KgNone,SCORE,SCORE,PUNKTZAHL,,PUNTUACIÓN
+xuiScore,UI,XUI,KgNone,評価,SCORE,PUNKTZAHL,,PUNTUACIÓN
 xuiSeats,UI,XUI,KgNone,SEATS,SIÈGES,SITZE,,ASIENTOS
 xuiSent,UI,XUI,KgNone,SENT,ENVOYÉS,VERSCHICKT,,ENVIADO
 xuiSharedWaypoints,UI,XUI,KgNone,共有地点,SHARED WAYPOINTS,GETEILTE WEGPUNKTE,,PUNTOS DE REGRESO COMPARTIDOS
@@ -2805,13 +2805,13 @@ xuiSkillStatComingSoon,UI,XUI,KgNone,"COMING SOON PROFESSION, HOBBY AND MAIN STA
 xuiSkillStats,UI,XUI,KgNone,SKILL STATS,STATS DE LA COMPÉTENCE,FERTIGKEITEN-STATISTIK,,ESTADÍSTICAS DE HABILIDAD
 xuiSpeed,UI,XUI,KgNone,SPEED,VITESSE,GESCHWINDGKEIT,,VELOCIDAD
 xuiStats,UI,XUI,KgNone,STATS,STATS,STATISTIKEN,,ESTADÍSTICAS
-xuiStatus,UI,XUI,KgNone,STATUS,STATUT,STATUS,,ESTADO
+xuiStatus,UI,XUI,KgNone,情報,STATUS,STATUS,,ESTADO
 xuiSteamID,UI,XUI,KgNone,STEAM ID,ID STEAM,STEAM-ID,,ID DE STEAM
 xuiTakeAllKey,UI,XUI,KgNone,R',R,‚R‘,,R'
 xuiTime,UI,XUI,KgNone,時間,DURÉE,ZEIT,,TIEMPO
 xuiTip,UI,XUI,KgNone,TIP,ASTUCE,TIPP,,CONSEJO
 xuiTools,UI,XUI,KgNone,TOOLS,OUTILS,WERKZEUGE,,HERRAMIENTAS
-xuiTrack,UI,XUI,KgNone,TRACK,PISTER,VERFOLGEN,,PISTA
+xuiTrack,UI,XUI,KgNone,追跡,TRACK,VERFOLGEN,,PISTA
 xuiTurnOff,UI,XUI,KgNone,TURN OFF,DÉSACTIVER,AUSSCHALTEN,,DESACTIVAR
 xuiTurnOn,UI,XUI,KgNone,TURN ON,ACTIVER,EINSCHALTEN,,ACTIVAR
 xuiType,UI,XUI,KgNone,タイプ,TYPE,ART,,TIPO
@@ -2822,7 +2822,7 @@ xuiVehicleSpeedFast,UI,XUI,KgNone,FAST,RAPIDE,SCHNELL,,RÁPIDO
 xuiVehicleSpeedNone,UI,XUI,KgNone,NONE,AUCUN,KEINE,,NADA
 xuiVehicleSpeedNormal,UI,XUI,KgNone,NORMAL,NORMAL,NORMAL,,NORMAL
 xuiVehicleSpeedSlow,UI,XUI,KgNone,SLOW,LENT,LANGSAM,,LENTO
-xuiVoice,UI,XUI,KgNone,VOICE,VOIX,STIMME,,VOZ
+xuiVoice,UI,XUI,KgNone,発話,VOICE,STIMME,,VOZ
 xuiWater,UI,XUI,KgNone,水分,WATER,WASSER,,AGUA
 xuiWaypoints,UI,XUI,KgNone,地点,WAYPOINTS,WEGPUNKTE,,PUNTOS DE REGRESO
 xuiWellness,UI,XUI,KgNone,健康,WELLNESS,WOHLBEFINDEN,,BIENESTAR
@@ -2957,9 +2957,9 @@ mmBtnOptionsScreenBounds,,Console Maine Menu Player Options,KgNone,SCREEN BOUNDS
 mmConsoleNamePC,,Console Required Name,KgNone,PC,PC,PC,,PC
 mmConsoleNamePS4,,Console Required Name,KgNone,PLAYSTATION®4 SYSTEM,SYSTÈME PLAYSTATION®4,PLAYSTATION®4-SYSTEM,,SISTEMA PLAYSTATION®4
 mmConsoleNameXbox,,Console Required Name,KgNone,XBOX ONE CONSOLE,CONSOLE XBOX ONE,XBOX ONE KONSOLE,,CONSOLA XBOX ONE
-lblhave,,Crafting Menu Header,KgNone,HAVE,AVOIR,HABEN,,TENER
-lblitem,,Crafting Menu Header,KgNone,ITEM,ARTICLE,ARTIKEL,,OBJETO
-lblneed,,Crafting Menu Header,KgNone,NEED,BESOIN,BRAUCHEN,,NECESITAR
+lblhave,,Crafting Menu Header,KgNone,所持,HAVE,HABEN,,TENER
+lblitem,,Crafting Menu Header,KgNone,品目,ITEM,ARTIKEL,,OBJETO
+lblneed,,Crafting Menu Header,KgNone,必要,NEED,BRAUCHEN,,NECESITAR
 xuiWPcrafting,,Crafting Window Paging in Game,KgNone,Crafting,Fabrication,Fertigung,,Fabricación
 xuiWPcreative,,Creative Window Paging in Game,KgNone,Creative,Création,Kreativ,,Creativo
 mmNavezganeSpDesc,,Description for SP Navezgane,KgNone,Hand crafted campaign world and the last hope in the zombie apocalypse.,Un monde en mode campagne fait sur-mesure et qui est le dernier espoir en pleine apocalypse zombie.,Von Hand erstellte Kampagnen-Welt und die letzte Hoffnung in einer Zombie-Apokalypse.,,Mundo de campaña hecho a mano y la última esperanza en el apocalipsis zombi.
@@ -3410,7 +3410,7 @@ xuiWPquests,,Quests Window Paging in Game,KgNone,Quests,Quêtes,Quests,,Misiones
 lblXpToNextLevel,,Skill Menu,KgNone,XP TO NEXT LEVEL:,XP AU NIVEAU SUIVANT,XP AUF DIE NÄCHSTE STUFE,,XP A NIVEL SIGUIENTE:
 xuiWPskills,,Skills Window Paging in Game,KgNone,Skills,Compétences,Fertigkeiten,,Habilidades
 iglblControlsTextConsole,,Text describing button actions,KgNone,HIGHLIGHT AN ITEM IN YOUR INVENTORY AND PRESS {0} TO INSPECT,SÉLECTIONNEZ UN OBJET DE VOTRE INVENTAIRE ET APPUYEZ SUR {0} POUR L'INSPECTER,"HEBE EINEN GEGENSTAND IN DEINEM INVENTAR HERVOR UND DRÜCKE {0}, UM IHN ANZUSEHEN",,RESALTA UN OBJETO DE TU INVENTARIO Y PRESIONA {0} PARA INSPECCIONAR.
-iglblControlsTextPC,,Text describing button actions,KgNone,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","FAITES UN [CLIC GAUCHE] POUR INSPECTER UN OBJET, UNE COMPOSITION OU UN EFFET ACTIF\nMAINTENEZ UN [CLIC GAUCHE] ET FAITES GLISSER POUR PRENDRE UNE PILE\nFAITES UN [CLIC GAUCHE] POUR JETER OU ÉCHANGER UNE PILE\nMAINTENEZ UN [CLIC GAUCHE] ET FAITES GLISSER POUR PRENDRE LA MOITIÉ D'UNE PILE\nFAITES UN [CLIC DROIT] POUR LAISSER TOMBER UN OBJET À LA FOIS","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
+iglblControlsTextPC,,Text describing button actions,KgNone,[左クリック] 選択したアイテム、レシピの詳細や効果を表示\n[左クリック] 押したままドラッグで同じアイテムをまとめる\n[左クリック] インベントリ外に捨てるかインベントリ内のアイテムを移動[右クリック] 押したままドラッグで半分に分ける\n[右クリック] インベントリ外で1つずつ落とす,""[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
 lblSimplePickup,,tooltip,KgNone,Simple Pickup,Simple Ramasser,Einfaches Aufheben,,Recoger simple
 leatherTanningDesc,items,Book,KgNone SpNone,Read this book to learn how to craft leather from animal hides or by scrapping leather items.,Lisez ce livre pour apprendre à fabriquer du cuir avec des peaux de bête ou en recyclant des objets en cuir.,In diesem Buch erfährst du wie Leder aus Tierhäuten oder durch das Zerlegen von Ledergegenständen gewonnen wird.,,
 10mmBullet,items,Ammo,LEGACY,10mm Round (Ammo),Cartouche 10 mm,10 mm Patrone (Mun),,Bala de 10 mm
@@ -4204,7 +4204,7 @@ xuiProductName,UI,Menu,New,Product Name,,,,
 xuiRealTime,UI,Menu,New,Real Time,,,,
 xuiRestock,UI,Menu,New,Restock,,,,
 xuiSecretStash,UI,Menu,New,Secret Stash,,,,
-xuiSellPrice,UI,Menu,New,Sell Price:,,,,
+xuiSellPrice,UI,Menu,New,販売価格:,Sell Price:,,,
 xuiSkillLockPickChance,UI,Menu,New,Lock Pick Chance,,,,
 xuiVendingWithOwner,UI,Menu,New,Vending Machine - {0},,,,
 lblShowPassword,UI,Password Dialog,New,Show Password,,,,
@@ -4213,8 +4213,8 @@ lblCategoryPainting,UI,Tooltip,New,塗装,Painting,,,
 lblCategoryScience,UI,Tooltip,New,科学,Science,,,
 lblCategorySecretStash,UI,Tooltip,New,Secret Stash,,,,
 lblCategorySpecialItems,UI,Tooltip,New,Special Items,,,,
-lblSortContainer,UI,Tooltip,New,Sort Container,,,,
-lblSortInventory,UI,Tooltip,New,Sort Inventory,,,,
+lblSortContainer,UI,Tooltip,New,並び替え,Sort Container,,,
+lblSortInventory,UI,Tooltip,New,並び替え,Sort Inventory,,,
 npcTooltipTalk,UI,Tooltip,New,Press <{0}> to talk to {1},,,,
 ttAlreadyRentingVM,UI,Tooltip,New,You already have a vending machine rented.,,,,
 ttCannotSellItem,UI,Tooltip,New,I'm not interested in that item.,,,,
@@ -4257,10 +4257,10 @@ xuiPlayerLevel,UI,XUI,New,Player Level,,,,
 xuiPower,UI,XUI,New,POWER,,,,
 xuiPrefabList,UI,XUI,New,Prefab Tools,,,,
 xuiResult,UI,XUI,New,RESULT,,,,
-xuiSkillBartering,UI,XUI,New,Price Modifier,,,,
+xuiSkillBartering,UI,XUI,New,価格改定,Price Modifier,,,
 xuiSkillCurrentLevel,UI,XUI,New,現在のレベル:,Current Level:,,,
 xuiSkills,UI,XUI,New,スキル,SKILLS,,,
-xuiSkillSecretStash,UI,XUI,New,Bonus Level,,,,
+xuiSkillSecretStash,UI,XUI,New,ボーナスレベル,Bonus Level,,,
 xuiSkillSelectedLevel,UI,XUI,New,選択中のレベル:,Selected Level:,,,
 xuiSlots,UI,XUI,New,SLOTS,,,,
 xuiStartTime,UI,XUI,New,開始時間,START TIME,,,
