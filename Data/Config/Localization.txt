@@ -2007,7 +2007,7 @@ lblEffectChance,UI,Item Info,KgNone,Effect Chance,Chance de l'effet,Effekt-Chanc
 lblEffectDescription,UI,Item Info,KgNone,Effect Description,Description de l'effet,Effekt-Beschreibung,,Descripción de efecto
 lblEntDmg,UI,Item Info,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
 lblExpertise,UI,Item Info,KgNone,Expertise,Expertise,Expertise,,Experiencia
-lblForgeMat,UI,Item Info,KgNone,,材質,Material für die Schmiede,,Material de forja
+lblForgeMat,UI,Item Info,KgNone,材質,Forge Material,Material für die Schmiede,,Material de forja
 lblForgeWeight,UI,Item Info,KgNone,鍛造重量,Forge Weight,Gewicht der Schmiede,,Peso de forja
 lblFullness,UI,Item Info,KgNone,Fullness,Plénitude,Sättigung,,Saciedad
 lblGassiness,UI,Item Info,KgNone,Gassiness,Proportion de gaz,Aufgeblähtheit,,Gases
@@ -2494,10 +2494,10 @@ upperMuscle,UI,Menu UMA,KgNone,Upper Muscle,Muscle supérieur,Oberschenkelmuskul
 upperWeight,UI,Menu UMA,KgNone,Upper Weight,Poids supérieur,Oberschenkelgewichtung,,Aumentar peso
 waist,UI,Menu UMA,KgNone,Waist,Taille,Taille,,Cintura
 weight,UI,Menu UMA,KgNone,Weight,Poids,Gewicht,,Peso
-xuiPlayerNA,UI,Player List XUI,KgNone,N/A,N/A,N/A,,N/A
+xuiPlayerNA,UI,Player List XUI,KgNone,該当なし,N/A,N/A,,N/A
 xuiPlayerReceived,UI,Player List XUI,KgNone,Received,reçu,empfangen,,recibido
-xuiPlayerSent,UI,Player List XUI,KgNone,Sent,envoyé,geschickt,,expedido
-xuiPlayerShow,UI,Player List XUI,KgNone,SHOW,montrer,anzeigen,,mostrar
+xuiPlayerSent,UI,Player List XUI,KgNone,申請,Sent,geschickt,,expedido
+xuiPlayerShow,UI,Player List XUI,KgNone,表示,SHOW,anzeigen,,mostrar
 respawnTitleMessage,UI,Respawn Window,KgNone,Ready to spawn in the world?,Prêt à commencer l'aventure ?,"Bist du bereit, in der Welt zu erscheinen?",,¿Listo para reaparecer en el mundo?
 browserAddFavorite,UI,Server Browser,KgNone,Add to favorites,Ajouter aux favoris,Zu Favoriten hinzufügen,,Añadir a favoritos
 browserAirdropInterval,UI,Server Browser,KgNone,Air Drops,Parachutages,Abwurf aus der Luft,,Suministros aéreos
@@ -2589,7 +2589,7 @@ lblSimpleClick,UI,Tooltip,KgNone,Simple Click,Simple clic,Einfacher Klick,,Clic 
 lblSkillReqPlayerLevel,UI,Tooltip,KgNone,プレイヤーレベル {0},Player Level {0},Spielerlevel {0},,Nivel de jugador {0}
 lblToggleActive,UI,Tooltip,KgNone,表示切り替え,Toggle Active,Aktivieren,,Activar/desactivar
 lblToggleClothes,UI,Tooltip,KgNone,Toggle Clothes On/Off,Afficher les vêtements Activer/Désactiver,Kleider an/aus,,Activar/desactivar cambio de ropa
-lblTotalItems,UI,Tooltip,KgNone,{0} TOTAL,TOTAL DE {0},{0} GESAMT,,TOTAL: {0}
+lblTotalItems,UI,Tooltip,KgNone,合計 {0},{0} TOTAL,{0} GESAMT,,TOTAL: {0}
 lblTrackWaypoint,UI,Tooltip,KgNone,追跡地点,Track Waypoint,Wegpunkt verfolgen,,Establecer punto de regreso
 notHungry,UI,Tooltip,KgNone,You are not hungry.,Vous n'avez pas faim.,Du bist nicht hungrig.,,No tienes hambre.
 notHurt,UI,Tooltip,KgNone,You are not hurt.,Vous n'avez pas mal.,Du bist nicht verletzt.,,No estás herido.
@@ -2742,10 +2742,10 @@ xuiDeaths,UI,XUI,KgNone,死亡数,DEATHS,TODE,,MUERTES
 xuiDecline,UI,XUI,KgNone,DECLINE,DÉCLIN,ABLEHNEN,,RECHAZAR
 xuiDefense,UI,XUI,KgNone,DEFENSE,DÉFENSE,VERTEIDIGUNG,,DEFENSA
 xuiDescriptionLabel,UI,XUI,KgNone,DESCRIPTION,DESCRIPTION,BESCHREIBUNG,,DESCRIPCIÓN
-xuiDescriptionNotAvailable,UI,XUI,KgNone,DESCRIPTION NOT AVAILABLE AT THIS TIME.,LA DESCRIPTION N'EST PAS DISPONIBLE À L'HEURE ACTUELLE.,ZURZEIT KEINE BESCHREIBUNG VERFÜGBAR.,,LA DESCRIPCIÓN NO ESTÁ DISPONIBLE EN ESTOS MOMENTOS.
+xuiDescriptionNotAvailable,UI,XUI,KgNone,現時点において表示すべきものがありません。,DESCRIPTION NOT AVAILABLE AT THIS TIME.,ZURZEIT KEINE BESCHREIBUNG VERFÜGBAR.,,LA DESCRIPCIÓN NO ESTÁ DISPONIBLE EN ESTOS MOMENTOS.
 xuiDurability,UI,XUI,KgNone,DURABILITY,DURABILITÉ,HALTBARKEIT,,DURABILIDAD
 xuiElevation,UI,XUI,KgNone,標高,ELEVATION,ERHÖHUNG,,ELEVACIÓN
-xuiEmptyInfoPanelText,UI,XUI,KgNone,[左クリック] 選択したアイテム、レシピの詳細や効果を表示\n[左クリック] 押したままドラッグで同じアイテムをまとめる\n[左クリック] インベントリ外に捨てるかインベントリ内のアイテムを移動[右クリック] 押したままドラッグで半分に分ける\n[右クリック] インベントリ外で1つずつ落とす,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
+xuiEmptyInfoPanelText,UI,XUI,KgNone,[[ff6347]左クリック[-]] 選択したアイテム、レシピの詳細や効果を表示\n[[ff6347]左クリック[-]] 押したままドラッグで同じアイテムをまとめる\n[[ff6347]左クリック[-]] インベントリ外に捨てるかインベントリ内のアイテムを移動\n[[ff6347]右クリック[-]] 押したままドラッグで半分に分ける\n[[ff6347]右クリック[-]] インベントリ外で1つずつ落とす,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
 xuiEmptyVehicleStorage,UI,XUI,KgNone,ADD BASKET TO ACCESS STORAGE.,AJOUTEZ UN PANIER POUR ACCÉDER AU RANGEMENT.,"FÜGE EINEN KORB HINZU, UM AUF DEN LAGERRAUM ZUZUGREIFEN.",,AÑADE UN CESTO PARA ALMACENAMIENTO.
 xuiEveryone,UI,XUI,KgNone,EVERYONE,TOUT LE MONDE,JEDER,,TODOS
 xuiExamine,UI,XUI,KgNone,EXAMINE,EXAMINER,UNTERSUCHEN,,INVESTIGAR
@@ -2772,7 +2772,7 @@ xuiMapDayTime,UI,XUI,KgNone,日目/時間,Day/Time,Tag/Zeit,,Día/Hora
 xuiMapStats,UI,XUI,KgNone,MAP STATS,STATS DE LA CARTE,KARTENSTATISTIK,,ESTADÍSTICAS DEL MAPA
 xuiMinibike,UI,XUI,KgNone,MINIBIKE,MINI-MOTO,TASCHENMOTORRAD,,MINIMOTO
 xuiMinibikeStorage,UI,XUI,KgNone,MINIBIKE STORAGE,RANGEMENT DE MINI-MOTO,LAGERRAUM FÜR TASCHENMOTORRAD,,ALMACENAMIENTO DE LA MINIMOTO
-xuiNA,UI,XUI,KgNone,N/A,S.O.,–,,N/D
+xuiNA,UI,XUI,KgNone,該当なし,N/A,–,,N/D
 xuiNextLevelRequirements,UI,XUI,KgNone,必須条件,REQUIREMENTS,VORAUSSETZUNGEN,,REQUISITOS
 xuiNoise,UI,XUI,KgNone,NOISE,BRUIT,GERÄUSCHE,,RUIDO
 xuiObjectives,UI,XUI,KgNone,目的,OBJECTIVES,ZIELE,,OBJETIVOS
@@ -2805,7 +2805,7 @@ xuiSkillStatComingSoon,UI,XUI,KgNone,"COMING SOON PROFESSION, HOBBY AND MAIN STA
 xuiSkillStats,UI,XUI,KgNone,SKILL STATS,STATS DE LA COMPÉTENCE,FERTIGKEITEN-STATISTIK,,ESTADÍSTICAS DE HABILIDAD
 xuiSpeed,UI,XUI,KgNone,SPEED,VITESSE,GESCHWINDGKEIT,,VELOCIDAD
 xuiStats,UI,XUI,KgNone,STATS,STATS,STATISTIKEN,,ESTADÍSTICAS
-xuiStatus,UI,XUI,KgNone,情報,STATUS,STATUS,,ESTADO
+xuiStatus,UI,XUI,KgNone,状況,STATUS,STATUS,,ESTADO
 xuiSteamID,UI,XUI,KgNone,名前,STEAM ID,STEAM-ID,,ID DE STEAM
 xuiTakeAllKey,UI,XUI,KgNone,R',R,‚R‘,,R'
 xuiTime,UI,XUI,KgNone,時間,DURÉE,ZEIT,,TIEMPO

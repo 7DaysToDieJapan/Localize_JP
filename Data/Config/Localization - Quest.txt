@@ -26,7 +26,7 @@ ObjectiveFetch_keyword,,Keywords,KgNone,集める,Gather,gesammelt,,Reúne
 ObjectiveGoto_keyword,,Keywords,KgNone,Locate {0},Trouver {0},Finde {0},,Ubicar {0}
 ObjectiveExchangeItemFrom_keyword,,Keywords,KgNone,Fill,Remplir,Füllen,,Llena
 ObjectiveOpenWindow_keyword,,Keywords,KgNone,Open {0} Window,Ouvrir la fenêtre {0},Öffne {0}-Fenster,,Abre {0} ventana(s)
-ObjectiveRepair_keyword,,Keywords,KgNone,Repair,Réparer,Reparieren,,Repara
+ObjectiveRepair_keyword,,Keywords,KgNone,修理,Repair,Reparieren,,Repara
 ObjectiveScrap_keyword,,Keywords,KgNone,Scrap,Recycler,Zerlegen,,Desguaza
 ObjectiveSpendSkillPoints_keyword,,Keywords,KgNone,Purchase {0} Skill Level(s),Acheter {0} niveau(x) de compétence,Kaufe {0} Fertigkeitslevel(s),,Compra {0} nivel(es) de habilidad
 ObjectiveTime_keyword,,Keywords,KgNone,Time,Durée,Zeit,,Tiempo
@@ -36,7 +36,7 @@ ObjectiveZombieKill_keyword,,Keywords,KgNone,Kill,Tuer,Töten,,Mata
 RequirementBuff_keyword,,Keywords,KgNone,Effect,Effet,Effekt,,Efecto
 RequirementHolding_keyword,,Keywords,KgNone,Using,Avec,Unter Verwendung von,,En uso
 RequirementLevel_keyword,,Keywords,KgNone,Level,Niveau,Level,,Nivel
-RequirementWearing_keyword,,Keywords,KgNone,Wear,Porter,Tragen,,Vestir
+RequirementWearing_keyword,,Keywords,KgNone,着る,Wear,Tragen,,Vestir
 RewardExp_keyword,,Keywords,KgNone,EXP,EXP,ERF,,EXP
 RewardLevel_keyword,,Keywords,KgNone,Level,Niveau,Level,,Nivel
 RewardQuest_keyword,,Keywords,KgNone,新クエスト,New Quest,Neue Quest,,Nueva misión
