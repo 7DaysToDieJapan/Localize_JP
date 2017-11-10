@@ -1101,29 +1101,29 @@ yuccaJuiceCoolingDesc,buffs,Buff,KgNone,涼しく感じます。,You feel cooler
 yuccaJuiceCoolingTooltip,buffs,Buff,KgNone,You feel cooler.,Vous avez moins chaud.,Du fühlst dich kühler.,,Te sientes más fresco.
 wellnessDecreased,buffs,Tooltip,KgNone,Wellness ({0}): Maximum health and stamina cap decreased to {1},Bien-être ({0}) : santé et endurance maximales réduites de {1},Wohlbefinden ({0}): Obergrenze für maximale Gesundheit und Ausdauer ist auf {1} gesunken,,Bienestar ({0}): La salud máxima y el límite de resistencia se han reducido a {1}.
 wellnessIncreased,buffs,Tooltip,KgNone,Wellness (+{0}): Maximum health and stamina cap increased to {1},Bien-être (+{0}) : santé et endurance maximales augmentées de {1},Wohlbefinden (+{0}): Obergrenze für maximale Gesundheit und Ausdauer ist auf {1} gestiegen,,Bienestar (+{0}): La salud máxima y el límite de resistencia han aumentado a {1}.
-animalBear,entityclasses,Entity,KgNone,Bear,Ours,Bär,,Oso
-animalChicken,entityclasses,Entity,KgNone,Chicken,Poulet,Huhn,,Pollo
-animalPig,entityclasses,Entity,KgNone,Pig,Porc,Schwein,,Cerdo
-animalRabbit,entityclasses,Entity,KgNone,Rabbit,Lapin,Hase,,Conejo
-animalStag,entityclasses,Entity,KgNone,Stag,Cerf,Hirsch,,Ciervo
-animalZombieDog,entityclasses,Entity,KgNone,Zombie Dog,Chien enragé,Zombie-Hund,,Perro zombi
+animalBear,entityclasses,Entity,KgNone,熊,Bear,Bär,,Oso
+animalChicken,entityclasses,Entity,KgNone,鶏,Chicken,Huhn,,Pollo
+animalPig,entityclasses,Entity,KgNone,豚,Pig,Schwein,,Cerdo
+animalRabbit,entityclasses,Entity,KgNone,うさぎ,Rabbit,Hase,,Conejo
+animalStag,entityclasses,Entity,KgNone,牡鹿,Stag,Hirsch,,Ciervo
+animalZombieDog,entityclasses,Entity,KgNone,ゾンビ犬,Zombie Dog,Zombie-Hund,,Perro zombi
 sc_General,entityclasses,Entity,KgNone,Supply Crate,Caisse de provisions,Vorratskiste,,Caja de suministros
 zombieArlene,entityclasses,Entity,KgNone,Putrid Girl,Fille putride,Verfaultes Mädchen,,Niña putrefacta
-zombieBoe,entityclasses,Entity,KgNone,Infected Survivor,Survivant infecté,Infizierter Überlebender,,Sobreviviente infectado
-zombieBurnt,entityclasses,Entity,KgNone,Burn Victim,Calciné,Brandopfer,,Víctima quemada
-zombieDarlene,entityclasses,Entity,KgNone,Decayed Mother,Mère décomposée,Verweste Mutter,,Madre podrida
-zombieFatCop,entityclasses,Entity,KgNone,Infected Policeman,Policier infecté,Infizierter Polizist,,Policía infectado
-zombieJoe,entityclasses,Entity,KgNone,Festering Cadaver,Cadavre purulent,Eitrige Leiche,,Cadáver descompuesto
-zombieMarlene,entityclasses,Entity,KgNone,Departed Woman,Défunte,Verstorbene Frau,,Mujer difunta
-zombieMoe,entityclasses,Entity,KgNone,Bloated Walker,Rôdeur obèse,Aufgedunsener Streuner,,Caminante hinchado
-zombieNurse,entityclasses,Entity,KgNone,Plagued Nurse,Infirmière pestiférée,Verseuchte Krankenschwester,,Enfermera infestada
-zombieScreamer,entityclasses,Entity,KgNone,Screamer Zombie,Zombie hurleur,Schreier-Zombie,,Zombi gritón
-zombieSnow,entityclasses,Entity,KgNone,Frozen Lumberjack,Bûcheron gelé,Erfrorener Holzfäller,,Leñador congelado
-zombieSpider,entityclasses,Entity,KgNone,Spider Zombie,Zombie araignée,Spinnen-Zombie,,Araña zombi
-zombieSteve,entityclasses,Entity,KgNone,Reanimated Corpse,Corps réanimé,Wiederbelebte Leiche,,Cadáver reanimado
-zombieSteveCrawler,entityclasses,Entity,KgNone,Crawler,Rampeur,Kriecher,,Oruga
-zombieWightFeral,entityclasses,Entity,KgNone,Feral Wight,Rôdeur féroce,Wilder Streuner,,Caminante salvaje
-zombieYo,entityclasses,Entity,KgNone,Rotting Carcass,Carcasse pourrie,Verrottender Kadaver,,Cuerpo podrido
+zombieBoe,entityclasses,Entity,KgNone,感染した生存者ゾンビ,Infected Survivor,Infizierter Überlebender,,Sobreviviente infectado
+zombieBurnt,entityclasses,Entity,KgNone,焦げた遭難者ゾンビ,Burn Victim,Brandopfer,,Víctima quemada
+zombieDarlene,entityclasses,Entity,KgNone,朽ちた母親ゾンビ,Decayed Mother,Verweste Mutter,,Madre podrida
+zombieFatCop,entityclasses,Entity,KgNone,感染した警官ゾンビ,Infected Policeman,Infizierter Polizist,,Policía infectado
+zombieJoe,entityclasses,Entity,KgNone,腐敗した死体ゾンビ,Festering Cadaver,Eitrige Leiche,,Cadáver descompuesto
+zombieMarlene,entityclasses,Entity,KgNone,死んだ女ゾンビ,Departed Woman,Verstorbene Frau,,Mujer difunta
+zombieMoe,entityclasses,Entity,KgNone,太り過ぎて歩くゾンビ,Bloated Walker,Aufgedunsener Streuner,,Caminante hinchado
+zombieNurse,entityclasses,Entity,KgNone,悩む看護婦ゾンビ,Plagued Nurse,Verseuchte Krankenschwester,,Enfermera infestada
+zombieScreamer,entityclasses,Entity,KgNone,金切り声ゾンビ,Screamer Zombie,Schreier-Zombie,,Zombi gritón
+zombieSnow,entityclasses,Entity,KgNone,凍った木こりゾンビ,Frozen Lumberjack,Erfrorener Holzfäller,,Leñador congelado
+zombieSpider,entityclasses,Entity,KgNone,蜘蛛ゾンビ,Spider Zombie,Spinnen-Zombie,,Araña zombi
+zombieSteve,entityclasses,Entity,KgNone,復活した死骸ゾンビ,Reanimated Corpse,Wiederbelebte Leiche,,Cadáver reanimado
+zombieSteveCrawler,entityclasses,Entity,KgNone,這いずりゾンビ,Crawler,Kriecher,,Oruga
+zombieWightFeral,entityclasses,Entity,KgNone,野生化した超常体,Feral Wight,Wilder Streuner,,Caminante salvaje
+zombieYo,entityclasses,Entity,KgNone,腐った死骸ゾンビ,Rotting Carcass,Verrottender Kadaver,,Cuerpo podrido
 animalZombieVulture,entityclasses,Entity,New,Zombie Vulture,,,,
 playersBackpack,entityclasses,Entity Info,KgNone,{0}'s backpack,Sac à dos de {0},Rucksack von {0},,La mochila de {0}
 44MagBullet,items,Ammo,EnChanged,.44 Magnum Round (Ammo),Cartouches de .44 magnum,.44 Magnum Patrone (Mun),,Balas para Magnum 44
