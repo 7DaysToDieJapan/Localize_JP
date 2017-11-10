@@ -1,24 +1,24 @@
 Key,Source,Context,Changes,English,French,German,Klingon,Spanish
-quest,,Category,KgNone,Quest,Quête,Quest,,Misión
+quest,,Category,KgNone,クエスト,Quest,Quest,,Misión
 challenge,,Category,KgNone,Challenge,Défi,Herausforderung,,Desafío
 treasure,,Category,KgNone,Treasure,Trésor,Schatz,,Tesoros
 bonus,,Category,KgNone,Bonus,Bonus,Bonus,,Bonos
-questChain,,Category,KgNone,Quest Chain,Série de quêtes,Questserie,,Cadena de misiones
-difficulty_veryeasy,,Difficulty,KgNone,Very Easy,Très facile,Sehr einfach,,Muy fácil
-difficulty_easy,,Difficulty,KgNone,Easy,Facile,Einfach,,Fácil
-difficulty_medium,,Difficulty,KgNone,Medium,Moyenne,Mittel,,Medio
-difficulty_hard,,Difficulty,KgNone,Hard,Difficile,Schwierig,,Difícil
-difficulty_insane,,Difficulty,KgNone,Insane,Extrême,Irre,,Demente
+questChain,,Category,KgNone,派生クエスト,Quest Chain,Questserie,,Cadena de misiones
+difficulty_veryeasy,,Difficulty,KgNone,超簡単,Very Easy,Sehr einfach,,Muy fácil
+difficulty_easy,,Difficulty,KgNone,簡単,Easy,Einfach,,Fácil
+difficulty_medium,,Difficulty,KgNone,普通,Medium,Mittel,,Medio
+difficulty_hard,,Difficulty,KgNone,難しい,Hard,Schwierig,,Difícil
+difficulty_insane,,Difficulty,KgNone,非常識,Insane,Irre,,Demente
 started,,Keywords,KgNone,Started,En cours,Begonnen,,Empezada
 completed,,Keywords,KgNone,Completed,Terminée,Abgeschlossen,,Completada
 failed,,Keywords,KgNone,Failed,Échec,Fehlgeschlagen,,Fallida
 optional,,Keywords,KgNone,Optional,Facultative,Optional,,Opcional
-RewardTypeQuest,,Keywords,KgNone,Reward,Récompense,Belohnung,,Recompensa
+RewardTypeQuest,,Keywords,KgNone,報酬,Reward,Belohnung,,Recompensa
 RewardTypeChainQuest,,Keywords,KgNone,派生報酬,Chain Reward,Serienbelohnung,,Cadena de recompensas
 ObjectiveAnimalKill_keyword,,Keywords,KgNone,Kill,Tuer,Töten,,Mata
 ObjectiveAssemble_keyword,,Keywords,KgNone,Assemble,Assembler,Zusammensetzen,,Ensambla
 ObjectiveBlockPickup_keyword,,Keywords,KgNone,Pickup,Ramasser,Aufheben,,Recoge
-ObjectiveBlockPlace_keyword,,Keywords,KgNone,Place,Placer,platziert,,Coloca
+ObjectiveBlockPlace_keyword,,Keywords,KgNone,設置,Place,platziert,,Coloca
 ObjectiveBlockUpgrade_keyword,,Keywords,KgNone,Upgrade,Améliorer,aufgewertet,,Mejora
 ObjectiveBuff_keyword,,Keywords,KgNone,Get,Obtenir,Erhalten,,Consigue
 ObjectiveCraft_keyword,,Keywords,KgNone,作る,Craft,gefertigt,,Fabrica
@@ -31,7 +31,7 @@ ObjectiveScrap_keyword,,Keywords,KgNone,Scrap,Recycler,Zerlegen,,Desguaza
 ObjectiveSpendSkillPoints_keyword,,Keywords,KgNone,Purchase {0} Skill Level(s),Acheter {0} niveau(x) de compétence,Kaufe {0} Fertigkeitslevel(s),,Compra {0} nivel(es) de habilidad
 ObjectiveTime_keyword,,Keywords,KgNone,Time,Durée,Zeit,,Tiempo
 ObjectiveTreasureChest_keyword,,Keywords,KgNone,Treasure Found,Trésor trouvé,Schatz gefunden,,Tesoro encontrado
-ObjectiveWear_keyword,,Keywords,KgNone,Wear,Porter,getragen,,Vestir
+ObjectiveWear_keyword,,Keywords,KgNone,着る,Wear,getragen,,Vestir
 ObjectiveZombieKill_keyword,,Keywords,KgNone,Kill,Tuer,Töten,,Mata
 RequirementBuff_keyword,,Keywords,KgNone,Effect,Effet,Effekt,,Efecto
 RequirementHolding_keyword,,Keywords,KgNone,Using,Avec,Unter Verwendung von,,En uso
@@ -39,10 +39,10 @@ RequirementLevel_keyword,,Keywords,KgNone,Level,Niveau,Level,,Nivel
 RequirementWearing_keyword,,Keywords,KgNone,Wear,Porter,Tragen,,Vestir
 RewardExp_keyword,,Keywords,KgNone,EXP,EXP,ERF,,EXP
 RewardLevel_keyword,,Keywords,KgNone,Level,Niveau,Level,,Nivel
-RewardQuest_keyword,,Keywords,KgNone,New Quest,Nouvelle quête,Neue Quest,,Nueva misión
+RewardQuest_keyword,,Keywords,KgNone,新クエスト,New Quest,Neue Quest,,Nueva misión
 RewardRecipe_keyword,,Keywords,KgNone,Recipe Unlocked,Composition déverrouillée,Rezept freigeschaltet,,Receta desbloqueada
 RewardSkill_keyword,,Keywords,KgNone,Skill,Compétence,Fertigkeit,,Habilidad
-RewardSkillPoint_keyword,,Keywords,KgNone,Skill Point,Point de compétence,Fertigkeitspunkt,,Punto de habilidad
+RewardSkillPoint_keyword,,Keywords,KgNone,スキルポイント,Skill Point,Fertigkeitspunkt,,Punto de habilidad
 requirementGroupFireaxe,,Requirement Group,KgNone,Holding Fire Axe,Tenir une hache de pompier,Feueraxt halten,,Sostener un hacha de incendio
 requirementGroupShotgun,,Requirement Group,KgNone,Holding Shotgun,Tenir un fusil à pompe,Schrotflinte halten,,Sostener una escopeta
 tutorialTipQuest01,,Popup Tip,KgNone,親愛なる友人へ、\n\n荒廃したこの地は容赦ない場所へと変貌することがあります。でもあなたにはここで幾つかの働きができるように見えます。ここに生き残る術を書き記した手引きをしたためてあります。もしそれをこなすことができたら、私たちはあなたを新しい住人として迎え入れてもよいでしょう。入植地であるホワイトリバーは実在し、そして安全な場所です。\n\n幸運を、ノアより。,"Dear Friend,\n\nThe wasteland can be an unforgiving place, and you look like you could use some help. Enclosed is a short guide to help you survive. If you complete it, we just might take in a new citizen. The White River Settlement, it's real and it's safe.\n\nGood Luck, Noah","Lieber Freund!\n\nDas Ödland kann gnadenlos sein und du siehst aus, als könntest du etwas Hilfe gebrauchen. Anbei findest du eine kurze Anleitung, die dir beim Überleben hilft. Wenn du sie abschließt, nehmen wir vielleicht einen neuen Bürger auf. Die Siedlung von White River gibt es wirklich und sie ist sicher.\n\nViel Glück! Noah",,"Querido/a amigo/a:\n\nEl páramo puede ser un sitio peligroso y parece que necesitas una mano. Encontrarás una pequeña guía adjunta para ayudarte a sobrevivir. Si la completas, puede que te aceptemos como un nuevo ciudadano. El asentamiento Río Blanco es real y seguro.\n\nBuena suerte, Noah."

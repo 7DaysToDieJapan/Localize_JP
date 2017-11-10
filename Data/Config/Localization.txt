@@ -1916,7 +1916,7 @@ lblContextActionExamine,UI,Item Context Menu,KgNone,Examine,Examiner,Untersuchen
 lblContextActionFavorite,UI,Item Context Menu,KgNone,お気に入り,Favorite,Favoriten,,Favoritos
 lblContextActionHeal,UI,Item Context Menu,KgNone,使う,Use,Benutzen,,Usar
 lblContextActionLoad,UI,Item Context Menu,KgNone,Load,Charger,Laden,,Cargar
-lblContextActionRead,UI,Item Context Menu,KgNone,,Read,Lesen,,Leer
+lblContextActionRead,UI,Item Context Menu,KgNone,読む,Read,Lesen,,Leer
 lblContextActionRecipes,UI,Item Context Menu,KgNone,レシピ,Recipes,Rezepte,,Recetas
 lblContextActionRepair,UI,Item Context Menu,KgNone,修理,Repair,Reparieren,,Reparar
 lblContextActionScrap,UI,Item Context Menu,KgNone,分解,Scrap,Zerlegen,,Despedazar
@@ -1947,7 +1947,7 @@ lblAttributeBatteryMaxLoadInVolts,UI,Item Info,KgNone,Max Load (Volts),Chargemen
 lblAttributeBlockDamage,UI,Item Info,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
 lblAttributeBluntProtection,UI,Item Info,KgNone,Blunt Defense,Défense contre les armes contondantes,Verteidigung gegen Stumpfe Waffen,,Defensa anticontundentes
 lblAttributeBulletProtection,UI,Item Info,KgNone,Bullet Defense,Défense contre les balles,Verteidigung gegen Kugeln,,Defensa antibalas
-lblAttributeConcussiveProtection,UI,Item Info,KgNone,Concussive,Commotions,Schläge,,Conmoción
+lblAttributeConcussiveProtection,UI,Item Info,KgNone,耐気絶,Concussive,Schläge,,Conmoción
 lblAttributeDamageText,UI,Item Info,KgNone,damage,dégâts,Schaden,,daño
 lblAttributeDegradationMax,UI,Item Info,KgNone,Max Degradation,Dégradation max.,Max. Abnutzung,,Degradación máxima
 lblAttributeDegradationMin,UI,Item Info,KgNone,Min Degradation,Dégradation min.,Min. Abnutzung,,Degradación mínima
@@ -1958,7 +1958,7 @@ lblAttributeDismembermentBonus,UI,Item Info,KgNone,Sever Bonus,Bonus de tranchag
 lblAttributeEntityDamage,UI,Item Info,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
 lblAttributeExplosiveProtection,UI,Item Info,KgNone,Explosive,Explosions,Sprengstoff,,Explosión
 lblAttributeFalloffRangeText,UI,Item Info,KgNone,m,m,m,,m
-lblAttributeFireProtection,UI,Item Info,KgNone,Fire,Feu,Feuer,,Fuego
+lblAttributeFireProtection,UI,Item Info,KgNone,耐燃焼,Fire,Feuer,,Fuego
 lblAttributeGainFood,UI,Item Info,KgNone,Gain Fullness,Gain en plénitude,Erhalte Sättigung,,Aumenta la saciedad
 lblAttributeGainGas,UI,Item Info,KgNone,Gain Gas,Gain en essence,Erhalte Benzin,,Aumenta los gases
 lblAttributeGainHealth,UI,Item Info,KgNone,Gain Health,Gain en santé,Erhalte Gesundheit,,Aumenta la salud
@@ -1966,13 +1966,13 @@ lblAttributeGainSickness,UI,Item Info,KgNone,Gain Sickness,Gain en maladie,Erhal
 lblAttributeGainStamina,UI,Item Info,KgNone,Gain Stamina,Gain en endurance,Erhalte Ausdauer,,Aumenta la resistencia
 lblAttributeGainWater,UI,Item Info,KgNone,Gain Water,Gain en eau,Erhalte Wasser,,Aumenta el agua
 lblAttributeGainWellness,UI,Item Info,KgNone,Gain Wellness,Gain en bien-être,Erhalte Wohlbefinden,,Aumenta el bienestar
-lblAttributeInsulation,UI,Item Info,KgNone,Insulation,Isolation,Wärmedämmung,,Aislamiento
+lblAttributeInsulation,UI,Item Info,KgNone,断熱性,Insulation,Wärmedämmung,,Aislamiento
 lblAttributeLightIntensity,UI,Item Info,KgNone,Light Intensity,Intensité légère,Lichtintensität,,Intensidad de luz
 lblAttributeMeleeProtection,UI,Item Info,KgNone,Melee,Armes de mêlée,Nahkampf,,Cuerpo a cuerpo
 lblAttributeNoiseRange,UI,Item Info,KgNone,Noise Range,Portée du bruit,Geräuschradius,,Rango de ruido
-lblAttributePunctureProtection,UI,Item Info,KgNone,Puncture,Armes perforantes,Stiche,,Perforación
-lblAttributeRadiationProtection,UI,Item Info,KgNone,Radiation,Radiations,Strahlung,,Radiación
-lblAttributeRecipe,UI,Item Info,KgNone,Recipe,Composition,Rezept,,Receta
+lblAttributePunctureProtection,UI,Item Info,KgNone,穿刺防御,Puncture,Stiche,,Perforación
+lblAttributeRadiationProtection,UI,Item Info,KgNone,耐放射能,Radiation,Strahlung,,Radiación
+lblAttributeRecipe,UI,Item Info,KgNone,レシピ,Recipe,Rezept,,Receta
 lblAttributesTitle,UI,Item Info,KgNone,\n[00ff00]ATTRIBUTES:[-]\n,\n[00ff00]ATTRIBUTS :[-]\n,\n[00ff00]ATTRIBUTE:[-]\n,,\n[00ff00]ATRIBUTOS:[-]\n
 lblAttributeVehicleAcceleration,UI,Item Info,KgNone,Acceleration,Accélération,Beschleunigung,,Aceleración
 lblAttributeVehicleBraking,UI,Item Info,KgNone,Braking,Freinage,Bremsen,,Frenado
@@ -1989,7 +1989,7 @@ lblAttributeVehicleStartDelayInSeconds,UI,Item Info,KgNone,Start Delay,Délai de
 lblAttributeVehicleSteering,UI,Item Info,KgNone,Steering Speed,Vitesse de direction,Lenkeinschlag-Geschwindigkeit,,Velocidad de dirección
 lblAttributeVehicleTankSize,UI,Item Info,KgNone,Tank Size,Taille du réservoir,Tank-Größe,,Tamaño del depósito
 lblAttributeVehicleTraction,UI,Item Info,KgNone,Traction,Traction,Bodenhaftung,,Tracción
-lblAttributeWaterproof,UI,Item Info,KgNone,Waterproof,Imperméable,Wasserdicht,,A prueba de agua
+lblAttributeWaterproof,UI,Item Info,KgNone,防水性,Waterproof,Wasserdicht,,A prueba de agua
 lblAttributeWaterProtection,UI,Item Info,KgNone,Water Resistance,Résistance à l'eau,Wasserfestigkeit,,Resistencia al agua
 lblBagSmllRng,UI,Item Info,KgNone,Bag Smell Range,Portée de la puanteur du sac,Beutel-Geruchsradius,,Rango de olor en mochila
 lblBagSmllStr,UI,Item Info,KgNone,Bag Smell Str.,Puissance de la puanteur du sac,Beutel-Geruchsstärke,,Fuerza de olor en mochila
@@ -1999,26 +1999,26 @@ lblBlkDmg,UI,Item Info,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño 
 lblBlkRpr,UI,Item Info,KgNone,Block Repair,Réparation de bloc,Block reparieren,,Reparación de bloqueo
 lblBookDesc,UI,Item Info,KgNone,Description,Description,Beschreibung,,Descripción
 lblBookTitle,UI,Item Info,KgNone,Title,Titre,Titel,,Título
-lblBrnTime,UI,Item Info,KgNone,Burn Time,Durée de combustion,Brenndauer,,Tiempo de combustión
+lblBrnTime,UI,Item Info,KgNone,燃焼時間,Durée de combustion,Brenndauer,,Tiempo de combustión
 lblCraftingExpertise,UI,Item Info,KgNone,Crafting Expertise,Expertise de fabrication,Handwerksexpertise,,Experiencia de fabricación
-lblDurability,UI,Item Info,KgNone,Durability,Durabilité,Haltbarkeit,,Durabilidad
-lblEffect,UI,Item Info,KgNone,Effect,Effet,Effekt,,Efecto
+lblDurability,UI,Item Info,KgNone,耐久度,Durability,Haltbarkeit,,Durabilidad
+lblEffect,UI,Item Info,KgNone,効果,Effect,Effekt,,Efecto
 lblEffectChance,UI,Item Info,KgNone,Effect Chance,Chance de l'effet,Effekt-Chance,,Probabilidad de efecto
 lblEffectDescription,UI,Item Info,KgNone,Effect Description,Description de l'effet,Effekt-Beschreibung,,Descripción de efecto
 lblEntDmg,UI,Item Info,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
 lblExpertise,UI,Item Info,KgNone,Expertise,Expertise,Expertise,,Experiencia
-lblForgeMat,UI,Item Info,KgNone,Forge Material,Matériaux de la forge,Material für die Schmiede,,Material de forja
-lblForgeWeight,UI,Item Info,KgNone,Forge Weight,Poids de la forge,Gewicht der Schmiede,,Peso de forja
+lblForgeMat,UI,Item Info,KgNone,,材質,Material für die Schmiede,,Material de forja
+lblForgeWeight,UI,Item Info,KgNone,鍛造重量,Forge Weight,Gewicht der Schmiede,,Peso de forja
 lblFullness,UI,Item Info,KgNone,Fullness,Plénitude,Sättigung,,Saciedad
 lblGassiness,UI,Item Info,KgNone,Gassiness,Proportion de gaz,Aufgeblähtheit,,Gases
 lblGearSlot,UI,Item Info,KgNone,Gear Slot,Emplacement d'équipement,Ausrüstungsslot,,Ranura de equipo
 lblGroup,UI,Item Info,KgNone,Group(s),Groupe(s),Gruppe(n),,Grupo(s)
-lblHardness,UI,Item Info,KgNone,Hardness,Dureté,Härte,,Dureza
+lblHardness,UI,Item Info,KgNone,硬度,Hardness,Härte,,Dureza
 lblHealth,UI,Item Info,KgNone,Health,Santé,Gesundheit,,Salud
-lblHydration,UI,Item Info,KgNone,Hydration,Hydratation,Hydrierung,,Hidratación
-lblKnown,UI,Item Info,KgNone,Known,Connu,Bekannt,,Conocidos
-lblMass,UI,Item Info,KgNone,Mass,Masse,Masse,,Masa
-lblMaxLoad,UI,Item Info,KgNone,Max Load,Charge maximale,Max. Belastung,,Carga máxima
+lblHydration,UI,Item Info,KgNone,水分,Hydration,Hydrierung,,Hidratación
+lblKnown,UI,Item Info,KgNone,習得,Connu,Bekannt,,Conocidos
+lblMass,UI,Item Info,KgNone,質量,Mass,Masse,,Masa
+lblMaxLoad,UI,Item Info,KgNone,最大荷重,Max Load,Max. Belastung,,Carga máxima
 lblProtection,UI,Item Info,KgNone,Protection,Protection,Schutz,,Protección
 lblQuality,UI,Item Info,KgNone,Quality,Qualité,Qualität,,Calidad
 lblQualityAverage,UI,Item Info,KgNone,Good {0},{0} standard,{0} (gut),,Aceptable {0}
@@ -2031,8 +2031,8 @@ lblQualityPoor,UI,Item Info,KgNone,Poor {0},{0} de piètre qualité,{0} (schlech
 lblRepairAmount,UI,Item Info,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
 lblRepairItem,UI,Item Info,KgNone,Repair:,Réparation:,Reparieren:,,Reparar:
 lblRepairItems,UI,Item Info,KgNone,Repair items:\n,Réparer les objets :\n,Gegenstände reparieren:\n,,Reparar objetos:\n
-lblRmvEffect,UI,Item Info,KgNone,Removes,Retire,Entfernt,,Elimina
-lblStamina,UI,Item Info,KgNone,Stamina,Endurance,Ausdauer,,Resistencia
+lblRmvEffect,UI,Item Info,KgNone,除去,Removes,Entfernt,,Elimina
+lblStamina,UI,Item Info,KgNone,スタミナ,Stamina,Ausdauer,,Resistencia
 lblWellness,UI,Item Info,KgNone,Wellness,Bien-être,Wohlbefinden,,Bienestar
 loadActionAtlases,UI,Load Actions,KgNone,atlases,atlas,Karten,,atlas
 loadActionBlocks,UI,Load Actions,KgNone,blocks,blocs,Blöcke,,bloques
@@ -2563,7 +2563,7 @@ lblCategoryToolsTraps,UI,Tooltip,KgNone,ツール/罠,Tools/Traps,Werkzeuge/Fall
 lblCategoryWeapons,UI,Tooltip,KgNone,武器,Weapons,Waffen,,Armas
 lblCenterOnPlayer,UI,Tooltip,KgNone,プレイヤーを中心,Center on Player,Auf Spieler zentrieren,,Centrar en jugador
 lblCenterOnSleepingBag,UI,Tooltip,KgNone,寝袋を中心,Center on Sleeping Bag,Auf Schlafsack zentrieren,,Centrar en saco de dormir
-lblChestArmor,UI,Tooltip,KgNone,胸部鎧,Chest Armor,Brustpanzer,,Coraza
+lblChestArmor,UI,Tooltip,KgNone,鎧,Chest Armor,Brustpanzer,,Coraza
 lblCursorPosition,UI,Tooltip,KgNone,カーソルの位置,Cursor Position,Cursorposition,,Posición del cursor
 lblDevBlocks,UI,Tooltip,KgNone,Dev Blocks On,Blocs de développement activés,Entwicklerblöcke an,,Bloques desarr. activados
 lblEyewear,UI,Tooltip,KgNone,眼,Eyewear,Brillen und Kontaktlinsen,,Gafas
@@ -2571,8 +2571,8 @@ lblFace,UI,Tooltip,KgNone,顔,Face,Gesicht,,Rostro
 lblFavorites,UI,Tooltip,KgNone,お気に入り,Favorites,Favoriten,,Favoritos
 lblFootwear,UI,Tooltip,KgNone,足,Footwear,Schuhe,,Calzado
 lblGloves,UI,Tooltip,KgNone,手,Gloves,Handschuhe,,Guantes
-lblHeadgear,UI,Tooltip,KgNone,頭部,Headgear,Kopfbedeckung,,Gorros
-lblLegArmor,UI,Tooltip,KgNone,脚部,Leg Armor,Beinschienen,,Espinillera
+lblHeadgear,UI,Tooltip,KgNone,頭,Headgear,Kopfbedeckung,,Gorros
+lblLegArmor,UI,Tooltip,KgNone,脚,Leg Armor,Beinschienen,,Espinillera
 lblLevel,UI,Tooltip,KgNone,レベル: {0},LEVEL: {0},LEVEL: {0},,NIVEL: {0}
 lblOvercoat,UI,Tooltip,KgNone,防護服,Overcoat,Mantel,,Abrigo
 lblPants,UI,Tooltip,KgNone,ズボン,Pants,Hose,,Pantalones
@@ -2586,7 +2586,7 @@ lblShareWaypoint,UI,Tooltip,KgNone,地点共有,Share Waypoint,Wegpunkt teilen,,
 lblShirt,UI,Tooltip,KgNone,服,Shirt,Hemd,,Camisa
 lblShowOnMap,UI,Tooltip,KgNone,地図に表示,Show On Map,Auf Karte zeigen,,Mostrar en mapa
 lblSimpleClick,UI,Tooltip,KgNone,Simple Click,Simple clic,Einfacher Klick,,Clic simple
-lblSkillReqPlayerLevel,UI,Tooltip,KgNone,プレイヤーﾚﾍﾞﾙ {0},Player Level {0},Spielerlevel {0},,Nivel de jugador {0}
+lblSkillReqPlayerLevel,UI,Tooltip,KgNone,プレイヤーレベル {0},Player Level {0},Spielerlevel {0},,Nivel de jugador {0}
 lblToggleActive,UI,Tooltip,KgNone,表示切り替え,Toggle Active,Aktivieren,,Activar/desactivar
 lblToggleClothes,UI,Tooltip,KgNone,Toggle Clothes On/Off,Afficher les vêtements Activer/Désactiver,Kleider an/aus,,Activar/desactivar cambio de ropa
 lblTotalItems,UI,Tooltip,KgNone,{0} TOTAL,TOTAL DE {0},{0} GESAMT,,TOTAL: {0}
@@ -2713,11 +2713,11 @@ xuiAllSkills,UI,XUI,KgNone,ALL SKILLS,TOUTES LES COMPÉTENCES,ALLE FERTIGKEITEN,
 xuiAssembleMustReadBook,UI,XUI,EnChanged,You must read the correct book or buy a perk to assemble this item.,Vous devez lire le bon livre pour assembler cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand zusammensetzen zu können.",,Debes leer el libro adecuado para armar este objeto.
 xuiAttributes,UI,XUI,KgNone,特性,ATTRIBUTES,ATTRIBUTE,,ATRIBUTOS
 xuiBasics,UI,XUI,KgNone,基本,BASICS,GRUNDLEGENDE WERTE,,BÁSICO
-xuiBuffStatCoreTemp,UI,XUI,KgNone,Core Temp,Core Temp,Kerntemperatur,,Temperatura central
+xuiBuffStatCoreTemp,UI,XUI,KgNone,体感,Core Temp,Kerntemperatur,,Temperatura central
 xuiBuffStatDays,UI,XUI,KgNone,DAYS,JOURS,TAGE,,DÍAS
 xuiBuffStatDuration,UI,XUI,KgNone,Duration,Durée,Dauer,,Duración
 xuiBuffStatGassiness,UI,XUI,KgNone,Gassiness,Proportion de gaz,Aufgeblähtheit,,Gases
-xuiBuffStatHealth,UI,XUI,KgNone,Health,Santé,Gesundheit,,Salud
+xuiBuffStatHealth,UI,XUI,KgNone,体力,Health,Gesundheit,,Salud
 xuiBuffStatHours,UI,XUI,KgNone,HRS,HEURES,STD,,HORAS
 xuiBuffStatModifierMax,UI,XUI,KgNone,[DECEA3]{1} max {0}.[-],[DECEA3]{1} max. {0}.[-],[DECEA3]{1} max. {0}.[-],,[DECEA3]{1} máx. {0}.[-]
 xuiBuffStatModifierMaxForSeconds,UI,XUI,KgNone,[DECEA3]{1} max {0} for {2}.[-],[DECEA3]{1} max. {0} pendant {2}.[-],[DECEA3]{1} max. {0} für {2}.[-],,[DECEA3]{1} máx. {0} durante {2}.[-]
@@ -2729,7 +2729,7 @@ xuiBuffStatModifierValueOT,UI,XUI,KgNone,{0}: [DECEA3]{1} every {2} second(s).[-
 xuiBuffStatModifierValueOTForSeconds,UI,XUI,KgNone,{0}: [DECEA3]{1} every {2} second(s) for {3}.[-],{0} : [DECEA3]{1} toutes les {2} seconde(s) pendant {3}.[-],{0}: [DECEA3]{1} alle {2} Sekunde(n) für {3}.[-],,{0}: [DECEA3]{1} cada {2} segundo(s) durante {3}.[-]
 xuiBuffStatMovementSpeed,UI,XUI,KgNone,Movement Speed,Vitesse de déplacement,Bewegungsgeschwindigkeit,,Velocidad de movimiento
 xuiBuffStatSickness,UI,XUI,KgNone,Sickness,Maladie,Krankheit,,Enfermedad
-xuiBuffStatStamina,UI,XUI,KgNone,Stamina,Endurance,Ausdauer,,Resistencia
+xuiBuffStatStamina,UI,XUI,KgNone,スタミナ,Stamina,Ausdauer,,Resistencia
 xuiBuffStatTimeLeft,UI,XUI,KgNone,Time Left,Temps restant,Verbleibende Zeit,,Tiempo restante
 xuiBuffStatWellness,UI,XUI,KgNone,健康,Wellness,Wohlbefinden,,Bienestar
 xuiClose,UI,XUI,KgNone,CLOSE,FERMER,SCHLIESSEN,,CERRAR
@@ -2737,7 +2737,7 @@ xuiCost,UI,XUI,KgNone,コスト,COST,KOSTEN,,COSTO
 xuiCraftQueueFull,UI,XUI,KgNone,No room in queue!,Plus de place dans la file !,Warteschlange ist voll!,,¡No hay espacio en la cola!
 xuiCreative,UI,XUI,KgNone,クリエイティブ,CREATIVE,KREATIV,,CREATIVO
 xuiDay,UI,XUI,KgNone,日目,JOUR,TAG,,DÍA
-xuiDayTime,UI,XUI,KgNone,日目/時間,DAY/TIME,TAG/ZEIT,,DÍA/HORA
+xuiDayTime,UI,XUI,KgNone,日/時,DAY/TIME,TAG/ZEIT,,DÍA/HORA
 xuiDeaths,UI,XUI,KgNone,死亡数,DEATHS,TODE,,MUERTES
 xuiDecline,UI,XUI,KgNone,DECLINE,DÉCLIN,ABLEHNEN,,RECHAZAR
 xuiDefense,UI,XUI,KgNone,DEFENSE,DÉFENSE,VERTEIDIGUNG,,DEFENSA
@@ -2768,7 +2768,7 @@ xuiLongestLife,UI,XUI,KgNone,生存時間,LONGEST LIFE,LÄNGSTES LEBEN,,VIDA MÁ
 xuiLoot,UI,XUI,KgNone,LOOT,BUTIN,BEUTE,,BOTÍN
 xuiLooting,UI,XUI,KgNone,LOOTING,EN COURS D'ACQUISITION DE BUTIN,PLÜNDERN,,SAQUEANDO
 xuiMap,UI,XUI,KgNone,地図,MAP,KARTE,,MAPA
-xuiMapDayTime,UI,XUI,KgNone,日/時,Day/Time,Tag/Zeit,,Día/Hora
+xuiMapDayTime,UI,XUI,KgNone,日目/時間,Day/Time,Tag/Zeit,,Día/Hora
 xuiMapStats,UI,XUI,KgNone,MAP STATS,STATS DE LA CARTE,KARTENSTATISTIK,,ESTADÍSTICAS DEL MAPA
 xuiMinibike,UI,XUI,KgNone,MINIBIKE,MINI-MOTO,TASCHENMOTORRAD,,MINIMOTO
 xuiMinibikeStorage,UI,XUI,KgNone,MINIBIKE STORAGE,RANGEMENT DE MINI-MOTO,LAGERRAUM FÜR TASCHENMOTORRAD,,ALMACENAMIENTO DE LA MINIMOTO
@@ -2779,7 +2779,7 @@ xuiObjectives,UI,XUI,KgNone,目的,OBJECTIVES,ZIELE,,OBJETIVOS
 xuiObjectivesNotAvailable,UI,XUI,KgNone,OBJECTIVES NOT AVAILABLE AT THIS TIME.,LES OBJECTIFS NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,ZIELE DERZEIT NICHT VERFÜGBAR.,,LOS OBJETIVOS NO ESTÁN DISPONIBLES EN ESTOS MOMENTOS.
 xuiOutput,UI,XUI,KgNone,OUTPUT,SORTIE,OUTPUT,,RESULTADO
 xuiPing,UI,XUI,KgNone,PING,PING,PING,,PING
-xuiPlayerKills,UI,XUI,KgNone,プレイヤー殺害数,PLAYER KILLS,SPIELER-KILLS,,JUGADORES ASESINADOS
+xuiPlayerKills,UI,XUI,KgNone,殺人数,PLAYER KILLS,SPIELER-KILLS,,JUGADORES ASESINADOS
 xuiPlayers,UI,XUI,KgNone,プレイヤー,PLAYERS,SPIELER,,JUGADORES
 xuiPlayerStats,UI,XUI,KgNone,プレイヤー情報,PLAYER STATS,SPIELER-STATISTIK,,ESTADÍSTICAS DEL JUGADOR
 xuiPointsAvailable,UI,XUI,KgNone,利用可能なポイント,Point(s) Available,Verfügbare(r) Punkt(e),,Punto(s) disponible(s)
@@ -2788,7 +2788,7 @@ xuiQuests,UI,XUI,KgNone,クエスト,QUESTS,QUESTS,,MISIONES
 xuiQuickWaypoint,UI,XUI,KgNone,即席地点,QUICK WAYPOINT,SCHNELLER WEGPUNKT,,PUNTO DE REGRESO RÁPIDO
 xuiReceived,UI,XUI,KgNone,RECEIVED,REÇUS,ERHALTEN,,RECIBIDO
 xuiRefuel,UI,XUI,KgNone,REFUEL,RAVITAILLER,NACHTANKEN,,REPOSTAR
-xuiRepair,UI,XUI,KgNone,REPAIR,RÉPARER,REPARIEREN,,REPARAR
+xuiRepair,UI,XUI,KgNone,修理,REPAIR,REPARIEREN,,REPARAR
 xuiRepairMissingMats,UI,XUI,KgNone,You do not have the required materials to repair this item.,Vous n'avez pas le matériel nécessaire pour réparer cet objet.,"Du hast nicht die erforderlichen Materialien, um diesen Gegenstand reparieren zu können.",,No tienes los materiales necesarios para reparar este objeto.
 xuiRepairMustReadBook,UI,XUI,KgNone,You must read the correct book or buy a perk to repair this item.,Vous devez lire le bon livre pour réparer cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand reparieren zu können.",,Debes leer el libro adecuado para reparar este objeto.
 xuiRequired,UI,XUI,KgNone,REQUIRED,NÉCESSAIRE(S),ERFORDERLICH,,SE NECESITA
@@ -2806,7 +2806,7 @@ xuiSkillStats,UI,XUI,KgNone,SKILL STATS,STATS DE LA COMPÉTENCE,FERTIGKEITEN-STA
 xuiSpeed,UI,XUI,KgNone,SPEED,VITESSE,GESCHWINDGKEIT,,VELOCIDAD
 xuiStats,UI,XUI,KgNone,STATS,STATS,STATISTIKEN,,ESTADÍSTICAS
 xuiStatus,UI,XUI,KgNone,情報,STATUS,STATUS,,ESTADO
-xuiSteamID,UI,XUI,KgNone,STEAM ID,ID STEAM,STEAM-ID,,ID DE STEAM
+xuiSteamID,UI,XUI,KgNone,名前,STEAM ID,STEAM-ID,,ID DE STEAM
 xuiTakeAllKey,UI,XUI,KgNone,R',R,‚R‘,,R'
 xuiTime,UI,XUI,KgNone,時間,DURÉE,ZEIT,,TIEMPO
 xuiTip,UI,XUI,KgNone,TIP,ASTUCE,TIPP,,CONSEJO
@@ -3182,7 +3182,7 @@ mmShaggyGoatee,,Main Menu Character Creation,KgNone,SHAGGY GOATEE,BOUC HIRSUTE,Z
 mmShaggyHair,,Main Menu Character Creation,KgNone,SHAGGY HAIR,CHEVEUX HIRSUTES,ZOTTELHAARE,,PELO ENMARAÑADO
 mmSkinColor,,Main Menu Character Creation,KgNone,SKIN COLOR,COULEUR DE PEAU,HAUTFARBE,,COLOR DE PIEL
 mmSpaniardGoatee,,Main Menu Character Creation,KgNone,SPANIARD GOATEE,BOUC ESPAGNOL,SPANISCHER SPITZBART,,CANDADO ESPAÑOL
-mmTextName,,Main Menu Character Creation,KgNone,NAME,NOM,NAME,,NOMBRE
+mmTextName,,Main Menu Character Creation,KgNone,名称,NAME,NAME,,NOMBRE
 mmUpperMuscle,,Main Menu Character Creation,KgNone,UPPER MUSCLE,MUSCLE SUPÉRIEUR,OBERSCHENKELMUSKULATUR,,AUMENTAR MÚSCULOS
 mmUpperWeight,,Main Menu Character Creation,KgNone,UPPER WEIGHT,POIDS SUPÉRIEUR,OBERSCHENKELGEWICHTUNG,,AUMENTAR PESO
 mmWaist,,Main Menu Character Creation,KgNone,WAIST,TAILLE,TAILLE,,CINTURA
@@ -3743,7 +3743,7 @@ entitycommand_horn,entities,Radial,New,Honk horn,,Hupe betätigen,,
 entitycommand_keypad,entities,Radial,New,Enter code,,Code eingeben,,
 entitycommand_lock,entities,Radial,New,Lock,,Abschließen,,
 entitycommand_refuel,entities,Radial,New,Refuel,,Auftanken,,
-entitycommand_repair,entities,Radial,New,Repair,,Reparieren,,
+entitycommand_repair,entities,Radial,New,修理,Repair,Reparieren,,
 entitycommand_Search,entities,Radial,New,Search,,Durchsuchen,,
 entitycommand_service,entities,Radial,New,Open,,Öffnen,,
 entitycommand_take,entities,Radial,New,Take,,Aufnehmen,,
@@ -3923,14 +3923,14 @@ paintTool,items,Tool,New,Paint Brush,,Malerpinsel,,
 paintToolDesc,items,Tool,New,Use paint to paint building blocks and hold Reload action to choose paint options. You can also erase unwanted paint from blocks with the primary action.,,Benutze Farbe um Blöcke anzumalen und halte die Nachladen Aktion für Optionen. Mit der sekundären Aktion kannst Du die Farbe von angemalten Blöcken wieder entfernen.,,
 wireTool,items,Tool,New,Wire Tool,,,,
 wireToolDesc,items,Tool,New,Use the wire tool to wire electrical components. See Journal Tip for more info.,,,,
-txGroupDecoration,painting,Group,New,Decorations,,,,
+txGroupDecoration,painting,Group,New,装飾,Decorations,,,
 txGroupExcluded,painting,Group,New,Excluded,,,,
-txGroupFaux,painting,Group,New,Faux,,,,
-txGroupMasonry,painting,Group,New,Masonry,,,,
-txGroupMetal,painting,Group,New,Metal,,,,
+txGroupFaux,painting,Group,New,模写,Faux,,,
+txGroupMasonry,painting,Group,New,石造,Masonry,,,
+txGroupMetal,painting,Group,New,金属,Metal,,,
 txGroupPainted,painting,Group,New,Painted,,,,
-txGroupWallCovering,painting,Group,New,Wall Coverings,,,,
-txGroupWood,painting,Group,New,Wood and Roofing,,,,
+txGroupWallCovering,painting,Group,New,壁紙,Wall Coverings,,,
+txGroupWood,painting,Group,New,木製と屋根ふき材,Wood and Roofing,,,
 txName_Beercooler,painting,txGroupDecoration,New,Beer cooler,,,,
 txName_Bookcase,painting,txGroupDecoration,New,Bookcase,,,,
 txName_Bullseye,painting,txGroupDecoration,New,Practice Target,,,,
@@ -4167,9 +4167,9 @@ lblContextActionPrice,UI,Item Context Menu,New,Price ({0}%),,,,
 lblContextActionRent,UI,Item Context Menu,New,Rent,,,,
 lblContextActionReset,UI,Item Context Menu,New,Reset,,,,
 lblContextActionSell,UI,Item Context Menu,New,Sell,,,,
-lblAttributeElectricalProtection,UI,Item Info,New,Electrical,,Elektrizität,,
-lblAttributeMaterialGroup,UI,Item Info,New,Material Group,,,,
-lblBasePrice,UI,Item Info,New,Base Price,,,,
+lblAttributeElectricalProtection,UI,Item Info,New,耐電気,Electrical,Elektrizität,,
+lblAttributeMaterialGroup,UI,Item Info,New,外観の分類,Material Group,,,
+lblBasePrice,UI,Item Info,New,基本価格,Base Price,,,
 lblBundleFormat,UI,Item Info,New,{0} per {1},,,,
 mmLblErrorConnectionDeniedTitle,UI,Main Menu,New,The server denied your connection,,Der Server hat deine Verbindung nicht erlaubt,,
 mmLblErrorConnectionFailed,UI,Main Menu,New,Connection to server failed,,Verbindung zum Server fehlgeschlagen,,
@@ -4253,7 +4253,7 @@ xuiMaterialGroup,UI,XUI,New,GROUP,,,,
 xuiMaterials,UI,XUI,New,MATERIALS,,,,
 xuiMaxOutput,UI,XUI,New,MAX OUTPUT,,,,
 xuiPaintCost,UI,XUI,New,PAINT COST,,,,
-xuiPlayerLevel,UI,XUI,New,Player Level,,,,
+xuiPlayerLevel,UI,XUI,New,プレイヤーレベル,Player Level,,,
 xuiPower,UI,XUI,New,POWER,,,,
 xuiPrefabList,UI,XUI,New,Prefab Tools,,,,
 xuiResult,UI,XUI,New,RESULT,,,,
@@ -4266,7 +4266,7 @@ xuiSlots,UI,XUI,New,SLOTS,,,,
 xuiStartTime,UI,XUI,New,開始時間,START TIME,,,
 xuiTrader,UI,XUI,New,TRADER,,,,
 xuiVending,UI,XUI,New,VENDING,,,,
-xuiWPjournal,UI,Quests Window Paging in Game,New,Journal,,,,
+xuiWPjournal,UI,Quests Window Paging in Game,New,Journal,Journal,,,
 devOnlyGroupDesc,blocks,Block,New,Only use for development and testing.,,,,
 sleeperGroupDesc,blocks,SleeperSpawn,New,"Regular: 20-7% empty, XS 1-2, S 2-4, M 3-7, L 4-9, XL 5-11.  LootRoom: 0% empty, XS 1-2, S 3-4, M 5-7, L 6-9, XL 8-11.  Abandoned: 1, high decoy %",,,,
 spawnTraderDesc,blocks,Block,New,"Navezgane Traders: 1394,1324 / -1052,951 / 318,107 / -771,-1305 / 1002,-1308",,,,
@@ -4545,7 +4545,7 @@ xuiPowerDelay,UI,XUI,New,Power Delay,,,,
 xuiPowerDuration,UI,XUI,New,Power Duration,,,,
 xuiTrigger,UI,XUI,New,Trigger,,,,
 looseBoardsTrapBlock3x3,blocks,Block,New,Loose Boards Block 3x3,,,,
-xuiXPToNextLevel,UI,XUI,New,XP TO NEXT LEVEL,,,,
+xuiXPToNextLevel,UI,XUI,New,経験値,XP TO NEXT LEVEL,,,
 lbliron,UI,XUI,New,Iron,,,,
 lblbrass,UI,XUI,New,Brass,,,,
 lbllead,UI,XUI,New,Lead,,,,
