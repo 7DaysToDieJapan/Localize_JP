@@ -1707,7 +1707,7 @@
 			<!-- <button pos="550,-5" depth="2" name="closeButton" style="icon32px" sprite="ui_game_symbol_x" defaultcolor="[red]" /> -->
 		</panel>
 		<panel name="content" pos="0,-46" height="379" depth="1" backgroundcolor="[darkGrey]" bordercolor="[black]" borderthickness="3" pivot="center">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="803" height="329" color="[black]" type="sliced" fillcenter="false" />
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="803" height="379" color="[black]" type="sliced" fillcenter="false" />
 			<label depth="3" name="descriptionText" pos="6,-5" text="{questoffer}" width="790" font_size="30" overflow="resizeheight" />
 
 			<!-- <button pos="200,-220" depth="2" name="acceptButton" style="icon32px" sprite="ui_game_symbol_check" defaultcolor="[green]"/>
