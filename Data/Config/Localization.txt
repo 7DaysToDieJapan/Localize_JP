@@ -1,7 +1,7 @@
 Key,Source,Context,Changes,English,French,German,Klingon,Spanish
 keystoneBlockDesc,blocks,Block,EnChanged,PVPで他のプレイヤーからエリアを保護するために陣地の主張ブロックを置くことができます。緑のボックスには、領域のサイズが表示されます。,A land claim block can be placed to protect an area from other players in PVP. The green box shows the size of the area.,Ein Gebietsschutzblock kann platziert werden um einen Bereich vor anderen Spielern im PvP zu schützen. Die grüne Box zeigt die Grösse des Bereichs an.,,Se puede colocar un bloque para reclamar un territorio y darle al área circundante una protección extra frente a otros jugadores en JcJ.
 scrapFrameGroupDesc,blocks,Block,EnChanged,基礎に使用します。アップグレードと修復には、建築ツールと鉄([00ff00]Iron[-])を使います。生コンクリート([00ff00]Concrete Mix[-])やその他の資材でさらにアップグレードしましょう。,Used for bases. Upgrade & repair with a construction tool & iron. Upgrade more with concrete mix & others.,Wird für Basen verwendet. Kann mit Eisen und Bauwerkzeugen aufgewertet und repariert werden. Kann mit Betonmischung und geschmiedetem Stahl weiter aufgewertet werden.,,
-scrapHatch_v1Desc,blocks,Block,EnChanged,Eキーを押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鉄([00ff00]Iron[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,
+scrapHatch_v1Desc,blocks,Block,EnChanged,Eキーを長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。鉄([00ff00]Iron[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,
 spotlightNailedDownPOI,blocks,Block,EnChanged,Spotlight (POI),Projecteur fixe,Scheinwerfer (POI),,Foco clavado
 woodFrameGroupDesc,blocks,Block,EnChanged,基礎に使用します。アップグレードと修復には、木([00ff00]Wood[-])と建築ツールを使います。鉄([00ff00]Iron[-])、生コンクリート([00ff00]Concrete Mix[-])やその他の資材でさらにアップグレードしましょう。,"Used for bases. Upgrade & repair with wood & a construction tool. Upgrade more with iron, concrete mix & others.",Wird für Basen verwendet. Kann mit Holz und Bauwerkzeugen aufgewertet und repariert werden. Kann unter anderem mit Eisen und Betonmischung weiter aufgewertet werden.,,
 cntCar03SedanDamage0,blocks,Container,EnChanged,Sedan,Berline bleue,Coupé,,Sedán azul
@@ -241,7 +241,7 @@ burningBarrel,blocks,Block,EnChanged,Burning Barrel (POI),Baril en feu,Brennende
 cable1,blocks,Block,KgNone,Cable1,Câble 1,Kabel 1,,Cable 1
 camoNetBlock,blocks,Block,KgNone,Camo Netting Block,Bloc en filet de camouflage,Tarnnetz – Block,,Bloque de red de camuflaje
 camoNetCNRFull,blocks,Block,KgNone,Camo Netting Corner,Angle en filet de camouflage,Tarnnetz – Ecke,,Esquina de red de camuflaje
-camoNetGroupDesc,blocks,Block,KgNone,“あなたの基地をカモフラージュしましょう！あいにく、ゾンビたちは臭いであなたをみつけるようです”,"Camouflage your base! Unfortunately, zombies seem to find you by smell.",Tarne deine Basis! Leider können Zombies dich anscheinend wittern.,,"¡Oculta tu base! Por desgracia, los zombis pueden encontrarte con su olfato."
+camoNetGroupDesc,blocks,Block,KgNone,基地をカモフラージュしましょう！あいにく、ゾンビたちは臭いで見つけるようです。,"Camouflage your base! Unfortunately, zombies seem to find you by smell.",Tarne deine Basis! Leider können Zombies dich anscheinend wittern.,,"¡Oculta tu base! Por desgracia, los zombis pueden encontrarte con su olfato."
 camoNetRamp,blocks,Block,KgNone,Camo Netting Ramp,Rampe en filet de camouflage,Tarnnetz – Rampe,,Rampa de red de camuflaje
 camoNetSheet,blocks,Block,KgNone,Camo Netting,Filet de camouflage,Tarnnetz,,Red de camuflaje
 cashRegisterEmpty,blocks,Block,KgNone,Cash Register Empty,Caisse enregistreuse vide,Registrierkasse leer,,Caja registradora vacía
@@ -315,7 +315,7 @@ controlPanelTop05,blocks,Block,KgNone,Control Panel Top05,Haut de panneau de con
 controlPanelTop06,blocks,Block,KgNone,Control Panel Top06,Haut de panneau de contrôle 06,Oberes Bedienfeld 06,,Parte superior06 de panel de control
 controlPanelTop07,blocks,Block,KgNone,Control Panel Top07,Haut de panneau de contrôle 07,Oberes Bedienfeld 07,,Parte superior07 de panel de control
 cookingPot,blocks,Block,KgNone,Cooking Pot,Marmite,Kochtopf,,Olla
-cookingPotDesc,blocks,Block,KgNone,キャンプファイヤーでレシピをアンロックするために使用される調理器具。,A cooking utensil used in the campfire to unlock recipes.,"Ein Kochgerät, mit dem am Lagerfeuer Rezepte freigeschaltet werden.",,Un instrumento de cocina que se usa en la fogata para desbloquear recetas.
+cookingPotDesc,blocks,Block,KgNone,キャンファイア([00ff00]Campfire[-])のレシピを解除するために使用される調理器具です。,A cooking utensil used in the campfire to unlock recipes.,"Ein Kochgerät, mit dem am Lagerfeuer Rezepte freigeschaltet werden.",,Un instrumento de cocina que se usa en la fogata para desbloquear recetas.
 corrugatedMetalBlock,blocks,Block,KgNone,Corrugated Metal Block,Bloc de tôle,Wellblech – Block,,Bloque de metal corrugado
 corrugatedMetalCNRFull,blocks,Block,KgNone,Corrugated Metal Corner Full,Angle complet de tôle,Wellblech – Komplette Ecke,,Esquina de metal corrugado
 corrugatedMetalCNRInside,blocks,Block,KgNone,Corrugated Metal Corner Inside,Angle intérieur de tôle,Wellblech – Innenecke,,Esquina interior de metal corrugado
@@ -359,7 +359,7 @@ flagstoneStairs25,blocks,Block,KgNone,Flagstone Stairs,Escaliers en dalle,Steinp
 forestCNRCurb,blocks,Block,KgNone,Forest Corner Curb,Angle de bordure de chemin de forêt,Waldrand – Ecke,,Esquina del cordón forestal
 forestCurb,blocks,Block,KgNone,Forest Curb,Bordure de chemin de forêt,Waldrand,,Cordón forestal
 fountain,blocks,Block,KgNone,Fountain,Fontaine,Brunnen,,Fuente
-furnitureGroupDesc,blocks,Block,KgNone,家具はあなたの場所をきれいに見せることができますが、大抵、防御価値は小さいです。,Furniture can make your place look pretty but it usually has little defensive value.,"Möbel sind eine schöne Dekoration, aber sie haben gewöhnlich einen niedrigen Verteidigungswert.",,"El mobiliario sirve para hacer que tu casa sea acogedora, pero no sirve para defenderse."
+furnitureGroupDesc,blocks,Block,KgNone,家具は生活空間をすてきに見せることができますが、ほとんどのものは造りが弱いです。,Furniture can make your place look pretty but it usually has little defensive value.,"Möbel sind eine schöne Dekoration, aber sie haben gewöhnlich einen niedrigen Verteidigungswert.",,"El mobiliario sirve para hacer que tu casa sea acogedora, pero no sirve para defenderse."
 fusebox,blocks,Block,KgNone,Fusebox,Boîte à fusibles,Sicherungskasten,,Caja de fusibles
 garageDoorMetal_v1,blocks,Block,KgNone,Garage Door Metal,Porte de garage en métal,Metallenes Garagentor,,Puerta metálica de garaje
 garageDoorMetal_v2,blocks,Block,KgNone,Garage Door Metal v2,Porte de garage en métal v2,Metallenes Garagentor v2,,Puerta metálica de garaje v2
@@ -397,7 +397,7 @@ houseFrontDoor2_v3,blocks,Block,KgNone,House Front Door2 v3,Porte de maison 2 v3
 industrialLight01,blocks,Block,EnChanged,Industrial Light (POI),Luminaire industriel 01,Industrielicht 01 (POI),,Luz01 industrial
 ironBars,blocks,Block,KgNone,Iron Bars,Barreaux en fer,Eisenstangen,,Barras de hierro
 ironDoor1_v1,blocks,Block,KgNone,Hard Metal Door,Porte robuste en métal,Hartmetalltür,,Puerta de metal duro
-ironDoor1_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鉄([00ff00]Forged Iron[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with forged iron and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con hierro forjado y con una herramienta de construcción.
+ironDoor1_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鉄([00ff00]Forged Iron[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with forged iron and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con hierro forjado y con una herramienta de construcción.
 ironDoor1_v2,blocks,Block,KgNone,Iron Door1 v2,Porte en fer 1 v2,Eisentür 1 v2,,Puerta de hierro 1 v2
 ironDoor1_v3,blocks,Block,KgNone,Iron Door1 v3,Porte en fer 1 v3,Eisentür 1 v3,,Puerta de hierro 1 v3
 keystoneBlock,blocks,Block,KgNone,Land Claim Block,Bloc de revendication de terrain,Gebietsschutzblock,,Bloque para reclamar territorio
@@ -670,11 +670,11 @@ treeWinterPine02,blocks,Block,KgNone,Tree Winter Pine02,Pin hivernal 02,"Baum, W
 treeWinterPine03,blocks,Block,KgNone,Tree Winter Pine03,Pin hivernal 03,"Baum, Winter – Kiefer 03",,Árbol: Pino de invierno 03
 tv,blocks,Block,KgNone,TV,Télévision,TV,,TV
 vaultDoor01,blocks,Block,KgNone,Vault Door,Porte de chambre forte,Tresortür,,Puerta del almacén
-vaultDoor01Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
+vaultDoor01Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
 vaultDoor02,blocks,Block,KgNone,Vault Door02,Porte de chambre forte 02,Tresortür 02,,Puerta02 del almacén
 vaultDoor03,blocks,Block,KgNone,Vault Door03,Porte de chambre forte 03,Tresortür 03,,Puerta03 del almacén
 vaultHatch_v1,blocks,Block,KgNone,Vault Hatch,Trappe de chambre forte,Tresorklappe,,Puerta del escotilla
-vaultHatch_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
+vaultHatch_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
 vaultHatch_v2,blocks,Block,KgNone,Vault Hatch v2,Trappe de chambre forte v2,Tresorklappe v2,,Puerta de escotilla v2
 vaultHatch_v3,blocks,Block,KgNone,Vault Hatch v3,Trappe de chambre forte v3,Tresorklappe v3,,Puerta de escotilla v3
 wallLight01,blocks,Block,EnChanged,Warehouse Outdoor Light (POI),Luminaire de mur 01,Wandlampe 01 (POI),,Lámpara de pared 01
@@ -721,7 +721,7 @@ woodFrameRamp,blocks,Block,KgNone,Wood Frame Ramp,Rampe avec structure en bois,H
 woodFrameWedge,blocks,Block,KgNone,Wood Frame Wedge,Pente avec structure en bois,Holzrahmen – Schräge,,Cuña de estructura de madera
 woodHalf,blocks,Block,KgNone,Wood 1/2 Block,1/2 de bloc de bois,1/2 Holzblock,,Mitad de madera
 woodHatch1_v1,blocks,Block,KgNone,Wooden Hatch,Trappe en bois,Holzklappe,,Escotilla de madera
-woodHatch1_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。木([00ff00]Wood[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with wood and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Holz und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
+woodHatch1_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。木([00ff00]Wood[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with wood and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Holz und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
 woodHatch1_v2,blocks,Block,KgNone,Wood Hatch1 v2,Trappe en bois 1 v2,Holzklappe 1 v2,,Escotilla 1 de madera v2
 woodHatch1_v3,blocks,Block,KgNone,Wood Hatch1 v3,Trappe en bois 1 v3,Holzklappe 1 v3,,Escotilla 1 de madera v3
 woodLogPillar100,blocks,Block,KgNone,Wood Log,Rondin de bois,Holzklotz,,Tronco de madera
@@ -777,7 +777,7 @@ cntGarageStorage,blocks,Container,KgNone,Garage Storage,Boîte de garage,Garagen
 cntGasPump,blocks,Container,KgNone,Gas Pump,Pompe à essence,Zapfsäule,,Bomba de gasolina
 cntGraniteSink,blocks,Container,KgNone,Sink,Évier,Waschbecken,,Fregadero
 cntGunSafe,blocks,Container,KgNone,Gun Safe,Armoire à fusils,Waffenschrank,,Caja fuerte de armas
-cntGunSafeDesc,blocks,Container,KgNone,ロックしたり、パスワードを設定するにはEボタンを長押ししてください。,Press & hold [activate] to lock it or set a password.,Zum Verschließen oder Passwort eingeben [activate] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una contraseña.
+cntGunSafeDesc,blocks,Container,KgNone,鍵や暗唱番号を設定するには、[ff6347]Eキー[-]を長押しします。,Press & hold [activate] to lock it or set a password.,Zum Verschließen oder Passwort eingeben [activate] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una contraseña.
 cntGunSafeInsecure,blocks,Container,KgNone,Gun Safe Insecure,Armoire à fusils précaire,Waffenschrank ungesichert,,Caja fuerte de armas poco segura
 cntLockers,blocks,Container,KgNone,Lockers,Casiers,Spinde,,Casilleros
 cntMailbox,blocks,Container,KgNone,Mailbox,Boîte aux lettres,Briefkasten,,Buzón
@@ -817,8 +817,8 @@ cntTreeStump,blocks,Container,KgNone,Tree Stump,Souche d'arbre,Baumstumpf,,Tocó
 cntWallOven,blocks,Container,KgNone,Wall Oven,Four mural,Wandofen,,Horno empotrable
 cntWallSafe,blocks,Container,KgNone,Wall Safe,Coffre-fort mural,Wandtresor,,Caja fuerte empotrable
 cntWallSafeInsecure,blocks,Container,KgNone,Wall Safe Insecure,Coffre-fort mural précaire,Wandtresor ungesichert,,Caja fuerte empotrable poco segura
-largeStorageGroupDesc,blocks,Container,KgNone,側面に手描のシンボルを塗装した非常に大きな鍵を掛けれる木箱です。[ff6347]Eキー[-]を押し続けると押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。,A very large lockable crate with a handy symbol painted on the sides. Press & hold [activate] to lock it or set a combination.,Eine sehr große abschließbare Kiste mit einem praktischen Symbol auf der Seite. Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Una gran caja con cerrojo con un símbolo muy útil pintado en los costados. Mantén presionado [activate] para cerrar con llave o para definir una combinación.
-refrigeratorGroupDesc,blocks,Container,KgNone,食べ物がいつか腐るなら、ここに食べ物を残すのはいい考えです。,If food would ever spoil then it would be a good idea to keep it in here.,"Wenn Nahrung verderben würde, wäre es gut, sie hier drinnen aufzubewahren.",,Sería buena idea guardar aquí la comida que se pueda echar a perder.
+largeStorageGroupDesc,blocks,Container,KgNone,側面に手描のシンボルを塗装した非常に大きな鍵を掛けれる木箱です。[ff6347]Eキー[-]を長押しすると鍵や自由に組み合わせができる暗証番号を設定できます。,A very large lockable crate with a handy symbol painted on the sides. Press & hold [activate] to lock it or set a combination.,Eine sehr große abschließbare Kiste mit einem praktischen Symbol auf der Seite. Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Una gran caja con cerrojo con un símbolo muy útil pintado en los costados. Mantén presionado [activate] para cerrar con llave o para definir una combinación.
+refrigeratorGroupDesc,blocks,Container,KgNone,食べ物が腐るなら、ここに保存するのは名案です。,If food would ever spoil then it would be a good idea to keep it in here.,"Wenn Nahrung verderben würde, wäre es gut, sie hier drinnen aufzubewahren.",,Sería buena idea guardar aquí la comida que se pueda echar a perder.
 treasureChest,blocks,Container,KgNone,Treasure Chest,Coffre au trésor,Schatztruhe,,Cofre del tesoro
 mushroom01Desc,blocks,Farming,KgNone,きのこ([00ff00]Mushrooms[-])は生でも安全に食べることができ、キャンプファイア([00ff00]Campfire[-])で幾つかのレシピにも使えます。,Mushrooms can be safely eaten uncooked or used in several recipes at the campfire.,Pilze können problemlos roh gegessen oder in verschiedenen Rezepten am Lagerfeuer verwendet werden.,,Las setas se pueden comer sin ningún riesgo o usarse en varias recetas en la fogata.
 plantedAloe3Harvest,blocks,Farming,KgNone,Aloe Vera Plant (Harvestable),Aloe vera,Aloe-Vera-Pflanze,,Planta de aloe vera
@@ -930,7 +930,7 @@ trapSpikesNew,blocks,Trap,KgNone,Wood Spikes,Piques en bois,Holzstacheln,,Pincho
 trapSpikesNewDesc,blocks,Trap,KgNone,ウッドスパイクの罠は、ダメージを与えたり、部位破壊したり、ほとんどの敵を殺すことができます。右クリックを使用して配置します。,"Wood spike traps can damage, cripple, even kill most enemies. Place them using the secondary action.","Fallen mit Holzstacheln können den meisten Gegnern schaden, sie lähmen und sogar töten. Platziere sie mit der sekundären Aktion.",,"Las trampas de pinchos de madera pueden dañar, lisiar e incluso matar a la mayoría de los enemigos. Usa la acción secundaria para colocarlas."
 woodLogSpike1,blocks,Trap,KgNone,Wood Log Spike,Pique en rondin de bois,Spitzer Stamm,,Pinchos de troncos de madera
 campfire,blocks,Workstation,KgNone,Campfire,Feu de camp,Lagerfeuer,,Fogata
-campfireDesc,blocks,Workstation,KgNone,“食べ物の調理をしたり暖をとるのに便利です。鍋や焼き網やビーカーを追加することで多くのレシピをアンロックしてください。”,"Useful to cook food and warm up. Unlock more recipes by adding a cooking pot, cooking grill or beaker.","Nützlich zum Kochen von Nahrung und zum Aufwärmen. Schalte mehr Rezepte frei, indem du einen Kochtopf, Kochgrill oder Messbecher hinzufügst.",,"Útil para cocinar comida y calentarse. Añade una olla, una parrilla o un matraz para desbloquear más recetas."
+campfireDesc,blocks,Workstation,KgNone,食べ物を調理して体を温めるのに良いです。鍋([00ff00]Cooking pot[-])、焼き網([00ff00]Cooking Grill[-])またはビーカー([00ff00]Beaker[-])を容易してレシピを解除しましょう。,"Useful to cook food and warm up. Unlock more recipes by adding a cooking pot, cooking grill or beaker.","Nützlich zum Kochen von Nahrung und zum Aufwärmen. Schalte mehr Rezepte frei, indem du einen Kochtopf, Kochgrill oder Messbecher hinzufügst.",,"Útil para cocinar comida y calentarse. Añade una olla, una parrilla o un matraz para desbloquear más recetas."
 cementMixer,blocks,Workstation,KgNone,Cement Mixer,Bétonnière,Zementmischer,,Mezclador de cemento
 cementMixerDesc,blocks,Workstation,KgNone,セメントミキサー([00ff00]Cement Mixer[-])は、しっかりとした土台に必要でコンクリート([00ff00]Concrete[-])やアスファルト([00ff00]Asphalt[-])のような資材を作るのに役立ちます。,A cement mixer needs a solid foundation and will help you craft materials like concrete or asphalt.,Ein Zementmischer benötigt ein stabiles Fundament und dient zur Fertigung von Beton oder Asphalt.,,Una mezcladora de cemento necesita una base sólida. Te ayudará a fabricar materiales como hormigón o asfalto.
 forge,blocks,Workstation,KgNone,Forge,Forge,Schmiede,,Fragua
@@ -1305,7 +1305,7 @@ kevlarHelmetDesc,items,Clothes,KgNone,The Kevlar helmet offers the very best dam
 kevlarLegArmor,items,Clothes,KgNone,Kevlar Leg Armor,Jambières en kevlar,Kevlar-Beinschienen,,Greba de Kevlar
 kevlarVest,items,Clothes,KgNone,Kevlar Vest,Gilet en kevlar,Kevlar-Weste,,Chaleco de Kevlar
 leatherBoots,items,Clothes,KgNone,Leather Boots,Bottes en cuir,Lederstiefel,,Botas de cuero
-leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は天候から絶縁と他の種類のダメージからの保護の素晴らしい組み合わせを提供します。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
+leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は、天候からの断熱効果やその他のダメージから守る素晴らしい重ね着ができます。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
 leatherGloves,items,Clothes,KgNone,Leather Gloves,Gants en cuir,Lederhandschuhe,,Guantes de cuero
 leatherHood,items,Clothes,KgNone,Leather Hood,Capuche en cuir,Lederkapuze,,Capucha de cuero
 leatherJacket,items,Clothes,KgNone,Leather Chest Armor,Plastron en cuir,Lederbrustpanzer,,Coraza de cuero
@@ -4686,7 +4686,7 @@ ttSkillRankAlreadyKnown,UI,Tooltip,New,This skill rank is already known.,,,,
 lblContextActionCurrent,UI,Item Context Menu,New,Current,,,,
 xuiUnlockAmmo,UI,Menu,New,Unlock Ammo,,,,
 xuiLockAmmo,UI,Menu,New,Lock Ammo,,,,
-decorativeBlockGroupDesc,blocks,Block,New,ほとんどが装飾のためのアイテムです。,An item of mostly decorative value.,,,
+decorativeBlockGroupDesc,blocks,Block,New,ほとんどが装飾的価値のあるアイテムです。,An item of mostly decorative value.,,,
 inpGrpPlayerControlName,UI,Controls Dialog,,Player movement,,,,
 inpGrpPlayerControlDesc,UI,Controls Dialog,,"Controlling your character, interacting with the world",,,,
 inpGrpToolbeltName,UI,Controls Dialog,,Toolbelt,,,,
