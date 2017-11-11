@@ -3589,11 +3589,7 @@ treePlantedMountainPine1m,blocks,Block,New,Pine Seed,,,,
 treePlantedWinterPine1m,blocks,Block,New,Blue Spruce Seed,,,,
 tv_large_1,blocks,Block,New,"TV Large, Left",,,,
 tv_large_2,blocks,Block,New,"TV Large, Right",,,,
-<<<<<<< HEAD
 woodArrowSlitGroupDesc,blocks,Block,New,矢狭間は、由緒ある中世の建造物であり、それは外から内部に向けて撃つよりも中から外部に向けて撃つほうが、はるかに簡単です。,Arrow slits are another medieval classic that make it much easier for you to shoot outside than it is for others to shoot inside.,,,
-=======
-woodArrowSlitGroupDesc,blocks,Block,New,射撃孔はもう一つの中世の古典であり、他の人が内側へ射撃するより、あなたが外へ射撃するほうがずっと簡単です。,Arrow slits are another medieval classic that make it much easier for you to shoot outside than it is for others to shoot inside.,,,
->>>>>>> 26d11ccca085197d271412f9c710b9e9f38e3422
 woodArrowSlitHalf,blocks,Block,New,Wood Arrow Slit,,,,
 woodCatwalk,blocks,Block,New,Wood Catwalk,,,,
 woodCatwalkGroupDesc,blocks,Block,New,,A catwalk spans a little farther which is useful for building bridges and it can be upgraded with forged iron.,,,
