@@ -89,8 +89,8 @@ ballCap,items,Clothes,EnChanged KgNone,White Baseball Cap,Casquette de baseball,
 blueberrySeed,items,Farming,EnChanged KgNone,Blueberry Seed,Graines de myrtille,Heidelbeersamen,,Semillas de mora
 potatoSeed,items,Farming,EnChanged KgNone,Potato Seed,Graines de pomme de terre,Saatkartoffel,,Semillas de papa
 treePlantedMaple1mDesc,items,Farming,EnChanged KgNone,Plant these seeds in dirt to grow a tree. They may grow in the desert but do prefer more fertile ground.,Plantez ces graines dans la terre pour faire pousser un arbre.,"Pflanze diese Samen in Erde, um einen Baum zu züchten.",,Planta estas semillas en la tierra para que crezca un árbol.
-treePlantedMountainPine1mDesc,items,Farming,EnChanged KgNone,Plant these seeds in dirt to grow a tree. They may grow in the desert but do prefer more fertile ground.,Plantez ces graines dans la terre pour faire pousser un arbre.,"Pflanze diese Samen in Erde, um einen Baum zu züchten.",,Planta estas semillas en la tierra para que crezca un árbol.
-treePlantedWinterPine1mDesc,items,Farming,EnChanged KgNone,Plant these seeds in dirt to grow a tree. They may grow in the desert but do prefer more fertile ground.,Plantez ces graines dans la terre pour faire pousser un arbre.,"Pflanze diese Samen in Erde, um einen Baum zu züchten.",,Planta estas semillas en la tierra para que crezca un árbol.
+treePlantedMountainPine1mDesc,items,Farming,EnChanged KgNone,これらの種を土に植えて木を育ててください。砂漠で成長するかもしれませんが、より肥沃な土地が好ましいです。,Plant these seeds in dirt to grow a tree. They may grow in the desert but do prefer more fertile ground.,"Pflanze diese Samen in Erde, um einen Baum zu züchten.",,Planta estas semillas en la tierra para que crezca un árbol.
+treePlantedWinterPine1mDesc,items,Farming,EnChanged KgNone,これらの種を土に植えて木を育ててください。砂漠で成長するかもしれませんが、より肥沃な土地が好ましいです。,Plant these seeds in dirt to grow a tree. They may grow in the desert but do prefer more fertile ground.,"Pflanze diese Samen in Erde, um einen Baum zu züchten.",,Planta estas semillas en la tierra para que crezca un árbol.
 beerDesc,items,Food,EnChanged KgNone,"Gain stamina, bravado and stun immunity all in one bottle of this tasty home brewed beer. Just like grandpa used to make.","Boire une bouteille de cette délicieuse bière artisanale vous offre de l'endurance, une dose de bravoure et une haute opinion de vous-même. Exactement comme celle que faisait papy.","Erhalte Ausdauer, Wagemut und ein großes Ego. All das in nur einer Flasche dieses leckeren selbst gebrauten Biers. Das gleiche Bier, das Opa früher immer braute.",,"Aumenta tu resistencia, valentía y tu gran ego con una simple botella de esta deliciosa cerveza casera. Tal y como el abuelo solía hacerla."
 ironFragment,items,Item,EnChanged KgNone,Raw Iron,Éclats de fer,Eisenbruchstücke,,Trozos de hierro
 ironFragmentDesc,items,Item,EnChanged KgNone,Raw iron should be smelted in a forge but can also be scrapped at a loss.,Objet essentiel pour forger. Il peut aussi servir à fabriquer des munitions de tromblon.,"Einer der wichtigsten Schmiedegegenstände, mit dem auch Munition für die Donnerbüchse gefertigt werden kann.",,Un objeto de forja básico que se puede usar también para fabricar munición para trabucos.
@@ -353,7 +353,7 @@ faucetBrass04,blocks,Block,KgNone,Brass Faucet,Robinet en laiton,Messingwasserha
 fencesGroupDesc,blocks,Block,KgNone,Fences and railings can keep the neighbors out. Unless they have turned into zombies. Still useful for not falling from high places.,"Les clôtures et les rambardes vous protègent des voisins envahissants. Sauf s'ils se sont transformés en zombies. Dans tous les cas, elles permettent d'éviter de tomber des espaces en hauteur.","Zäune und Geländer können Nachbarn fernhalten. Außer sie sind Zombies. Dennoch sind sie nützlich, um nicht von hochgelegenen Orten zu fallen.",,"Las alambradas y barandillas pueden mantener alejados a los vecinos. A menos que se hayan convertido en zombis. Aun así, son útiles para no caerte desde lugares altos."
 flagstoneBlock,blocks,Block,KgNone,Flagstone Block,Bloc de dalle,Steinplattenblock,,Bloque de baldosas
 flagstoneGable,blocks,Block,KgNone,Flagstone Gable,Pignon en dalle,Steinplatte – Giebel,,Frontón de baldosas
-flagstoneGroupDesc,blocks,Block,EnChanged,"Flagstone is easy to craft early on. Upgrade & repair with cobblestone rocks. Upgrade more with iron, concrete mix & others.","La dalle n'est pas très solide, mais facile à fabriquer au départ.",Steinplatten sind einfach zu fertigen. Kann mit Pflastersteinen aufgewertet und repariert werden. Kann unter anderem mit Betonmischung weiter aufgewertet werden.,,"Las baldosas no son muy robustas, pero resultan fáciles de fabricar en las primeras fases."
+flagstoneGroupDesc,blocks,Block,EnChanged,敷石は早期に作成することが簡単です。玉石を使用してアップグレードと修理をします。鉄やコンクリートミックスなどでアップグレードしてください。,"La dalle n'est pas très solide, mais facile à fabriquer au départ.",Steinplatten sind einfach zu fertigen. Kann mit Pflastersteinen aufgewertet und repariert werden. Kann unter anderem mit Betonmischung weiter aufgewertet werden.,,"Las baldosas no son muy robustas, pero resultan fáciles de fabricar en las primeras fases."
 flagstoneRamp,blocks,Block,EnChanged,Flagstone Ramp,Rampe de cabane en dalle,Steinplatten – Rampe,,Rampa de cabaña de baldosas
 flagstoneStairs25,blocks,Block,KgNone,Flagstone Stairs,Escaliers en dalle,Steinplattenstufen,,Escaleras de baldosas
 forestCNRCurb,blocks,Block,KgNone,Forest Corner Curb,Angle de bordure de chemin de forêt,Waldrand – Ecke,,Esquina del cordón forestal
@@ -404,7 +404,7 @@ keystoneBlock,blocks,Block,KgNone,Land Claim Block,Bloc de revendication de terr
 ladderMetal,blocks,Block,EnChanged,Iron Ladder,Échelle en métal,Eisenleiter,,Escalera de metal
 ladderMetalDesc,blocks,Block,KgNone,金属のはしごの一片です。右クリックを使ってはしごを壁の面に設置します。,A metal ladder piece. Face a wall and place the ladder by using the secondary action.,Ein Stück einer Metallleiter. Gehe zu einer Mauer und platziere die Leiter mit der sekundären Aktion.,,Un trozo de una escalera de metal. Colócate frente a una pared y usa la acción secundaria para colocar la escalera.
 ladderWood,blocks,Block,KgNone,Wooden Ladder,Échelle en bois,Holzleiter,,Escalera de madera
-ladderWoodDesc,blocks,Block,KgNone,A wooden ladder piece. Face a wall and place the ladder by using the secondary action.,Un morceau d'échelle en bois. Faites face à un mur et placez l'échelle à l'aide de l'action secondaire.,Ein Stück einer Holzleiter. Gehe zu einer Mauer und platziere die Leiter mit der sekundären Aktion.,,Un trozo de una escalera de madera Colócate frente a una pared y usa la acción secundaria para colocar la escalera.
+ladderWoodDesc,blocks,Block,KgNone,木製のはしごの一片です。右クリックを使ってはしごを壁の面に設置します。,A wooden ladder piece. Face a wall and place the ladder by using the secondary action.,Ein Stück einer Holzleiter. Gehe zu einer Mauer und platziere die Leiter mit der sekundären Aktion.,,Un trozo de una escalera de madera Colócate frente a una pared y usa la acción secundaria para colocar la escalera.
 mattress,blocks,Block,KgNone,Mattress,Matelas,Matratze,,Colchón
 mattressFlat,blocks,Block,KgNone,Mattress,Matelas,Matratze,,Colchón
 metalPipeCap,blocks,Block,KgNone,Metal Pipe Cap,Bouchon de tuyau en métal,Metallrohr – Aufsatz,,Tapa de tubería de metal
@@ -463,7 +463,7 @@ porchLight01,blocks,Block,EnChanged,Old Outdoor Light (POI),Luminaire de porche 
 porchLight04,blocks,Block,EnChanged,Iron Outdoor Light (POI),Luminaire de porche 04,Verandalicht 04 (POI),,Lámpara de porche 04
 porchLight04Brass,blocks,Block,EnChanged,Brass Outdoor Light (POI),Luminaire de porche 04 en laiton,Verandalicht 04 – Messing (POI),,Lámpara de porche de latón 04
 railingBlackSheet,blocks,Block,KgNone,Black Iron Railing,Rambarde en fer noir,Schwarzes Eisengeländer,,Barandilla de hierro negra
-railingGroupDesc,blocks,Block,KgNone,A railing is very useful for not falling from high places.,Une rambarde permet d'éviter de tomber des espaces en hauteur.,"Ein Geländer ist sehr nützlich, um nicht von hochgelegenen Orten zu fallen.",,Una barandilla es muy útil para no caerte desde lugares altos.
+railingGroupDesc,blocks,Block,KgNone,手すりは高い場所から落ちないためにとても便利です。,A railing is very useful for not falling from high places.,"Ein Geländer ist sehr nützlich, um nicht von hochgelegenen Orten zu fallen.",,Una barandilla es muy útil para no caerte desde lugares altos.
 railingMetalSheet,blocks,Block,KgNone,Metal Railing,Rambarde en métal,Metallgeländer,,Barandilla de metal
 railingOldWoodSheet,blocks,Block,KgNone,Wood Railing,Rambarde en bois,Holzgeländer,,Barandilla de madera
 railingWoodWhiteSheet,blocks,Block,KgNone,White Wood Railing,Rambarde en bois blanc,Weißes Holzgeländer,,Barandilla de madera blanca
@@ -572,7 +572,7 @@ sectionalPlaidCouchSofaArm,blocks,Block,KgNone,Old Couch Arm,Accoudoir de vieux 
 sectionalPlaidCouchSofaCorner,blocks,Block,KgNone,Old Couch Corner,Angle de vieux canapé,Alte Couch – Eckteil,,Esquina de sillón viejo
 sectionalPlaidCouchSofaMiddle,blocks,Block,KgNone,Old Couch Middle,Milieu de vieux canapé,Alte Couch – Mittelteil,,Parte central de sillón viejo
 secureDoorWooden,blocks,Block,KgNone,Secure Wood Door,Porte en bois sécurisée,Gesicherte Holztür,,Puerta de madera segura
-secureDoorWoodenDesc,blocks,Block,KgNone,Press & hold [activate] to lock it or set a combination. Upgrade & repair with wood and a construction tool using the secondary action.,Maintenez [activate] pour la verrouiller ou définir un code. Elle peut être améliorée et réparée à l'aide de bois et d'un outil de construction grâce à l'action secondaire.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Holz und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
+secureDoorWoodenDesc,blocks,Block,KgNone,Eボタンを押っぱなしにして、ロックするかパスワードを設定します。右クリックを使用して木材と建築ツールでアップグレードと修理をします。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with wood and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Holz und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
 secureReinforcedDoorWooden,blocks,Block,KgNone,Secure Reinforced Dooreinforced Wooden,Porte renforcée en bois renforcé,Verstärkte Holz-Sicherheitstür,,Puerta de madera reforzada segura
 shoppingBasketEmpty,blocks,Block,KgNone,Empty Shopping Basket,Panier à provisions vide,Leerer Einkaufskorb,,Cesto de compras vacío
 shoppingCartEmpty,blocks,Block,KgNone,Empty Shopping Cart,Charriot de courses vide,Leerer Einkaufswagen,,Carrito de compras vacío
@@ -725,7 +725,7 @@ woodHatch1_v1Desc,blocks,Block,KgNone,Press & hold [activate] to lock it or set 
 woodHatch1_v2,blocks,Block,KgNone,Wood Hatch1 v2,Trappe en bois 1 v2,Holzklappe 1 v2,,Escotilla 1 de madera v2
 woodHatch1_v3,blocks,Block,KgNone,Wood Hatch1 v3,Trappe en bois 1 v3,Holzklappe 1 v3,,Escotilla 1 de madera v3
 woodLogPillar100,blocks,Block,KgNone,Wood Log,Rondin de bois,Holzklotz,,Tronco de madera
-woodLogPillar100Desc,blocks,Block,KgNone,Wood logs are good for crude walls to place spikes on top of.,Les rondins de bois servent à construire des murs sommaires. Vous pouvez également placer des piques au sommet.,"Holzklötze eignen sich für einfache Mauern, um darauf Stacheln zu platzieren.",,Los troncos de madera son útiles para construir paredes en las que colocar pinchos.
+woodLogPillar100Desc,blocks,Block,KgNone,木製の丸太は荒い壁の上にスパイクを置くのに適しています。,Wood logs are good for crude walls to place spikes on top of.,"Holzklötze eignen sich für einfache Mauern, um darauf Stacheln zu platzieren.",,Los troncos de madera son útiles para construir paredes en las que colocar pinchos.
 woodPillar100,blocks,Block,KgNone,Wood Pillar 100,Pilier 100 en bois,Holzsäule 100,,Pilar de madera 100
 woodPillar100Desc,blocks,Block,KgNone,A pillar to build a strong fence or a temple.,Un pilier pouvant servir à construire une clôture solide ou un temple.,Eine Säule für einen stabilen Zaun oder einen Tempel.,,Un pilar para construir una valla resistente o un templo.
 woodPlate,blocks,Block,KgNone,Wood Plate,Plaque en bois,Holzplatte,,Placa de madera
@@ -793,7 +793,7 @@ cntOven,blocks,Container,KgNone,Oven,Four,Ofen,,Horno
 cntPillCase,blocks,Container,KgNone,Pill Case,Étui à médicaments,Pillendose,,Pastillero
 cntPurse01,blocks,Container,KgNone,Purse,Sac à main,Handtasche,,Bolso
 cntSecureStorageChest,blocks,Container,KgNone,Secure Storage Chest,Coffre de rangement sécurisé,Gesicherte Aufbewahrungstruhe,,Cofre de almacenamiento seguro
-cntSecureStorageChestDesc,blocks,Container,KgNone,Press & hold [activate] to lock it or set a combination.,Maintenez [activate] pour le verrouiller ou définir un code.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación.
+cntSecureStorageChestDesc,blocks,Container,KgNone,Eボタンを押しっぱなしにしてとロックするか、パスワードを設定します。,Press & hold [activate] to lock it or set a combination.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación.
 cntShoppingBasket,blocks,Container,KgNone,Shopping Basket,Panier à provisions,Einkaufskorb,,Cesto de compras
 cntShoppingCart,blocks,Container,KgNone,Shopping Cart,Charriot de courses,Einkaufswagen,,Carrito de compras
 cntSportsBag01,blocks,Container,KgNone,Rotting Sports Bag,Sac de sport en décomposition,Verrottende Sporttasche,,Bolsa deportiva podrida
@@ -3472,7 +3472,7 @@ corrugatedMetalWedgeIncline,blocks,Block,New,corrugated Metal Wedge Incline,,,,
 cobblestoneWedgeIncline,blocks,Block,New,Cobblestone Wedge Incline,,,,
 corrugatedMetalWedgeTip,blocks,Block,New,corrugated Metal Wedge Tip,,,,
 decorationBlockGroupDesc,blocks,Block,New,クリエイティブメニューの装飾ブロックです。,A decorative block from the creative menu.,,,
-drawBridgeGroupDesc,blocks,Block,New,It's old-fashioned but with everything that's happening you might just need a little old-fashioned. ,,Sieht mittelalterlich aus aber das hat im Mittellater schon recht gut funktioniert.,,
+drawBridgeGroupDesc,blocks,Block,独創的で昔流行したものですが、現在発生している事案には、ちょっと古風なものが必要かもしれません。,New,It's old-fashioned but with everything that's happening you might just need a little old-fashioned.,Sieht mittelalterlich aus aber das hat im Mittellater schon recht gut funktioniert.,,
 fertilizedFarmland,blocks,Block,New,Fertilized Farmland,,,,
 flagPoleWhiteRiver,blocks,Block,New,White River Flagpole,,,,
 flagstoneArrowSlitHalf,blocks,Block,New,Flagstone Arrow Slit,,,,
@@ -3484,7 +3484,7 @@ flagstonePlate,blocks,Block,New,flagstone Plate,,,,
 flagstoneStairs50,blocks,Block,New,flagstone Stairs 50,,,,
 flagstoneWedge,blocks,Block,New,flagstone Wedge,,,,
 looseBoardsTrapBlock1x1,blocks,Block,New,Loose Boards Block 1x1,,,,
-looseBoardsTrapBlock1x1Desc,blocks,Block,New,A false floor or trap that will disintegrate when stepped on.,,,,
+looseBoardsTrapBlock1x1Desc,blocks,Block,New,のぼった時に崩壊する、偽物の床か罠です。,A false floor or trap that will disintegrate when stepped on.,,,
 forestFlower,blocks,Block,New,Forest Flower,,,,
 furnaceDrawer,blocks,Block,New,Furnace Door (No Loot),,Feuerraumtür (keine Beute),,
 garageDoorMetalGroupDesc,blocks,Block,New,A wide Garage Door that can be locked,,,,
@@ -3589,7 +3589,11 @@ treePlantedMountainPine1m,blocks,Block,New,Pine Seed,,,,
 treePlantedWinterPine1m,blocks,Block,New,Blue Spruce Seed,,,,
 tv_large_1,blocks,Block,New,"TV Large, Left",,,,
 tv_large_2,blocks,Block,New,"TV Large, Right",,,,
+<<<<<<< HEAD
 woodArrowSlitGroupDesc,blocks,Block,New,矢狭間は、由緒ある中世の建造物であり、それは外から内部に向けて撃つよりも中から外部に向けて撃つほうが、はるかに簡単です。,Arrow slits are another medieval classic that make it much easier for you to shoot outside than it is for others to shoot inside.,,,
+=======
+woodArrowSlitGroupDesc,blocks,Block,New,射撃孔はもう一つの中世の古典であり、他の人が内側へ射撃するより、あなたが外へ射撃するほうがずっと簡単です。,Arrow slits are another medieval classic that make it much easier for you to shoot outside than it is for others to shoot inside.,,,
+>>>>>>> 26d11ccca085197d271412f9c710b9e9f38e3422
 woodArrowSlitHalf,blocks,Block,New,Wood Arrow Slit,,,,
 woodCatwalk,blocks,Block,New,Wood Catwalk,,,,
 woodCatwalkGroupDesc,blocks,Block,New,,A catwalk spans a little farther which is useful for building bridges and it can be upgraded with forged iron.,,,
@@ -3627,7 +3631,7 @@ cntStorageGenericInsecure,blocks,Container,New,Storage Box Insecure,,Lagerkiste 
 cntTrashCompactor,blocks,Container,New,Trash Compactor,,Müllpresse,,
 cntVendingMachine,blocks,Container,New,Player Vending Machine,,,,
 cntVendingMachine2,blocks,Container,New,Vending Machine,,,,
-cntVendingMachineGroupDesc,blocks,Container,New,Buy goods at vending machines with Duke coins or get your own to sell goods.,,,,
+cntVendingMachineGroupDesc,blocks,Container,New,デュークコインで商品を自動販売機で購入するか、あなた自身で商品を販売してください。,Buy goods at vending machines with Duke coins or get your own to sell goods.,,,
 cntVendingMachineTrader,blocks,Container,New,Vending Machine Rental,,,,
 cntWashingMachine,blocks,Container,New,Washing Machine,,Waschmaschine,,
 lootConstructionSuppliesHelper,blocks,Container,New,Random Construction Loot Spawner,,,,
@@ -4627,13 +4631,13 @@ ttWireLimit,UI,Tooltip,New,This power component has the maximum number of wired 
 torchGroupDesc,blocks,Block,New,CREATIVE: Has no effect on the heat map.,,,,
 torchPlayerGroupDesc,blocks,Block,New,炎や松明([00ff00]Torch[-])（蝋燭([00ff00]Candle[-])の方が少ない）のようなちらつきのある明かりは、ゾンビを引きつけます。,Open flames and flickering lights like with torches (less so with candles) will attract zombies.,Offene Flammen und flackerndes Licht wie bei Fackeln (weniger bei Kerzen) werden Zombies anziehen.,,
 looseBoardsTrapPlate1x1,blocks,Block,New,Loose Boards Plate 1x1,,,,
-looseBoardsTrapPlate1x1Desc,blocks,Block,New,A false floor or drop ceiling plate that will disintegrate when stepped on.,,,,
+looseBoardsTrapPlate1x1Desc,blocks,Block,New,のぼった時に崩壊する、偽物の床か落下する天井です。,A false floor or drop ceiling plate that will disintegrate when stepped on.,,,
 opaqueBusinessGlass,blocks,Block,New,Opaque Business Glass,,,,
 flagstoneArch3m,blocks,Block,New,Flagstone Arch 3m Corner,,,,
 flagstoneArch3m_tip,blocks,Block,New,Flagstone Arch 3m Tip,,,,
 flagstoneArch3m_center,blocks,Block,New,Flagstone Arch 3m Middle,,,,
 pressureplateLong,blocks,Electricity,New,Trigger Plate 1x5,,,,
-doorGroupDesc,blocks,Block,New,Press & hold [activate] to lock it or set a combination. Upgrade & repair with a construction tool using the secondary action.,Maintenez [activate] pour la verrouiller ou définir un code. Elle peut être améliorée et réparée à l'aide de bois et d'un outil de construction grâce à l'action secondaire.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
+doorGroupDesc,blocks,Block,New,Eボタンを押しっぱなしにして、ロックするか、暗証番号を設定します。右クリックで建築ツールを使用してアップグレードと修理をします。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Usa la acción secundaria para mejorar y reparar con madera y con una herramienta de construcción.
 ttBlockMissingPickup,UI,Tooltip,New,The block is no longer available for pickup.,,,,
 cntCollapsedForge,blocks,Container,New,Destroyed Forge,,,,
 cntCollapsedWorkbench,blocks,Container,New,Destroyed Workbench,,,,
@@ -4651,7 +4655,7 @@ lootChemistryStationBustedHelper,blocks,Container,New,Random Destroyed Chemistry
 lootChemistryStationBustedHelperDesc,blocks,Container,New,Can spawn a chemistry Station.  10% chance for a working one.,,,,
 cntShippingCrateHero,blocks,Container,New,Hidden Stash Shipping Crate,,,,
 cntLootCrateHero,blocks,Container,New,Hidden Stash,,,,
-cntLootCrateHeroDesc,blocks,Container,New,"Spawns 1+ items, no junk, increased quality",,,,
+cntLootCrateHeroDesc,blocks,Container,New,ひとつ以上のアイテムが生成し、ゴミはありません、品質が向上します。,"Spawns 1+ items, no junk, increased quality",,,
 cntShippingCrateLabEquipment,blocks,Container,New,Lab Equipment Shipping Crate,,,,
 cntLootCrateLabEquipment,blocks,Container,New,Lab Equipment Box,,,,
 cntLootCrateLabEquipmentDesc,blocks,Container,New,Lab equipment and medical items / resources,,,,
