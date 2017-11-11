@@ -1925,6 +1925,7 @@ lblContextActionSplit,UI,Item Context Menu,KgNone,Split,Séparer,Teilen,,Dividir
 lblContextActionStore,UI,Item Context Menu,KgNone,Store,Ranger,Lagern,,Almacenar
 lblContextActionTake,UI,Item Context Menu,KgNone,Take,Prendre,Nehmen,,Recoger
 lblContextActionWear,UI,Item Context Menu,KgNone,着る,Wear,Tragen,,Vestir
+WEAR,UI,Item Context Menu,DLL Enchanged,着る,Wear,Tragen,,Vestir
 lblContextCraftAmmoWeapons,UI,Item Context Menu,KgNone,弾薬/武器,Ammo/Weapons,Munition/Waffen,,Munición/armas
 lblContextCraftBasics,UI,Item Context Menu,KgNone,Basics,Bases,Grundlagen,,Básico
 lblContextCraftBrowse,UI,Item Context Menu,KgNone,Browse,Parcourir,Durchgehen,,Explorar
