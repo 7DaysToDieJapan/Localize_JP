@@ -1,7 +1,7 @@
 Key,Source,Context,Changes,English,French,German,Klingon,Spanish
 keystoneBlockDesc,blocks,Block,EnChanged,PVPで他のプレイヤーからエリアを保護するために陣地の主張ブロックを置くことができます。緑のボックスには、領域のサイズが表示されます。,A land claim block can be placed to protect an area from other players in PVP. The green box shows the size of the area.,Ein Gebietsschutzblock kann platziert werden um einen Bereich vor anderen Spielern im PvP zu schützen. Die grüne Box zeigt die Grösse des Bereichs an.,,Se puede colocar un bloque para reclamar un territorio y darle al área circundante una protección extra frente a otros jugadores en JcJ.
 scrapFrameGroupDesc,blocks,Block,EnChanged,基礎に使用します。アップグレードと修復には、建築ツールと鉄([00ff00]Iron[-])を使います。生コンクリート([00ff00]Concrete Mix[-])やその他の資材でさらにアップグレードしましょう。,Used for bases. Upgrade & repair with a construction tool & iron. Upgrade more with concrete mix & others.,Wird für Basen verwendet. Kann mit Eisen und Bauwerkzeugen aufgewertet und repariert werden. Kann mit Betonmischung und geschmiedetem Stahl weiter aufgewertet werden.,,
-scrapHatch_v1Desc,blocks,Block,EnChanged,Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action.,,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,
+scrapHatch_v1Desc,blocks,Block,EnChanged,Eキーを押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鉄([00ff00]Iron[-])と建築ツールを使って、右クリックでアップグレードと修理ができます。,Press & hold [activate] to lock it or set a combination. Upgrade & repair with iron and a construction tool using the secondary action.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit Eisen und Bauwerkzeugen unter Verwendung der sekundären Aktion aufgewertet und repariert werden.,,
 spotlightNailedDownPOI,blocks,Block,EnChanged,Spotlight (POI),Projecteur fixe,Scheinwerfer (POI),,Foco clavado
 woodFrameGroupDesc,blocks,Block,EnChanged,基礎に使用します。アップグレードと修復には、木([00ff00]Wood[-])と建築ツールを使います。鉄([00ff00]Iron[-])、生コンクリート([00ff00]Concrete Mix[-])やその他の資材でさらにアップグレードしましょう。,"Used for bases. Upgrade & repair with wood & a construction tool. Upgrade more with iron, concrete mix & others.",Wird für Basen verwendet. Kann mit Holz und Bauwerkzeugen aufgewertet und repariert werden. Kann unter anderem mit Eisen und Betonmischung weiter aufgewertet werden.,,
 cntCar03SedanDamage0,blocks,Container,EnChanged,Sedan,Berline bleue,Coupé,,Sedán azul
@@ -13,7 +13,7 @@ plantedCorn1,blocks,Farming,EnChanged,Corn Seed,,,,
 plantedCorn3Harvest,blocks,Farming,EnChanged,Planted Corn 3 (Harvestable),Récolte de tige de maïs planté 2,Gepflanzte Maisstauden-Ernte 2,,Sembrado Tallo de maíz 2 Cosecha
 barbedFenceDesc,blocks,Trap,EnChanged,木材と鉄で作られた有刺鉄線の柵は、敵を減速させ対処しやすくします。右クリックを使用して配置します。,"Barbed wire fences made from wood and iron can slow down enemies, making them easier to deal with. Place them by using the secondary action.","Stacheldrahtzäune aus Holz und Eisen können Gegner verlangsamen, wodurch man einfacher mit ihnen fertig wird. Platziere sie mit der sekundären Aktion.",,
 barbedWireSheetDesc,blocks,Trap,EnChanged,"Barbed wire made from iron can slow down enemies, making them easier to deal with. Place it by using the secondary action.",,"Stacheldraht aus Eisen kann Gegner verlangsamen, wodurch man einfacher mit ihnen fertig wird. Platziere ihn mit der sekundären Aktion.",,
-rScrapIronPlateMineDesc,blocks,Trap,EnChanged,A primitive pressure plate mine made of iron and gunpowder. Good for hobbling or killing most enemies.,,"Eine primitive Druckplattenmine aus Eisen und Schießpulver. Gut, um die meisten Gegner zu verstümmeln oder töten.",,
+rScrapIronPlateMineDesc,blocks,Trap,EnChanged,鉄([00ff00]Iron[-])と火薬([00ff00]Gun Powder[-])で作られた旧式の感圧式地雷(Pressure Plate Mine)です。ほとんどの敵をよろめかせたり殺したりするのに適しています。,A primitive pressure plate mine made of iron and gunpowder. Good for hobbling or killing most enemies.,"Eine primitive Druckplattenmine aus Eisen und Schießpulver. Gut, um die meisten Gegner zu verstümmeln oder töten.",,
 hungry2Desc,buffs,Buff,EnChanged,飢えで死にかけています。何か食べ物を見つけてください！,You are dying of starvation! Find something to eat!,Du bist am Verhungern! Finde etwas zu essen!,,Te estás muriendo de hambre.
 hungry2Tooltip,buffs,Buff,EnChanged,You are dying of starvation! Find something to eat!,Vous mourrez de faim.,Du bist am Verhungern! Finde etwas zu essen!,,Te estás muriendo de hambre.
 painkillersBuffDesc,buffs,Buff,EnChanged,鎮痛剤を服用しました。気絶しなくなります。,You took painkillers. Stuns will affect you less now.,,,
@@ -262,7 +262,7 @@ cobblestoneRamp,blocks,Block,KgNone,Cobblestone Ramp,Rampe en pavés,Pflasterste
 cobblestoneStairs25,blocks,Block,KgNone,Cobblestone Stairs,Escaliers en pavés,Pflastersteinstufen,,Escaleras de adoquines
 cobblestoneStairs25Desc,blocks,Block,KgNone,Can be upgraded to concrete.,Ils peuvent également être améliorés pour obtenir des escaliers en béton.,Aufwertung zu Beton möglich.,,Se puede mejorar a hormigón.
 cobweb,blocks,Block,KgNone,Cobweb,Toile d'araignée,Spinnennetz,,Telaraña
-cobwebDesc,blocks,Block,KgNone,A cobweb made by a spider. If this was Marvel it might mean something.,"La toile d'une araignée. Chez Marvel, ça aurait peut-être voulu dire quelque chose.","Das Netz einer Spinne. Wenn das hier Marvel wäre, dann könnte das auch etwas bedeuten.",,Una telaraña hecha por una araña. Si esto fuera Marvel podría significar algo.
+cobwebDesc,blocks,Block,KgNone,蜘蛛が作った蜘蛛の巣です。もしこれが驚異なら、何かを意味するかもしれません。,A cobweb made by a spider. If this was Marvel it might mean something.,"Das Netz einer Spinne. Wenn das hier Marvel wäre, dann könnte das auch etwas bedeuten.",,Una telaraña hecha por una araña. Si esto fuera Marvel podría significar algo.
 commercialDoor1_v1,blocks,Block,KgNone,Commercial Door 1,Porte de commerce 1,Industrietür 1,,Puerta comercial 1
 commercialDoor1_v2,blocks,Block,KgNone,Commercial Door1 v2,Porte de commerce 1 v2,Industrietür 1 v2,,Puerta comercial 1 v2
 commercialDoor1_v3,blocks,Block,KgNone,Commercial Door1 v3,Porte de commerce 1 v3,Industrietür 1 v3,,Puerta comercial 1 v3
@@ -670,11 +670,11 @@ treeWinterPine02,blocks,Block,KgNone,Tree Winter Pine02,Pin hivernal 02,"Baum, W
 treeWinterPine03,blocks,Block,KgNone,Tree Winter Pine03,Pin hivernal 03,"Baum, Winter – Kiefer 03",,Árbol: Pino de invierno 03
 tv,blocks,Block,KgNone,TV,Télévision,TV,,TV
 vaultDoor01,blocks,Block,KgNone,Vault Door,Porte de chambre forte,Tresortür,,Puerta del almacén
-vaultDoor01Desc,blocks,Block,KgNone,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Maintenez [activate] pour la verrouiller ou définir un code. Elle peut être améliorée et réparée à l'aide d'acier forgé.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
+vaultDoor01Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
 vaultDoor02,blocks,Block,KgNone,Vault Door02,Porte de chambre forte 02,Tresortür 02,,Puerta02 del almacén
 vaultDoor03,blocks,Block,KgNone,Vault Door03,Porte de chambre forte 03,Tresortür 03,,Puerta03 del almacén
 vaultHatch_v1,blocks,Block,KgNone,Vault Hatch,Trappe de chambre forte,Tresorklappe,,Puerta del escotilla
-vaultHatch_v1Desc,blocks,Block,KgNone,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Maintenez [activate] pour la verrouiller ou définir un code. Elle peut être améliorée et réparée à l'aide d'acier forgé.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
+vaultHatch_v1Desc,blocks,Block,KgNone,[ff6347]Eキー[-]を押し続けると鍵や自由に組み合わせができる暗証番号を設定できます。鍛造鋼([00ff00]Forged Steel[-])でアップグレードと修理ができます。,Press & hold [activate] to lock or set a combination. Upgrade & repair with forged steel.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten. Kann mit geschmiedetem Stahl aufgewertet und repariert werden.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación. Mejora y repara con acero forjado.
 vaultHatch_v2,blocks,Block,KgNone,Vault Hatch v2,Trappe de chambre forte v2,Tresorklappe v2,,Puerta de escotilla v2
 vaultHatch_v3,blocks,Block,KgNone,Vault Hatch v3,Trappe de chambre forte v3,Tresorklappe v3,,Puerta de escotilla v3
 wallLight01,blocks,Block,EnChanged,Warehouse Outdoor Light (POI),Luminaire de mur 01,Wandlampe 01 (POI),,Lámpara de pared 01
@@ -820,7 +820,7 @@ cntWallSafeInsecure,blocks,Container,KgNone,Wall Safe Insecure,Coffre-fort mural
 largeStorageGroupDesc,blocks,Container,KgNone,A very large lockable crate with a handy symbol painted on the sides. Press & hold [activate] to lock it or set a combination.,Une très grosse caisse verrouillable avec un symbole pratique peint sur les côtés. Maintenez [activate] pour la verrouiller ou définir un code.,Eine sehr große abschließbare Kiste mit einem praktischen Symbol auf der Seite. Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Una gran caja con cerrojo con un símbolo muy útil pintado en los costados. Mantén presionado [activate] para cerrar con llave o para definir una combinación.
 refrigeratorGroupDesc,blocks,Container,KgNone,食べ物がいつか腐るなら、ここに食べ物を残すのはいい考えです。,If food would ever spoil then it would be a good idea to keep it in here.,"Wenn Nahrung verderben würde, wäre es gut, sie hier drinnen aufzubewahren.",,Sería buena idea guardar aquí la comida que se pueda echar a perder.
 treasureChest,blocks,Container,KgNone,Treasure Chest,Coffre au trésor,Schatztruhe,,Cofre del tesoro
-mushroom01Desc,blocks,Farming,KgNone,Mushrooms can be safely eaten uncooked or used in several recipes at the campfire.,"Les champignons peuvent être consommés crus sans risque, ou utilisés dans plusieurs compositions sur le feu de camp.",Pilze können problemlos roh gegessen oder in verschiedenen Rezepten am Lagerfeuer verwendet werden.,,Las setas se pueden comer sin ningún riesgo o usarse en varias recetas en la fogata.
+mushroom01Desc,blocks,Farming,KgNone,きのこ([00ff00]Mushrooms[-])は生でも安全に食べることができ、キャンプファイア([00ff00]Campfire[-])で幾つかのレシピにも使えます。,Mushrooms can be safely eaten uncooked or used in several recipes at the campfire.,Pilze können problemlos roh gegessen oder in verschiedenen Rezepten am Lagerfeuer verwendet werden.,,Las setas se pueden comer sin ningún riesgo o usarse en varias recetas en la fogata.
 plantedAloe3Harvest,blocks,Farming,KgNone,Aloe Vera Plant (Harvestable),Aloe vera,Aloe-Vera-Pflanze,,Planta de aloe vera
 plantedAloe3HarvestDesc,blocks,Farming,KgNone,The Aloe plant can be used to craft aloe cream.,L'aloe vera permet de fabriquer de la pommade d'aloe vera.,Aus der Aloe-Pflanze kann Aloe-Creme gefertigt werden.,,Se puede usar la planta de aloe vera para producir crema de aloe.
 plantedChrysanthemum3Harvest,blocks,Farming,KgNone,Chrysanthemum (Harvestable),Chrysanthème,Chrysantheme,,Crisantemo
@@ -932,11 +932,11 @@ woodLogSpike1,blocks,Trap,KgNone,Wood Log Spike,Pique en rondin de bois,Spitzer 
 campfire,blocks,Workstation,KgNone,Campfire,Feu de camp,Lagerfeuer,,Fogata
 campfireDesc,blocks,Workstation,KgNone,“食べ物の調理をしたり暖をとるのに便利です。鍋や焼き網やビーカーを追加することで多くのレシピをアンロックしてください。”,"Useful to cook food and warm up. Unlock more recipes by adding a cooking pot, cooking grill or beaker.","Nützlich zum Kochen von Nahrung und zum Aufwärmen. Schalte mehr Rezepte frei, indem du einen Kochtopf, Kochgrill oder Messbecher hinzufügst.",,"Útil para cocinar comida y calentarse. Añade una olla, una parrilla o un matraz para desbloquear más recetas."
 cementMixer,blocks,Workstation,KgNone,Cement Mixer,Bétonnière,Zementmischer,,Mezclador de cemento
-cementMixerDesc,blocks,Workstation,KgNone,A cement mixer needs a solid foundation and will help you craft materials like concrete or asphalt.,Une bétonnière nécessite une base solide et vous aidera à fabriquer des matériaux comme le béton ou l'asphalte.,Ein Zementmischer benötigt ein stabiles Fundament und dient zur Fertigung von Beton oder Asphalt.,,Una mezcladora de cemento necesita una base sólida. Te ayudará a fabricar materiales como hormigón o asfalto.
+cementMixerDesc,blocks,Workstation,KgNone,セメントミキサー([00ff00]Cement Mixer[-])は、しっかりとした土台に必要でコンクリート([00ff00]Concrete[-])やアスファルト([00ff00]Asphalt[-])のような資材を作るのに役立ちます。,A cement mixer needs a solid foundation and will help you craft materials like concrete or asphalt.,Ein Zementmischer benötigt ein stabiles Fundament und dient zur Fertigung von Beton oder Asphalt.,,Una mezcladora de cemento necesita una base sólida. Te ayudará a fabricar materiales como hormigón o asfalto.
 forge,blocks,Workstation,KgNone,Forge,Forge,Schmiede,,Fragua
 forgeDesc,blocks,Workstation,EnChanged,金属を精錬して、ツールや武器にするのに使用します。金床([00ff00]anvil[-])、るつぼ([00ff00]crucible[-])、工具と金型セット([00ff00]tool and die set[-])を追加することで、より多くのレシピをアンロックできます。,"Used to smelt metals into tools and weapons. Unlock more recipes by adding an anvil, crucible or tool and die set.","Dient zum Einschmelzen von Metallen für Werkzeuge und Waffen. Schalte mehr Rezepte frei, indem du einen Amboss, einen Messschieber oder eine Werkzeugkiste hinzufügst.",,"Se usa para fundir metales y convertirlos en herramientas y armas. Añade un yunque, calibradores o herramientas y un juego de ajuste para desbloquear más recetas."
 workbench,blocks,Workstation,KgNone,Workbench,Établi,Werkbank,,Mesa de trabajo
-workbenchDesc,blocks,Workstation,EnChanged,A workbench lets you craft items just like you do in your backpack and improve items for up to 100 quality points above your crafting skill.,Un établi vous permet de fabriquer des objets comme vous le faites dans votre sac à dos.,Mit einer Werkbank kannst du genauso wie in deinem Rucksack Gegenstände fertigen.,,"Una mesa de trabajo te permite fabricar objetos, igual que en la mochila."
+workbenchDesc,blocks,Workstation,EnChanged,ワークベンチ([00ff00]Workbench[-])を使用すると、バックパックと同じようにアイテムが作ります。クラフトスキルから100ポイントを上限にアイテムの品質を改善できます。,A workbench lets you craft items just like you do in your backpack and improve items for up to 100 quality points above your crafting skill.,Mit einer Werkbank kannst du genauso wie in deinem Rucksack Gegenstände fertigen.,,"Una mesa de trabajo te permite fabricar objetos, igual que en la mochila."
 alcoholPoisoning,buffs,Buff,KgNone,アルコール中毒,Inebriated,Berauscht,,Embriaguez
 alcoholPoisoningTooltip,buffs,Buff,KgNone,You have alcohol poisoning.,Vous êtes en état d'ébriété.,Du hast eine Alkoholvergiftung.,,Estás borracho.
 arrowCriticalBleedout,buffs,Buff,KgNone,出血,Bleeding,Bluten,,Sangrando
@@ -3487,7 +3487,7 @@ looseBoardsTrapBlock1x1,blocks,Block,New,Loose Boards Block 1x1,,,,
 looseBoardsTrapBlock1x1Desc,blocks,Block,New,のぼった時に崩壊する、偽物の床か罠です。,A false floor or trap that will disintegrate when stepped on.,,,
 forestFlower,blocks,Block,New,Forest Flower,,,,
 furnaceDrawer,blocks,Block,New,Furnace Door (No Loot),,Feuerraumtür (keine Beute),,
-garageDoorMetalGroupDesc,blocks,Block,New,A wide Garage Door that can be locked,,,,
+garageDoorMetalGroupDesc,blocks,Block,New,鍵を掛けることができる広い車庫用のドアです。,A wide Garage Door that can be locked,,,
 glassBulletproofBlock,blocks,Block,New,Bulletproof Glass Block,,Panzerglasscheibe - Block,,
 glassBulletproofCTRPlate,blocks,Block,New,Bulletproof Glass Plate Centered,,Panzerglasscheibe - Platte Mittig,,
 glassBulletproofPlate,blocks,Block,New,Bulletproof Glass Plate,,Panzerglasscheibe - Platte,,
@@ -3592,7 +3592,7 @@ tv_large_2,blocks,Block,New,"TV Large, Right",,,,
 woodArrowSlitGroupDesc,blocks,Block,New,矢狭間は、由緒ある中世の建造物であり、それは外から内部に向けて撃つよりも中から外部に向けて撃つほうが、はるかに簡単です。,Arrow slits are another medieval classic that make it much easier for you to shoot outside than it is for others to shoot inside.,,,
 woodArrowSlitHalf,blocks,Block,New,Wood Arrow Slit,,,,
 woodCatwalk,blocks,Block,New,Wood Catwalk,,,,
-woodCatwalkGroupDesc,blocks,Block,New,,A catwalk spans a little farther which is useful for building bridges and it can be upgraded with forged iron.,,,
+woodCatwalkGroupDesc,blocks,Block,New,キャットウォークは、あまり遠くないところに橋を架けるのに便利です。鍛造鉄([00ff00]Forged Iron[-])でアップグレードできます。,A catwalk spans a little farther which is useful for building bridges and it can be upgraded with forged iron.,,,
 woodCatwalkRailing,blocks,Block,New,Wood Catwalk With Railing,,,,
 woodCatwalkRailingCNR,blocks,Block,New,Wood Catwalk Corner,,,,
 woodCatwalkWedge,blocks,Block,New,Wood Catwalk Wedge Corner,,,,
@@ -3606,7 +3606,7 @@ woodGable,blocks,Block,New,wood Gable,,,,
 woodPyramid,blocks,Block,New,wood Pyramid,,,,
 woodRailing,blocks,Block,New,Wood Railing,,,,
 woodSignGroupDesc,blocks,Block,New,It's a sign. You write things on it.,,,,
-woodStairsBoardDesc,blocks,Block,New,Stairs made from simple wooden boards.,,,,
+woodStairsBoardDesc,blocks,Block,New,普通の木の板で作られた階段です。,Stairs made from simple wooden boards.,,,
 woodStairsBoardRailing,blocks,Block,New,Wood Board Stairs With Railing,,,,
 woodWedgeCNRInsideTop,blocks,Block,New,Wood Wedge Inside Corner Top,,Holz Schräge Innenecke Oben,,
 woodWedgeTipCNRFullTop,blocks,Block,New,Wood Wedge Full Corner Top,,Holz Schrägenspitze Komplette Ecke Oben,,
@@ -3621,7 +3621,7 @@ cntShippingCrateBookstore,blocks,Container,New,Bookstore Shipping Crate,,Buchhan
 cntShippingCrateCarParts,blocks,Container,New,Car Parts Shipping Crate,,Autoteile-Frachtkiste,,
 cntShippingCrateCarPartsDesc,blocks,Container,New,CREATIVE: Minibike parts and parts likely shipped to a car garage.,,,,
 cntShippingCrateConstructionSupplies,blocks,Container,New,Random Construction Shipping Crate,,Baustellen-Frachtkiste,,
-cntShippingCrateGroupDesc,blocks,Container,New,CREATIVE: A shipping crate containing... something.,,,,
+cntShippingCrateGroupDesc,blocks,Container,New,クリエイティブ: 荷詰めされた輸送用コンテナ・・・何かが入っている。,CREATIVE: A shipping crate containing... something.,,,
 cntStorageGeneric,blocks,Container,New,Storage Box,,Lagerkiste,,
 cntStorageGenericInsecure,blocks,Container,New,Storage Box Insecure,,Lagerkiste ungesichert,,
 cntTrashCompactor,blocks,Container,New,Trash Compactor,,Müllpresse,,
@@ -4476,7 +4476,7 @@ woodFrameCNRRampFiller,blocks,Block,New,Wood Frame Ramp Corner Filler,,Holzrahme
 auth_stillloading,UI,AuthenticationMessages,New,"Server is still initializing, please try again in a minute.",,,,
 commercialBlindsTop,blocks,Block,New,Commercial Blinds Top,,,,
 commercialBlindsBottom,blocks,Block,New,Commercial Blinds Bottom,,,,
-randomCarsHelperDesc,blocks,Block,New,"Will randomly spawn (mostly) undamaged, (rare) damaged, (very rare) car wreck",,,,
+randomCarsHelperDesc,blocks,Block,New,ランダム生成の確率/n(普通)損傷していない車、(稀)損傷している車、(非常に稀)車の残骸,"Will randomly spawn (mostly) undamaged, (rare) damaged, (very rare) car wreck",,,
 txName_Fabric_Blinds,painting,txGroupWallCovering,New,Fabric Blinds,,,,
 suitJacketBlack,items,Clothes,New,Black Suit Jacket,,,,
 suitPantsBlack,items,Clothes,New,Black Suit Pants,,,,
