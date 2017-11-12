@@ -1618,7 +1618,7 @@
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_quest"/>
 			<label style="header.name" text="OBJECTIVES" text_key="xuiObjectives" />
-			<label depth="2" pos="545,-8" width="100" height="28" text="{questdifficulty}" color="[lightGrey]" justify="right" upper_case="true" />
+			<label depth="2" pos="645,-8" width="100" height="28" text="{questdifficulty}" color="[lightGrey]" justify="right" upper_case="true" />
 
 		</panel>
 		<rect name="content" pos="0,-46" height="194" depth="1">
