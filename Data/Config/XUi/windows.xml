@@ -1034,91 +1034,91 @@
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="160" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="61,-6" sprite="ui_game_symbol_player" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="STEAM ID" text_key="xuiSteamID" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="STEAM ID" text_key="xuiSteamID" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="zombieKills" width="70" height="86" pos="163,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="19,-6" sprite="ui_game_symbol_zombie" />
-				<label depth="1" name="text" pos="0,-38" height="56" text="ZOMBIE KILLS" text_key="xuiZombieKills" font_size="20" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="ZOMBIE KILLS" text_key="xuiZombieKills" font_size="20" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="playerKills" width="70" height="86" pos="236,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="19,-6" sprite="ui_game_symbol_knife" />
-				<label depth="1" name="text" pos="0,-38" height="56" text="PLAYER KILLS" text_key="xuiPlayerKills" font_size="20" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="PLAYER KILLS" text_key="xuiPlayerKills" font_size="20" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="deaths" width="70" height="86" pos="309,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="19,-6" sprite="ui_game_symbol_death" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="DEATHS" text_key="xuiDeaths" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="DEATHS" text_key="xuiDeaths" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="level" width="80" height="86" pos="382,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_trophy" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="LEVEL" text_key="xuiLevel" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="LEVEL" text_key="xuiLevel" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="score" width="80" height="86" pos="465,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_perk" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="SCORE" text_key="xuiScore" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="SCORE" text_key="xuiScore" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="ping" width="60" height="86" pos="548,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="66" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="14,-6" sprite="ui_game_symbol_ping" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="PING" text_key="xuiPing" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="PING" text_key="xuiPing" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="status" width="100" height="86" pos="611,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="106" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="34,-6" sprite="ui_game_symbol_invite" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="STATUS" text_key="xuiStatus" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="STATUS" text_key="xuiStatus" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="allies" width="80" height="86" pos="714,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_allies" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="ALLIES" text_key="xuiAllies" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="ALLIES" text_key="xuiAllies" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="voice" width="80" height="86" pos="797,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_mic" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="VOICE" text_key="xuiVoice" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="VOICE" text_key="xuiVoice" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="map" width="80" height="86" pos="880,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_map" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="MAP" text_key="xuiMap" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="MAP" text_key="xuiMap" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="track" width="80" height="86" pos="963,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_compass" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="TRACK" text_key="xuiTrack" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="TRACK" text_key="xuiTrack" font_size="21" justify="center"/>
 			</rect>
 
 			<rect depth="1" name="km" width="80" height="86" pos="1046,-6">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="92" color="[black]" type="sliced" fillcenter="false" />
 
 				<sprite depth="1" name="icon" style="icon32px" pos="24,-6" sprite="ui_game_symbol_run" />
-				<label depth="1" name="text" pos="0,-50" height="28" text="KM" text_key="xuiKM" font_size="21" justify="center"/>
+				<label depth="1" name="text" pos="0,-62" pivot="Left" height="48" text="KM" text_key="xuiKM" font_size="21" justify="center"/>
 			</rect>
 		</panel>
 
