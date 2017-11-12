@@ -45,7 +45,7 @@
 			<sprite depth="1" name="border" sprite="menu_empty2px" color="[black]" type="sliced" fillcenter="false" />	
 			<sprite depth="2" name="tickbox" width="${height-6|26}" height="${height-6|26}" pos="7,-4" color="[darkGrey]" sprite="Highlight - Shadowed" type="sliced" />
 			<sprite depth="3" name="tickmark" width="${height-12|20}" height="${height-12|20}" pos="10,-7" color="[iconColor]" sprite="ui_game_symbol_check" visible="{value}" />
-			<label depth="2" name="btnLabel" width="${width-height-8|160}" height="${height-2|30}" pos="${6+height|38},${Round(-height/2,0)|-16}" justify="left" text="${caption|}" text_key="${caption_key|}" effect="outline" pivot="left" font_size="${font_size|28}" />
+			<label depth="2" name="btnLabel" width="${width-height-8|160}" height="${height-2|30}" pos="${6+height|38},${Round(-height/2,0)|-16}" justify="left" text="${caption|}" text_key="${caption_key|}" effect="outline" pivot="left" font_size="${font_size|23}" />
 		</rect>
 	</togglebutton>
 	
@@ -53,7 +53,7 @@
 		<rect name="${name}" depth="${depth|3}" pos="${pos|0,0}" width="${width|200}" height="${height|32}" enabled_font_color="${enabled_font_color|[labelColor]}" disabled_font_color="${disabled_font_color|[disabledLabelColor]}" controller="SimpleButton">
 			<sprite depth="1" name="border" sprite="menu_empty2px" pos="0,${Round(-height/2,0)|-16}" color="[black]" type="sliced" fillcenter="false" pivot="${pivot|left}" />	
 			<button name="clickable" sprite="menu_empty" pos="0,${Round(-height/2,0)|-16}" defaultcolor="[mediumGrey]" hoversprite="ui_game_select_row" hovercolor="[white]" type="sliced" hoverscale="1.0" pivot="${pivot|left}" />
-			<label depth="2" name="btnLabel" width="${width-4|196}" height="${height-2|30}" pos="2,${Round(-height/2,0)|-16}" justify="center" text="${caption|}" text_key="${caption_key|}" effect="outline" pivot="${pivot|left}" font_size="${font_size|28}" />
+			<label depth="2" name="btnLabel" width="${width-4|196}" height="${height-2|30}" pos="2,${Round(-height/2,0)|-16}" justify="center" text="${caption|}" text_key="${caption_key|}" effect="outline" pivot="${pivot|left}" font_size="${font_size|23}" />
 		</rect>
 	</simplebutton>
 	
@@ -63,7 +63,7 @@
 			character_limit="${character_limit|0}" validation="${validation|none}" backgroundcolor="${backgroundcolor|[black]}" snapCursor="true" virtual_keyboard_prompt="${virtual_keyboard_prompt|}"
 			disableautobackground="true" search_field="${search_field|false}" pivot="${pivot|topleft}">
 			<sprite depth="0" name="background" color="${backgroundcolor|[black]}" type="sliced" pivot="${pivot|topleft}" />
-			<label depth="1" name="text" justify="center" font_size="${height|32}" pivot="${pivot|topleft}" />
+			<label depth="1" name="text" justify="center" font_size="${height-6|26}" pivot="${pivot|topleft}" />
 		</panel>
 	</textfield>
 
@@ -84,7 +84,7 @@
 			<sprite depth="2" pos="3,-3"  name="background" height="37" width="162" color="64,64,64,100" type="sliced" />
 			<sprite depth="3" pos="3,-3"  name="BarContent" sprite="{statimage|once}" type="filled" height="37" width="162" fill="{statfill}" />
 			<sprite depth="4" name="Icon" atlas="UIAtlas" sprite="{staticon|once}" size="32,32" pos="8,-6" foregroundlayer="true"/>
-			<label depth="6" name="TextContent" pos="0,-10" font_size="24" color="[white]" justify="center" pivot="topleft" text="{statcurrentwithmax}"/>
+			<label depth="6" name="TextContent" pos="0,-10" font_size="20" color="[white]" justify="center" pivot="topleft" text="{statcurrentwithmax}"/>
 		</rect>
 	</hud_stat_bar_left>
 	
@@ -94,7 +94,7 @@
 			<sprite depth="2" pos="3,-3"  name="background" height="37" width="162" color="64,64,64,100" type="sliced" />
 			<sprite depth="3" pos="3,-3"  name="BarContent" sprite="{statimage}" type="filled" height="37" width="162" fill="{statfill}" flip="Horizontally" />
 			<sprite depth="4" name="Icon" atlas="UIAtlas" sprite="{staticon|once}" size="32,32" pos="130,-6" foregroundlayer="true"/>
-			<label depth="6" name="TextContent" pos="0,-10" font_size="24" color="[white]" justify="center" text="{statcurrentwithmax}"/>
+			<label depth="6" name="TextContent" pos="0,-10" font_size="20" color="[white]" justify="center" text="{statcurrentwithmax}"/>
 		</rect>
 	</hud_stat_bar_right>
 	
@@ -121,21 +121,21 @@
 			active_text_color="[white]" caret_color="[white]" selection_color="[mediumGrey_half_alpha]" 
 			character_limit="3" validation="integer" backgroundcolor="[black]" on_press="true" snapCursor="true" virtual_keyboard_prompt="vkPromptCount">
 			<sprite depth="1" name="background" color="[black]" type="sliced"/>
-			<label depth="2" name="text" pos="0,-2" font_size="26" justify="center" pivot="topleft"/>
+			<label depth="2" name="text" pos="0,-2" font_size="21" justify="center" pivot="topleft"/>
 		</panel>
 	</count_control_input>
 	
 	<archetype_entry>
 		<panel height="43" style="press, hover, scroll" controller="ArchetypeEntry" disabled_font_color="[lightGrey]" enabled_font_color="[labelColor]" sound="[recipe_click]" backgroundcolor="[darkGrey]" bordercolor="[black]" borderthickness="3">
 			<sprite depth="2" pos="3,-3" name="background" width="309" height="37" color="[darkGrey]" type="sliced" globalopacitymod="1.5" />
-			<label depth="4" name="Name" pos="3,-8" width="309" height="30" text="{archetypename}" font_size="28" justify="center"/>
+			<label depth="4" name="Name" pos="3,-8" width="309" height="30" text="{archetypename}" font_size="23" justify="center"/>
 		</panel>
 	</archetype_entry>
 	
 	<clothing_entry>
 		<panel height="43" style="press, hover, scroll" controller="ArchetypeClothingEntry" disabled_font_color="[lightGrey]" enabled_font_color="[labelColor]" sound="[recipe_click]" backgroundcolor="[darkGrey]" bordercolor="[black]" borderthickness="3">
 			<sprite depth="2" pos="3,-3" name="background" width="309" height="37" color="[darkGrey]" type="sliced" globalopacitymod="1.5" />
-			<label depth="4" name="Name" pos="3,-8" width="309" height="30" text="{meshname}" font_size="28" justify="center"/>
+			<label depth="4" name="Name" pos="3,-8" width="309" height="30" text="{meshname}" font_size="23" justify="center"/>
 		</panel>
 	</clothing_entry>
 	
@@ -144,7 +144,7 @@
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="396" height="49" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="3" name="background" width="100%" height="45" pos="0,1" color="[darkGrey]" type="sliced" />
 			<sprite depth="4" name="Icon" atlas="ItemIconAtlas" sprite="{recipeicon}" color="{recipeicontint}" size="52,38" pos="8,-3" foregroundlayer="true"/>
-			<label depth="4" name="Name" pos="195,-19" width="250" height="30" text="{recipename}" font_size="28" color="{hasingredientsstatecolor}" justify="center" pivot="center"/>
+			<label depth="4" name="Name" pos="195,-19" width="250" height="30" text="{recipename}" font_size="23" color="{hasingredientsstatecolor}" justify="center" pivot="center"/>
 			<sprite depth="5" name="Favorite" sprite="server_favorite" size="14,14" pos="6,-4" visible="{isfavorite}" foregroundlayer="true"/>
 			<sprite depth="4" name="Unlocked" sprite="{unlockicon}" size="24,24" pos="352,-10" visible="{isunlockable}" color="{unlockstatecolor}" foregroundlayer="true" />
 		</rect>
@@ -155,9 +155,9 @@
 			<sprite depth="3" name="background" color="[mediumGrey]" type="sliced" on_press="true" on_hover="true" width="147"/>
 			<sprite depth="4" name="Icon" sprite="{actionicon}" size="24,24" color="{statuscolor}" pos="2,-10" foregroundlayer="true"/>
 			<!--#$-IGS BEGIN: Adding gamepad callout. -$#-->
-			<label depth="4" name="Name" pos="32,-22" width="78" height="26" text="{actionname}" font_size="26" color="{statuscolor}" effect="shadow" pivot="left" />
+			<label depth="4" name="Name" pos="32,-22" width="78" height="26" text="{actionname}" font_size="21" color="{statuscolor}" effect="shadow" pivot="left" />
 			<gamepad_icon depth="4" name="gamepadIcon" pos="146,-22" pivot="Right" />
-			<label depth="4" name="keyboardButton" pos="145,-22" width="36" height="26" text="&lt;W&gt;" font_size="26" color="{statuscolor}" effect="shadow" pivot="right" justify="center" />
+			<label depth="4" name="keyboardButton" pos="145,-22" width="36" height="26" text="&lt;W&gt;" font_size="21" color="{statuscolor}" effect="shadow" pivot="right" justify="center" />
 			<!--*#$-IGS END.-$#-->
 		</rect>
 	</item_action_entry>
@@ -166,10 +166,10 @@
 		<rect height="43" controller="ItemActionEntry" disabled_font_color="[disabledLabelColor]" default_font_color="[labelColor]" default_background_color="[mediumGrey]" >
 			<sprite depth="3" name="background" color="[mediumGrey]" type="sliced" on_press="true" on_hover="true" />
 			<sprite depth="4" name="Icon" sprite="{actionicon}" size="24,24" color="{statuscolor}" pos="2,-10" foregroundlayer="true"/>
-			<label depth="4" name="Name" pos="32,-22" width="78" height="26" text="{actionname}" font_size="26" color="{statuscolor}" effect="shadow" pivot="left" />
+			<label depth="4" name="Name" pos="32,-22" width="78" height="26" text="{actionname}" font_size="21" color="{statuscolor}" effect="shadow" pivot="left" />
 			<!--#$-IGS BEGIN: Adding gamepad callout . -$#-->
 			<gamepad_icon depth="4" name="gamepadIcon" pos="145,-22" pivot="Right" />
-			<label depth="4" name="keyboardButton" pos="145,-22" width="36" height="26" text="&lt;W&gt;" font_size="26" color="{statuscolor}" effect="shadow" pivot="right" justify="center" />
+			<label depth="4" name="keyboardButton" pos="145,-22" width="36" height="26" text="&lt;W&gt;" font_size="21" color="{statuscolor}" effect="shadow" pivot="right" justify="center" />
 			<!--*#$-IGS END.-$#-->
 		</rect>
 	</skill_action_entry>
@@ -179,22 +179,22 @@
 			<rect depth="2" width="65" height="43">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="71" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[darkGrey]" type="sliced" />
-				<label depth="3" text="ITEM" text_key="lblitem" pos="32,-20" height="26" font_size="26" justify="center" pivot="center"/>
+				<label depth="3" text="ITEM" text_key="lblitem" pos="32,-20" height="26" font_size="21" justify="center" pivot="center"/>
 			</rect>
 			<rect depth="2" width="236" height="43" pos="68,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="242" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[darkGrey]" type="sliced" />
-				<label depth="3" text="NAME" text_key="mmTextName" pos="117,-20" width="230" height="26" font_size="26" justify="center" pivot="center"/>
+				<label depth="3" text="NAME" text_key="mmTextName" pos="117,-20" width="230" height="26" font_size="21" justify="center" pivot="center"/>
 			</rect>
 			<rect depth="2" width="64" height="43" pos="307,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="69" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[darkGrey]" type="sliced" />
-				<label depth="3" text="NEED" text_key="lblneed" pos="32,-20" width="64" height="26" font_size="26" justify="center" pivot="center"/>
+				<label depth="3" text="NEED" text_key="lblneed" pos="32,-20" width="64" height="26" font_size="21" justify="center" pivot="center"/>
 			</rect>
 			<rect depth="2" width="75" height="43" pos="373,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="80" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[darkGrey]" type="sliced" />
-				<label depth="3" text="HAVE" text_key="lblhave" pos="35,-20" width="69" height="26" font_size="26" justify="center" pivot="center"/>
+				<label depth="3" text="HAVE" text_key="lblhave" pos="35,-20" width="69" height="26" font_size="21" justify="center" pivot="center"/>
 			</rect>
 		</rect>
 	</ingredient_header>
@@ -210,17 +210,17 @@
 			<rect depth="2" width="236" height="43" pos="68,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,2" width="242" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[lightGrey]" type="sliced" />
-				<label depth="3" name="name" pos="117,-20" width="230" height="26" font_size="26" color="[labelColor]" justify="center" pivot="center" text="{itemname}"/>
+				<label depth="3" name="name" pos="117,-20" width="230" height="26" font_size="21" color="[labelColor]" justify="center" pivot="center" text="{itemname}"/>
 			</rect>
 			<rect depth="2" width="64" height="43" pos="307,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,2" width="69" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[lightGrey]" type="sliced" />
-				<label depth="3" name="needCount" pos="32,-20" width="64" height="26" font_size="26" color="[labelColor]" justify="center" pivot="center" text="{needcount}"/>
+				<label depth="3" name="needCount" pos="32,-20" width="64" height="26" font_size="21" color="[labelColor]" justify="center" pivot="center" text="{needcount}"/>
 			</rect>
 			<rect depth="2" width="75" height="43" pos="373,0">
 				<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,2" width="80" height="47" color="[black]" type="sliced" fillcenter="false" />	
 				<sprite color="[lightGrey]" type="sliced" />
-				<label depth="3" name="haveCount" pos="35,-20" width="69" height="26" font_size="26" color="[labelColor]" justify="center" pivot="center" text="{havecount}"/>
+				<label depth="3" name="haveCount" pos="35,-20" width="69" height="26" font_size="21" color="[labelColor]" justify="center" pivot="center" text="{havecount}"/>
 			</rect>
 		</rect>
 	</ingredient_row>
@@ -242,11 +242,11 @@
 			
 			<sprite depth="5" name="disabledOverlay" width="72" height="72" color="[darkGrey_half_alpha]" pos="1,-1" type="sliced" visible="false"/>
 			
-			<label depth="7" name="stackValue" pos="-2,-45" width="70" height="28" text="{itemcount}" font_size="26" effect="outline" justify="center" />
-			<label depth="7" name="timer" pos="35,-38" width="70" height="24" font_size="24" justify="center" pivot="center" effect="outline" color="[beige]"/>
+			<label depth="7" name="stackValue" pos="-2,-45" width="70" height="28" text="{itemcount}" font_size="21" effect="outline" justify="center" />
+			<label depth="7" name="timer" pos="35,-38" width="70" height="24" font_size="20" justify="center" pivot="center" effect="outline" color="[beige]"/>
 			<sprite depth="9" name="cancel" sprite="ui_game_symbol_x" width="70" height="70" color="255,0,0,255" type="sliced" visible="false" foregroundlayer="true"/>
 			<!--#$-IGS BEGIN: Setting itemName above the soft cursor. -$#-->
-			<label depth="12" name="itemName" pos="36,-35" width="0" height="0" text="" font_size="26" justify="center" overflow="resizefreely" effect="outline" pivot="center" above_soft_cursor="true"/>
+			<label depth="12" name="itemName" pos="36,-35" width="0" height="0" text="" font_size="21" justify="center" overflow="resizefreely" effect="outline" pivot="center" above_soft_cursor="true"/>
 			<!--*#$-IGS END.-$#-->
 			<sprite depth="13" name="assembleIcon" size="40,40" sprite="ui_game_symbol_lock" visible="{isassemblelocked}" pos="14,-14" foregroundlayer="true" />
 		</rect>
@@ -267,10 +267,10 @@
 			
 			<sprite depth="5" name="disabledOverlay" width="72" height="72" color="[darkGrey_half_alpha]" pos="1,-1" type="sliced" visible="false"/>
 			
-			<label depth="7" name="stackValue" pos="-2,-45" width="70" height="28" text="{itemcount}" font_size="26" effect="outline" justify="right" />
-			<label depth="7" name="timer" pos="35,-38" width="70" height="24" font_size="24" justify="center" pivot="center" effect="outline" color="[beige]"/>
+			<label depth="7" name="stackValue" pos="-2,-45" width="70" height="28" text="{itemcount}" font_size="21" effect="outline" justify="right" />
+			<label depth="7" name="timer" pos="35,-38" width="70" height="24" font_size="20" justify="center" pivot="center" effect="outline" color="[beige]"/>
 			<sprite depth="9" name="cancel" sprite="ui_game_symbol_x" width="70" height="70" color="255,0,0,255" type="sliced" visible="false" foregroundlayer="true"/>
-			<label depth="12" name="itemName" pos="0,0" width="0" height="0" text="" font_size="26" justify="center" overflow="resizefreely" effect="outline"/>
+			<label depth="12" name="itemName" pos="0,0" width="0" height="0" text="" font_size="21" justify="center" overflow="resizefreely" effect="outline"/>
 			<sprite depth="13" name="assembleIcon" size="40,40" sprite="ui_game_symbol_lock" visible="{isassemblelocked}" pos="14,-14" foregroundlayer="true" />
 		</rect>
 	</required_item_stack>
@@ -286,9 +286,9 @@
 			<sprite depth="3" name="durabilityBackground" width="70" height="10" sprite="menu_empty3px" color="[darkGrey]" type="sliced" pos="1, -60" foregroundlayer="true"/>
 			<sprite depth="4" name="durability" width="70" height="10" sprite="menu_empty2px" color="[transparent]" type="filled" pos="1, -60" foregroundlayer="true"/>
 			
-			<label depth="7" name="stackValue" pos="0,-48" width="70" height="28" text="Test" effect="outline" font_size="26" justify="center"/>
+			<label depth="7" name="stackValue" pos="0,-48" width="70" height="28" text="Test" effect="outline" font_size="21" justify="center"/>
 			<!--#$-IGS BEGIN: Setting itemName above the soft cursor. -$#-->
-			<label depth="12" name="itemName" pos="36,-36" width="0" height="0" text="" font_size="26" justify="center" pivot="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
+			<label depth="12" name="itemName" pos="36,-36" width="0" height="0" text="" font_size="21" justify="center" pivot="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
 			<!--*#$-IGS END.-$#-->
 		</rect>
 	</creative_stack>
@@ -304,9 +304,9 @@
 			<sprite depth="3" name="durabilityBackground" height="10" width="64" color="[darkGrey]" type="sliced" pos="2, -56" foregroundlayer="true"/>
 			<sprite depth="4" name="durability" height="10" width="64" color="[transparent]" type="filled" pos="2, -56" foregroundlayer="true"/>
 			
-			<label depth="7" name="stackValue" pos="0,-45" width="68" height="28" text="" font_size="26" justify="center"/>
+			<label depth="7" name="stackValue" pos="0,-45" width="68" height="28" text="" font_size="21" justify="center"/>
 			<!--#$-IGS BEGIN: Setting itemName above the soft cursor. -$#-->
-			<label depth="12" name="itemName" pos="0,0" width="0" height="0" text="" font_size="26" justify="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
+			<label depth="12" name="itemName" pos="0,0" width="0" height="0" text="" font_size="21" justify="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
 			<!--*#$-IGS END.-$#-->
 		</rect>
 	</equipment_stack>
@@ -317,7 +317,7 @@
 			<sprite depth="4" name="itemIcon" width="86" height="60" atlas="ItemIconAtlas" sprite="{itemicon}" pos="0,-10" pivot="topleft" foregroundlayer="true" color="{iconcolor}"/>
 			<sprite depth="3" name="durabilityBackground" height="10" color="64,64,64,0" type="sliced" pos="0, -76" foregroundlayer="true"/>
 			<sprite depth="4" name="durability" height="10" color="[transparent]" type="filled" pos="0, -76" foregroundlayer="true"/>
-			<label depth="5" name="stackValue" pos="6,-60" width="72" height="28" text="{itemcount}" effect="outline" justify="center" font_size="26" />
+			<label depth="5" name="stackValue" pos="6,-60" width="72" height="28" text="{itemcount}" effect="outline" justify="center" font_size="21" />
 		</rect>
 	</drag_item_stack>
 	
@@ -328,8 +328,8 @@
 			<sprite name="background" color="[mediumGrey]" type="sliced" style="press" on_hover="true"/>
 			<sprite depth="1" name="itemIcon" width="72" height="50" atlas="ItemIconAtlas" sprite="" pos="0,-10" pivot="topleft" foregroundlayer="true"/>
 			<sprite depth="4" name="lockIcon" width="24" height="24" sprite="ui_game_symbol_hammer" pos="2,-2" visible="false" foregroundlayer="true"/>
-			<label depth="4" name="count" pos="0,-50" width="70" height="26" text="Test" font_size="24" justify="right" effect="outline" />
-			<label depth="4" name="timer" pos="36,-36" width="70" height="26" font_size="24" justify="center" pivot="center" color="[beige]"/>
+			<label depth="4" name="count" pos="0,-50" width="70" height="26" text="Test" font_size="20" justify="right" effect="outline" />
+			<label depth="4" name="timer" pos="36,-36" width="70" height="26" font_size="20" justify="center" pivot="center" color="[beige]"/>
 			<sprite depth="2" name="overlay" width="72" height="72" color="32,32,32,128" type="sliced"/>
 			<sprite depth="3" name="cancel" sprite="ui_game_symbol_x" width="72" height="72" color="255,0,0,255" type="sliced" visible="false" foregroundlayer="true"/>
 		</rect>
@@ -344,7 +344,7 @@
 			<texture depth="4" name="textMaterial" width="70" height="70" pos="36,-36" pivot="center" material="Materials/Transparent Colored" size="70,70" globalopacity="false"/>
 			
 			<!--#$-IGS BEGIN: Setting itemName above the soft cursor. -$#-->
-			<label depth="12" name="itemName" pos="36,-36" width="0" height="0" text="" font_size="26" justify="center" pivot="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
+			<label depth="12" name="itemName" pos="36,-36" width="0" height="0" text="" font_size="21" justify="center" pivot="center" overflow="resizefreely" effect="outline" above_soft_cursor="true" />
 			<!--*#$-IGS END.-$#-->
 			<sprite depth="13" name="lockIcon" size="40,40" sprite="ui_game_symbol_lock" visible="{islocked}" pos="14,-14" foregroundlayer="true" />
 		</rect>
@@ -363,7 +363,7 @@
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="320" height="49" color="[black]" type="sliced" fillcenter="false" />	
 			<sprite depth="0" name="background" color="[darkGrey]" type="sliced" height="45" width="316" pos="-1,1" /> 
 			<sprite depth="2" name="Icon" sprite="{bufficon|once}" style="icon32px" pos="5,-5"/>
-			<label depth="2" pos="45,-8" width="280" height="30" text="{buffname|once}  [DECEA3]{buffdisplayinfo}[-]" font_size="28" pivot="topleft"/>
+			<label depth="2" pos="45,-8" width="280" height="30" text="{buffname|once}  [DECEA3]{buffdisplayinfo}[-]" font_size="23" pivot="topleft"/>
 		</panel>
 	</active_buff_entry>
 	
@@ -408,8 +408,8 @@
 			<sprite depth="1" name="background" pos="-1,1" height="45" width="250" color="[darkGrey]" type="sliced" on_hover="true" style="press,scroll" sound="[recipe_click]" />
 			<sprite depth="4" name="Icon" sprite="ui_game_symbol_pen" style="icon32px" pos="8,-3" foregroundlayer="true"/>
 			<sprite depth="4" name="Tracking" sprite="ui_game_symbol_check" style="icon32px" pos="48,-3" foregroundlayer="true"/>
-			<label depth="4" name="Name" pos="110,-20" width="140" height="30" text="Name" font_size="28" justify="center" pivot="center"/>
-			<label depth="4" name="Distance" pos="212,-20" width="60" height="30" text="0.7KM" font_size="28" justify="center" pivot="center"/>
+			<label depth="4" name="Name" pos="110,-20" width="140" height="30" text="Name" font_size="23" justify="center" pivot="center"/>
+			<label depth="4" name="Distance" pos="212,-20" width="60" height="30" text="0.7KM" font_size="23" justify="center" pivot="center"/>
 		
 		</rect>
 	</waypoint_entry>
@@ -419,8 +419,8 @@
 			<sprite depth="3" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="254" height="49" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="1" name="background"  pos="-1,1" height="45" width="250" color="[darkGrey]" type="sliced"  on_hover="true" style="press" sound="[recipe_click]"/>
 			<sprite depth="4" name="Icon" sprite="ui_game_symbol_pen" style="icon32px" pos="8,-3" foregroundlayer="true"/>
-			<label depth="4" name="Name" pos="110,-20" width="140" height="28" text="Name" font_size="28" justify="center" pivot="center"/>
-			<label depth="4" name="Distance" pos="212,-20" width="60" height="28" text="0.7KM" font_size="28" justify="center" pivot="center"/>
+			<label depth="4" name="Name" pos="110,-20" width="140" height="28" text="Name" font_size="23" justify="center" pivot="center"/>
+			<label depth="4" name="Distance" pos="212,-20" width="60" height="28" text="0.7KM" font_size="23" justify="center" pivot="center"/>
 		</rect>
 	</invites_entry>	
 	
@@ -430,57 +430,57 @@
 			<rect depth="1" name="steamId" width="154" height="43" pos="0,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="160" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="steamIdText" pos="0,-10" width="150" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="steamIdText" pos="0,-10" width="150" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="zombieKills" width="70" height="43" pos="157,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="zombieKillsText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="zombieKillsText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="playerKills" width="70" height="43" pos="230,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="playerKillsText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="playerKillsText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="deaths" width="70" height="43" pos="303,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="76" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="deathsText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="deathsText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="level" width="80" height="43" pos="376,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="levelText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="levelText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="score" width="80" height="43" pos="459,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="scoreText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="scoreText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="ping" width="60" height="43" pos="542,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="66" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="pingText" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="pingText" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="status" width="100" height="43" pos="605,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="106" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
 				<sprite depth="1" name="iconStatus" style="icon32px" pos="34,-6" sprite="ui_game_symbol_allies" />			
-				<label depth="1" name="labelStatus" pos="0,-10" height="28" text="" font_size="26" justify="center"/>
+				<label depth="1" name="labelStatus" pos="0,-10" height="28" text="" font_size="21" justify="center"/>
 			</rect>
 			
 			<rect depth="1" name="allies" width="80" height="43" pos="708,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="sendInvite" pos="0,0" width="30" height="40" text="+" font_size="40" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
-				<label depth="1" name="removeInvite" pos="40,0" width="30" height="40" text="-" font_size="40" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
+				<label depth="1" name="sendInvite" pos="0,0" width="30" height="40" text="+" font_size="32" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
+				<label depth="1" name="removeInvite" pos="40,0" width="30" height="40" text="-" font_size="32" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
 			</rect>
 			
 			<rect depth="1" name="voice" width="80" height="43" pos="791,0" color="[darkGrey]" type="sliced">
@@ -492,7 +492,7 @@
 			<rect depth="1" name="map" width="80" height="43" pos="874,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="labelShowOnMap" pos="0,-12" height="28" text_key="xuiPlayerShow" font_size="26" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
+				<label depth="1" name="labelShowOnMap" pos="0,-12" height="28" text_key="xuiPlayerShow" font_size="21" justify="center" on_hover="true" style="press" sound="[craft_click]"/>
 			</rect>
 			
 			<rect depth="1" name="track" width="80" height="43" pos="957,0" color="[darkGrey]" type="sliced">
@@ -505,7 +505,7 @@
 			<rect depth="1" name="km" width="80" height="43" pos="1040,0" color="[darkGrey]" type="sliced">
 				<sprite depth="0" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="86" height="49" color="[black]" type="sliced" fillcenter="false" />
 				
-				<label depth="1" name="labelDistanceWalked" pos="0,-10" height="28" text="12 KM" font_size="26" justify="center"/>
+				<label depth="1" name="labelDistanceWalked" pos="0,-10" height="28" text="12 KM" font_size="21" justify="center"/>
 			</rect>
 		</rect>
 	</players_entry>
@@ -514,8 +514,8 @@
 		<rect controller="VehiclePartStack" style="vehicleStack, hover" >
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="380" height="63" color="[black]" type="sliced" fillcenter="false" />	
 			<sprite name="background" color="[darkGrey]" height="59" pos="0,1" type="sliced"/>
-			<label depth="4" pos="16,-10" width="250" height="28" text="{partname}" font_size="26" justify="left" />
-			<label depth="4" pos="230,-10" width="50" height="28" text="{partquality}" font_size="26" justify="right" />
+			<label depth="4" pos="16,-10" width="250" height="28" text="{partname}" font_size="21" justify="left" />
+			<label depth="4" pos="230,-10" width="50" height="28" text="{partquality}" font_size="21" justify="right" />
 			
 			<sprite depth="2" width="265" pos="15, -37" height="10" type="sliced" color="[black]" visible="{partvisible}" foregroundlayer="true" />
 			<sprite depth="2" width="263" pos="16, -38" height="8" type="sliced" color="[mediumGrey]" visible="{partvisible}" foregroundlayer="true" />
@@ -529,8 +529,8 @@
 		<rect controller="ItemPartStack" style="itemPartStack, hover" >
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" pos="-3,3" width="380" height="63" color="[black]" type="sliced" fillcenter="false" />	
 			<sprite name="background" color="[darkGrey]" height="59" pos="0,1" type="sliced"/>
-			<label depth="4" pos="16,-10" width="250" height="28" text="{partname}" font_size="26" justify="left" />
-			<label depth="4" pos="230,-10" width="50" height="28" text="{partquality}" font_size="26" justify="right" />
+			<label depth="4" pos="16,-10" width="250" height="28" text="{partname}" font_size="21" justify="left" />
+			<label depth="4" pos="230,-10" width="50" height="28" text="{partquality}" font_size="21" justify="right" />
 			
 			<sprite depth="2" width="265" pos="15, -37" height="10" type="sliced" color="[black]" visible="{partvisible}" foregroundlayer="true" />
 			<sprite depth="2" width="263" pos="16, -38" height="8" type="sliced" color="[mediumGrey]" visible="{partvisible}" foregroundlayer="true" />
@@ -551,7 +551,7 @@
 		<rect depth="15" height="43" style="press, hover" disabled_font_color="148,148,148,255" controller="PopupMenuItem" sound="[craft_click]">
 			<sprite name="background" type="sliced" color="64,64,64,255" />
 			<sprite depth="4" style="icon32px" pos="8,-3" sprite="{menuicon}" color="{statuscolor}" />
-			<label name="lblText" depth="4" pos="50,-8" width="{backgroundwidth}" height="28" text="{menutext}" font_size="22" color="{statuscolor}" justify="left" />
+			<label name="lblText" depth="4" pos="50,-8" width="{backgroundwidth}" height="28" text="{menutext}" font_size="18" color="{statuscolor}" justify="left" />
 		</rect>
 	</popup_menu_item>
 	
@@ -560,7 +560,7 @@
 			<sprite depth="1" height="79" width="79" name="border" sprite="ui_game_filled_circle" color="0,0,0,128" pivot="center"/>
 			<sprite depth="2" name="background" sprite="ui_game_filled_circle" color="96,96,96,192" pivot="center"/>
 			<sprite depth="3" height="56" width="56" name="icon" atlas="UIAtlas" color="255,255,255,255" pivot="center" foregroundlayer="true"/>
-			<label depth="4" name="text" width="48" height="48" pos="-15,15" font_size="28" color="[white]" justify="center" effect="outline" pivot="center" visible="false"/>
+			<label depth="4" name="text" width="48" height="48" pos="-15,15" font_size="23" color="[white]" justify="center" effect="outline" pivot="center" visible="false"/>
 		</rect>
 	</radial_entry>
 	
@@ -589,13 +589,13 @@
 	<skill_requirement>
 		<rect controller="SkillRequirementEntry">
 			<sprite depth="2" style="icon30px" pos="5,-2" color="{requirementcolor}" sprite="{skillicon}" visible="{hasrequirement}" />
-			<label depth="1" pos="0,-4" text="{requirementtext}" upper_case="true" font_size="26" visible="{hasrequirement}" height="43" width="300" color="{requirementcolor}" justify="center" />
+			<label depth="1" pos="0,-4" text="{requirementtext}" upper_case="true" font_size="21" visible="{hasrequirement}" height="43" width="300" color="{requirementcolor}" justify="center" />
 		</rect>
 	</skill_requirement>
 	
 	<skill_attribute>
 		<rect controller="SkillAttributeEntry">
-			<label depth="1" pos="0,-4" text="{attribute}" upper_case="true" font_size="26" visible="{hasattribute}" height="43" width="300" color="{lockedcolor}" justify="left" />
+			<label depth="1" pos="0,-4" text="{attribute}" upper_case="true" font_size="21" visible="{hasattribute}" height="43" width="300" color="{lockedcolor}" justify="left" />
 		</rect>
 	</skill_attribute>
 	
@@ -616,7 +616,7 @@
 			<sprite depth="2" name="iconTrack" style="icon22px" pos="4,0" color="{objectivecompletecolor}" sprite="{objectivecompletesprite}" />
 			
 			<!-- <sprite depth="0" name="Icon" sprite="ui_game_symbol_pen" style="icon32px" pos="8,-3" foregroundlayer="true" visible="false"/> -->
-			<label depth="4" name="Description" pos="30,2" width="250" height="28" text="{objectiveoptional}{objectivedescription} [DECEA3]{objectivestate}[-]" upper_case="true"  font_size="26" />
+			<label depth="4" name="Description" pos="30,2" width="250" height="28" text="{objectiveoptional}{objectivedescription} [DECEA3]{objectivestate}[-]" upper_case="true"  font_size="21" />
 		</rect>
 	</quest_objective_entry>
 	
@@ -625,7 +625,7 @@
 			
 			<sprite depth="2" name="iconTrack" style="icon22px" pos="280,0" color="{objectivecompletecolor}" sprite="{objectivecompletesprite}" visible="{objectiveshowicon}" />
 			
-			<label depth="1" pos="0,4" text="{objectiveoptional}{objectivedescription} [{objectivecompletehexcolor}]{objectivestate}[-]" upper_case="true" font_size="26" justify="right" visible="{hasobjective}" width="{objectivetextwidth}" />
+			<label depth="1" pos="0,4" text="{objectiveoptional}{objectivedescription} [{objectivecompletehexcolor}]{objectivestate}[-]" upper_case="true" font_size="21" justify="right" visible="{hasobjective}" width="{objectivetextwidth}" />
 		</rect>
 	</quest_objective_tracker_entry>
 	
@@ -633,7 +633,7 @@
 	<quest_reward_entry>
 		<rect width="625" height="43" controller="QuestRewardEntry" visible="{hasreward}" >
 			<sprite depth="0" name="Icon" sprite="{rewardicon}" style="icon22px" pos="4,0" foregroundlayer="true" UIAtlas="{rewardiconatlas}"/>
-			<label depth="4" name="Description" pos="30,0" width="600" height="28" text="{rewardtype}: {rewarddescription}: [DECEA3]{rewardvalue}[-]" upper_case="true"  font_size="26" />
+			<label depth="4" name="Description" pos="30,0" width="600" height="28" text="{rewardtype}: {rewarddescription}: [DECEA3]{rewardvalue}[-]" upper_case="true"  font_size="21" />
 		</rect>
 	</quest_reward_entry>
 	
@@ -650,7 +650,7 @@
 	<gamepad_callout>
 		<rect width="100" height="60" controller="XUiC_GamepadCallout" >
 			<sprite depth="1" name="icon" size="35,35" pos="0,0" pivot="TopLeft" sprite="" />
-			<label depth="1" name="action" size="125,48" pos="40,0" pivot="TopLeft" justify="center" text="calloutText" font_face="AGENCYB" font_size="32" color="255,255,255" overflow="resizefreely"/>
+			<label depth="1" name="action" size="125,48" pos="40,0" pivot="TopLeft" justify="center" text="calloutText" font_face="AGENCYB" font_size="26" color="255,255,255" overflow="resizefreely"/>
 		</rect>
 	</gamepad_callout>
 	<!--*#$-IGS END.-$#-->
@@ -670,13 +670,13 @@
 			<sprite depth="3" name="background" width="100%" height="45" pos="0,1" color="[darkGrey]" type="sliced" />
 			<sprite depth="4" name="Icon" atlas="ItemIconAtlas" sprite="{itemicon}" color="{itemicontint}" size="52,38" pos="8,-3" foregroundlayer="true"/>
 			
-			<label depth="4" name="Name" pos="70,-6" width="325" height="30" text="{itemname}" font_size="28" color="{statecolor}" justify="left" />
+			<label depth="4" name="Name" pos="70,-6" width="325" height="30" text="{itemname}" font_size="23" color="{statecolor}" justify="left" />
 			
 			<sprite depth="3" name="durabilityBackground" width="50" height="6" sprite="menu_empty3px" color="[black_half_alpha]" type="sliced" pos="455, -36" foregroundlayer="true" visible="{hasdurability}"/>
 			<sprite depth="4" name="durabilityBar" height="6" width="50" color="{durabilitycolor}" type="filled" fill="{durabilityfill}" pos="455, -36" visible="{hasdurability}" />
-			<label  depth="4" name="durabilityValue" height="28"  width="120" text="{durabilityvalue}" font_size="28" justify="center" pos="420,-6"  />
+			<label  depth="4" name="durabilityValue" height="28"  width="120" text="{durabilityvalue}" font_size="23" justify="center" pos="420,-6"  />
 			
-			<label depth="4" name="price" height="30" text="{itemprice}" font_size="28" width="100" justify="center" pos="542,-6" color="{pricecolor}" />
+			<label depth="4" name="price" height="30" text="{itemprice}" font_size="23" width="100" justify="center" pos="542,-6" color="{pricecolor}" />
 		</rect>
 	</trader_item>	
 	
@@ -695,17 +695,17 @@
 		active_text_color="[white]" caret_color="[white]" selection_color="[mediumGrey_half_alpha]" on_return="NewLine"
 			character_limit="100" validation="none" on_press="true" snapCursor="true" virtual_keyboard_prompt="vkPromptSignText">
 			<sprite depth="0" name="background" color="[transparent]" type="sliced"/>
-			<label depth="1" name="text" pos="0,-2" justify="center" pivot="topleft" upper_case="false" font_size="46"/>
+			<label depth="1" name="text" pos="0,-2" justify="center" pivot="topleft" upper_case="false" font_size="37"/>
 		</rect>
 	</sign_text_area>
 	
 	<option_selector>
 		<rect depth="3" controller="OptionsSelector">
-			<label depth="5" name="lblTitle" pos="0, -9" height="28" text="Start Time" font_size="26" justify="center"/>
+			<label depth="5" name="lblTitle" pos="0, -9" height="28" text="Start Time" font_size="21" justify="center"/>
 			<button depth="4" name="leftArrow" style="icon30px, press" pos="18,-52" sprite="ui_game_symbol_arrow_left" pivot="center" sound="[paging_click]"/>
 			<rect depth="4" name="textArea" pos="37,-37" height="30" width="150">
 				<sprite name="background" color="[black]" type="sliced" />
-				<label depth="5" name="lblText" pos="0, -3" color="[selectedColor]" text="Test Stuff" font_size="26" justify="center"/>
+				<label depth="5" name="lblText" pos="0, -3" color="[selectedColor]" text="Test Stuff" font_size="21" justify="center"/>
 			</rect>
 			<button depth="4" name="rightArrow" style="icon30px, press" pos="207,-52" sprite="ui_game_symbol_arrow_right" pivot="center" sound="[paging_click]"/>
 		</rect>
@@ -715,7 +715,7 @@
 		<rect height="${height|30}" style="press, hover, scroll" disabled_font_color="[disabledLabelColor]" enabled_font_color="[labelColor]" sound="[recipe_click]" controller="PrefabFolderListEntry">
 			<sprite depth="3" name="backgroundMain" sprite="menu_empty" height="${1+height|31}" pos="2,0" width="${width-4|250}" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="2" name="background" color="[darkGrey]" pos="2,0" width="${width-4|250}" type="sliced" />
-			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-4|26}" justify="center" pivot="left" />
+			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-9|21}" justify="center" pivot="left" />
 		</rect>
 	</prefab_folder_entry>
 	
@@ -723,7 +723,7 @@
 		<rect height="${height|30}" style="press, hover, scroll" on_doubleclick="true" disabled_font_color="[disabledLabelColor]" enabled_font_color="[labelColor]" sound="[recipe_click]" controller="PrefabFileListEntry">
 			<sprite depth="3" name="backgroundMain" sprite="menu_empty" height="${1+height|31}" pos="2,0" width="${width-4|250}" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="2" name="background" color="[darkGrey]" pos="2,0" width="${width-4|250}" type="sliced" />
-			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-4|26}" justify="center" pivot="left" />
+			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-9|21}" justify="center" pivot="left" />
 		</rect>
 	</prefab_file_entry>
 	
@@ -731,7 +731,7 @@
 		<rect height="${height|30}" width="${width}" style="press, hover, scroll" on_doubleclick="true" disabled_font_color="[disabledLabelColor]" enabled_font_color="[labelColor]" sound="[recipe_click]" controller="SpawnersListEntry">
 			<sprite depth="3" name="backgroundMain" sprite="menu_empty" height="${1+height|31}" pos="2,0" width="${width-4|250}" color="[black]" type="sliced" fillcenter="false" />
 			<sprite depth="2" name="background" color="[darkGrey]" pos="2,0" width="${width-4|250}" type="sliced" />
-			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-4|26}" justify="center" pivot="left" />
+			<label depth="4" name="Name" pos="4,${Round(-height/2,0)|-15}" width="${width-8|242}" height="${height-4|26}" text="{name}" font_size="${height-9|21}" justify="center" pivot="left" />
 		</rect>
 	</spawners_entry>
 	
