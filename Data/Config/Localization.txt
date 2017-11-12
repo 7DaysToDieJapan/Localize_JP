@@ -1246,7 +1246,7 @@ wrenchSchematic,items,Book,KgNone,Wrench Schematic,Schéma de clé à molette,Ba
 wrenchSchematicDesc,items,Book,KgNone,Learn how to craft a wrench which is great for disassembling mechanical devices by reading this schematic.,"Lisez ce schéma pour apprendre à fabriquer une clé à molette, idéale pour désassembler des appareils mécaniques.","In diesem Bauplan erfährst du, wie Schraubenschlüssel gefertigt werden. Schraubenschlüssel eignen sich gut dazu, mechanische Geräte auseinanderzunehmen.",,"Lee este esquema para aprender a fabricar una llave inglesa, ideal para desarmar dispositivos mecánicos."
 animalHideBoots,items,Clothes,KgNone,Animal Hide Boots,Bottes en peau de bête,Tierhautstiefel,,Botas de piel de animal
 animalHideChestArmor,items,Clothes,KgNone,Animal Hide Chest Armor,Plastron en peau de bête,Brustpanzer aus Tierhaut,,Coraza de piel de animal
-animalHideClothesGroupDesc,items,Clothes,KgNone,Animal hide clothing provides sound protection against cold weather and does a fair job against other damage types.,Les vêtements en peau de bête offrent une bonne protection contre le froid et d'autres sortes de dégâts.,Kleidung aus Tierhaut bietet guten Schutz gegen Kälte und schlägt sich gegen andere Schadensarten nicht schlecht.,,La ropa de piel de animal proporciona gran protección frente al frío y hace un buen trabajo frente a otros tipos de daños.
+animalHideClothesGroupDesc,items,Clothes,KgNone,動物の皮の衣服は、寒さの備えとして十分な保護になり、その他のダメージに対しても良い働きをしてくれるでしょう。,Animal hide clothing provides sound protection against cold weather and does a fair job against other damage types.,Kleidung aus Tierhaut bietet guten Schutz gegen Kälte und schlägt sich gegen andere Schadensarten nicht schlecht.,,La ropa de piel de animal proporciona gran protección frente al frío y hace un buen trabajo frente a otros tipos de daños.
 animalHideGloves,items,Clothes,KgNone,Animal Hide Gloves,Gants en peau de bête,Tierhauthandschuhe,,Guantes de piel de animal
 animalHideHood,items,Clothes,KgNone,Animal Hide Hood,Capuche en peau de bête,Tierhautkapuze,,Capucha de piel de animal
 animalHideJacket,items,Clothes,KgNone,Animal Hide Jacket,Veste en peau de bête,Tierhautjacke,,Chaqueta de piel de animal
@@ -1270,7 +1270,7 @@ cigar,items,Clothes,KgNone,Cigar,Cigare,Zigarre,,Puro
 cigarDesc,items,Clothes,KgNone,"You do love it when a plan comes together, don't you?","Vous adorez quand un plan se déroule sans accroc, pas vrai ?","Dir gefällt es doch, wenn ein Plan funktioniert, nicht?",,"Te encanta que un plan salga bien, ¿verdad?"
 cigarette,items,Clothes,KgNone,Cigarette,Cigarette,Zigarette,,Cigarrillo
 clothBoots,items,Clothes,KgNone,Cloth Boots,Bottes en tissu,Stoffstiefel,,Botas de tela
-clothClothesGroupDesc,items,Clothes,KgNone,Cloth provides some protection against the weather and a little protection against other damage types.,Les vêtements vous protègent contre les intempéries et légèrement contre d'autres sortes de dégâts.,Stoff schützt etwas vor der Witterung und bietet etwas Schutz vor anderen Schadensarten.,,La ropa de tela protege un poco contra el clima y contra otros tipos de daños.
+clothClothesGroupDesc,items,Clothes,KgNone,布は、外気や風雨の備えとしてある程度の保護になり、その他のダメージに対する保護も僅かにあります。,Cloth provides some protection against the weather and a little protection against other damage types.,Stoff schützt etwas vor der Witterung und bietet etwas Schutz vor anderen Schadensarten.,,La ropa de tela protege un poco contra el clima y contra otros tipos de daños.
 clothGloves,items,Clothes,KgNone,Cloth Gloves,Gants en tissu,Stoffhandschuhe,,Guantes de tela
 clothHat,items,Clothes,KgNone,Cloth Head Armor,Casque en tissu,Stoffkopfschutz,,Armadura de tela para la cabeza
 clothJacket,items,Clothes,KgNone,Cloth Chest Armor,Plastron en tissu,Stoffbrustpanzer,,Coraza de tela
@@ -1293,7 +1293,7 @@ hazmatMask,items,Clothes,KgNone,Hazmat Mask,Masque de protection,Schutzanzugmask
 hazmatPants,items,Clothes,KgNone,Hazmat Pants,Pantalon de protection,Schutzanzughose,,Pantalones de material peligroso
 ironBoots,items,Clothes,KgNone,Iron Boots,Bottes en fer,Eisenstiefel,,Botas de hierro
 ironChestArmor,items,Clothes,KgNone,Iron Chest Armor,Plastron en fer,Eisenbrustpanzer,,Coraza de hierro
-ironClothesGroupDesc,items,Clothes,KgNone,Iron clothing provides great protection against concussive and puncture damage but no cold weather protection.,"Les vêtements en fer vous offrent une très bonne protection contre les commotions cérébrales et autres blessures perforantes, mais ne protègent pas contre le froid.","Eisenkleidung bietet großartigen Schutz vor Schlag- und Stichschaden, hält bei kaltem Wetter aber nicht warm.",,"La ropa de hierro brinda una gran protección frente a contusiones y perforaciones, pero nada de protección contra el frío."
+ironClothesGroupDesc,items,Clothes,KgNone,鉄の衣服は、脳震盪や穿刺から最高の保護をもたらしてくれますが、寒さを防ぐことはできません。,Iron clothing provides great protection against concussive and puncture damage but no cold weather protection.,"Eisenkleidung bietet großartigen Schutz vor Schlag- und Stichschaden, hält bei kaltem Wetter aber nicht warm.",,"La ropa de hierro brinda una gran protección frente a contusiones y perforaciones, pero nada de protección contra el frío."
 ironGloves,items,Clothes,KgNone,Iron Gloves,Gants en fer,Eisenhandschuhe,,Guantes de hierro
 ironHelmet,items,Clothes,KgNone,Iron Helmet,Casque en fer,Eisenhelm,,Casco de hierro
 ironLegArmor,items,Clothes,KgNone,Iron Leg Armor,Jambières en fer,Eisenbeinschienen,,Espinillera de hierro
@@ -1305,7 +1305,7 @@ kevlarHelmetDesc,items,Clothes,KgNone,The Kevlar helmet offers the very best dam
 kevlarLegArmor,items,Clothes,KgNone,Kevlar Leg Armor,Jambières en kevlar,Kevlar-Beinschienen,,Greba de Kevlar
 kevlarVest,items,Clothes,KgNone,Kevlar Vest,Gilet en kevlar,Kevlar-Weste,,Chaleco de Kevlar
 leatherBoots,items,Clothes,KgNone,Leather Boots,Bottes en cuir,Lederstiefel,,Botas de cuero
-leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は、天候からの断熱効果やその他のダメージから守る素晴らしい重ね着ができます。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
+leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は、外気や風雨の備えとして断熱効果で重ね着したり、その他のダメージに対しても有効です。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
 leatherGloves,items,Clothes,KgNone,Leather Gloves,Gants en cuir,Lederhandschuhe,,Guantes de cuero
 leatherHood,items,Clothes,KgNone,Leather Hood,Capuche en cuir,Lederkapuze,,Capucha de cuero
 leatherJacket,items,Clothes,KgNone,Leather Chest Armor,Plastron en cuir,Lederbrustpanzer,,Coraza de cuero
@@ -1347,7 +1347,7 @@ scrapBoots,items,Clothes,KgNone,Scrap Boots,Bottes recyclées,Alteisenstiefel,,B
 scrapChestArmor,items,Clothes,KgNone,Scrap Chest Armor,Plastron recyclé,Alteisenbrustpanzer,,Coraza de chatarra
 scrapGloves,items,Clothes,KgNone,Scrap Gloves,Gants recyclés,Alteisenhandschuhe,,Guantes de chatarra
 scrapHelmet,items,Clothes,KgNone,Scrap Helmet,Casque recyclé,Alteisenhelm,,Casco de chatarra
-scrapIronClothesGroupDesc,items,Clothes,KgNone,Scrap iron clothing provides good protection against concussive and puncture damage but will not keep you warm.,"Les vêtements en ferraille vous offrent une bonne protection contre les commotions cérébrales et autres blessures perforantes, mais ne vous garderont pas au chaud.","Alteisenkleidung bietet guten Schutz vor Schlag- und Stichschaden, hält aber nicht warm.",,"La ropa de chatarra de hierro ofrece buena protección frente a contusiones y perforaciones, pero no te mantendrá abrigado."
+scrapIronClothesGroupDesc,items,Clothes,KgNone,くず鉄の衣服は、脳震盪や穿刺から優れた保護をもたらしてくれますが、暖かく保ってくれません。,Scrap iron clothing provides good protection against concussive and puncture damage but will not keep you warm.,"Alteisenkleidung bietet guten Schutz vor Schlag- und Stichschaden, hält aber nicht warm.",,"La ropa de chatarra de hierro ofrece buena protección frente a contusiones y perforaciones, pero no te mantendrá abrigado."
 scrapLegArmor,items,Clothes,KgNone,Scrap Leg Armor,Jambières recyclées,Alteisenbeinschienen,,Espinillera de chatarra
 shades,items,Clothes,KgNone,Shades,Lunettes de soleil,Sonnenbrille,,Gafas de sol
 shirt,items,Clothes,KgNone,Shirt,Chemises,Hemd,,Camisa
@@ -1947,7 +1947,7 @@ lblAttributeBatteryMaxLoadInVolts,UI,Item Info,KgNone,Max Load (Volts),Chargemen
 lblAttributeBlockDamage,UI,Item Info,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
 lblAttributeBluntProtection,UI,Item Info,KgNone,Blunt Defense,Défense contre les armes contondantes,Verteidigung gegen Stumpfe Waffen,,Defensa anticontundentes
 lblAttributeBulletProtection,UI,Item Info,KgNone,Bullet Defense,Défense contre les balles,Verteidigung gegen Kugeln,,Defensa antibalas
-lblAttributeConcussiveProtection,UI,Item Info,KgNone,耐気絶,Concussive,Schläge,,Conmoción
+lblAttributeConcussiveProtection,UI,Item Info,KgNone,耐脳震盪,Concussive,Schläge,,Conmoción
 lblAttributeDamageText,UI,Item Info,KgNone,damage,dégâts,Schaden,,daño
 lblAttributeDegradationMax,UI,Item Info,KgNone,Max Degradation,Dégradation max.,Max. Abnutzung,,Degradación máxima
 lblAttributeDegradationMin,UI,Item Info,KgNone,Min Degradation,Dégradation min.,Min. Abnutzung,,Degradación mínima
