@@ -1925,6 +1925,7 @@ lblContextActionSplit,UI,Item Context Menu,KgNone,Split,Séparer,Teilen,,Dividir
 lblContextActionStore,UI,Item Context Menu,KgNone,Store,Ranger,Lagern,,Almacenar
 lblContextActionTake,UI,Item Context Menu,KgNone,Take,Prendre,Nehmen,,Recoger
 lblContextActionWear,UI,Item Context Menu,KgNone,着る,Wear,Tragen,,Vestir
+WEAR,UI,Item Context Menu,DLL Enchanged,着る,Wear,Tragen,,Vestir
 lblContextCraftAmmoWeapons,UI,Item Context Menu,KgNone,弾薬/武器,Ammo/Weapons,Munition/Waffen,,Munición/armas
 lblContextCraftBasics,UI,Item Context Menu,KgNone,Basics,Bases,Grundlagen,,Básico
 lblContextCraftBrowse,UI,Item Context Menu,KgNone,Browse,Parcourir,Durchgehen,,Explorar
@@ -2029,7 +2030,7 @@ lblQualityGreat,UI,Item Info,KgNone,Fine {0},{0} d'exception,{0} (ausgezeichnet)
 lblQualityLegendary,UI,Item Info,KgNone,Flawless {0},{0} impeccable,{0} (makellos),,Perfecto {0}
 lblQualityPoor,UI,Item Info,KgNone,Poor {0},{0} de piètre qualité,{0} (schlecht),,Deficiente {0}
 lblRepairAmount,UI,Item Info,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
-lblRepairItem,UI,Item Info,KgNone,Repair:,Réparation:,Reparieren:,,Reparar:
+lblRepairItem,UI,Item Info,KgNone,修理キット:,Repair:,Reparieren:,,Reparar:
 lblRepairItems,UI,Item Info,KgNone,Repair items:\n,Réparer les objets :\n,Gegenstände reparieren:\n,,Reparar objetos:\n
 lblRmvEffect,UI,Item Info,KgNone,除去,Removes,Entfernt,,Elimina
 lblStamina,UI,Item Info,KgNone,スタミナ,Stamina,Ausdauer,,Resistencia
