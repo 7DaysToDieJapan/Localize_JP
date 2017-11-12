@@ -1891,18 +1891,18 @@
 		</rect>
 	</window>
 
-	<window name="windowJournalEntryDescription" width="653" height="412" panel="Center" controller="JournalEntryDescriptionWindow" cursor_area="true" >
+	<window name="windowJournalEntryDescription" width="653" height="812" panel="Center" controller="JournalEntryDescriptionWindow" cursor_area="true" >
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_pen"/>
 			<label depth="2" pos="345,-8" width="300" height="28" text="{timestamp}" color="[lightGrey]" justify="right" upper_case="true" />
 			<label style="header.name" text="{entrytitle}" width="500" />
 		</panel>
-		<rect name="content" pos="0,-46" height="366" depth="1">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="653" height="366" color="[black]" type="sliced" fillcenter="false" />
+		<rect name="content" pos="0,-46" height="766" depth="1">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="653" height="766" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
-			<label depth="3" name="descriptionText" pos="8,-8" text="{entrydescription}" width="630" height="350" font_size="28" />
+			<label depth="3" name="descriptionText" pos="8,-8" text="{entrydescription}" width="630" height="750" font_size="28" />
 			<rect visible="{showempty}">
-				<label pos="0,-170" depth="3" name="descriptionText" width="100%" height="65" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
+				<label pos="0,-370" depth="3" name="descriptionText" width="100%" height="100%" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
 			</rect>
 		</rect>
 	</window>
