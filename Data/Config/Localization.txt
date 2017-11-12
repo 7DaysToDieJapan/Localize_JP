@@ -1811,7 +1811,7 @@ qc_maneater,items,Zombie Challenge Note,KgNone,Man Eater Challenge,Défi « Un 
 qc_nurseyoubacktohealth,items,Zombie Challenge Note,KgNone,Nurse You Back To Health Challenge,Défi « Besoin d'infirmières »,Herausforderung – Die kranken Schwestern,,Desafío “Cuidarte hasta curarte”
 qc_silenceofthelambs,items,Zombie Challenge Note,KgNone,Silence of the Lambs,Défi « Le silence des agneaux »,Herausforderung - Das Schweigen der Lämmer,,Desafío “El silencio de los inocentes”
 qc_yournothingspecial,items,Zombie Challenge Note,KgNone,You're Nothing Special,Défi « Tu n'as rien de spécial »,Herausforderung - Du bist nichts Besonderes,,Desafío “No eres especial”
-qc_ZombieGroupDesc,items,Zombie Challenge Note,KgNone,A strange note I found while looting. It's from the Crazy Jake Clan.,Un drôle de message que j'ai trouvé pendant que je pillais. Il provient du clan de Jake le cinglé.,"Eine seltsame Notiz, die ich beim Plündern gefunden habe. Sie ist vom Klan von Crazy Jake.",,Descubrí una nota extraña mientras saqueaba. Es del clan Jake el Loco.
+qc_ZombieGroupDesc,items,Zombie Challenge Note,KgNone,略奪している間に見つけた奇妙なメモです。変わり者のジェイク一派からのものです。,A strange note I found while looting. It's from the Crazy Jake Clan.,"Eine seltsame Notiz, die ich beim Plündern gefunden habe. Sie ist vom Klan von Crazy Jake.",,Descubrí una nota extraña mientras saqueaba. Es del clan Jake el Loco.
 betterLeadThanDead,progression,Perk,KgNone,死よりも甘美な鉛弾,Better Lead Than Dead,Besser als Blei in der Birne,,Mejor con plomo que sin aplomo
 boomStick,progression,Perk,KgNone,ブーム・スティック,Boom Stick,Schießeisen,,Escoba de fuego
 boomStickDesc,progression,Perk,KgNone,射撃の腕前が大したことなくても、ダメージをさらに増やしてくれます。,Your aim may be so-so but you do more damage with every rank.,"Du zielst vielleicht nicht so gut, aber mit jedem Rang verursachst du mehr Schaden.",,"Puede que la precisión no sea la mejor, pero infliges más daño con cada nivel."
@@ -2737,7 +2737,7 @@ xuiClose,UI,XUI,KgNone,CLOSE,FERMER,SCHLIESSEN,,CERRAR
 xuiCost,UI,XUI,KgNone,コスト,COST,KOSTEN,,COSTO
 xuiCraftQueueFull,UI,XUI,KgNone,No room in queue!,Plus de place dans la file !,Warteschlange ist voll!,,¡No hay espacio en la cola!
 xuiCreative,UI,XUI,KgNone,クリエイティブ,CREATIVE,KREATIV,,CREATIVO
-xuiDay,UI,XUI,KgNone,日目,JOUR,TAG,,DÍA
+xuiDay,UI,XUI,KgNone,日付,JOUR,TAG,,DÍA
 xuiDayTime,UI,XUI,KgNone,日/時,DAY/TIME,TAG/ZEIT,,DÍA/HORA
 xuiDeaths,UI,XUI,KgNone,死亡数,DEATHS,TODE,,MUERTES
 xuiDecline,UI,XUI,KgNone,DECLINE,DÉCLIN,ABLEHNEN,,RECHAZAR
