@@ -1945,7 +1945,7 @@ lblAttributeAccuracy,UI,Item Info,KgNone,Accuracy,Précision,Genauigkeit,,Precis
 lblAttributeApplyBuff,UI,Item Info,KgNone,Apply Buff,Appliquer le buff,Buff anwenden,,Aplicar aumento
 lblAttributeBatteryDischargeTimeInMinutes,UI,Item Info,KgNone,Discharge Time (Minutes),Temps de déchargement (minutes),Entladungszeit (Minuten),,Tiempo de descarga (minutos)
 lblAttributeBatteryMaxLoadInVolts,UI,Item Info,KgNone,Max Load (Volts),Chargement max. (volts),Max. Spannung (Volt),,Carga máxima (voltios)
-lblAttributeBlockDamage,UI,Item Info,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
+lblAttributeBlockDamage,UI,Item Info,KgNone,対物ダメージ,Block Damage,Blockschaden,,Daño en bloque
 lblAttributeBluntProtection,UI,Item Info,KgNone,Blunt Defense,Défense contre les armes contondantes,Verteidigung gegen Stumpfe Waffen,,Defensa anticontundentes
 lblAttributeBulletProtection,UI,Item Info,KgNone,Bullet Defense,Défense contre les balles,Verteidigung gegen Kugeln,,Defensa antibalas
 lblAttributeConcussiveProtection,UI,Item Info,KgNone,耐脳震盪,Concussive,Schläge,,Conmoción
@@ -1956,7 +1956,7 @@ lblAttributeDegradationRate,UI,Item Info,KgNone,Degradation Rate,Taux de dégrad
 lblAttributeDegradationText,UI,Item Info,KgNone,xxx,xxx,xxx,,xxx
 lblAttributeDismembermentBaseChance,UI,Item Info,KgNone,Sever Chance,Chance de tranchage,Abtrenn-Chance,,Probabilidad de amputación
 lblAttributeDismembermentBonus,UI,Item Info,KgNone,Sever Bonus,Bonus de tranchage,Abtrenn-Bonus,,Bono de amputación
-lblAttributeEntityDamage,UI,Item Info,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
+lblAttributeEntityDamage,UI,Item Info,KgNone,耐生物ダメージ,Entity Damage,Wesen-Schaden,,Daño a entidades
 lblAttributeExplosiveProtection,UI,Item Info,KgNone,Explosive,Explosions,Sprengstoff,,Explosión
 lblAttributeFalloffRangeText,UI,Item Info,KgNone,m,m,m,,m
 lblAttributeFireProtection,UI,Item Info,KgNone,耐燃焼,Fire,Feuer,,Fuego
@@ -1996,8 +1996,8 @@ lblBagSmllRng,UI,Item Info,KgNone,Bag Smell Range,Portée de la puanteur du sac,
 lblBagSmllStr,UI,Item Info,KgNone,Bag Smell Str.,Puissance de la puanteur du sac,Beutel-Geruchsstärke,,Fuerza de olor en mochila
 lblBeltSmllRng,UI,Item Info,KgNone,Belt Smell Range,Portée de la puanteur de la ceinture,Gürtel-Geruchsradius,,Rango de olor en cinturón
 lblBeltSmllStr,UI,Item Info,KgNone,Belt Smell Str.,Puissance de la puanteur de la ceinture,Gürtel-Geruchsstärke,,Fuerza de olor en cinturón
-lblBlkDmg,UI,Item Info,KgNone,Block Damage,Dégâts de bloc,Blockschaden,,Daño en bloque
-lblBlkRpr,UI,Item Info,KgNone,Block Repair,Réparation de bloc,Block reparieren,,Reparación de bloqueo
+lblBlkDmg,UI,Item Info,KgNone,対物ダメージ,Block Damage,Blockschaden,,Daño en bloque
+lblBlkRpr,UI,Item Info,KgNone,ブロック修理量,Block Repair,Block reparieren,,Reparación de bloqueo
 lblBookDesc,UI,Item Info,KgNone,Description,Description,Beschreibung,,Descripción
 lblBookTitle,UI,Item Info,KgNone,Title,Titre,Titel,,Título
 lblBrnTime,UI,Item Info,KgNone,燃焼時間,Durée de combustion,Brenndauer,,Tiempo de combustión
@@ -2006,7 +2006,7 @@ lblDurability,UI,Item Info,KgNone,耐久度,Durability,Haltbarkeit,,Durabilidad
 lblEffect,UI,Item Info,KgNone,効果,Effect,Effekt,,Efecto
 lblEffectChance,UI,Item Info,KgNone,Effect Chance,Chance de l'effet,Effekt-Chance,,Probabilidad de efecto
 lblEffectDescription,UI,Item Info,KgNone,Effect Description,Description de l'effet,Effekt-Beschreibung,,Descripción de efecto
-lblEntDmg,UI,Item Info,KgNone,Entity Damage,Dégâts d'entité,Wesen-Schaden,,Daño a entidades
+lblEntDmg,UI,Item Info,KgNone,耐生物ダメージ,Entity Damage,Wesen-Schaden,,Daño a entidades
 lblExpertise,UI,Item Info,KgNone,Expertise,Expertise,Expertise,,Experiencia
 lblForgeMat,UI,Item Info,KgNone,材質,Forge Material,Material für die Schmiede,,Material de forja
 lblForgeWeight,UI,Item Info,KgNone,鍛造重量,Forge Weight,Gewicht der Schmiede,,Peso de forja
@@ -2030,7 +2030,7 @@ lblQualityGreat,UI,Item Info,KgNone,Fine {0},{0} d'exception,{0} (ausgezeichnet)
 lblQualityLegendary,UI,Item Info,KgNone,Flawless {0},{0} impeccable,{0} (makellos),,Perfecto {0}
 lblQualityPoor,UI,Item Info,KgNone,Poor {0},{0} de piètre qualité,{0} (schlecht),,Deficiente {0}
 lblRepairAmount,UI,Item Info,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
-lblRepairItem,UI,Item Info,KgNone,修理キット:,Repair:,Reparieren:,,Reparar:
+lblRepairItem,UI,Item Info,KgNone,修理素材:,Repair:,Reparieren:,,Reparar:
 lblRepairItems,UI,Item Info,KgNone,Repair items:\n,Réparer les objets :\n,Gegenstände reparieren:\n,,Reparar objetos:\n
 lblRmvEffect,UI,Item Info,KgNone,除去,Removes,Entfernt,,Elimina
 lblStamina,UI,Item Info,KgNone,スタミナ,Stamina,Ausdauer,,Resistencia
