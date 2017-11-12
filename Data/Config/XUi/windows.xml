@@ -1596,43 +1596,43 @@
 	</window>
 
 	<!--#$-IGS BEGIN: Adding cursor area. -$#-->
-	<window name="windowQuestDescription" width="653" height="312" panel="Center" controller="QuestDescriptionWindow" cursor_area="true" >
+	<window name="windowQuestDescription" width="753" height="382" panel="Center" controller="QuestDescriptionWindow" cursor_area="true" >
 	<!--#$-IGS END.-$#-->
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_quest"/>
 			<label style="header.name" text="{questtitle}" width="500" />
 		</panel>
-		<rect name="content" pos="0,-46" height="266" depth="1">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="653" height="266" color="[black]" type="sliced" fillcenter="false" />
+		<rect name="content" pos="0,-46" height="336" depth="1">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="753" height="336" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
-			<label depth="3" name="descriptionText" pos="8,-8" text="{questdescription}" width="630" height="205" font_size="28" overflow="resizeheight" />
+			<label depth="3" name="descriptionText" pos="8,-8" text="{questdescription}" width="730" height="275" font_size="28" overflow="resizeheight" />
 			<rect visible="{showempty}">
-				<label pos="0,-120" depth="3" name="descriptionText" width="100%" height="65" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
+				<label pos="0,-160" depth="3" name="descriptionText" width="100%" height="100%" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
 			</rect>
 		</rect>
 	</window>
 
 	<!--#$-IGS BEGIN: Adding cursor area. -$#-->
-	 <window name="windowQuestObjectives" width="653" height="240" panel="Center" controller="QuestObjectivesWindow" cursor_area="true" >
+	 <window name="windowQuestObjectives" width="753" height="240" panel="Center" controller="QuestObjectivesWindow" cursor_area="true" >
  	<!--#$-IGS END.-$#-->
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_quest"/>
 			<label style="header.name" text="OBJECTIVES" text_key="xuiObjectives" />
-			<label depth="2" pos="545,-8" width="100" height="28" text="{questdifficulty}" color="[lightGrey]" justify="right" upper_case="true" />
+			<label depth="2" pos="645,-8" width="100" height="28" text="{questdifficulty}" color="[lightGrey]" justify="right" upper_case="true" />
 
 		</panel>
 		<rect name="content" pos="0,-46" height="194" depth="1">
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
 			<rect visible="{showquest}">
-				<grid name="objectiveList" rows="5" cols="2" pos="12,-10" width="300" height="184" cell_width="300" cell_height="30" repeat_content="true" arrangement="horizontal" controller="QuestObjectiveList">
+				<grid name="objectiveList" rows="5" cols="2" pos="12,-10" width="350" height="184" cell_width="350" cell_height="30" repeat_content="true" arrangement="horizontal" controller="QuestObjectiveList">
 					<quest_objective_entry name="0" />
 				</grid>
 				<!-- <sprite depth="8" name="backgroundMain2" sprite="menu_empty3px" pos="0,-220" width="653" height="40" color="[black]" type="sliced" fillcenter="false" visible="{showqequirements}" />	 -->
-				<label depth="3" pos="8, -165" text="{questrequirementstitle}: {questrequirements}" width="590" visible="{showrequirements}" height="30" />
+				<label depth="3" pos="8, -165" text="{questrequirementstitle}: {questrequirements}" width="690" visible="{showrequirements}" height="30" />
 			</rect>
 			<rect visible="{showempty}">
-				<label pos="0,-70" depth="3" name="descriptionText" width="100%" height="65" text="OBJECTIVES NOT AVAILABLE AT THIS TIME." text_key="xuiObjectivesNotAvailable" justify="center" font_size="28" />
+				<label pos="0,-70" depth="3" name="descriptionText" width="100%" height="100%" text="OBJECTIVES NOT AVAILABLE AT THIS TIME." text_key="xuiObjectivesNotAvailable" justify="center" font_size="28" />
 			</rect>
 		</rect>
 	</window>
@@ -1640,7 +1640,7 @@
 
 
 	<!--#$-IGS BEGIN: Adding cursor area. -$#-->
-	<window name="windowQuestRewards" width="653" height="199" panel="Center" controller="QuestRewardsWindow" cursor_area="true" >
+	<window name="windowQuestRewards" width="753" height="199" panel="Center" controller="QuestRewardsWindow" cursor_area="true" >
 	<!--#$-IGS END.-$#-->
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_quest"/>
@@ -1651,30 +1651,30 @@
 			<sprite depth="2" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
 			<rect visible="{showquest}">
-				<grid name="rewardList" rows="5" cols="1" pos="12,-10" width="600" height="368" cell_width="300" cell_height="30" repeat_content="true" arrangement="vertical" controller="QuestRewardList">
+				<grid name="rewardList" rows="5" cols="1" pos="12,-10" width="700" height="368" cell_width="350" cell_height="30" repeat_content="true" arrangement="vertical" controller="QuestRewardList">
 					<quest_reward_entry name="0" />
 				</grid>
 			</rect>
 			<rect visible="{showempty}">
-				<label pos="0,-65" depth="3" name="descriptionText" width="100%" height="65" text="REWARDS NOT AVAILABLE AT THIS TIME." text_key="xuiRewardsNotAvailable" justify="center" font_size="28" />
+				<label pos="0,-65" depth="3" name="descriptionText" width="100%" height="100%" text="REWARDS NOT AVAILABLE AT THIS TIME." text_key="xuiRewardsNotAvailable" justify="center" font_size="28" />
 			</rect>
 		</rect>
 	</window>
 
 	<!--#$-IGS BEGIN: Adding cursor area. Expanding the quest offer window to accommodate other lanugagues longer descriptions-$#-->
-	<window name="windowTip" width="603" height="363" pos="-300, 150" controller="TipWindow" anchor="CenterCenter" pivot="center" depth="15" cursor_area="true">
+	<window name="windowTip" width="803" height="463" pos="-400, 200" controller="TipWindow" anchor="CenterCenter" pivot="center" depth="15" cursor_area="true">
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header" >
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_pen"/>
-			<label style="header.name" text="{tiptitle}" width="550" />
+			<label style="header.name" text="{tiptitle}" width="750" />
 		</panel>
-		<rect name="content" pos="0,-46" height="319" depth="1" pivot="center">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="603" color="[black]" type="sliced" fillcenter="false" />
+		<rect name="content" pos="0,-46" height="419" depth="1" pivot="center">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="803" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
-			<label depth="3" name="descriptionText" pos="8,-8" text="{tiptext}" width="590" font_size="30" overflow="resizeheight" />
+			<label depth="3" name="descriptionText" pos="8,-8" text="{tiptext}" width="790" font_size="30" overflow="resizeheight" />
 
-			<rect name="btnContinue" depth="3" pos="0, -277" height="42" >
+			<rect name="btnContinue" depth="3" pos="0, -377" height="42" >
 				<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" />
-				<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="224" height="32" color="[darkGrey]" type="sliced" />
+				<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="324" height="32" color="[darkGrey]" type="sliced" />
 				<rect depth="3" pos="0,0" height="42">
 					<button name="clickable" sprite="menu_empty" defaultcolor="[mediumGrey]" hoversprite="ui_game_select_row" hovercolor="[white]" type="sliced" hoverscale="1.0"/>
 
@@ -1698,7 +1698,7 @@
 	</window>
 
 	<!--#$-IGS BEGIN: Adding cursor area. Expanding the quest offer window to accommodate other lanugagues longer descriptions-$#-->
-	<window name="windowQuestOffer" width="603" height="413" pos="-300, 150" controller="QuestOfferWindow" anchor="CenterCenter" pivot="center" depth="15" cursor_area="true" >
+	<window name="windowQuestOffer" width="803" height="463" pos="-400, 200" controller="QuestOfferWindow" anchor="CenterCenter" pivot="center" depth="15" cursor_area="true" >
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header" >
 			<sprite pos="4,-5" depth="2" name="windowIcon" style="icon32px" sprite="{questicon}"/>
 			<label style="header.name" text="{questname}" width="500" />
@@ -1706,18 +1706,18 @@
 
 			<!-- <button pos="550,-5" depth="2" name="closeButton" style="icon32px" sprite="ui_game_symbol_x" defaultcolor="[red]" /> -->
 		</panel>
-		<panel name="content" pos="0,-46" height="329" depth="1" backgroundcolor="[darkGrey]" bordercolor="[black]" borderthickness="3" pivot="center">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="603" height="329" color="[black]" type="sliced" fillcenter="false" />
-			<label depth="3" name="descriptionText" pos="6,-5" text="{questoffer}" width="590" font_size="30" overflow="resizeheight" />
+		<panel name="content" pos="0,-46" height="379" depth="1" backgroundcolor="[darkGrey]" bordercolor="[black]" borderthickness="3" pivot="center">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="803" height="379" color="[black]" type="sliced" fillcenter="false" />
+			<label depth="3" name="descriptionText" pos="6,-5" text="{questoffer}" width="790" font_size="30" overflow="resizeheight" />
 
 			<!-- <button pos="200,-220" depth="2" name="acceptButton" style="icon32px" sprite="ui_game_symbol_check" defaultcolor="[green]"/>
 			<button pos="400,-220" depth="2" name="declineButton" style="icon32px" sprite="ui_game_symbol_x" defaultcolor="[red]"/> -->
 		</panel>
 
-		<rect name="btnAccept" depth="3" pos="0, -378" height="36" disableautobackground="true">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" width="303" />
-			<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="224" height="32" color="[darkGrey]" type="sliced" />
-			<rect depth="3" pos="0,-3" width="303" height="31">
+		<rect name="btnAccept" depth="3" pos="0, -428" height="36" disableautobackground="true">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" width="403" />
+			<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="324" height="32" color="[darkGrey]" type="sliced" />
+			<rect depth="3" pos="0,-3" width="403" height="31">
 				<button name="clickable" sprite="menu_empty" defaultcolor="[mediumGrey]" hoversprite="ui_game_select_row" hovercolor="[white]" type="sliced" hoverscale="1.0"/>
 				<sprite depth="2" name="windowIcon" width="24" height="24" pos="46,-3" sprite="ui_game_symbol_check" color="[black_half_alpha]"/>
 				<sprite depth="2" name="windowIcon" width="24" height="24" pos="44,-3" sprite="ui_game_symbol_check" color="[black_half_alpha]"/>
@@ -1729,10 +1729,10 @@
 				<label depth="2" name="windowName" pos="0,-2" justify="center" text="ACCEPT" text_key="xuiAccept" effect="outline" />
 			</rect>
 		</rect>
-		<rect name="btnDecline" depth="3" pos="300, -378" height="36" disableautobackground="true">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" width="303" />
-			<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="224" height="32" color="[darkGrey]" type="sliced" />
-			<rect depth="3" pos="0,-3" width="303" height="31">
+		<rect name="btnDecline" depth="3" pos="400, -428" height="36" disableautobackground="true">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" color="[black]" type="sliced" fillcenter="false" width="403" />
+			<sprite depth="2" name="background" pos="3,-3" sprite="menu_empty" width="324" height="32" color="[darkGrey]" type="sliced" />
+			<rect depth="3" pos="0,-3" width="403" height="31">
 				<button name="clickable" sprite="menu_empty" defaultcolor="[mediumGrey]" hoversprite="ui_game_select_row" hovercolor="[white]" type="sliced" hoverscale="1.0"/>
 				<sprite depth="2" name="windowIcon" width="24" height="24" pos="46,-3" sprite="ui_game_symbol_x" color="[black_half_alpha]"/>
 				<sprite depth="2" name="windowIcon" width="24" height="24" pos="44,-3" sprite="ui_game_symbol_x" color="[black_half_alpha]"/>
@@ -1891,18 +1891,18 @@
 		</rect>
 	</window>
 
-	<window name="windowJournalEntryDescription" width="653" height="412" panel="Center" controller="JournalEntryDescriptionWindow" cursor_area="true" >
+	<window name="windowJournalEntryDescription" width="653" height="812" panel="Center" controller="JournalEntryDescriptionWindow" cursor_area="true" >
 		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header">
 			<sprite depth="2" name="windowIcon" style="icon32px" pos="4,-5" sprite="ui_game_symbol_pen"/>
 			<label depth="2" pos="345,-8" width="300" height="28" text="{timestamp}" color="[lightGrey]" justify="right" upper_case="true" />
 			<label style="header.name" text="{entrytitle}" width="500" />
 		</panel>
-		<rect name="content" pos="0,-46" height="366" depth="1">
-			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="653" height="366" color="[black]" type="sliced" fillcenter="false" />
+		<rect name="content" pos="0,-46" height="766" depth="1">
+			<sprite depth="8" name="backgroundMain" sprite="menu_empty3px" pos="0,0" width="653" height="766" color="[black]" type="sliced" fillcenter="false" />
 			<sprite color="[darkGrey]" type="sliced" />
-			<label depth="3" name="descriptionText" pos="8,-8" text="{entrydescription}" width="630" height="350" font_size="28" />
+			<label depth="3" name="descriptionText" pos="8,-8" text="{entrydescription}" width="630" height="750" font_size="28" />
 			<rect visible="{showempty}">
-				<label pos="0,-170" depth="3" name="descriptionText" width="100%" height="65" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
+				<label pos="0,-370" depth="3" name="descriptionText" width="100%" height="100%" text="DESCRIPTION NOT AVAILABLE AT THIS TIME." text_key="xuiDescriptionNotAvailable" justify="center" font_size="28" />
 			</rect>
 		</rect>
 	</window>
