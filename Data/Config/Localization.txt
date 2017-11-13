@@ -1287,7 +1287,7 @@ gasMaskDesc,items,Clothes,KgNone,A gas mask provides a little face protection.,L
 goggles,items,Clothes,KgNone,Goggles,Lunettes de protection,Schutzbrille,,Gafas de buceo
 gogglesDesc,items,Clothes,KgNone,Goggles provide a little face protection.,Ces lunettes protègent légèrement le visage.,Die Schutzbrille schützt das Gesicht leicht.,,Las gafas de buceo proporcionan algo de protección facial.
 hazmatBoots,items,Clothes,KgNone,Hazmat Boots,Bottes de protection,Schutzanzugstiefel,,Botas de material peligroso
-hazmatClothesGroupDesc,items,Clothes,KgNone,"Hazmat gear not only protects you from radiation, it can keep you dry and reasonably warm.","L'équipement de protection vous protège non seulement contre les radiations, mais également contre l'humidité et le froid.","Der Schutzanzug schützt nicht nur vor Strahlung, sondern auch vor Wasser und hält relativ warm.",,"El equipamiento de material peligroso no solo te protege de la radiación, sino que también te mantiene seco y bastante abrigado."
+hazmatClothesGroupDesc,items,Clothes,KgNone,化学防具は、放射線から保護するだけでなく、乾燥と適度な暖かさを保つことができます。,"Hazmat gear not only protects you from radiation, it can keep you dry and reasonably warm.","Der Schutzanzug schützt nicht nur vor Strahlung, sondern auch vor Wasser und hält relativ warm.",,"El equipamiento de material peligroso no solo te protege de la radiación, sino que también te mantiene seco y bastante abrigado."
 hazmatGloves,items,Clothes,KgNone,Hazmat Gloves,Gants de protection,Schutzanzughandschuhe,,Guantes de material peligroso
 hazmatMask,items,Clothes,KgNone,Hazmat Mask,Masque de protection,Schutzanzugmaske,,Máscara de material peligroso
 hazmatPants,items,Clothes,KgNone,Hazmat Pants,Pantalon de protection,Schutzanzughose,,Pantalones de material peligroso
@@ -1305,12 +1305,12 @@ kevlarHelmetDesc,items,Clothes,KgNone,The Kevlar helmet offers the very best dam
 kevlarLegArmor,items,Clothes,KgNone,Kevlar Leg Armor,Jambières en kevlar,Kevlar-Beinschienen,,Greba de Kevlar
 kevlarVest,items,Clothes,KgNone,Kevlar Vest,Gilet en kevlar,Kevlar-Weste,,Chaleco de Kevlar
 leatherBoots,items,Clothes,KgNone,Leather Boots,Bottes en cuir,Lederstiefel,,Botas de cuero
-leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は、外気や風雨の備えとして断熱効果で重ね着したり、その他のダメージに対しても有効です。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
+leatherClothesGroupDesc,items,Clothes,KgNone,革製の衣服は、外気や風雨の備えとして重ね着で断熱効果を得たり、その他のダメージに対しても有効です。,Leather clothing provides a great combination of insulation from the weather and protection from other damage types.,Lederkleidung kombiniert sehr guten Schutz vor den Witterungen und Schutz vor anderen Schadensarten.,,La ropa de cuero ofrece una gran combinación de aislamiento térmico y protección contra otros tipos de daños.
 leatherGloves,items,Clothes,KgNone,Leather Gloves,Gants en cuir,Lederhandschuhe,,Guantes de cuero
 leatherHood,items,Clothes,KgNone,Leather Hood,Capuche en cuir,Lederkapuze,,Capucha de cuero
 leatherJacket,items,Clothes,KgNone,Leather Chest Armor,Plastron en cuir,Lederbrustpanzer,,Coraza de cuero
 leatherPants,items,Clothes,KgNone,Leather Leg Armor,Jambières en cuir,Lederbeinschienen,,Espinillera de cuero
-militaryArmorGroupDesc,items,Clothes,KgNone,Military armor provides the best armor defense and moderate weather protection.,L'armure militaire offre une protection optimale en tant qu'armure et une protection modérée contre les intempéries.,Militärische Ausrüstung bietet den besten Rüstungsschutz und einen moderaten Schutz vor der Witterung.,,La armadura militar proporciona la mejor defensa de armadura y protección moderada contra el clima.
+militaryArmorGroupDesc,items,Clothes,KgNone,軍用装備は、最高の防具であり温暖な気候からも保護してくれます。,Military armor provides the best armor defense and moderate weather protection.,Militärische Ausrüstung bietet den besten Rüstungsschutz und einen moderaten Schutz vor der Witterung.,,La armadura militar proporciona la mejor defensa de armadura y protección moderada contra el clima.
 militaryBoots,items,Clothes,KgNone,Military Boots,Bottes militaires,Militärstiefel,,Botas militares
 militaryGloves,items,Clothes,KgNone,Military Gloves,Gants militaires,Militärhandschuhe,,Guanteletes militares
 militaryHelmet,items,Clothes,KgNone,Military Helmet,Casque militaire,Militärhelm,,Casco militar
@@ -3787,7 +3787,7 @@ ballCapBlue,items,Clothes,New,Blue Baseball Cap,,,,
 ballCapBrown,items,Clothes,New,Brown Baseball Cap,,,,
 ballCapGreen,items,Clothes,New,Green Baseball Cap,,,,
 ballCapRed,items,Clothes,New,Red Baseball Cap,,,,
-banditArmorGroupDesc,items,Clothes,New,It may look like junk but it was worn by a survivor so it clearly works.,,,,
+banditArmorGroupDesc,items,Clothes,New,廃品のように見えますが、生存者が着ながらも問題なく動けているようです。,It may look like junk but it was worn by a survivor so it clearly works.,,,
 cowboyBootsBlack,items,Clothes,New,Black Cowboy Boots,,,,
 cowboyBootsBrown,items,Clothes,New,Cowboy Boots,,,,
 denimShortsPants,items,Clothes,New,White Shorts,,,,
