@@ -1277,7 +1277,7 @@ clothJacket,items,Clothes,KgNone,Cloth Chest Armor,Plastron en tissu,Stoffbrustp
 clothPants,items,Clothes,KgNone,Cloth Leg Armor,Jambières en tissu,Stoffbeinschienen,,Espinillera de tela
 cowboyHat,items,Clothes,KgNone,Cowboy Hat,Chapeau de cowboy,Cowboyhut,,Sombrero de vaquero
 cowboyHatGroupDesc,items,Clothes,KgNone,粋なテンガロン・ハットをかぶれば、かっこよく見え暑い環境でも涼しく保ってくれます。,Look cool and keep your cool in hotter environments when you wear this stylish ten gallon hat.,Dieser stilsichere und breitrandige Cowboyhut sieht gut aus und schützt vor der Hitze.,,Mantente fresco y luce cool con tu sombrero de vaquero.
-denimClothesGroupDesc,items,Clothes,KgNone,上質のデニムの衣服は、本当に心地よく天候やその他のダメージに対する保護も僅かにあります。,Be really comfortable & get a little protection against the weather and other damage types in this fine denim apparel.,Denim-Kleidung sitzt perfekt und schützt etwas vor der Witterung und anderen Schadensarten.,,Siéntete completamente cómodo al tiempo que te proteges un poco del clima y otros tipos de daño con este conjunto de mezclilla.
+denimClothesGroupDesc,items,Clothes,KgNone,上質なデニムの衣服は、本当に心地よく天候やその他のダメージに対する保護が僅かにあります。,Be really comfortable & get a little protection against the weather and other damage types in this fine denim apparel.,Denim-Kleidung sitzt perfekt und schützt etwas vor der Witterung und anderen Schadensarten.,,Siéntete completamente cómodo al tiempo que te proteges un poco del clima y otros tipos de daño con este conjunto de mezclilla.
 denimJacket,items,Clothes,KgNone,Denim Jacket,Veste en jean,Denim-Jacke,,Chaqueta de mezclilla
 denimPants,items,Clothes,KgNone,Blue Denim Pants,Jean bleu,Blaue Denim-Hose,,Pantalones de mezclilla azules
 footballHelmet,items,Clothes,KgNone,Football Helmet,Casque de football américain,Footballhelm,,Casco de fútbol americano
@@ -1340,7 +1340,7 @@ pufferCoat,items,Clothes,KgNone,Puffer Coat,Doudoune,Puffermantel,,Abrigo acolch
 pufferCoatBlack,items,Clothes,KgNone,Black Puffer Coat,Doudoune noire,Schwarzer Puffermantel,,Abrigo acolchado negro
 pufferCoatBrown,items,Clothes,KgNone,Brown Puffer Coat,Doudoune marron,Brauner Puffermantel,,Abrigo acolchado marrón
 pufferCoatGreen,items,Clothes,KgNone,Green Puffer Coat,Doudoune verte,Grüner Puffermantel,,Abrigo acolchado verde
-pufferCoatGroupDesc,items,Clothes,KgNone,Keep toasty warm even in the coldest environments with this hand quilted Puffer Coat.,Restez au chaud dans les environnements les plus froids grâce à cette doudoune tissée à la main.,Mit diesem per Hand wattierten Puffermantel bleibst du selbst in den kältesten Gegenden gemütlich warm.,,Mantente abrigado incluso en los entornos más gélidos con este abrigo acolchado hecho a mano.
+pufferCoatGroupDesc,items,Clothes,KgNone,冷え込みがきつい季節でも、手作りのキルティングパッファーコートで快適な暖かさを保ちます。,Keep toasty warm even in the coldest environments with this hand quilted Puffer Coat.,Mit diesem per Hand wattierten Puffermantel bleibst du selbst in den kältesten Gegenden gemütlich warm.,,Mantente abrigado incluso en los entornos más gélidos con este abrigo acolchado hecho a mano.
 pufferCoatRed,items,Clothes,KgNone,Red Puffer Coat,Doudoune rouge,Roter Puffermantel,,Abrigo acolchado rojo
 redDenimPants,items,Clothes,KgNone,Red Denim Pants,Jean rouge,Rote Denim-Hose,,Pantalones de mezclilla rojos
 scrapBoots,items,Clothes,KgNone,Scrap Boots,Bottes recyclées,Alteisenstiefel,,Botas hechas de chatarra
@@ -1354,7 +1354,7 @@ shirt,items,Clothes,KgNone,Shirt,Chemises,Hemd,,Camisa
 shirtBlack,items,Clothes,KgNone,Black Shirt,Chemise noire,Schwarzes Hemd,,Camisa negra
 shirtBlue,items,Clothes,KgNone,Blue Shirt,Chemise bleue,Blaues Hemd,,Camisa azul
 shirtBrown,items,Clothes,KgNone,Brown Shirt,Chemise marron,Braunes Hemd,,Camisa marrón
-shirtClothesGroupDesc,items,Clothes,KgNone,Get a little protection against the weather and other damage types with this fine cotton shirt.,Portez cette jolie chemise en coton pour vous protéger contre les intempéries et autres sortes de dégâts.,Erhalte mit diesem Baumwollhemd etwas Schutz gegen die Witterungen und andere Schadensarten.,,Obtén un poco de protección contra el clima y otros tipos de daño con esta camisa de algodón.
+shirtClothesGroupDesc,items,Clothes,KgNone,上質な綿のシャツは、天候やその他のダメージに対する保護が僅かにあります。,Get a little protection against the weather and other damage types with this fine cotton shirt.,Erhalte mit diesem Baumwollhemd etwas Schutz gegen die Witterungen und andere Schadensarten.,,Obtén un poco de protección contra el clima y otros tipos de daño con esta camisa de algodón.
 shirtGreen,items,Clothes,KgNone,Green Shirt,Chemise verte,Grünes Hemd,,Camisa verde
 shirtRed,items,Clothes,KgNone,Red Shirt,Chemise rouge,Rotes Hemd,,Camisa roja
 skullCap,items,Clothes,KgNone,Skull Cap,Bonnet,Mütze,,Casquete
@@ -1373,7 +1373,7 @@ sweatshirtBrown,items,Clothes,KgNone,Brown Sweatshirt,Sweat-shirt marron,Braunes
 sweatshirtGreen,items,Clothes,KgNone,Green Sweatshirt,Sweat-shirt vert,Grünes Sweatshirt,,Suéter verde
 sweatshirtRed,items,Clothes,KgNone,Red Sweatshirt,Sweat-shirt rouge,Rotes Sweatshirt,,Suéter rojo
 tankTopBlue,items,Clothes,KgNone,Blue Tank Top,Débardeur bleu,Blaues Muskelshirt,,Camiseta de tirantes azul
-tankTopClothesGroupDesc,items,Clothes,KgNone,Show off your biceps while getting a little protection against the weather and other damage types with this cotton tank top.,Exposez vos biceps tout en étant légèrement protégé contre les intempéries et d'autres sortes de dégâts avec ce débardeur en coton.,Gib mit deinem Bizeps an und erhalte mit diesem Muskelshirt aus Baumwolle gleichzeitig etwas Schutz vor den Witterungen und anderen Schadensarten.,,Luce tus bíceps y consigue algo de protección contra el clima y otros tipos de daño con esta camiseta de tirantes de algodón.
+tankTopClothesGroupDesc,items,Clothes,KgNone,綿のタンクトップは、上腕二頭筋を目立たせ天候やその他のダメージに対する保護が僅かにあります。,Show off your biceps while getting a little protection against the weather and other damage types with this cotton tank top.,Gib mit deinem Bizeps an und erhalte mit diesem Muskelshirt aus Baumwolle gleichzeitig etwas Schutz vor den Witterungen und anderen Schadensarten.,,Luce tus bíceps y consigue algo de protección contra el clima y otros tipos de daño con esta camiseta de tirantes de algodón.
 tankTopGreen,items,Clothes,KgNone,Green Tank Top,Débardeur vert,Grünes Muskelshirt,,Camiseta de tirantes verde
 tankTopPurple,items,Clothes,KgNone,Purple Tank Top,Débardeur violet,Lila Muskelshirt,,Camiseta de tirantes lila
 tankTopRed,items,Clothes,KgNone,Red Tank Top,Débardeur rouge,Rotes Muskelshirt,,Camiseta de tirantes roja
@@ -1381,7 +1381,7 @@ tankTopWhite,items,Clothes,KgNone,White Tank Top,Débardeur blanc,Weißes Muskel
 tshirtBlack,items,Clothes,KgNone,Black T-Shirt,T-shirt noir,Schwarzes T-Shirt,,Camiseta negra
 tshirtBlue,items,Clothes,KgNone,Blue T-Shirt,T-shirt bleu,Blaues T-Shirt,,Camiseta azul
 tshirtBrown,items,Clothes,KgNone,Brown T-Shirt,T-shirt marron,Braunes T-Shirt,,Camiseta marrón
-tshirtClothesGroupDesc,items,Clothes,KgNone,Show off your biceps while getting a little protection against the weather and other damage types with this cotton shirt.,Exposez vos biceps tout en étant légèrement protégé contre les intempéries et d'autres sortes de dégâts avec ce t-shirt en coton.,Gib mit deinem Bizeps an und erhalte mit diesem Baumwollhemd gleichzeitig etwas Schutz vor den Witterungen und anderen Schadensarten.,,Luce tus bíceps y consigue algo de protección contra el clima y otros tipos de daño con esta camisa de algodón.
+tshirtClothesGroupDesc,items,Clothes,KgNone,綿のシャツは、上腕二頭筋を目立たせ天候やその他のダメージに対する保護が僅かにあります。,Show off your biceps while getting a little protection against the weather and other damage types with this cotton shirt.,Gib mit deinem Bizeps an und erhalte mit diesem Baumwollhemd gleichzeitig etwas Schutz vor den Witterungen und anderen Schadensarten.,,Luce tus bíceps y consigue algo de protección contra el clima y otros tipos de daño con esta camisa de algodón.
 tshirtGreen,items,Clothes,KgNone,Green T-Shirt,T-shirt vert,Grünes T-Shirt,,Camiseta verde
 tshirtRed,items,Clothes,KgNone,Red T-Shirt,T-shirt rouge,Rotes T-Shirt,,Camiseta roja
 tshirtWhite,items,Clothes,KgNone,White T-Shirt,T-shirt blanc,Weißes T-Shirt,,Camiseta blanca
