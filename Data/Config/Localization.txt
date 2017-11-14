@@ -1699,7 +1699,7 @@ minibike,items,Part,KgNone,Minibike,Mini-moto,Taschenmotorrad,,Minimoto
 minibikeChassis,items,Part,KgNone,Minibike Chassis,Châssis de mini-moto,Taschenmotorrad-Fahrwerk,,Chasis de la minimoto
 minibikeChassisDesc,items,Part,KgNone,ツールベルトにシャーシを置いてください、そして地面に置いてミニバイクの組立を開始してください。,Put the chassis on your toolbelt and place it on the ground to start assembling a minibike.,"Gib das Fahrwerk in deinen Werkzeuggürtel und platziere es auf dem Boden, um das Taschenmotorrad zusammenzusetzen.",,Pon el chasis en el cinturón y déjalo en el suelo para empezar a armar la minimoto.
 minibikeHandlebars,items,Part,KgNone,Minibike Handlebars,Guidon de mini-moto,Taschenmotorrad-Lenker,,Manillar de la minimoto
-minibikePartsGroupDesc,items,Part,KgNone,小型バイクの部品です。設計図([00ff00]Minibikes For Dumbshits[-])を読んだら、車体([00ff00]Minibike Chassis[-])を地面に置いて他の部品を組み込んでいきましょう。,A part of the minibike. Assemble with other parts and set into a placed chassis once you've read the schematic.,"Ein Teil von einem Taschenmotorrad. Setze es mit den anderen Teilen zusammen und platziere es in ein Fahrwerk, wenn du den Bauplan gelesen hast.",,"Una parte de una minimoto. Una vez que has leído el esquema, ármala con otras partes e introdúcelas en un chasis."
+minibikePartsGroupDesc,items,Part,KgNone,ミニバイクの部品です。設計図([00ff00]Minibikes For Dumbshits[-])を読んだら、車体([00ff00]Minibike Chassis[-])を地面に置いて他の部品を組み込んでいきましょう。,A part of the minibike. Assemble with other parts and set into a placed chassis once you've read the schematic.,"Ein Teil von einem Taschenmotorrad. Setze es mit den anderen Teilen zusammen und platziere es in ein Fahrwerk, wenn du den Bauplan gelesen hast.",,"Una parte de una minimoto. Una vez que has leído el esquema, ármala con otras partes e introdúcelas en un chasis."
 minibikeSeat,items,Part,KgNone,Minibike Seat,Siège de mini-moto,Taschenmotorrad-Sitzbank,,Asiento de la minimoto
 minibikeWheels,items,Part,KgNone,Minibike Wheels,Roues de mini-moto,Taschenmotorrad-Räder,,Ruedas de la minimoto
 padlock,items,Part,KgNone,Padlock,Cadenas,Vorhängeschloss,,Candado
@@ -2021,14 +2021,14 @@ lblKnown,UI,Item Info,KgNone,習得,Connu,Bekannt,,Conocidos
 lblMass,UI,Item Info,KgNone,質量,Mass,Masse,,Masa
 lblMaxLoad,UI,Item Info,KgNone,最大荷重,Max Load,Max. Belastung,,Carga máxima
 lblProtection,UI,Item Info,KgNone,Protection,Protection,Schutz,,Protección
-lblQuality,UI,Item Info,KgNone,Quality,Qualité,Qualität,,Calidad
-lblQualityAverage,UI,Item Info,KgNone,Good {0},{0} standard,{0} (gut),,Aceptable {0}
-lblQualityBroken,UI,Item Info,KgNone,Broken {0},{0} cassé(e),{0} (beschädigt),,Averiado {0}
-lblQualityDamaged,UI,Item Info,KgNone,Faulty {0},{0} défectueux,{0} (fehlerhaft),,Defectuoso {0}
-lblQualityFlawless,UI,Item Info,KgNone,Great {0},{0} super,{0} (großartig),,Genial {0}
-lblQualityGreat,UI,Item Info,KgNone,Fine {0},{0} d'exception,{0} (ausgezeichnet),,Bien {0}
-lblQualityLegendary,UI,Item Info,KgNone,Flawless {0},{0} impeccable,{0} (makellos),,Perfecto {0}
-lblQualityPoor,UI,Item Info,KgNone,Poor {0},{0} de piètre qualité,{0} (schlecht),,Deficiente {0}
+lblQuality,UI,Item Info,KgNone,品質,Quality,Qualität,,Calidad
+lblQualityAverage,UI,Item Info,KgNone,良質の{0},Good {0},{0} (gut),,Aceptable {0}
+lblQualityBroken,UI,Item Info,KgNone,故障した{0},Broken {0},{0} (beschädigt),,Averiado {0}
+lblQualityDamaged,UI,Item Info,KgNone,欠陥のある{0},Faulty {0},{0} (fehlerhaft),,Defectuoso {0}
+lblQualityFlawless,UI,Item Info,KgNone,最高の{0},Great {0},{0} (großartig),,Genial {0}
+lblQualityGreat,UI,Item Info,KgNone,上質の{0},Fine {0},{0} (ausgezeichnet),,Bien {0}
+lblQualityLegendary,UI,Item Info,KgNone,完璧な{0},Flawless {0},{0} (makellos),,Perfecto {0}
+lblQualityPoor,UI,Item Info,KgNone,貧弱な{0},Poor {0},{0} (schlecht),,Deficiente {0}
 lblRepairAmount,UI,Item Info,KgNone,Repair Amount,Réparer la quantité,Reparaturwert,,Cantidad para reparar
 lblRepairItem,UI,Item Info,KgNone,修理素材:,Repair:,Reparieren:,,Reparar:
 lblRepairItems,UI,Item Info,KgNone,Repair items:\n,Réparer les objets :\n,Gegenstände reparieren:\n,,Reparar objetos:\n
@@ -2315,7 +2315,7 @@ lblDuplicateGame,UI,Menu,KgNone,Duplicate Game Name!,Nom de la partie en double�
 lblEnterLoginInfo,UI,Menu,KgNone,Please enter your login information from the website:,Veuillez saisir vos informations de connexion du site Web :,Bitte gib deine Anmeldedaten von der Webseite an:,,Introduce tu información de inicio de sesión del sitio web:
 lblEntities,UI,Menu,KgNone,Entities:,Entités :,Wesen:,,Entidades:
 lblFOV,UI,Menu,KgNone,Field of View:,Champ de vision :,Sichtfeld:,,Campo de visión:
-lblFuel,UI,Menu,KgNone,Fuel,Carburant,Brennstoff,,Combustible
+lblFuel,UI,Menu,KgNone,燃料,Fuel,Brennstoff,,Combustible
 lblFullscreen,UI,Menu,KgNone,Fullscreen,Plein écran,Vollbild,,Pantalla completa
 lblGameName,UI,Menu,KgNone,Game Name:,Nom de la partie:,Spielname:,,Nombre de la partida:
 lblGamma,UI,Menu,KgNone,Gamma:,Gamma :,Gamma:,,Gama:
@@ -2549,9 +2549,9 @@ lblAllItems,UI,Tooltip,KgNone,All Items,Tous les objets,Alle Gegenstände,,Todos
 lblCategoryAll,UI,Tooltip,KgNone,全部,All,Alle,,Todo
 lblCategoryAmmoWeapons,UI,Tooltip,KgNone,弾薬/武器,Ammo/Weapons,Munition/Waffen,,Munición/armas
 lblCategoryBasics,UI,Tooltip,KgNone,基本,Basics,Grundlagen,,Básico
-lblCategoryBooks,UI,Tooltip,KgNone,Books,Livres,Bücher,,Libros
+lblCategoryBooks,UI,Tooltip,KgNone,本,Books,Bücher,,Libros
 lblCategoryBuilding,UI,Tooltip,KgNone,建築,Building,Gebäude,,Construcción
-lblCategoryChemicals,UI,Tooltip,KgNone,Chemicals,Produits chimiques,Chemikalien,,Químicos
+lblCategoryChemicals,UI,Tooltip,KgNone,化学,Chemicals,Chemikalien,,Químicos
 lblCategoryClothing,UI,Tooltip,KgNone,衣類,Clothing,Kleidung,,Ropa
 lblCategoryCraftingMisc,UI,Tooltip,KgNone,工作/他,Crafting/Miscellaneous,Fertigung/Sonstiges,,Fabricación/Varios
 lblCategoryDecorMisc,UI,Tooltip,KgNone,装飾/他,Decor/Miscellaneous,Dekor/Verschiedenes,,Decoración/Varios
@@ -2716,7 +2716,7 @@ xuiAttributes,UI,XUI,KgNone,特性,ATTRIBUTES,ATTRIBUTE,,ATRIBUTOS
 xuiBasics,UI,XUI,KgNone,基本,BASICS,GRUNDLEGENDE WERTE,,BÁSICO
 xuiBuffStatCoreTemp,UI,XUI,KgNone,体感,Core Temp,Kerntemperatur,,Temperatura central
 xuiBuffStatDays,UI,XUI,KgNone,DAYS,JOURS,TAGE,,DÍAS
-xuiBuffStatDuration,UI,XUI,KgNone,Duration,Durée,Dauer,,Duración
+xuiBuffStatDuration,UI,XUI,KgNone,持続,Duration,Dauer,,Duración
 xuiBuffStatGassiness,UI,XUI,KgNone,Gassiness,Proportion de gaz,Aufgeblähtheit,,Gases
 xuiBuffStatHealth,UI,XUI,KgNone,体力,Health,Gesundheit,,Salud
 xuiBuffStatHours,UI,XUI,KgNone,HRS,HEURES,STD,,HORAS
@@ -2728,7 +2728,7 @@ xuiBuffStatModifierSetValueForSecondsInc,UI,XUI,KgNone,{0}: [DECEA3]increased by
 xuiBuffStatModifierSetValueInc,UI,XUI,KgNone,{0}: [DECEA3]increased by {1}%.[-],{0} : [DECEA3]augmentation de {1} %.[-],{0}: [DECEA3]um {1} % erhöht.[-],,{0}: [DECEA3]aumentado un {1} %.[-]
 xuiBuffStatModifierValueOT,UI,XUI,KgNone,{0}: [DECEA3]{1} every {2} second(s).[-],{0} : [DECEA3]{1} toutes les {2} seconde(s).[-],{0}: [DECEA3]{1} alle {2} Sekunde(n).[-],,{0}: [DECEA3]{1} cada {2} segundo(s).[-]
 xuiBuffStatModifierValueOTForSeconds,UI,XUI,KgNone,{0}: [DECEA3]{1} every {2} second(s) for {3}.[-],{0} : [DECEA3]{1} toutes les {2} seconde(s) pendant {3}.[-],{0}: [DECEA3]{1} alle {2} Sekunde(n) für {3}.[-],,{0}: [DECEA3]{1} cada {2} segundo(s) durante {3}.[-]
-xuiBuffStatMovementSpeed,UI,XUI,KgNone,Movement Speed,Vitesse de déplacement,Bewegungsgeschwindigkeit,,Velocidad de movimiento
+xuiBuffStatMovementSpeed,UI,XUI,KgNone,移動速度,Movement Speed,Bewegungsgeschwindigkeit,,Velocidad de movimiento
 xuiBuffStatSickness,UI,XUI,KgNone,Sickness,Maladie,Krankheit,,Enfermedad
 xuiBuffStatStamina,UI,XUI,KgNone,スタミナ,Stamina,Ausdauer,,Resistencia
 xuiBuffStatTimeLeft,UI,XUI,KgNone,Time Left,Temps restant,Verbleibende Zeit,,Tiempo restante
@@ -2741,19 +2741,19 @@ xuiDay,UI,XUI,KgNone,日付,JOUR,TAG,,DÍA
 xuiDayTime,UI,XUI,KgNone,日/時,DAY/TIME,TAG/ZEIT,,DÍA/HORA
 xuiDeaths,UI,XUI,KgNone,死亡数,DEATHS,TODE,,MUERTES
 xuiDecline,UI,XUI,KgNone,DECLINE,DÉCLIN,ABLEHNEN,,RECHAZAR
-xuiDefense,UI,XUI,KgNone,DEFENSE,DÉFENSE,VERTEIDIGUNG,,DEFENSA
+xuiDefense,UI,XUI,KgNone,防御,DEFENSE,VERTEIDIGUNG,,DEFENSA
 xuiDescriptionLabel,UI,XUI,KgNone,DESCRIPTION,DESCRIPTION,BESCHREIBUNG,,DESCRIPCIÓN
 xuiDescriptionNotAvailable,UI,XUI,KgNone,現時点において表示すべきものがありません。,DESCRIPTION NOT AVAILABLE AT THIS TIME.,ZURZEIT KEINE BESCHREIBUNG VERFÜGBAR.,,LA DESCRIPCIÓN NO ESTÁ DISPONIBLE EN ESTOS MOMENTOS.
-xuiDurability,UI,XUI,KgNone,DURABILITY,DURABILITÉ,HALTBARKEIT,,DURABILIDAD
+xuiDurability,UI,XUI,KgNone,耐久,DURABILITY,HALTBARKEIT,,DURABILIDAD
 xuiElevation,UI,XUI,KgNone,標高,ELEVATION,ERHÖHUNG,,ELEVACIÓN
 xuiEmptyInfoPanelText,UI,XUI,KgNone,[[ff6347]左クリック[-]]\n    選択したアイテム、レシピの詳細や効果を表示\n\n    押したままドラッグで同じアイテムをまとめる\n        インベントリ内でアイテムを移動\n        インベントリ外で捨てる\n\n[[ff6347]右クリック[-]]\n    インベントリ内で1つずつ配置\n    インベントリ外で1つずつ落とす\n\n    押したままドラッグで半分に分ける,"[LEFT CLICK] TO INSPECT AN ITEM, RECIPE OR ACTIVE EFFECT\n[LEFT CLICK] HOLD AND DRAG TO TAKE A STACK\n[LEFT CLICK] TO DROP OR SWAP A STACK\n[RIGHT CLICK] HOLD AND DRAG TO TAKE A HALF STACK\n[RIGHT CLICK] TO DROP ONE ITEM AT A TIME","[LINKS-KLICK], UM EINEN GEGENSTAND, EIN REZEPT ODER EINEN AKTIVEN EFFEKT GENAUER ANZUSEHEN\n[LINKS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN STAPEL ZU NEHMEN\n[LINKS-KLICK], UM EINEN STAPEL ABZULEGEN ODER AUSZUTAUSCHEN\n[RECHTS-KLICK], DANN HALTEN UND ZIEHEN, UM EINEN HALBEN STAPEL ZU NEHMEN\n[RECHTS-KLICK], UM GEGENSTÄNDE EINZELN ABZULEGEN",,"[CLIC IZQUIERDO] PARA INSPECCIONAR UN OBJETO, RECETA O EFECTO ACTIVO\n[CLIC IZQUIERDO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER UN MONTÓN\n[CLIC IZQUIERDO] PARA SOLTAR O CAMBIAR UN MONTÓN\n[CLIC DERECHO] MANTÉN PRESIONADO Y ARRASTRA PARA RECOGER MEDIO MONTÓN\n[CLIC DERECHO] PARA SOLTAR UN OBJETO DE UNO EN UNO."
-xuiEmptyVehicleStorage,UI,XUI,KgNone,ADD BASKET TO ACCESS STORAGE.,AJOUTEZ UN PANIER POUR ACCÉDER AU RANGEMENT.,"FÜGE EINEN KORB HINZU, UM AUF DEN LAGERRAUM ZUZUGREIFEN.",,AÑADE UN CESTO PARA ALMACENAMIENTO.
+xuiEmptyVehicleStorage,UI,XUI,KgNone,荷台に利用可能にするために、かご([00ff00]Shopping Basket[-])を追加できます。,ADD BASKET TO ACCESS STORAGE.,"FÜGE EINEN KORB HINZU, UM AUF DEN LAGERRAUM ZUZUGREIFEN.",,AÑADE UN CESTO PARA ALMACENAMIENTO.
 xuiEveryone,UI,XUI,KgNone,EVERYONE,TOUT LE MONDE,JEDER,,TODOS
 xuiExamine,UI,XUI,KgNone,EXAMINE,EXAMINER,UNTERSUCHEN,,INVESTIGAR
 xuiFeelsLike,UI,XUI,KgNone,体感,FEELS LIKE,FÜHLT SICH AN WIE,,PARECE
 xuiFood,UI,XUI,KgNone,食事,FOOD,NAHRUNG,,COMIDA
 xuiFuel,UI,XUI,KgNone,FUEL,CARBURANT,BRENNSTOFF,,COMBUSTIBLE
-xuiGas,UI,XUI,KgNone,GAS,ESSENCE,BENZIN,,GAS
+xuiGas,UI,XUI,KgNone,ガソリン,GAS,BENZIN,,GAS
 xuiInput,UI,XUI,KgNone,INPUT,ENTRÉE,INPUT,,ENTRADA
 xuiInspect,UI,XUI,KgNone,詳細,INSPECT,ANSEHEN,,INSPECCIONAR
 xuiInventory,UI,XUI,KgNone,インベントリ,INVENTORY,INVENTAR,,INVENTARIO
@@ -2767,28 +2767,28 @@ xuiKMTravelled,UI,XUI,KgNone,踏破距離,KM TRAVELED,ZURÜCKGELEGTE KM,,KM VIAJ
 xuiLevel,UI,XUI,KgNone,レベル,LEVEL,LEVEL,,NIVEL
 xuiLongestLife,UI,XUI,KgNone,生存時間,LONGEST LIFE,LÄNGSTES LEBEN,,VIDA MÁS LARGA
 xuiLoot,UI,XUI,KgNone,LOOT,BUTIN,BEUTE,,BOTÍN
-xuiLooting,UI,XUI,KgNone,LOOTING,EN COURS D'ACQUISITION DE BUTIN,PLÜNDERN,,SAQUEANDO
+xuiLooting,UI,XUI,KgNone,略奪中,LOOTING,PLÜNDERN,,SAQUEANDO
 xuiMap,UI,XUI,KgNone,地図,MAP,KARTE,,MAPA
 xuiMapDayTime,UI,XUI,KgNone,日目/時間,Day/Time,Tag/Zeit,,Día/Hora
 xuiMapStats,UI,XUI,KgNone,MAP STATS,STATS DE LA CARTE,KARTENSTATISTIK,,ESTADÍSTICAS DEL MAPA
-xuiMinibike,UI,XUI,KgNone,MINIBIKE,MINI-MOTO,TASCHENMOTORRAD,,MINIMOTO
-xuiMinibikeStorage,UI,XUI,KgNone,MINIBIKE STORAGE,RANGEMENT DE MINI-MOTO,LAGERRAUM FÜR TASCHENMOTORRAD,,ALMACENAMIENTO DE LA MINIMOTO
+xuiMinibike,UI,XUI,KgNone,ミニバイク,MINIBIKE,TASCHENMOTORRAD,,MINIMOTO
+xuiMinibikeStorage,UI,XUI,KgNone,荷台,MINIBIKE STORAGE,LAGERRAUM FÜR TASCHENMOTORRAD,,ALMACENAMIENTO DE LA MINIMOTO
 xuiNA,UI,XUI,KgNone,該当なし,N/A,–,,N/D
 xuiNextLevelRequirements,UI,XUI,KgNone,必須条件,REQUIREMENTS,VORAUSSETZUNGEN,,REQUISITOS
-xuiNoise,UI,XUI,KgNone,NOISE,BRUIT,GERÄUSCHE,,RUIDO
+xuiNoise,UI,XUI,KgNone,騒音,NOISE,GERÄUSCHE,,RUIDO
 xuiObjectives,UI,XUI,KgNone,目的,OBJECTIVES,ZIELE,,OBJETIVOS
 xuiObjectivesNotAvailable,UI,XUI,KgNone,OBJECTIVES NOT AVAILABLE AT THIS TIME.,LES OBJECTIFS NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,ZIELE DERZEIT NICHT VERFÜGBAR.,,LOS OBJETIVOS NO ESTÁN DISPONIBLES EN ESTOS MOMENTOS.
-xuiOutput,UI,XUI,KgNone,OUTPUT,SORTIE,OUTPUT,,RESULTADO
+xuiOutput,UI,XUI,KgNone,完成品,OUTPUT,OUTPUT,,RESULTADO
 xuiPing,UI,XUI,KgNone,PING,PING,PING,,PING
 xuiPlayerKills,UI,XUI,KgNone,殺人数,PLAYER KILLS,SPIELER-KILLS,,JUGADORES ASESINADOS
 xuiPlayers,UI,XUI,KgNone,プレイヤー,PLAYERS,SPIELER,,JUGADORES
 xuiPlayerStats,UI,XUI,KgNone,プレイヤー情報,PLAYER STATS,SPIELER-STATISTIK,,ESTADÍSTICAS DEL JUGADOR
 xuiPointsAvailable,UI,XUI,KgNone,利用可能なポイント,Point(s) Available,Verfügbare(r) Punkt(e),,Punto(s) disponible(s)
-xuiQuality,UI,XUI,KgNone,QUALITY,QUALITÉ,QUALITÄT,,CALIDAD
+xuiQuality,UI,XUI,KgNone,品質,QUALITY,QUALITÄT,,CALIDAD
 xuiQuests,UI,XUI,KgNone,クエスト,QUESTS,QUESTS,,MISIONES
 xuiQuickWaypoint,UI,XUI,KgNone,即席地点,QUICK WAYPOINT,SCHNELLER WEGPUNKT,,PUNTO DE REGRESO RÁPIDO
 xuiReceived,UI,XUI,KgNone,RECEIVED,REÇUS,ERHALTEN,,RECIBIDO
-xuiRefuel,UI,XUI,KgNone,REFUEL,RAVITAILLER,NACHTANKEN,,REPOSTAR
+xuiRefuel,UI,XUI,KgNone,燃料補給,REFUEL,NACHTANKEN,,REPOSTAR
 xuiRepair,UI,XUI,KgNone,修理,REPAIR,REPARIEREN,,REPARAR
 xuiRepairMissingMats,UI,XUI,KgNone,You do not have the required materials to repair this item.,Vous n'avez pas le matériel nécessaire pour réparer cet objet.,"Du hast nicht die erforderlichen Materialien, um diesen Gegenstand reparieren zu können.",,No tienes los materiales necesarios para reparar este objeto.
 xuiRepairMustReadBook,UI,XUI,KgNone,You must read the correct book or buy a perk to repair this item.,Vous devez lire le bon livre pour réparer cet objet.,"Du musst das richtige Buch lesen, um diesen Gegenstand reparieren zu können.",,Debes leer el libro adecuado para reparar este objeto.
@@ -2798,31 +2798,31 @@ xuiRewards,UI,XUI,KgNone,報酬,REWARDS,BELOHNUNGEN,,RECOMPENSAS
 xuiRewardsNotAvailable,UI,XUI,KgNone,REWARDS NOT AVAILABLE AT THIS TIME.,LES RÉCOMPENSES NE SONT PAS DISPONIBLES À L'HEURE ACTUELLE.,BELOHNUNGEN DERZEIT NICHT VERFÜGBAR.,,LAS RECOMPENSAS NO ESTÁ DISPONIBLES EN ESTOS MOMENTOS.
 xuiSaveWaypoint,UI,XUI,KgNone,保存地点,SAVE WAYPOINT,WEGPUNKT SPEICHERN,,GUARDAR PUNTO DE REGRESO
 xuiScore,UI,XUI,KgNone,評価,SCORE,PUNKTZAHL,,PUNTUACIÓN
-xuiSeats,UI,XUI,KgNone,SEATS,SIÈGES,SITZE,,ASIENTOS
+xuiSeats,UI,XUI,KgNone,座席,SEATS,SITZE,,ASIENTOS
 xuiSent,UI,XUI,KgNone,SENT,ENVOYÉS,VERSCHICKT,,ENVIADO
 xuiSharedWaypoints,UI,XUI,KgNone,共有地点,SHARED WAYPOINTS,GETEILTE WEGPUNKTE,,PUNTOS DE REGRESO COMPARTIDOS
 xuiSkillPerkName,UI,XUI,KgNone,スキル/パーク名,SKILL/PERK NAME,NAME DER FERTIGKEIT/DER EIGENSCHAFT,,NOMBRE DE HABILIDAD/BENEFICIO
 xuiSkillStatComingSoon,UI,XUI,KgNone,"COMING SOON PROFESSION, HOBBY AND MAIN STATS.","À VENIR : MÉTIER, HOBBY ET STATISTIQUES PRINCIPALES.","BALD: BERUF, HOBBY UND HAUPTSTATISTIK.",,"PRÓXIMAMENTE: PROFESIÓN, HOBBY Y ESTADÍSTICAS PRINCIPALES."
 xuiSkillStats,UI,XUI,KgNone,SKILL STATS,STATS DE LA COMPÉTENCE,FERTIGKEITEN-STATISTIK,,ESTADÍSTICAS DE HABILIDAD
-xuiSpeed,UI,XUI,KgNone,SPEED,VITESSE,GESCHWINDGKEIT,,VELOCIDAD
-xuiStats,UI,XUI,KgNone,STATS,STATS,STATISTIKEN,,ESTADÍSTICAS
+xuiSpeed,UI,XUI,KgNone,速度,SPEED,GESCHWINDGKEIT,,VELOCIDAD
+xuiStats,UI,XUI,KgNone,統計,STATS,STATISTIKEN,,ESTADÍSTICAS
 xuiStatus,UI,XUI,KgNone,状況,STATUS,STATUS,,ESTADO
 xuiSteamID,UI,XUI,KgNone,名前,STEAM ID,STEAM-ID,,ID DE STEAM
 xuiTakeAllKey,UI,XUI,KgNone,R',R,‚R‘,,R'
 xuiTime,UI,XUI,KgNone,時間,DURÉE,ZEIT,,TIEMPO
 xuiTip,UI,XUI,KgNone,TIP,ASTUCE,TIPP,,CONSEJO
-xuiTools,UI,XUI,KgNone,TOOLS,OUTILS,WERKZEUGE,,HERRAMIENTAS
+xuiTools,UI,XUI,KgNone,道具,TOOLS,WERKZEUGE,,HERRAMIENTAS
 xuiTrack,UI,XUI,KgNone,追跡,TRACK,VERFOLGEN,,PISTA
-xuiTurnOff,UI,XUI,KgNone,TURN OFF,DÉSACTIVER,AUSSCHALTEN,,DESACTIVAR
-xuiTurnOn,UI,XUI,KgNone,TURN ON,ACTIVER,EINSCHALTEN,,ACTIVAR
+xuiTurnOff,UI,XUI,KgNone,切電,TURN OFF,AUSSCHALTEN,,DESACTIVAR
+xuiTurnOn,UI,XUI,KgNone,通電,TURN ON,EINSCHALTEN,,ACTIVAR
 xuiType,UI,XUI,KgNone,タイプ,TYPE,ART,,TIPO
-xuiVehicleNoiseLoud,UI,XUI,KgNone,LOUD,FORT,LAUT,,ALTO
-xuiVehicleNoiseModerate,UI,XUI,KgNone,MODERATE,MODÉRÉ,MODERAT,,MODERADO
-xuiVehicleNoiseSoft,UI,XUI,KgNone,SOFT,FAIBLE,SANFT,,SUAVE
-xuiVehicleSpeedFast,UI,XUI,KgNone,FAST,RAPIDE,SCHNELL,,RÁPIDO
-xuiVehicleSpeedNone,UI,XUI,KgNone,NONE,AUCUN,KEINE,,NADA
-xuiVehicleSpeedNormal,UI,XUI,KgNone,NORMAL,NORMAL,NORMAL,,NORMAL
-xuiVehicleSpeedSlow,UI,XUI,KgNone,SLOW,LENT,LANGSAM,,LENTO
+xuiVehicleNoiseLoud,UI,XUI,KgNone,煩い,LOUD,LAUT,,ALTO
+xuiVehicleNoiseModerate,UI,XUI,KgNone,普通,MODERATE,MODERAT,,MODERADO
+xuiVehicleNoiseSoft,UI,XUI,KgNone,控えめ,SOFT,SANFT,,SUAVE
+xuiVehicleSpeedFast,UI,XUI,KgNone,速い,FAST,SCHNELL,,RÁPIDO
+xuiVehicleSpeedNone,UI,XUI,KgNone,故障,AUCUN,KEINE,,NADA
+xuiVehicleSpeedNormal,UI,XUI,KgNone,普通,NORMAL,NORMAL,,NORMAL
+xuiVehicleSpeedSlow,UI,XUI,KgNone,遅い,SLOW,LANGSAM,,LENTO
 xuiVoice,UI,XUI,KgNone,発話,VOICE,STIMME,,VOZ
 xuiWater,UI,XUI,KgNone,水分,WATER,WASSER,,AGUA
 xuiWaypoints,UI,XUI,KgNone,地点,WAYPOINTS,WEGPUNKTE,,PUNTOS DE REGRESO
@@ -3620,7 +3620,7 @@ cntLootCrateConstructionSupplies,blocks,Container,New,Construction Site Box,,Bau
 cntMorticianDrawer,blocks,Container,New,Mortician's Drawer,,Leichenhallen-Schrank,,
 cntShippingCrateBookstore,blocks,Container,New,Bookstore Shipping Crate,,Buchhandlungs-Frachtkiste,,
 cntShippingCrateCarParts,blocks,Container,New,Car Parts Shipping Crate,,Autoteile-Frachtkiste,,
-cntShippingCrateCarPartsDesc,blocks,Container,New,クリエイティブ: 小型バイクの部品と車庫にありそうな部品が荷詰めされています。,CREATIVE: Minibike parts and parts likely shipped to a car garage.,,,
+cntShippingCrateCarPartsDesc,blocks,Container,New,クリエイティブ: ミニバイクの部品と車庫にありそうな部品が荷詰めされています。,CREATIVE: Minibike parts and parts likely shipped to a car garage.,,,
 cntShippingCrateConstructionSupplies,blocks,Container,New,Random Construction Shipping Crate,,Baustellen-Frachtkiste,,
 cntShippingCrateGroupDesc,blocks,Container,New,クリエイティブ: 荷詰めされている輸送用コンテナ・・・何かが入っている。,CREATIVE: A shipping crate containing... something.,,,
 cntStorageGeneric,blocks,Container,New,Storage Box,,Lagerkiste,,
@@ -3739,18 +3739,18 @@ snowberryWarmingTooltip,buffs,Buff,New,The cold has lost some sting.,,,,
 trapDamage1EffectDesc,buffs,Buff,New,罠からダメージを受けています。すぐに離れてください！,You are taking damage from a trap. Move away!,,,
 trapDamage1EffectName,buffs,Buff,New,罠,Trap Damage,,,
 trapDamage1EffectTooltip,buffs,Buff,New,You are taking trap damage!,,,,
-entitycommand_drive,entities,Radial,New,Drive,,Fahren,,
-entitycommand_horn,entities,Radial,New,Honk horn,,Hupe betätigen,,
-entitycommand_keypad,entities,Radial,New,Enter code,,Code eingeben,,
-entitycommand_lock,entities,Radial,New,Lock,,Abschließen,,
-entitycommand_refuel,entities,Radial,New,Refuel,,Auftanken,,
+entitycommand_drive,entities,Radial,New,運転,Drive,Fahren,,
+entitycommand_horn,entities,Radial,New,警笛を鳴らす,Honk horn,Hupe betätigen,,
+entitycommand_keypad,entities,Radial,New,暗証番号の入力,Enter code,Code eingeben,,
+entitycommand_lock,entities,Radial,New,施錠,Lock,Abschließen,,
+entitycommand_refuel,entities,Radial,New,燃料補給,Refuel,Auftanken,,
 entitycommand_repair,entities,Radial,New,修理,Repair,Reparieren,,
 entitycommand_Search,entities,Radial,New,Search,,Durchsuchen,,
-entitycommand_service,entities,Radial,New,Open,,Öffnen,,
+entitycommand_service,entities,Radial,New,開く,Open,Öffnen,,
 entitycommand_take,entities,Radial,New,Take,,Aufnehmen,,
 entitycommand_talk,entities,Radial,New,Talk,,Reden,,
 entitycommand_trade,entities,Radial,New,Trade,,Handeln,,
-entitycommand_unlock,entities,Radial,New,Unlock,,Aufschließen,,
+entitycommand_unlock,entities,Radial,New,解錠,Unlock,Aufschließen,,
 npcBanditMelee,entityclasses,Entity,New,Melee Bandit,,,,
 npcBanditRanged,entityclasses,Entity,New,Ranged Bandit,,,,
 npcSurvivorRanged,entityclasses,Entity,New,Survivor,,,,
@@ -4167,7 +4167,7 @@ lblContextActionMix,UI,Item Context Menu,New,Mix,,,,
 lblContextActionPrice,UI,Item Context Menu,New,Price ({0}%),,,,
 lblContextActionRent,UI,Item Context Menu,New,Rent,,,,
 lblContextActionReset,UI,Item Context Menu,New,Reset,,,,
-lblContextActionSell,UI,Item Context Menu,New,Sell,,,,
+lblContextActionSell,UI,Item Context Menu,New,売る,Sell,,,
 lblAttributeElectricalProtection,UI,Item Info,New,耐電気,Electrical,Elektrizität,,
 lblAttributeMaterialGroup,UI,Item Info,New,外観の分類,Material Group,,,
 lblBasePrice,UI,Item Info,New,基本価格,Base Price,,,
@@ -4195,16 +4195,16 @@ lblUMATextureQuality,UI,Menu,New,UMA Texture Quality,,,,
 lblWaterParticleLimiter,UI,Menu,New,Water Particles:,,,,
 useSwitchLightOff,UI,Menu,New,<{0}> Switch light off,,,,
 useSwitchLightOn,UI,Menu,New,<{0}> Switch light on,,,,
-xuiBuyPrice,UI,Menu,New,Buy Price,,,,
+xuiBuyPrice,UI,Menu,New,購入価格,Buy Price,,,
 xuiEmptyVendingMachine,UI,Menu,New,Empty Vending Machine,,,,
 xuiGameDays,UI,Menu,New,Game Day(s),,,,
 xuiGameTime,UI,Menu,New,Game Time,,,,
-xuiGeneralStock,UI,Menu,New,General Stock,,,,
+xuiGeneralStock,UI,Menu,New,通常在庫,General Stock,,,
 xuiNoSellPrice,UI,Menu,New,No Sell Price,,,,
-xuiProductName,UI,Menu,New,Product Name,,,,
+xuiProductName,UI,Menu,New,商品名,Product Name,,,
 xuiRealTime,UI,Menu,New,Real Time,,,,
-xuiRestock,UI,Menu,New,Restock,,,,
-xuiSecretStash,UI,Menu,New,Secret Stash,,,,
+xuiRestock,UI,Menu,New,補充,Restock,,,
+xuiSecretStash,UI,Menu,New,秘密の隠し金庫,Secret Stash,,,
 xuiSellPrice,UI,Menu,New,販売価格:,Sell Price:,,,
 xuiSkillLockPickChance,UI,Menu,New,Lock Pick Chance,,,,
 xuiVendingWithOwner,UI,Menu,New,Vending Machine - {0},,,,
@@ -4212,7 +4212,7 @@ lblShowPassword,UI,Password Dialog,New,Show Password,,,,
 browserBloodMoonEnemyCount,UI,Server Browser,New,Blood Moon Count,,,,
 lblCategoryPainting,UI,Tooltip,New,塗装,Painting,,,
 lblCategoryScience,UI,Tooltip,New,科学,Science,,,
-lblCategorySecretStash,UI,Tooltip,New,Secret Stash,,,,
+lblCategorySecretStash,UI,Tooltip,New,秘密の隠し金庫,Secret Stash,,,
 lblCategorySpecialItems,UI,Tooltip,New,Special Items,,,,
 lblSortContainer,UI,Tooltip,New,並び替え,Sort Container,,,
 lblSortInventory,UI,Tooltip,New,並び替え,Sort Inventory,,,
@@ -4252,10 +4252,10 @@ xuiJournal,UI,XUI,New,記録,JOURNAL,,,
 xuiLevelTools,UI,XUI,New,Level Tools,,,,
 xuiMaterialGroup,UI,XUI,New,GROUP,,,,
 xuiMaterials,UI,XUI,New,MATERIALS,,,,
-xuiMaxOutput,UI,XUI,New,MAX OUTPUT,,,,
+xuiMaxOutput,UI,XUI,New,最大出力,MAX OUTPUT,,,
 xuiPaintCost,UI,XUI,New,PAINT COST,,,,
 xuiPlayerLevel,UI,XUI,New,プレイヤーレベル,Player Level,,,
-xuiPower,UI,XUI,New,POWER,,,,
+xuiPower,UI,XUI,New,出力,POWER,,,
 xuiPrefabList,UI,XUI,New,Prefab Tools,,,,
 xuiResult,UI,XUI,New,RESULT,,,,
 xuiSkillBartering,UI,XUI,New,価格改定,Price Modifier,,,
@@ -4263,7 +4263,7 @@ xuiSkillCurrentLevel,UI,XUI,New,現在のレベル:,Current Level:,,,
 xuiSkills,UI,XUI,New,スキル,SKILLS,,,
 xuiSkillSecretStash,UI,XUI,New,ボーナスレベル,Bonus Level,,,
 xuiSkillSelectedLevel,UI,XUI,New,選択中のレベル:,Selected Level:,,,
-xuiSlots,UI,XUI,New,SLOTS,,,,
+xuiSlots,UI,XUI,New,スロット,SLOTS,,,
 xuiStartTime,UI,XUI,New,開始時間,START TIME,,,
 xuiTrader,UI,XUI,New,TRADER,,,,
 xuiVending,UI,XUI,New,VENDING,,,,
