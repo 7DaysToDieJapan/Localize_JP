@@ -1109,22 +1109,22 @@ animalStag,entityclasses,Entity,KgNone,牡鹿,Stag,Hirsch,,Ciervo
 animalZombieDog,entityclasses,Entity,KgNone,ゾンビ犬,Zombie Dog,Zombie-Hund,,Perro zombi
 sc_General,entityclasses,Entity,KgNone,Supply Crate,Caisse de provisions,Vorratskiste,,Caja de suministros
 zombieArlene,entityclasses,Entity,KgNone,Putrid Girl,Fille putride,Verfaultes Mädchen,,Niña putrefacta
-zombieBoe,entityclasses,Entity,KgNone,感染した生存者ゾンビ,Infected Survivor,Infizierter Überlebender,,Sobreviviente infectado
-zombieBurnt,entityclasses,Entity,KgNone,焦げた遭難者ゾンビ,Burn Victim,Brandopfer,,Víctima quemada
-zombieDarlene,entityclasses,Entity,KgNone,朽ちた母親ゾンビ,Decayed Mother,Verweste Mutter,,Madre podrida
-zombieFatCop,entityclasses,Entity,KgNone,感染した警官ゾンビ,Infected Policeman,Infizierter Polizist,,Policía infectado
-zombieJoe,entityclasses,Entity,KgNone,腐敗した死体ゾンビ,Festering Cadaver,Eitrige Leiche,,Cadáver descompuesto
-zombieMarlene,entityclasses,Entity,KgNone,死んだ女ゾンビ,Departed Woman,Verstorbene Frau,,Mujer difunta
-zombieMoe,entityclasses,Entity,KgNone,太り過ぎて歩くゾンビ,Bloated Walker,Aufgedunsener Streuner,,Caminante hinchado
-zombieNurse,entityclasses,Entity,KgNone,悩む看護婦ゾンビ,Plagued Nurse,Verseuchte Krankenschwester,,Enfermera infestada
-zombieScreamer,entityclasses,Entity,KgNone,金切り声ゾンビ,Screamer Zombie,Schreier-Zombie,,Zombi gritón
-zombieSnow,entityclasses,Entity,KgNone,凍った木こりゾンビ,Frozen Lumberjack,Erfrorener Holzfäller,,Leñador congelado
-zombieSpider,entityclasses,Entity,KgNone,蜘蛛ゾンビ,Spider Zombie,Spinnen-Zombie,,Araña zombi
-zombieSteve,entityclasses,Entity,KgNone,復活した死骸ゾンビ,Reanimated Corpse,Wiederbelebte Leiche,,Cadáver reanimado
-zombieSteveCrawler,entityclasses,Entity,KgNone,這いずりゾンビ,Crawler,Kriecher,,Oruga
+zombieBoe,entityclasses,Entity,KgNone,感染した生存者,Infected Survivor,Infizierter Überlebender,,Sobreviviente infectado
+zombieBurnt,entityclasses,Entity,KgNone,焼け焦げた遭難者,Burn Victim,Brandopfer,,Víctima quemada
+zombieDarlene,entityclasses,Entity,KgNone,朽ち果てた母親,Decayed Mother,Verweste Mutter,,Madre podrida
+zombieFatCop,entityclasses,Entity,KgNone,感染した警官,Infected Policeman,Infizierter Polizist,,Policía infectado
+zombieJoe,entityclasses,Entity,KgNone,腐敗した死体,Festering Cadaver,Eitrige Leiche,,Cadáver descompuesto
+zombieMarlene,entityclasses,Entity,KgNone,死んだ女,Departed Woman,Verstorbene Frau,,Mujer difunta
+zombieMoe,entityclasses,Entity,KgNone,太り過ぎた男,Bloated Walker,Aufgedunsener Streuner,,Caminante hinchado
+zombieNurse,entityclasses,Entity,KgNone,悩む看護婦,Plagued Nurse,Verseuchte Krankenschwester,,Enfermera infestada
+zombieScreamer,entityclasses,Entity,KgNone,金切り声の女,Screamer Zombie,Schreier-Zombie,,Zombi gritón
+zombieSnow,entityclasses,Entity,KgNone,凍った木こり,Frozen Lumberjack,Erfrorener Holzfäller,,Leñador congelado
+zombieSpider,entityclasses,Entity,KgNone,蜘蛛男,Spider Zombie,Spinnen-Zombie,,Araña zombi
+zombieSteve,entityclasses,Entity,KgNone,復活した死骸,Reanimated Corpse,Wiederbelebte Leiche,,Cadáver reanimado
+zombieSteveCrawler,entityclasses,Entity,KgNone,這いずり男,Crawler,Kriecher,,Oruga
 zombieWightFeral,entityclasses,Entity,KgNone,野生化した超常体,Feral Wight,Wilder Streuner,,Caminante salvaje
 zombieYo,entityclasses,Entity,KgNone,腐った死骸ゾンビ,Rotting Carcass,Verrottender Kadaver,,Cuerpo podrido
-animalZombieVulture,entityclasses,Entity,New,Zombie Vulture,,,,
+animalZombieVulture,entityclasses,Entity,New,ゾンビハゲタカ,Zombie Vulture,,,
 playersBackpack,entityclasses,Entity Info,KgNone,{0}'s backpack,Sac à dos de {0},Rucksack von {0},,La mochila de {0}
 44MagBullet,items,Ammo,EnChanged,.44 Magnum Round (Ammo),Cartouches de .44 magnum,.44 Magnum Patrone (Mun),,Balas para Magnum 44
 44MagBulletDesc,items,Ammo,KgNone,銃器の弾薬として使用される.44マグナム弾です。あなたが一度パークを購入した後で作成することができます。,A .44 Magnum round used as firearm ammunition. Can be crafted once you've purchased the perk.,"Eine .44 Magnum Patrone, die als Munition für Schusswaffen dient. Kann gefertigt werden, nachdem du die Fertigkeit erworben hast.",,Balas de Mágnum de 0.44 usadas como munición de arma de fuego. Puedes fabricarlas una vez que hayas comprado el beneficio.
