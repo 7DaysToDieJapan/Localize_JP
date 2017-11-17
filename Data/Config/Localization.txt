@@ -1394,7 +1394,7 @@ chrysanthemum,items,Farming,KgNone,Chrysanthemum,Chrysanthème,Chrysantheme,,Cri
 chrysanthemumDesc,items,Farming,KgNone,Chrysanthemum can be used to brew red tea.,Les chrysanthèmes servent à préparer du thé rouge.,"Chrysantheme kann benutzt werden, um roten Tee zu brauen.",,Se pueden usar los crisantemos para hacer té rojo.
 coffeeBeans,items,Farming,KgNone,Coffee Beans,Grains de café,Kaffeebohnen,,Granos de café
 corn,items,Farming,KgNone,Ear of Corn,Épi de maïs,Maiskolben,,Mazorca de maíz
-cornDesc,items,Farming,KgNone,"An ear of corn can be eaten or used to make corn seed, corn meal, corn on the cob, stews and more.","Un épi de maïs peut être consommé ou utilisé pour obtenir des graines de maïs, faire de la farine de maïs, un épi de maïs doux, des ragoûts et bien plus.","Maiskolben können gegessen werden. Durch sie kann man auch Maissamen, Maismehl, gekochte Maiskolben und Eintöpfe erhalten.",,"La mazorca de maíz se puede comer o usarse para obtener semillas de maíz, hacer harina, obtener mazorcas, estofarlo, etc."
+cornDesc,items,Farming,KgNone,とうもろこしの実を食べたり、種、粉末、茹でとうもろこし、シチューなどを作るために使うことができます。,"An ear of corn can be eaten or used to make corn seed, corn meal, corn on the cob, stews and more.","Maiskolben können gegessen werden. Durch sie kann man auch Maissamen, Maismehl, gekochte Maiskolben und Eintöpfe erhalten.",,"La mazorca de maíz se puede comer o usarse para obtener semillas de maíz, hacer harina, obtener mazorcas, estofarlo, etc."
 cornSeed,items,Farming,KgNone,Corn Seed,Graine de maïs,Maissamen,,Semilla de maíz
 cottonSeed,items,Farming,KgNone,Cotton Seed,Graine de coton,Baumwollsamen,,Semilla de algodón
 goldenrodSeed,items,Farming,KgNone,Goldenrod Seed,Graine de gerbe d'or,Goldrutensamen,,Semilla de vara de oro
@@ -3897,7 +3897,7 @@ silverNugget,items,Item,New,Silver Nugget,,Silbernugget,,
 snowBall,items,Item,New,Snowball,,,,
 snowBallDesc,items,Item,New,"You know what to do! Turn it into first rate drinking water over a campfire, of course.",,,,
 snowberryExtract,items,Item,New,Snowberry Extract,,,,
-snowberryExtractDesc,items,Item,New,Even it's side effects have side effects. May be useful in smaller doses.,,,,
+snowberryExtractDesc,items,Item,New,副作用にさらに副作用が重ねてられています。より少ない量で有用かもしれません。,Even it's side effects have side effects. May be useful in smaller doses.,,,
 steelPolish,items,Item,New,Reinforced Steel Upgrade,,,,
 steelPolishDesc,items,Item,New,This is used to further upgrade steel walls and increasing explosion resistence.,,,,
 bluePill,items,Medical,New,Blue Pill,,,,
