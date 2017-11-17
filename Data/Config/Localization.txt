@@ -1462,7 +1462,7 @@ coffeeDesc,items,Food,KgNone,"Coffee gives you energy, keeps your stamina up and
 cornBread,items,Food,KgNone,Corn Bread,Pain de maïs,Maisbrot,,Pan de maíz
 cornBreadDesc,items,Food,KgNone,A piece of corn bread can fill you up and improve your wellness.,Un morceau de pain de maïs vous remplit l'estomac et améliore votre bien-être.,Ein Stück Maisbrot füllt deinen Bauch und verbessert dein Wohlbefinden.,,Un trozo de pan de maíz te saciará y mejorará tu bienestar.
 cornMeal,items,Food,KgNone,Corn Meal,Farine de maïs,Maismehl,,Harina de maíz
-cornMealDesc,items,Food,KgNone,Corn meal is used in several recipes at the campfire.,La farine de maïs est utilisée pour plusieurs compositions au feu de camp.,Maismehl kann für verschiedene Rezepte am Lagerfeuer benutzt werden.,,La harina de maíz se usa en varias recetas en la fogata.
+cornMealDesc,items,Food,KgNone,とうもろこしの粉はキャンプファイヤーでいくつかのレシピで使われます。,Corn meal is used in several recipes at the campfire.,Maismehl kann für verschiedene Rezepte am Lagerfeuer benutzt werden.,,La harina de maíz se usa en varias recetas en la fogata.
 cornOnTheCob,items,Food,KgNone,Corn on the Cob,Épi de maïs doux,Gekochter Maiskolben,,Mazorca de maíz
 cornOnTheCobDesc,items,Food,KgNone,Corn on the cob can fill you up and up your wellness.,L'épi de maïs doux vous remplit l'estomac et améliore votre bien-être.,Gekochte Maiskolben machen satt und verbessern dein Wohlbefinden.,,Una mazorca de maíz te saciará y mejorará tu bienestar.
 egg,items,Food,KgNone,Egg,Œuf,Ei,,Huevo
